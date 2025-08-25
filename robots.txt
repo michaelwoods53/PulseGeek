@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://pulsegeek.com/sitemap.xml
+Sitemap: https://michaelwoods53.github.io/PulseGeek/sitemap.xml
