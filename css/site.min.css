@@ -1,0 +1,80 @@
+.tree details {
+    margin: .25rem 0 .25rem 1rem;
+    position: relative;
+}
+
+    
+    .tree details::before {
+        content: "";
+        position: absolute;
+        left: -.55rem;
+        top: 1.1rem;
+        bottom: .2rem;
+        width: 1px;
+        background: #d0d0d0;
+    }
+
+    
+    .tree details summary::before {
+        content: "";
+        position: absolute;
+        left: -1rem;
+        top: 1.08rem;
+        width: .45rem;
+        height: 1px;
+        background: #d0d0d0;
+    }
+
+
+.tree summary {
+    list-style: none;
+    cursor: pointer;
+    padding-left: .3rem;
+}
+
+    .tree summary::-webkit-details-marker {
+        display: none;
+    }
+
+    .tree summary::after {
+        content: "▶";
+        display: inline-block;
+        font-size: .7rem;
+        margin-left: .3rem;
+        transform: rotate(0deg);
+        transition: transform .2s ease;
+        color: #777;
+    }
+
+.tree details[open] > summary::after {
+    transform: rotate(90deg);
+}
+
+
+.tree > details::before,
+.tree > details summary::before {
+    display: none;
+}
+
+ node styling ** badges ** ─── mobile-first fixes for the sitemap tree ───────────────────────── ** 1) kill the vertical + horizontal rails ** 2) responsive left indent using clamp:
+        min 0.5rem · ideal 2vw · max 1rem per level            ** 3) wrap long titles & keep badges on next line if needed ** allow wrap ** break long words ** 4) shrink chevron size a bit on small screens ** — share buttons — */
+.share-buttons {
+    display: inline-flex;
+    flex-wrap: wrap;
+    gap: .4rem;
+    align-items: center;
+    margin: 2rem 0;
+    font-size: .85rem;
+}
+
+    .share-buttons .share-btn {
+        border: 1px solid #d0d0d0;
+        border-radius: .25rem;
+        padding: .15rem .4rem;
+        text-decoration: none;
+        color: inherit;
+    }
+
+        .share-buttons .share-btn:hover {
+            background: #f4f4f4;
+        }

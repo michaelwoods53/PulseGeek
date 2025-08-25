@@ -1,0 +1,160 @@
+﻿/* ─────────── tree view ─────────── */
+
+.tree details {
+    margin: .25rem 0 .25rem 1rem;
+    position: relative;
+}
+
+    /* vertical connector */
+    .tree details::before {
+        content: "";
+        position: absolute;
+        left: -.55rem;
+        top: 1.1rem;
+        bottom: .2rem;
+        width: 1px;
+        background: #d0d0d0;
+    }
+
+    /* horizontal connector */
+    .tree details summary::before {
+        content: "";
+        position: absolute;
+        left: -1rem;
+        top: 1.08rem;
+        width: .45rem;
+        height: 1px;
+        background: #d0d0d0;
+    }
+
+/* chevron */
+.tree summary {
+    list-style: none;
+    cursor: pointer;
+    padding-left: .3rem;
+}
+
+    .tree summary::-webkit-details-marker {
+        display: none;
+    }
+
+    .tree summary::after {
+        content: "▶";
+        display: inline-block;
+        font-size: .7rem;
+        margin-left: .3rem;
+        transform: rotate(0deg);
+        transition: transform .2s ease;
+        color: #777;
+    }
+
+.tree details[open] > summary::after {
+    transform: rotate(90deg);
+}
+
+/* remove left rail for root level */
+.tree > details::before,
+.tree > details summary::before {
+    display: none;
+}
+
+/* link / node styling */
+.node {
+    text-decoration: none;
+    color: inherit;
+}
+
+    .node:hover {
+        text-decoration: underline;
+    }
+
+/* badges */
+.badge {
+    font-size: .7rem;
+    padding: .1rem .4rem;
+    border-radius: .35rem;
+    margin-left: .4rem;
+    white-space: nowrap;
+}
+
+    .badge.pill {
+        background: #00e28f22;
+        border: 1px solid #00e28f;
+        color: #006c4b;
+    }
+
+    .badge.cluster {
+        background: #1181ff22;
+        border: 1px solid #1181ff;
+        color: #15599e;
+    }
+
+    .badge.support {
+        background: #9992;
+        border: 1px solid #bbb5;
+        color: #666;
+    }
+/* ─── mobile-first fixes for the sitemap tree ───────────────────────── */
+
+@media (max-width: 640px) {
+
+    /* 1) kill the vertical + horizontal rails */
+    .tree details::before,
+    .tree details summary::before {
+        display: none;
+    }
+
+    /* 2) responsive left indent using clamp:
+        min 0.5rem · ideal 2vw · max 1rem per level            */
+    .tree details {
+        margin-left: clamp(.5rem, 2vw, 1rem);
+    }
+
+    .indent {
+        margin-left: clamp(.5rem, 2vw, 1rem);
+    }
+
+    .indent-2 {
+        margin-left: clamp(.75rem, 3vw, 1.25rem);
+    }
+
+    /* 3) wrap long titles & keep badges on next line if needed */
+    .tree summary,
+    .tree .node {
+        white-space: normal; /* allow wrap */
+        overflow-wrap: anywhere; /* break long words */
+    }
+
+    .badge {
+        margin-top: .2rem;
+        display: inline-block;
+    }
+
+    /* 4) shrink chevron size a bit on small screens */
+    .tree summary::after {
+        font-size: .6rem;
+        margin-left: .2rem;
+    }
+}
+/* — share buttons — */
+.share-buttons {
+    display: inline-flex;
+    flex-wrap: wrap;
+    gap: .4rem;
+    align-items: center;
+    margin: 2rem 0;
+    font-size: .85rem;
+}
+
+    .share-buttons .share-btn {
+        border: 1px solid #d0d0d0;
+        border-radius: .25rem;
+        padding: .15rem .4rem;
+        text-decoration: none;
+        color: inherit;
+    }
+
+        .share-buttons .share-btn:hover {
+            background: #f4f4f4;
+        }
+

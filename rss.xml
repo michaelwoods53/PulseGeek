@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="utf-16"?>
+<rss version="2.0">
+  <channel>
+    <title>PulseGeek</title>
+    <link>https://pulsegeek.com</link>
+    <description>Tech news, gaming, and geek culture in one pulse</description>
+    <language>en-us</language>
+    <generator>AppHoard Blogger StaticSiteBuilder</generator>
+    <item>
+      <title>SAIDI/SAIFI Reliability Improvement Roadmap: High‑Impact Projects and Metrics</title>
+      <link>https://pulsegeek.com/articles/saidi-saifi-reliability-improvement-roadmap-high-impact-projects-and-metrics/</link>
+      <guid>https://pulsegeek.com/articles/saidi-saifi-reliability-improvement-roadmap-high-impact-projects-and-metrics/</guid>
+      <pubDate>Thu, 21 Aug 2025 06:58:11 GMT</pubDate>
+      <description>A focused roadmap to improve SAIDI and SAIFI with data governance, grid‑edge automation, and cybersecurity, plus metrics that drive dependable gains.</description>
+    </item>
+    <item>
+      <title>Open‑Source vs Commercial Interoperability Testing Tools for Smart Grids</title>
+      <link>https://pulsegeek.com/articles/open-source-vs-commercial-interoperability-testing-tools-for-smart-grids/</link>
+      <guid>https://pulsegeek.com/articles/open-source-vs-commercial-interoperability-testing-tools-for-smart-grids/</guid>
+      <pubDate>Thu, 21 Aug 2025 06:58:11 GMT</pubDate>
+      <description>Compare open-source vs commercial interoperability testing tools for smart grids. Evaluate cost, coverage, security, and fit for OT and IT teams.</description>
+    </item>
+    <item>
+      <title>Security Controls for IEC 61850 Substations: A Defense‑in‑Depth Checklist</title>
+      <link>https://pulsegeek.com/articles/security-controls-for-iec-61850-substations-a-defense-in-depth-checklist/</link>
+      <guid>https://pulsegeek.com/articles/security-controls-for-iec-61850-substations-a-defense-in-depth-checklist/</guid>
+      <pubDate>Thu, 21 Aug 2025 06:58:11 GMT</pubDate>
+      <description>A practical, defense-in-depth checklist of security controls for IEC 61850 substations, spanning segmentation, identity, monitoring, and resilience.</description>
+    </item>
+    <item>
+      <title>Grid‑Edge Analytics for Outage Management: Top Techniques and Tools</title>
+      <link>https://pulsegeek.com/articles/grid-edge-analytics-for-outage-management-top-techniques-and-tools/</link>
+      <guid>https://pulsegeek.com/articles/grid-edge-analytics-for-outage-management-top-techniques-and-tools/</guid>
+      <pubDate>Thu, 21 Aug 2025 06:58:11 GMT</pubDate>
+      <description>Top techniques and tools for grid‑edge analytics that accelerate outage detection, localization, and restoration while improving reliability and security.</description>
+    </item>
+    <item>
+      <title>Synchrophasor (PMU) Data for Distribution Visibility: Use Cases and Integration Patterns</title>
+      <link>https://pulsegeek.com/articles/synchrophasor-pmu-data-for-distribution-visibility-use-cases-and-integration-patterns/</link>
+      <guid>https://pulsegeek.com/articles/synchrophasor-pmu-data-for-distribution-visibility-use-cases-and-integration-patterns/</guid>
+      <pubDate>Thu, 21 Aug 2025 06:58:11 GMT</pubDate>
+      <description>Learn how PMU synchrophasors unlock distribution visibility, key use cases, and secure integration patterns across OT and IT systems.</description>
+    </item>
+    <item>
+      <title>Data Governance for Utility OT/IT Convergence: Models, Security, and Interoperability</title>
+      <link>https://pulsegeek.com/articles/data-governance-for-utility-ot-it-convergence-models-security-and-interoperability/</link>
+      <guid>https://pulsegeek.com/articles/data-governance-for-utility-ot-it-convergence-models-security-and-interoperability/</guid>
+      <pubDate>Thu, 21 Aug 2025 06:58:11 GMT</pubDate>
+      <description>A practical guide to utility OT/IT data governance covering models, security, interoperability, and reliability with actionable frameworks and real examples.</description>
+    </item>
+    <item>
+      <title>How Does Bidirectional Charging Work? Power Flow, Converters, and Use Cases</title>
+      <link>https://pulsegeek.com/articles/how-does-bidirectional-charging-work-power-flow-converters-and-use-cases/</link>
+      <guid>https://pulsegeek.com/articles/how-does-bidirectional-charging-work-power-flow-converters-and-use-cases/</guid>
+      <pubDate>Thu, 21 Aug 2025 06:58:11 GMT</pubDate>
+      <description>Understand bidirectional charging: power flow, converters, controls, and real use cases across homes, fleets, and the grid.</description>
+    </item>
+    <item>
+      <title>V2G Aggregator Business Models: Revenue Stacks and Regulatory Paths</title>
+      <link>https://pulsegeek.com/articles/v2g-aggregator-business-models-revenue-stacks-and-regulatory-paths/</link>
+      <guid>https://pulsegeek.com/articles/v2g-aggregator-business-models-revenue-stacks-and-regulatory-paths/</guid>
+      <pubDate>Thu, 21 Aug 2025 06:58:11 GMT</pubDate>
+      <description>Explore V2G aggregator business models, revenue stacks, and regulatory paths with actionable steps, standards context, and real project lessons.</description>
+    </item>
+    <item>
+      <title>How to Plan V2G Interconnection for Utilities: Protection, Metering, and Tariffs</title>
+      <link>https://pulsegeek.com/articles/how-to-plan-v2g-interconnection-for-utilities-protection-metering-and-tariffs/</link>
+      <guid>https://pulsegeek.com/articles/how-to-plan-v2g-interconnection-for-utilities-protection-metering-and-tariffs/</guid>
+      <pubDate>Thu, 21 Aug 2025 06:58:11 GMT</pubDate>
+      <description>Step-by-step V2G interconnection planning for utilities covering standards, protection, metering, and tariff design with field tips and pilot lessons.</description>
+    </item>
+    <item>
+      <title>OCPP vs ISO 15118: Communication, Plug‑and‑Charge, and Smart Charging Compared</title>
+      <link>https://pulsegeek.com/articles/ocpp-vs-iso-15118-communication-plug-and-charge-and-smart-charging-compared/</link>
+      <guid>https://pulsegeek.com/articles/ocpp-vs-iso-15118-communication-plug-and-charge-and-smart-charging-compared/</guid>
+      <pubDate>Thu, 21 Aug 2025 06:58:11 GMT</pubDate>
+      <description>Compare OCPP and ISO 15118 for EV charging. Understand Plug-and-Charge, security, smart charging, and V2G readiness with clear use-case guidance.</description>
+    </item>
+    <item>
+      <title>EV Charging Load Management Strategies for Depots, Fleets, and Buildings</title>
+      <link>https://pulsegeek.com/articles/ev-charging-load-management-strategies-for-depots-fleets-and-buildings/</link>
+      <guid>https://pulsegeek.com/articles/ev-charging-load-management-strategies-for-depots-fleets-and-buildings/</guid>
+      <pubDate>Thu, 21 Aug 2025 06:58:11 GMT</pubDate>
+      <description>Practical EV charging load management strategies for depots, fleets, and buildings with standards, tariffs, and V2G readiness.</description>
+    </item>
+    <item>
+      <title>Vehicle‑to‑Grid Integration Standards Overview: OCPP, ISO 15118, IEEE 2030.5, and Grid Codes</title>
+      <link>https://pulsegeek.com/articles/vehicle-to-grid-integration-standards-overview-ocpp-iso-15118-ieee-2030-5-and-grid-codes/</link>
+      <guid>https://pulsegeek.com/articles/vehicle-to-grid-integration-standards-overview-ocpp-iso-15118-ieee-2030-5-and-grid-codes/</guid>
+      <pubDate>Thu, 21 Aug 2025 06:58:10 GMT</pubDate>
+      <description>Explore V2G standards with practical guidance on OCPP, ISO 15118, IEEE 2030.5, and grid codes for interoperable bidirectional charging.</description>
+    </item>
+    <item>
+      <title>Top Load Flexibility Use Cases for C&amp;I and Residential Customers</title>
+      <link>https://pulsegeek.com/articles/top-load-flexibility-use-cases-for-c-and-i-and-residential-customers/</link>
+      <guid>https://pulsegeek.com/articles/top-load-flexibility-use-cases-for-c-and-i-and-residential-customers/</guid>
+      <pubDate>Thu, 21 Aug 2025 06:58:10 GMT</pubDate>
+      <description>Explore top load flexibility use cases for C&amp;amp;amp;I and residential customers, from HVAC and refrigeration to EVs and batteries, powered by AMI and DR.</description>
+    </item>
+    <item>
+      <title>How to Build Load Forecasting for Demand Response Optimization</title>
+      <link>https://pulsegeek.com/articles/how-to-build-load-forecasting-for-demand-response-optimization/</link>
+      <guid>https://pulsegeek.com/articles/how-to-build-load-forecasting-for-demand-response-optimization/</guid>
+      <pubDate>Thu, 21 Aug 2025 06:58:10 GMT</pubDate>
+      <description>Step-by-step guide to build AMI-based load forecasting for demand response, from data prep to DRMS integration and operational playbooks.</description>
+    </item>
+    <item>
+      <title>How to Integrate DRMS with the AMI Headend: Interfaces, Events, and Testing</title>
+      <link>https://pulsegeek.com/articles/how-to-integrate-drms-with-the-ami-headend-interfaces-events-and-testing/</link>
+      <guid>https://pulsegeek.com/articles/how-to-integrate-drms-with-the-ami-headend-interfaces-events-and-testing/</guid>
+      <pubDate>Thu, 21 Aug 2025 06:58:10 GMT</pubDate>
+      <description>Step-by-step guide to integrate DRMS with an AMI headend, map interfaces, model events, and run end-to-end testing.</description>
+    </item>
+    <item>
+      <title>Time‑of‑Use Pricing Communication via AMI: Messaging, Standards, and Customer UX</title>
+      <link>https://pulsegeek.com/articles/time-of-use-pricing-communication-via-ami-messaging-standards-and-customer-ux/</link>
+      <guid>https://pulsegeek.com/articles/time-of-use-pricing-communication-via-ami-messaging-standards-and-customer-ux/</guid>
+      <pubDate>Thu, 21 Aug 2025 06:58:10 GMT</pubDate>
+      <description>How AMI delivers clear time-of-use pricing: customer messaging patterns, standards like IEEE 2030.5, and UX design linked to DR and forecasting.</description>
+    </item>
+    <item>
+      <title>How to Design Utility Demand Response Programs: Segments, Incentives, and Measurement</title>
+      <link>https://pulsegeek.com/articles/how-to-design-utility-demand-response-programs-segments-incentives-and-measurement/</link>
+      <guid>https://pulsegeek.com/articles/how-to-design-utility-demand-response-programs-segments-incentives-and-measurement/</guid>
+      <pubDate>Thu, 21 Aug 2025 06:58:10 GMT</pubDate>
+      <description>Step-by-step demand response program design for utilities: segmenting customers, incentives, event rules, integration, and measurement.</description>
+    </item>
+    <item>
+      <title>Advanced Metering Infrastructure Deployment Plan: Architecture, Rollout, and Change Management</title>
+      <link>https://pulsegeek.com/articles/advanced-metering-infrastructure-deployment-plan-architecture-rollout-and-change-management/</link>
+      <guid>https://pulsegeek.com/articles/advanced-metering-infrastructure-deployment-plan-architecture-rollout-and-change-management/</guid>
+      <pubDate>Thu, 21 Aug 2025 06:58:10 GMT</pubDate>
+      <description>Design an advanced metering infrastructure deployment plan with architecture, DR integration, forecasting, and change management for utility-scale results.</description>
+    </item>
+    <item>
+      <title>What Is a Microgrid and How Does It Interact with the Utility Grid?</title>
+      <link>https://pulsegeek.com/articles/what-is-a-microgrid-and-how-does-it-interact-with-the-utility-grid/</link>
+      <guid>https://pulsegeek.com/articles/what-is-a-microgrid-and-how-does-it-interact-with-the-utility-grid/</guid>
+      <pubDate>Thu, 21 Aug 2025 06:58:10 GMT</pubDate>
+      <description>Learn what a microgrid is, how it connects and coordinates with the utility grid, and where it adds value for reliability and resilience.</description>
+    </item>
+    <item>
+      <title>How to Perform Distribution Feeder Hosting Capacity Analysis</title>
+      <link>https://pulsegeek.com/articles/how-to-perform-distribution-feeder-hosting-capacity-analysis/</link>
+      <guid>https://pulsegeek.com/articles/how-to-perform-distribution-feeder-hosting-capacity-analysis/</guid>
+      <pubDate>Thu, 21 Aug 2025 06:58:10 GMT</pubDate>
+      <description>Step-by-step method to conduct distribution feeder hosting capacity analysis with realistic models, criteria, and mitigation planning.</description>
+    </item>
+    <item>
+      <title>How to Set Inverter-Based Resource Grid Support Functions (Volt/VAR, Freq‑Watt, Ride‑Through)</title>
+      <link>https://pulsegeek.com/articles/how-to-set-inverter-based-resource-grid-support-functions-volt-var-freq-watt-ride-through/</link>
+      <guid>https://pulsegeek.com/articles/how-to-set-inverter-based-resource-grid-support-functions-volt-var-freq-watt-ride-through/</guid>
+      <pubDate>Thu, 21 Aug 2025 06:58:10 GMT</pubDate>
+      <description>Step-by-step guide to set inverter-based resource grid support functions with Volt/VAR, freq-watt, and ride-through, aligned to IEEE 1547 and utility profiles.</description>
+    </item>
+    <item>
+      <title>DERMS vs ADMS: Functions, Overlaps, and When You Need Each</title>
+      <link>https://pulsegeek.com/articles/derms-vs-adms-functions-overlaps-and-when-you-need-each/</link>
+      <guid>https://pulsegeek.com/articles/derms-vs-adms-functions-overlaps-and-when-you-need-each/</guid>
+      <pubDate>Thu, 21 Aug 2025 06:58:10 GMT</pubDate>
+      <description>Compare DERMS vs ADMS: core functions, overlaps, integration patterns, and when utilities should deploy each system to manage modern distribution grids.</description>
+    </item>
+    <item>
+      <title>Microgrid Control Strategies for Grid‑Tied Operation: From Droop to Hierarchical Control</title>
+      <link>https://pulsegeek.com/articles/microgrid-control-strategies-for-grid-tied-operation-from-droop-to-hierarchical-control/</link>
+      <guid>https://pulsegeek.com/articles/microgrid-control-strategies-for-grid-tied-operation-from-droop-to-hierarchical-control/</guid>
+      <pubDate>Thu, 21 Aug 2025 06:58:10 GMT</pubDate>
+      <description>Explore grid‑tied microgrid control strategies: droop fundamentals, hierarchical secondary/tertiary control, protection, and ADMS/DERMS coordination.</description>
+    </item>
+    <item>
+      <title>Integrating DERs into Urban Distribution Grids: A Practical Implementation Guide</title>
+      <link>https://pulsegeek.com/articles/integrating-ders-into-urban-distribution-grids-a-practical-implementation-guide/</link>
+      <guid>https://pulsegeek.com/articles/integrating-ders-into-urban-distribution-grids-a-practical-implementation-guide/</guid>
+      <pubDate>Thu, 21 Aug 2025 06:58:10 GMT</pubDate>
+      <description>Step-by-step guidance to integrate DERs and microgrids into urban distribution grids with hosting studies, controls, and operations.</description>
+    </item>
+    <item>
+      <title>What Is IEC 61850 and Why It Matters for Smart Grids?</title>
+      <link>https://pulsegeek.com/articles/what-is-iec-61850-and-why-it-matters-for-smart-grids/</link>
+      <guid>https://pulsegeek.com/articles/what-is-iec-61850-and-why-it-matters-for-smart-grids/</guid>
+      <pubDate>Thu, 21 Aug 2025 06:58:10 GMT</pubDate>
+      <description>Learn what IEC 61850 is, how it enables interoperable substation automation, and why it matters for modern, DER-rich smart grids.</description>
+    </item>
+    <item>
+      <title>IEEE 2030.5 SEP for DER Integration: Capabilities, Security, and Utility Adoption</title>
+      <link>https://pulsegeek.com/articles/ieee-2030-5-sep-for-der-integration-capabilities-security-and-utility-adoption/</link>
+      <guid>https://pulsegeek.com/articles/ieee-2030-5-sep-for-der-integration-capabilities-security-and-utility-adoption/</guid>
+      <pubDate>Thu, 21 Aug 2025 06:58:10 GMT</pubDate>
+      <description>Understand IEEE 2030.5 SEP for DER integration, including capabilities, security, profiles like CSIP, and how utilities deploy it alongside IEC 61850 and CIM.</description>
+    </item>
+    <item>
+      <title>Top IEC CIM Data Model Use Cases for Utilities</title>
+      <link>https://pulsegeek.com/articles/top-iec-cim-data-model-use-cases-for-utilities/</link>
+      <guid>https://pulsegeek.com/articles/top-iec-cim-data-model-use-cases-for-utilities/</guid>
+      <pubDate>Thu, 21 Aug 2025 06:58:10 GMT</pubDate>
+      <description>Discover high‑impact IEC CIM use cases for utilities, from CGMES model exchange to ADMS integration and DER planning with IEEE 2030.5 mappings.</description>
+    </item>
+    <item>
+      <title>How to Implement IEC 61850 in Substations: Profiles, SCL, and Migration Steps</title>
+      <link>https://pulsegeek.com/articles/how-to-implement-iec-61850-in-substations-profiles-scl-and-migration-steps/</link>
+      <guid>https://pulsegeek.com/articles/how-to-implement-iec-61850-in-substations-profiles-scl-and-migration-steps/</guid>
+      <pubDate>Thu, 21 Aug 2025 06:58:10 GMT</pubDate>
+      <description>Step-by-step IEC 61850 substation implementation using profiles, SCL engineering, testing, and staged migration for interoperable protection and SCADA.</description>
+    </item>
+    <item>
+      <title>Smart Grid Integration Architecture: Reference Models from Substation to Cloud</title>
+      <link>https://pulsegeek.com/articles/smart-grid-integration-architecture-reference-models-from-substation-to-cloud/</link>
+      <guid>https://pulsegeek.com/articles/smart-grid-integration-architecture-reference-models-from-substation-to-cloud/</guid>
+      <pubDate>Thu, 21 Aug 2025 06:58:10 GMT</pubDate>
+      <description>Design interoperable smart grid integration architecture from substation to cloud with IEC 61850, CIM, and IEEE 2030.5 reference patterns.</description>
+    </item>
+    <item>
+      <title>Smart Grid Interoperability Framework: Architectures, Models, and Standards That Scale</title>
+      <link>https://pulsegeek.com/articles/smart-grid-interoperability-framework-architectures-models-and-standards-that-scale/</link>
+      <guid>https://pulsegeek.com/articles/smart-grid-interoperability-framework-architectures-models-and-standards-that-scale/</guid>
+      <pubDate>Thu, 21 Aug 2025 06:58:10 GMT</pubDate>
+      <description>Design interoperable smart grids with layered architectures and standards like IEC 61850, CIM, and IEEE 2030.5. Practical models, tips, and roadmaps.</description>
+    </item>
+    <item>
+      <title>Smart Grid Integration: Architectures, DER, AMI, V2G, and Interoperability for Urban Utilities</title>
+      <link>https://pulsegeek.com/articles/smart-grid-integration-architectures-der-ami-v2g-and-interoperability-for-urban-utilities/</link>
+      <guid>https://pulsegeek.com/articles/smart-grid-integration-architectures-der-ami-v2g-and-interoperability-for-urban-utilities/</guid>
+      <pubDate>Thu, 21 Aug 2025 06:58:10 GMT</pubDate>
+      <description>Urban utilities guide to smart grid integration: architectures, DER, AMI, V2G, and interoperable data governance with real examples and standards.</description>
+    </item>
+  </channel>
+</rss>
