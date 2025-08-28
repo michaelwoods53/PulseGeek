@@ -157,4 +157,41 @@
         .share-buttons .share-btn:hover {
             background: #f4f4f4;
         }
+/* — Author Page — */
+.author-page .author-header {
+    margin-bottom: 2rem;
+    text-align: center;
+}
 
+.author-page .author-avatar {
+    width: 160px;
+    height: 160px;
+    border-radius: 50%;
+    object-fit: cover;
+    display: block;
+    margin-inline: auto;
+}
+
+.author-page .author-name {
+    margin: .5rem 0 .25rem 0;
+    text-align: center;
+}
+
+.author-page .author-bio {
+    max-width: 52ch;
+    margin-inline: auto;
+}
+
+.author-page .articles {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.author-page .articles > li {
+    margin: 0 0 .25rem .75rem;
+}
+
+.author-page .card h3 {
+    margin: 0;
+}
