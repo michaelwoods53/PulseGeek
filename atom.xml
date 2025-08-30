@@ -2,10 +2,234 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>PulseGeek</title>
   <id>https://pulsegeek.com/atom.xml</id>
-  <updated>2025-08-21T06:58:11Z</updated>
+  <updated>2025-08-30T03:27:04Z</updated>
   <link href="https://pulsegeek.com" />
   <link href="https://pulsegeek.com/atom.xml" rel="self" />
   <subtitle>Tech news, gaming, and geek culture in one pulse</subtitle>
+  <entry>
+    <title>AI Ethics and Fairness: Practical Paths to Responsible AI</title>
+    <id>https://pulsegeek.com/articles/ai-ethics-and-fairness-practical-paths-to-responsible-ai/</id>
+    <link href="https://pulsegeek.com/articles/ai-ethics-and-fairness-practical-paths-to-responsible-ai/" />
+    <updated>2025-08-30T03:27:04Z</updated>
+    <summary>Practical frameworks for AI ethics and fairness with metrics, governance, data practices, interpretability, monitoring, and incident response.</summary>
+  </entry>
+  <entry>
+    <title>What Is Retrieval Augmented Generation Prompting? Context, Grounding, and Limits</title>
+    <id>https://pulsegeek.com/articles/what-is-retrieval-augmented-generation-prompting-context-grounding-and-limits/</id>
+    <link href="https://pulsegeek.com/articles/what-is-retrieval-augmented-generation-prompting-context-grounding-and-limits/" />
+    <updated>2025-08-29T00:17:01Z</updated>
+    <summary>Explore retrieval augmented generation prompting, how it grounds answers with context, where it breaks, and how to operationalize it safely.</summary>
+  </entry>
+  <entry>
+    <title>How to Version and Document Prompts: Changelogs, Tests, and Readme Patterns</title>
+    <id>https://pulsegeek.com/articles/how-to-version-and-document-prompts-changelogs-tests-and-readme-patterns/</id>
+    <link href="https://pulsegeek.com/articles/how-to-version-and-document-prompts-changelogs-tests-and-readme-patterns/" />
+    <updated>2025-08-29T00:17:01Z</updated>
+    <summary>Learn how to version and document prompts with changelogs, tests, and READMEs. Build reliable, governed workflows that scale across teams.</summary>
+  </entry>
+  <entry>
+    <title>Orchestration Tools for Prompt Workflows: Features, Integrations, and Fit</title>
+    <id>https://pulsegeek.com/articles/orchestration-tools-for-prompt-workflows-features-integrations-and-fit/</id>
+    <link href="https://pulsegeek.com/articles/orchestration-tools-for-prompt-workflows-features-integrations-and-fit/" />
+    <updated>2025-08-29T00:17:01Z</updated>
+    <summary>Explore orchestration tools for prompt workflows, including governance, integrations, and evaluation practices to scale safe, consistent outputs.</summary>
+  </entry>
+  <entry>
+    <title>Guardrails and Safety Prompts Best Practices: Filters, Policies, and Overrides</title>
+    <id>https://pulsegeek.com/articles/guardrails-and-safety-prompts-best-practices-filters-policies-and-overrides/</id>
+    <link href="https://pulsegeek.com/articles/guardrails-and-safety-prompts-best-practices-filters-policies-and-overrides/" />
+    <updated>2025-08-29T00:17:01Z</updated>
+    <summary>Practical best practices for guardrails and safety prompts, including filters, policies, overrides, and governance across teams.</summary>
+  </entry>
+  <entry>
+    <title>How to Create Reusable Prompt Libraries: Taxonomy, Metadata, and Access</title>
+    <id>https://pulsegeek.com/articles/how-to-create-reusable-prompt-libraries-taxonomy-metadata-and-access/</id>
+    <link href="https://pulsegeek.com/articles/how-to-create-reusable-prompt-libraries-taxonomy-metadata-and-access/" />
+    <updated>2025-08-29T00:17:01Z</updated>
+    <summary>Build reusable prompt libraries with clear taxonomy, rich metadata, and governed access to scale consistency and safety across teams.</summary>
+  </entry>
+  <entry>
+    <title>Prompt Chaining Workflow Templates: Reusable Chains, Governance, and Versioning</title>
+    <id>https://pulsegeek.com/articles/prompt-chaining-workflow-templates-reusable-chains-governance-and-versioning/</id>
+    <link href="https://pulsegeek.com/articles/prompt-chaining-workflow-templates-reusable-chains-governance-and-versioning/" />
+    <updated>2025-08-29T00:17:01Z</updated>
+    <summary>Build prompt chaining workflow templates with reusable chains, guardrails, and versioning. Learn tools, libraries, documentation, and RAG integration for safe scale.</summary>
+  </entry>
+  <entry>
+    <title>What Is Prompt Leakage and How to Prevent It? Risks, Patterns, and Guardrails</title>
+    <id>https://pulsegeek.com/articles/what-is-prompt-leakage-and-how-to-prevent-it-risks-patterns-and-guardrails/</id>
+    <link href="https://pulsegeek.com/articles/what-is-prompt-leakage-and-how-to-prevent-it-risks-patterns-and-guardrails/" />
+    <updated>2025-08-29T00:17:01Z</updated>
+    <summary>Learn what prompt leakage is, why it’s risky, common patterns to watch, and practical guardrails to prevent it.</summary>
+  </entry>
+  <entry>
+    <title>Human vs Automated Prompt Evaluation: Cost, Bias, and Speed Compared</title>
+    <id>https://pulsegeek.com/articles/human-vs-automated-prompt-evaluation-cost-bias-and-speed-compared/</id>
+    <link href="https://pulsegeek.com/articles/human-vs-automated-prompt-evaluation-cost-bias-and-speed-compared/" />
+    <updated>2025-08-29T00:17:01Z</updated>
+    <summary>Compare human vs automated prompt evaluation across cost, bias, and speed. Learn when to use each and how to mix both effectively.</summary>
+  </entry>
+  <entry>
+    <title>How to Build a Prompt Test Dataset: Coverage, Edge Cases, and Ground Truth</title>
+    <id>https://pulsegeek.com/articles/how-to-build-a-prompt-test-dataset-coverage-edge-cases-and-ground-truth/</id>
+    <link href="https://pulsegeek.com/articles/how-to-build-a-prompt-test-dataset-coverage-edge-cases-and-ground-truth/" />
+    <updated>2025-08-29T00:17:01Z</updated>
+    <summary>Learn how to build a prompt test dataset with broad coverage, edge cases, and verifiable ground truth for reliable evaluation.</summary>
+  </entry>
+  <entry>
+    <title>Automatic Prompt Quality Metrics: From CoT Validity to Toxicity Screens</title>
+    <id>https://pulsegeek.com/articles/automatic-prompt-quality-metrics-from-cot-validity-to-toxicity-screens/</id>
+    <link href="https://pulsegeek.com/articles/automatic-prompt-quality-metrics-from-cot-validity-to-toxicity-screens/" />
+    <updated>2025-08-29T00:17:01Z</updated>
+    <summary>Learn automatic prompt quality metrics from chain-of-thought validity to toxicity screens, with examples, tradeoffs, and practical workflows.</summary>
+  </entry>
+  <entry>
+    <title>How to A/B Test Prompts: Experiment Design, Metrics, and Significance</title>
+    <id>https://pulsegeek.com/articles/how-to-a-b-test-prompts-experiment-design-metrics-and-significance/</id>
+    <link href="https://pulsegeek.com/articles/how-to-a-b-test-prompts-experiment-design-metrics-and-significance/" />
+    <updated>2025-08-29T00:17:01Z</updated>
+    <summary>Learn how to A/B test prompts with solid experiment design, reliable metrics, and significance checks, plus tips to avoid common pitfalls.</summary>
+  </entry>
+  <entry>
+    <title>Prompt Evaluation Rubric Examples: Scoring Criteria, Test Sets, and A/B Methods</title>
+    <id>https://pulsegeek.com/articles/prompt-evaluation-rubric-examples-scoring-criteria-test-sets-and-a-b-methods/</id>
+    <link href="https://pulsegeek.com/articles/prompt-evaluation-rubric-examples-scoring-criteria-test-sets-and-a-b-methods/" />
+    <updated>2025-08-29T00:17:01Z</updated>
+    <summary>Learn practical prompt evaluation rubric examples, scoring criteria, test sets, and A/B methods with balanced human and automated review.</summary>
+  </entry>
+  <entry>
+    <title>How to Prompt for Brand-Consistent Visuals: Palettes, Props, and Negative Prompts</title>
+    <id>https://pulsegeek.com/articles/how-to-prompt-for-brand-consistent-visuals-palettes-props-and-negative-prompts/</id>
+    <link href="https://pulsegeek.com/articles/how-to-prompt-for-brand-consistent-visuals-palettes-props-and-negative-prompts/" />
+    <updated>2025-08-29T00:17:01Z</updated>
+    <summary>Learn how to prompt for brand-consistent visuals using palettes, signature props, and negative prompts, with testing workflows and governance tips.</summary>
+  </entry>
+  <entry>
+    <title>Comparison of Text-to-Image Prompt Styles: Photorealism vs Illustration vs 3D</title>
+    <id>https://pulsegeek.com/articles/comparison-of-text-to-image-prompt-styles-photorealism-vs-illustration-vs-3d/</id>
+    <link href="https://pulsegeek.com/articles/comparison-of-text-to-image-prompt-styles-photorealism-vs-illustration-vs-3d/" />
+    <updated>2025-08-29T00:17:01Z</updated>
+    <summary>A practical comparison of text-to-image prompt styles—photorealism, illustration, and 3D—with controls, pros and cons, and use-case guidance.</summary>
+  </entry>
+  <entry>
+    <title>Prompt Modifiers and Styles for Images: A Catalog of Aesthetics and Lighting</title>
+    <id>https://pulsegeek.com/articles/prompt-modifiers-and-styles-for-images-a-catalog-of-aesthetics-and-lighting/</id>
+    <link href="https://pulsegeek.com/articles/prompt-modifiers-and-styles-for-images-a-catalog-of-aesthetics-and-lighting/" />
+    <updated>2025-08-29T00:17:01Z</updated>
+    <summary>Learn prompt modifiers and styles for images with clear examples of aesthetics, lighting, and camera controls for consistent visuals.</summary>
+  </entry>
+  <entry>
+    <title>How to Write Prompts for Image Generation: Subjects, Styles, and Constraints</title>
+    <id>https://pulsegeek.com/articles/how-to-write-prompts-for-image-generation-subjects-styles-and-constraints/</id>
+    <link href="https://pulsegeek.com/articles/how-to-write-prompts-for-image-generation-subjects-styles-and-constraints/" />
+    <updated>2025-08-29T00:17:01Z</updated>
+    <summary>Learn how to write prompts for image generation with clear subjects, consistent styles, and brand-safe constraints.</summary>
+  </entry>
+  <entry>
+    <title>Image Prompt Templates for Marketers: Campaign-Ready Structures and Variations</title>
+    <id>https://pulsegeek.com/articles/image-prompt-templates-for-marketers-campaign-ready-structures-and-variations/</id>
+    <link href="https://pulsegeek.com/articles/image-prompt-templates-for-marketers-campaign-ready-structures-and-variations/" />
+    <updated>2025-08-29T00:17:01Z</updated>
+    <summary>Steal-ready image prompt templates for marketers. Craft brand-safe, scalable visuals with structured prompts, style controls, and testing tips.</summary>
+  </entry>
+  <entry>
+    <title>Multimodal Prompting with Text and Images: A Practitioner’s Guide to Consistency</title>
+    <id>https://pulsegeek.com/articles/multimodal-prompting-with-text-and-images-a-practitioners-guide-to-consistency/</id>
+    <link href="https://pulsegeek.com/articles/multimodal-prompting-with-text-and-images-a-practitioners-guide-to-consistency/" />
+    <updated>2025-08-29T00:17:01Z</updated>
+    <summary>A practical guide to consistent multimodal prompting, with style controls, templates, evaluation, and brand-safe workflows.</summary>
+  </entry>
+  <entry>
+    <title>Product Description Prompt Templates: Attributes, Benefits, and Schema</title>
+    <id>https://pulsegeek.com/articles/product-description-prompt-templates-attributes-benefits-and-schema/</id>
+    <link href="https://pulsegeek.com/articles/product-description-prompt-templates-attributes-benefits-and-schema/" />
+    <updated>2025-08-29T00:17:01Z</updated>
+    <summary>Use product description prompt templates to turn attributes into benefits, align tone, and output schema-ready copy for SEO.</summary>
+  </entry>
+  <entry>
+    <title>How to Prompt for Code Generation Safely: Constraints, Tests, and Reviews</title>
+    <id>https://pulsegeek.com/articles/how-to-prompt-for-code-generation-safely-constraints-tests-and-reviews/</id>
+    <link href="https://pulsegeek.com/articles/how-to-prompt-for-code-generation-safely-constraints-tests-and-reviews/" />
+    <updated>2025-08-29T00:17:01Z</updated>
+    <summary>Learn how to prompt for code generation safely using clear constraints, test-first prompts, and structured reviews with CI guardrails.</summary>
+  </entry>
+  <entry>
+    <title>Email Writing Prompt Templates: Subject Lines, Sequences, and CTAs</title>
+    <id>https://pulsegeek.com/articles/email-writing-prompt-templates-subject-lines-sequences-and-ctas/</id>
+    <link href="https://pulsegeek.com/articles/email-writing-prompt-templates-subject-lines-sequences-and-ctas/" />
+    <updated>2025-08-29T00:17:01Z</updated>
+    <summary>Steal-ready email writing prompt templates for subject lines, sequences, and CTAs. Build clarity, test fast, and maintain brand-safe tone.</summary>
+  </entry>
+  <entry>
+    <title>How to Prompt for SEO Content Outlines: Entities, Headers, and Internal Links</title>
+    <id>https://pulsegeek.com/articles/how-to-prompt-for-seo-content-outlines-entities-headers-and-internal-links/</id>
+    <link href="https://pulsegeek.com/articles/how-to-prompt-for-seo-content-outlines-entities-headers-and-internal-links/" />
+    <updated>2025-08-29T00:17:01Z</updated>
+    <summary>Learn step-by-step prompts for SEO content outlines using entities, H2/H3 structure, and internal links with examples and QA tips.</summary>
+  </entry>
+  <entry>
+    <title>Blog Post Prompt Templates: Outlines, Angles, and Style Controls</title>
+    <id>https://pulsegeek.com/articles/blog-post-prompt-templates-outlines-angles-and-style-controls/</id>
+    <link href="https://pulsegeek.com/articles/blog-post-prompt-templates-outlines-angles-and-style-controls/" />
+    <updated>2025-08-29T00:17:01Z</updated>
+    <summary>Use proven blog post prompt templates for outlines, angles, and tone. Get reusable styles, SEO structure, and QA prompts.</summary>
+  </entry>
+  <entry>
+    <title>Persona-Based Prompting for Marketing: Templates, Tone Controls, and SEO Structure</title>
+    <id>https://pulsegeek.com/articles/persona-based-prompting-for-marketing-templates-tone-controls-and-seo-structure/</id>
+    <link href="https://pulsegeek.com/articles/persona-based-prompting-for-marketing-templates-tone-controls-and-seo-structure/" />
+    <updated>2025-08-29T00:17:01Z</updated>
+    <summary>Reusable persona-led prompts for marketing with tone controls, SEO structure, and evaluation techniques that scale across channels.</summary>
+  </entry>
+  <entry>
+    <title>What Is a System Prompt in AI? Roles, Boundaries, and Best Practices</title>
+    <id>https://pulsegeek.com/articles/what-is-a-system-prompt-in-ai-roles-boundaries-and-best-practices/</id>
+    <link href="https://pulsegeek.com/articles/what-is-a-system-prompt-in-ai-roles-boundaries-and-best-practices/" />
+    <updated>2025-08-29T00:17:01Z</updated>
+    <summary>Learn how system prompts set model behavior, define boundaries, and improve reliability, with practical patterns and safe deployment tips.</summary>
+  </entry>
+  <entry>
+    <title>Zero-Shot vs Few-Shot Prompting: Accuracy, Control, and Cost Compared</title>
+    <id>https://pulsegeek.com/articles/zero-shot-vs-few-shot-prompting-accuracy-control-and-cost-compared/</id>
+    <link href="https://pulsegeek.com/articles/zero-shot-vs-few-shot-prompting-accuracy-control-and-cost-compared/" />
+    <updated>2025-08-29T00:17:01Z</updated>
+    <summary>Compare zero-shot vs few-shot prompting by accuracy, control, and cost. See tradeoffs, when to choose each, and practical guidance.</summary>
+  </entry>
+  <entry>
+    <title>How to Write Effective Prompts: From Role Hints to Output Constraints</title>
+    <id>https://pulsegeek.com/articles/how-to-write-effective-prompts-from-role-hints-to-output-constraints/</id>
+    <link href="https://pulsegeek.com/articles/how-to-write-effective-prompts-from-role-hints-to-output-constraints/" />
+    <updated>2025-08-29T00:17:01Z</updated>
+    <summary>Learn how to write effective prompts with role hints, boundaries, examples, and output constraints that improve accuracy and reliability.</summary>
+  </entry>
+  <entry>
+    <title>Few-Shot Prompting Examples: Reusable Patterns for Better Outputs</title>
+    <id>https://pulsegeek.com/articles/few-shot-prompting-examples-reusable-patterns-for-better-outputs/</id>
+    <link href="https://pulsegeek.com/articles/few-shot-prompting-examples-reusable-patterns-for-better-outputs/" />
+    <updated>2025-08-29T00:17:01Z</updated>
+    <summary>See practical few-shot prompting examples with reusable patterns, tips, and tradeoffs to improve accuracy and control across tasks.</summary>
+  </entry>
+  <entry>
+    <title>Chain-of-Thought Prompting Pattern: When to Use It and How to Guide Reasoning</title>
+    <id>https://pulsegeek.com/articles/chain-of-thought-prompting-pattern-when-to-use-it-and-how-to-guide-reasoning/</id>
+    <link href="https://pulsegeek.com/articles/chain-of-thought-prompting-pattern-when-to-use-it-and-how-to-guide-reasoning/" />
+    <updated>2025-08-29T00:17:01Z</updated>
+    <summary>Learn when chain-of-thought prompting helps, how to guide reasoning, and what tradeoffs to expect with examples and patterns.</summary>
+  </entry>
+  <entry>
+    <title>Prompt Engineering Guide: Core Patterns, System Prompts, and Reliable Techniques</title>
+    <id>https://pulsegeek.com/articles/prompt-engineering-guide-core-patterns-system-prompts-and-reliable-techniques/</id>
+    <link href="https://pulsegeek.com/articles/prompt-engineering-guide-core-patterns-system-prompts-and-reliable-techniques/" />
+    <updated>2025-08-29T00:17:01Z</updated>
+    <summary>A deep prompt engineering guide on core patterns, system prompts, and reliable techniques with practical examples and links.</summary>
+  </entry>
+  <entry>
+    <title>Prompt Engineering: Complete Patterns, Templates, and Evaluation Playbook</title>
+    <id>https://pulsegeek.com/articles/prompt-engineering-complete-patterns-templates-and-evaluation-playbook/</id>
+    <link href="https://pulsegeek.com/articles/prompt-engineering-complete-patterns-templates-and-evaluation-playbook/" />
+    <updated>2025-08-29T00:17:01Z</updated>
+    <summary>A complete prompt engineering playbook covering core patterns, reusable templates, multimodal tactics, and rigorous evaluation workflows.</summary>
+  </entry>
   <entry>
     <title>SAIDI/SAIFI Reliability Improvement Roadmap: High‑Impact Projects and Metrics</title>
     <id>https://pulsegeek.com/articles/saidi-saifi-reliability-improvement-roadmap-high-impact-projects-and-metrics/</id>
@@ -131,96 +355,5 @@
     <link href="https://pulsegeek.com/articles/advanced-metering-infrastructure-deployment-plan-architecture-rollout-and-change-management/" />
     <updated>2025-08-21T06:58:10Z</updated>
     <summary>Design an advanced metering infrastructure deployment plan with architecture, DR integration, forecasting, and change management for utility-scale results.</summary>
-  </entry>
-  <entry>
-    <title>What Is a Microgrid and How Does It Interact with the Utility Grid?</title>
-    <id>https://pulsegeek.com/articles/what-is-a-microgrid-and-how-does-it-interact-with-the-utility-grid/</id>
-    <link href="https://pulsegeek.com/articles/what-is-a-microgrid-and-how-does-it-interact-with-the-utility-grid/" />
-    <updated>2025-08-21T06:58:10Z</updated>
-    <summary>Learn what a microgrid is, how it connects and coordinates with the utility grid, and where it adds value for reliability and resilience.</summary>
-  </entry>
-  <entry>
-    <title>How to Perform Distribution Feeder Hosting Capacity Analysis</title>
-    <id>https://pulsegeek.com/articles/how-to-perform-distribution-feeder-hosting-capacity-analysis/</id>
-    <link href="https://pulsegeek.com/articles/how-to-perform-distribution-feeder-hosting-capacity-analysis/" />
-    <updated>2025-08-21T06:58:10Z</updated>
-    <summary>Step-by-step method to conduct distribution feeder hosting capacity analysis with realistic models, criteria, and mitigation planning.</summary>
-  </entry>
-  <entry>
-    <title>How to Set Inverter-Based Resource Grid Support Functions (Volt/VAR, Freq‑Watt, Ride‑Through)</title>
-    <id>https://pulsegeek.com/articles/how-to-set-inverter-based-resource-grid-support-functions-volt-var-freq-watt-ride-through/</id>
-    <link href="https://pulsegeek.com/articles/how-to-set-inverter-based-resource-grid-support-functions-volt-var-freq-watt-ride-through/" />
-    <updated>2025-08-21T06:58:10Z</updated>
-    <summary>Step-by-step guide to set inverter-based resource grid support functions with Volt/VAR, freq-watt, and ride-through, aligned to IEEE 1547 and utility profiles.</summary>
-  </entry>
-  <entry>
-    <title>DERMS vs ADMS: Functions, Overlaps, and When You Need Each</title>
-    <id>https://pulsegeek.com/articles/derms-vs-adms-functions-overlaps-and-when-you-need-each/</id>
-    <link href="https://pulsegeek.com/articles/derms-vs-adms-functions-overlaps-and-when-you-need-each/" />
-    <updated>2025-08-21T06:58:10Z</updated>
-    <summary>Compare DERMS vs ADMS: core functions, overlaps, integration patterns, and when utilities should deploy each system to manage modern distribution grids.</summary>
-  </entry>
-  <entry>
-    <title>Microgrid Control Strategies for Grid‑Tied Operation: From Droop to Hierarchical Control</title>
-    <id>https://pulsegeek.com/articles/microgrid-control-strategies-for-grid-tied-operation-from-droop-to-hierarchical-control/</id>
-    <link href="https://pulsegeek.com/articles/microgrid-control-strategies-for-grid-tied-operation-from-droop-to-hierarchical-control/" />
-    <updated>2025-08-21T06:58:10Z</updated>
-    <summary>Explore grid‑tied microgrid control strategies: droop fundamentals, hierarchical secondary/tertiary control, protection, and ADMS/DERMS coordination.</summary>
-  </entry>
-  <entry>
-    <title>Integrating DERs into Urban Distribution Grids: A Practical Implementation Guide</title>
-    <id>https://pulsegeek.com/articles/integrating-ders-into-urban-distribution-grids-a-practical-implementation-guide/</id>
-    <link href="https://pulsegeek.com/articles/integrating-ders-into-urban-distribution-grids-a-practical-implementation-guide/" />
-    <updated>2025-08-21T06:58:10Z</updated>
-    <summary>Step-by-step guidance to integrate DERs and microgrids into urban distribution grids with hosting studies, controls, and operations.</summary>
-  </entry>
-  <entry>
-    <title>What Is IEC 61850 and Why It Matters for Smart Grids?</title>
-    <id>https://pulsegeek.com/articles/what-is-iec-61850-and-why-it-matters-for-smart-grids/</id>
-    <link href="https://pulsegeek.com/articles/what-is-iec-61850-and-why-it-matters-for-smart-grids/" />
-    <updated>2025-08-21T06:58:10Z</updated>
-    <summary>Learn what IEC 61850 is, how it enables interoperable substation automation, and why it matters for modern, DER-rich smart grids.</summary>
-  </entry>
-  <entry>
-    <title>IEEE 2030.5 SEP for DER Integration: Capabilities, Security, and Utility Adoption</title>
-    <id>https://pulsegeek.com/articles/ieee-2030-5-sep-for-der-integration-capabilities-security-and-utility-adoption/</id>
-    <link href="https://pulsegeek.com/articles/ieee-2030-5-sep-for-der-integration-capabilities-security-and-utility-adoption/" />
-    <updated>2025-08-21T06:58:10Z</updated>
-    <summary>Understand IEEE 2030.5 SEP for DER integration, including capabilities, security, profiles like CSIP, and how utilities deploy it alongside IEC 61850 and CIM.</summary>
-  </entry>
-  <entry>
-    <title>Top IEC CIM Data Model Use Cases for Utilities</title>
-    <id>https://pulsegeek.com/articles/top-iec-cim-data-model-use-cases-for-utilities/</id>
-    <link href="https://pulsegeek.com/articles/top-iec-cim-data-model-use-cases-for-utilities/" />
-    <updated>2025-08-21T06:58:10Z</updated>
-    <summary>Discover high‑impact IEC CIM use cases for utilities, from CGMES model exchange to ADMS integration and DER planning with IEEE 2030.5 mappings.</summary>
-  </entry>
-  <entry>
-    <title>How to Implement IEC 61850 in Substations: Profiles, SCL, and Migration Steps</title>
-    <id>https://pulsegeek.com/articles/how-to-implement-iec-61850-in-substations-profiles-scl-and-migration-steps/</id>
-    <link href="https://pulsegeek.com/articles/how-to-implement-iec-61850-in-substations-profiles-scl-and-migration-steps/" />
-    <updated>2025-08-21T06:58:10Z</updated>
-    <summary>Step-by-step IEC 61850 substation implementation using profiles, SCL engineering, testing, and staged migration for interoperable protection and SCADA.</summary>
-  </entry>
-  <entry>
-    <title>Smart Grid Integration Architecture: Reference Models from Substation to Cloud</title>
-    <id>https://pulsegeek.com/articles/smart-grid-integration-architecture-reference-models-from-substation-to-cloud/</id>
-    <link href="https://pulsegeek.com/articles/smart-grid-integration-architecture-reference-models-from-substation-to-cloud/" />
-    <updated>2025-08-21T06:58:10Z</updated>
-    <summary>Design interoperable smart grid integration architecture from substation to cloud with IEC 61850, CIM, and IEEE 2030.5 reference patterns.</summary>
-  </entry>
-  <entry>
-    <title>Smart Grid Interoperability Framework: Architectures, Models, and Standards That Scale</title>
-    <id>https://pulsegeek.com/articles/smart-grid-interoperability-framework-architectures-models-and-standards-that-scale/</id>
-    <link href="https://pulsegeek.com/articles/smart-grid-interoperability-framework-architectures-models-and-standards-that-scale/" />
-    <updated>2025-08-21T06:58:10Z</updated>
-    <summary>Design interoperable smart grids with layered architectures and standards like IEC 61850, CIM, and IEEE 2030.5. Practical models, tips, and roadmaps.</summary>
-  </entry>
-  <entry>
-    <title>Smart Grid Integration: Architectures, DER, AMI, V2G, and Interoperability for Urban Utilities</title>
-    <id>https://pulsegeek.com/articles/smart-grid-integration-architectures-der-ami-v2g-and-interoperability-for-urban-utilities/</id>
-    <link href="https://pulsegeek.com/articles/smart-grid-integration-architectures-der-ami-v2g-and-interoperability-for-urban-utilities/" />
-    <updated>2025-08-21T06:58:10Z</updated>
-    <summary>Urban utilities guide to smart grid integration: architectures, DER, AMI, V2G, and interoperable data governance with real examples and standards.</summary>
   </entry>
 </feed>

@@ -2,11 +2,31 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://pulsegeek.com/</loc>
-    <lastmod>2025-08-21T01:58:11Z</lastmod>
+    <lastmod>2025-08-29T22:27:04Z</lastmod>
   </url>
   <url>
     <loc>https://pulsegeek.com/articles/advanced-metering-infrastructure-deployment-plan-architecture-rollout-and-change-management/</loc>
     <lastmod>2025-08-21T06:58:10Z</lastmod>
+  </url>
+  <url>
+    <loc>https://pulsegeek.com/articles/ai-ethics-and-fairness-practical-paths-to-responsible-ai/</loc>
+    <lastmod>2025-08-30T03:27:04Z</lastmod>
+  </url>
+  <url>
+    <loc>https://pulsegeek.com/articles/automatic-prompt-quality-metrics-from-cot-validity-to-toxicity-screens/</loc>
+    <lastmod>2025-08-29T00:17:01Z</lastmod>
+  </url>
+  <url>
+    <loc>https://pulsegeek.com/articles/blog-post-prompt-templates-outlines-angles-and-style-controls/</loc>
+    <lastmod>2025-08-29T00:17:01Z</lastmod>
+  </url>
+  <url>
+    <loc>https://pulsegeek.com/articles/chain-of-thought-prompting-pattern-when-to-use-it-and-how-to-guide-reasoning/</loc>
+    <lastmod>2025-08-29T00:17:01Z</lastmod>
+  </url>
+  <url>
+    <loc>https://pulsegeek.com/articles/comparison-of-text-to-image-prompt-styles-photorealism-vs-illustration-vs-3d/</loc>
+    <lastmod>2025-08-29T00:17:01Z</lastmod>
   </url>
   <url>
     <loc>https://pulsegeek.com/articles/data-governance-for-utility-ot-it-convergence-models-security-and-interoperability/</loc>
@@ -17,20 +37,44 @@
     <lastmod>2025-08-21T06:58:10Z</lastmod>
   </url>
   <url>
+    <loc>https://pulsegeek.com/articles/email-writing-prompt-templates-subject-lines-sequences-and-ctas/</loc>
+    <lastmod>2025-08-29T00:17:01Z</lastmod>
+  </url>
+  <url>
     <loc>https://pulsegeek.com/articles/ev-charging-load-management-strategies-for-depots-fleets-and-buildings/</loc>
     <lastmod>2025-08-21T06:58:11Z</lastmod>
+  </url>
+  <url>
+    <loc>https://pulsegeek.com/articles/few-shot-prompting-examples-reusable-patterns-for-better-outputs/</loc>
+    <lastmod>2025-08-29T00:17:01Z</lastmod>
   </url>
   <url>
     <loc>https://pulsegeek.com/articles/grid-edge-analytics-for-outage-management-top-techniques-and-tools/</loc>
     <lastmod>2025-08-21T06:58:11Z</lastmod>
   </url>
   <url>
+    <loc>https://pulsegeek.com/articles/guardrails-and-safety-prompts-best-practices-filters-policies-and-overrides/</loc>
+    <lastmod>2025-08-29T00:17:01Z</lastmod>
+  </url>
+  <url>
     <loc>https://pulsegeek.com/articles/how-does-bidirectional-charging-work-power-flow-converters-and-use-cases/</loc>
     <lastmod>2025-08-21T06:58:11Z</lastmod>
   </url>
   <url>
+    <loc>https://pulsegeek.com/articles/how-to-a-b-test-prompts-experiment-design-metrics-and-significance/</loc>
+    <lastmod>2025-08-29T00:17:01Z</lastmod>
+  </url>
+  <url>
+    <loc>https://pulsegeek.com/articles/how-to-build-a-prompt-test-dataset-coverage-edge-cases-and-ground-truth/</loc>
+    <lastmod>2025-08-29T00:17:01Z</lastmod>
+  </url>
+  <url>
     <loc>https://pulsegeek.com/articles/how-to-build-load-forecasting-for-demand-response-optimization/</loc>
     <lastmod>2025-08-21T06:58:10Z</lastmod>
+  </url>
+  <url>
+    <loc>https://pulsegeek.com/articles/how-to-create-reusable-prompt-libraries-taxonomy-metadata-and-access/</loc>
+    <lastmod>2025-08-29T00:17:01Z</lastmod>
   </url>
   <url>
     <loc>https://pulsegeek.com/articles/how-to-design-utility-demand-response-programs-segments-incentives-and-measurement/</loc>
@@ -53,12 +97,44 @@
     <lastmod>2025-08-21T06:58:11Z</lastmod>
   </url>
   <url>
+    <loc>https://pulsegeek.com/articles/how-to-prompt-for-brand-consistent-visuals-palettes-props-and-negative-prompts/</loc>
+    <lastmod>2025-08-29T00:17:01Z</lastmod>
+  </url>
+  <url>
+    <loc>https://pulsegeek.com/articles/how-to-prompt-for-code-generation-safely-constraints-tests-and-reviews/</loc>
+    <lastmod>2025-08-29T00:17:01Z</lastmod>
+  </url>
+  <url>
+    <loc>https://pulsegeek.com/articles/how-to-prompt-for-seo-content-outlines-entities-headers-and-internal-links/</loc>
+    <lastmod>2025-08-29T00:17:01Z</lastmod>
+  </url>
+  <url>
     <loc>https://pulsegeek.com/articles/how-to-set-inverter-based-resource-grid-support-functions-volt-var-freq-watt-ride-through/</loc>
     <lastmod>2025-08-21T06:58:10Z</lastmod>
   </url>
   <url>
+    <loc>https://pulsegeek.com/articles/how-to-version-and-document-prompts-changelogs-tests-and-readme-patterns/</loc>
+    <lastmod>2025-08-29T00:17:01Z</lastmod>
+  </url>
+  <url>
+    <loc>https://pulsegeek.com/articles/how-to-write-effective-prompts-from-role-hints-to-output-constraints/</loc>
+    <lastmod>2025-08-29T00:17:01Z</lastmod>
+  </url>
+  <url>
+    <loc>https://pulsegeek.com/articles/how-to-write-prompts-for-image-generation-subjects-styles-and-constraints/</loc>
+    <lastmod>2025-08-29T00:17:01Z</lastmod>
+  </url>
+  <url>
+    <loc>https://pulsegeek.com/articles/human-vs-automated-prompt-evaluation-cost-bias-and-speed-compared/</loc>
+    <lastmod>2025-08-29T00:17:01Z</lastmod>
+  </url>
+  <url>
     <loc>https://pulsegeek.com/articles/ieee-2030-5-sep-for-der-integration-capabilities-security-and-utility-adoption/</loc>
     <lastmod>2025-08-21T06:58:10Z</lastmod>
+  </url>
+  <url>
+    <loc>https://pulsegeek.com/articles/image-prompt-templates-for-marketers-campaign-ready-structures-and-variations/</loc>
+    <lastmod>2025-08-29T00:17:01Z</lastmod>
   </url>
   <url>
     <loc>https://pulsegeek.com/articles/integrating-ders-into-urban-distribution-grids-a-practical-implementation-guide/</loc>
@@ -69,12 +145,48 @@
     <lastmod>2025-08-21T06:58:10Z</lastmod>
   </url>
   <url>
+    <loc>https://pulsegeek.com/articles/multimodal-prompting-with-text-and-images-a-practitioners-guide-to-consistency/</loc>
+    <lastmod>2025-08-29T00:17:01Z</lastmod>
+  </url>
+  <url>
     <loc>https://pulsegeek.com/articles/ocpp-vs-iso-15118-communication-plug-and-charge-and-smart-charging-compared/</loc>
     <lastmod>2025-08-21T06:58:11Z</lastmod>
   </url>
   <url>
     <loc>https://pulsegeek.com/articles/open-source-vs-commercial-interoperability-testing-tools-for-smart-grids/</loc>
     <lastmod>2025-08-21T06:58:11Z</lastmod>
+  </url>
+  <url>
+    <loc>https://pulsegeek.com/articles/orchestration-tools-for-prompt-workflows-features-integrations-and-fit/</loc>
+    <lastmod>2025-08-29T00:17:01Z</lastmod>
+  </url>
+  <url>
+    <loc>https://pulsegeek.com/articles/persona-based-prompting-for-marketing-templates-tone-controls-and-seo-structure/</loc>
+    <lastmod>2025-08-29T00:17:01Z</lastmod>
+  </url>
+  <url>
+    <loc>https://pulsegeek.com/articles/product-description-prompt-templates-attributes-benefits-and-schema/</loc>
+    <lastmod>2025-08-29T00:17:01Z</lastmod>
+  </url>
+  <url>
+    <loc>https://pulsegeek.com/articles/prompt-chaining-workflow-templates-reusable-chains-governance-and-versioning/</loc>
+    <lastmod>2025-08-29T00:17:01Z</lastmod>
+  </url>
+  <url>
+    <loc>https://pulsegeek.com/articles/prompt-engineering-complete-patterns-templates-and-evaluation-playbook/</loc>
+    <lastmod>2025-08-29T00:17:01Z</lastmod>
+  </url>
+  <url>
+    <loc>https://pulsegeek.com/articles/prompt-engineering-guide-core-patterns-system-prompts-and-reliable-techniques/</loc>
+    <lastmod>2025-08-29T00:17:01Z</lastmod>
+  </url>
+  <url>
+    <loc>https://pulsegeek.com/articles/prompt-evaluation-rubric-examples-scoring-criteria-test-sets-and-a-b-methods/</loc>
+    <lastmod>2025-08-29T00:17:01Z</lastmod>
+  </url>
+  <url>
+    <loc>https://pulsegeek.com/articles/prompt-modifiers-and-styles-for-images-a-catalog-of-aesthetics-and-lighting/</loc>
+    <lastmod>2025-08-29T00:17:01Z</lastmod>
   </url>
   <url>
     <loc>https://pulsegeek.com/articles/saidi-saifi-reliability-improvement-roadmap-high-impact-projects-and-metrics/</loc>
@@ -125,23 +237,123 @@
     <lastmod>2025-08-21T06:58:10Z</lastmod>
   </url>
   <url>
+    <loc>https://pulsegeek.com/articles/what-is-a-system-prompt-in-ai-roles-boundaries-and-best-practices/</loc>
+    <lastmod>2025-08-29T00:17:01Z</lastmod>
+  </url>
+  <url>
     <loc>https://pulsegeek.com/articles/what-is-iec-61850-and-why-it-matters-for-smart-grids/</loc>
     <lastmod>2025-08-21T06:58:10Z</lastmod>
   </url>
   <url>
+    <loc>https://pulsegeek.com/articles/what-is-prompt-leakage-and-how-to-prevent-it-risks-patterns-and-guardrails/</loc>
+    <lastmod>2025-08-29T00:17:01Z</lastmod>
+  </url>
+  <url>
+    <loc>https://pulsegeek.com/articles/what-is-retrieval-augmented-generation-prompting-context-grounding-and-limits/</loc>
+    <lastmod>2025-08-29T00:17:01Z</lastmod>
+  </url>
+  <url>
+    <loc>https://pulsegeek.com/articles/zero-shot-vs-few-shot-prompting-accuracy-control-and-cost-compared/</loc>
+    <lastmod>2025-08-29T00:17:01Z</lastmod>
+  </url>
+  <url>
     <loc>https://pulsegeek.com/authors/</loc>
-    <lastmod>2025-08-21T06:58:11Z</lastmod>
+    <lastmod>2025-08-30T03:27:04Z</lastmod>
+  </url>
+  <url>
+    <loc>https://pulsegeek.com/authors/amara-de-leon/</loc>
+    <lastmod>2025-08-30T03:27:04Z</lastmod>
+  </url>
+  <url>
+    <loc>https://pulsegeek.com/authors/evie-rao/</loc>
+    <lastmod>2025-08-29T00:17:01Z</lastmod>
   </url>
   <url>
     <loc>https://pulsegeek.com/authors/leena-narayanan/</loc>
     <lastmod>2025-08-21T06:58:11Z</lastmod>
   </url>
   <url>
+    <loc>https://pulsegeek.com/glossary/</loc>
+    <lastmod>2025-08-30T15:26:58Z</lastmod>
+  </url>
+  <url>
+    <loc>https://pulsegeek.com/glossary/ai-governance-framework/</loc>
+    <lastmod>2025-08-29T22:20:57Z</lastmod>
+  </url>
+  <url>
+    <loc>https://pulsegeek.com/glossary/algorithmic-bias/</loc>
+    <lastmod>2025-08-29T22:20:57Z</lastmod>
+  </url>
+  <url>
+    <loc>https://pulsegeek.com/glossary/chain-of-thought-prompting/</loc>
+    <lastmod>2025-08-28T18:53:20Z</lastmod>
+  </url>
+  <url>
+    <loc>https://pulsegeek.com/glossary/demographic-parity/</loc>
+    <lastmod>2025-08-29T22:20:57Z</lastmod>
+  </url>
+  <url>
+    <loc>https://pulsegeek.com/glossary/equalized-odds/</loc>
+    <lastmod>2025-08-29T22:20:57Z</lastmod>
+  </url>
+  <url>
+    <loc>https://pulsegeek.com/glossary/explainable-ai/</loc>
+    <lastmod>2025-08-29T22:20:57Z</lastmod>
+  </url>
+  <url>
+    <loc>https://pulsegeek.com/glossary/fairness-metric/</loc>
+    <lastmod>2025-08-29T22:20:57Z</lastmod>
+  </url>
+  <url>
+    <loc>https://pulsegeek.com/glossary/few-shot-prompting/</loc>
+    <lastmod>2025-08-28T18:53:20Z</lastmod>
+  </url>
+  <url>
+    <loc>https://pulsegeek.com/glossary/guardrails/</loc>
+    <lastmod>2025-08-28T18:53:20Z</lastmod>
+  </url>
+  <url>
+    <loc>https://pulsegeek.com/glossary/lime-local-interpretable-model-agnostic-explanations/</loc>
+    <lastmod>2025-08-29T22:20:57Z</lastmod>
+  </url>
+  <url>
+    <loc>https://pulsegeek.com/glossary/model-interpretability/</loc>
+    <lastmod>2025-08-29T22:20:57Z</lastmod>
+  </url>
+  <url>
+    <loc>https://pulsegeek.com/glossary/prompt-chaining/</loc>
+    <lastmod>2025-08-28T18:53:20Z</lastmod>
+  </url>
+  <url>
+    <loc>https://pulsegeek.com/glossary/prompt-engineering/</loc>
+    <lastmod>2025-08-28T18:53:20Z</lastmod>
+  </url>
+  <url>
+    <loc>https://pulsegeek.com/glossary/prompt-template/</loc>
+    <lastmod>2025-08-28T18:53:20Z</lastmod>
+  </url>
+  <url>
+    <loc>https://pulsegeek.com/glossary/retrieval-augmented-generation/</loc>
+    <lastmod>2025-08-28T18:53:20Z</lastmod>
+  </url>
+  <url>
+    <loc>https://pulsegeek.com/glossary/shap-shapley-additive-explanations/</loc>
+    <lastmod>2025-08-29T22:20:57Z</lastmod>
+  </url>
+  <url>
+    <loc>https://pulsegeek.com/glossary/system-prompt/</loc>
+    <lastmod>2025-08-28T18:53:20Z</lastmod>
+  </url>
+  <url>
     <loc>https://pulsegeek.com/health/</loc>
   </url>
   <url>
     <loc>https://pulsegeek.com/technology/</loc>
-    <lastmod>2025-08-21T06:58:11Z</lastmod>
+    <lastmod>2025-08-30T03:27:04Z</lastmod>
+  </url>
+  <url>
+    <loc>https://pulsegeek.com/technology/artificial-intelligence/</loc>
+    <lastmod>2025-08-30T03:27:04Z</lastmod>
   </url>
   <url>
     <loc>https://pulsegeek.com/technology/smart-city/</loc>

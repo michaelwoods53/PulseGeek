@@ -195,3 +195,340 @@
 .author-page .card h3 {
     margin: 0;
 }
+
+.pg-container {
+    max-width: 980px;
+    margin-inline: auto;
+}
+
+/* MISC*/
+
+.lead {
+    font-size: 1.05rem
+}
+
+.breadcrumb ol {
+    list-style: none;
+    padding: 0;
+    display: flex;
+    gap: .5rem;
+    flex-wrap: wrap;
+}
+
+.breadcrumb-item {
+    color: #6b7280;
+}
+
+.breadcrumb a {
+    text-decoration: none;
+}
+
+figure img {
+    max-width: 100%;
+    border-radius: 8px;
+}
+/* === Highlighted Summary Blocks === */
+
+/* Shared styles for both Key takeaways and Quick start */
+.pg-summary-block {
+    border-left: 4px solid var(--pico-primary, #16a34a);
+    background: hsl(210 40% 96% / 0.8);
+    padding: 1rem 1.25rem;
+    margin: 2rem 0;
+    border-radius: 0.75rem;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.06);
+}
+
+    .pg-summary-block h2,
+    .pg-summary-block h3 {
+        margin-top: 0;
+        font-size: 1.15rem;
+        font-weight: 700;
+        color: var(--pico-primary, #16a34a);
+    }
+
+    .pg-summary-block ul,
+    .pg-summary-block ol {
+        margin: 0.5rem 0 0 1.25rem;
+        padding: 0;
+    }
+
+    .pg-summary-block li {
+        margin: 0.4rem 0;
+        line-height: 1.5;
+    }
+
+/* Key takeaways specific */
+.pg-key-takeaways {
+    border-left-color: #2563eb; /* blue accent */
+    background: hsl(214 100% 97%);
+}
+
+/* Quick start checklist specific */
+.pg-quick-start {
+    border-left-color: #f59e0b; /* amber accent */
+    background: hsl(42 100% 97%);
+}
+
+    .pg-quick-start ol {
+        list-style: decimal;
+    }
+
+    .pg-quick-start li strong {
+        color: #92400e;
+    }
+
+/* === FAQ Section Styling ================================================== */
+
+.pg-faq {
+    --faq-accent: #7c3aed; /* violet */
+    --faq-bg: hsl(250 100% 98%);
+    --faq-border: #e5e7eb;
+    margin: 2.5rem 0;
+    padding: 1rem 1rem 1.25rem;
+    background: var(--faq-bg);
+    border: 1px solid var(--faq-border);
+    border-radius: 0.75rem;
+    box-shadow: 0 1px 3px rgba(0,0,0,.06);
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 1rem 1.25rem;
+    counter-reset: faq;
+}
+
+    .pg-faq > h2 {
+        grid-column: 1 / -1;
+        margin: 0 0 .5rem 0;
+        font-size: 1.35rem;
+        line-height: 1.25;
+        color: var(--faq-accent);
+    }
+
+    .pg-faq .faq-item {
+        position: relative;
+        background: #fff;
+        border: 1px solid var(--faq-border);
+        border-radius: 0.75rem;
+        padding: 1rem 1.25rem 1.1rem 1.25rem;
+        box-shadow: 0 1px 2px rgba(0,0,0,.04);
+        transition: transform .12s ease, box-shadow .12s ease, border-color .12s ease;
+    }
+
+        .pg-faq .faq-item:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 6px 14px rgba(0,0,0,.06);
+            border-color: #d1d5db;
+        }
+
+        .pg-faq .faq-item:focus-within {
+            outline: 2px solid color-mix(in srgb, var(--faq-accent) 30%, transparent);
+            outline-offset: 2px;
+        }
+
+        /* Numbered Q badge */
+        .pg-faq .faq-item h3 {
+            margin: 0 0 .4rem 0;
+            font-size: 1.05rem;
+            line-height: 1.35;
+            padding-left: 2.2rem; /* room for badge */
+            color: #111827;
+            position: relative;
+        }
+
+            .pg-faq .faq-item h3::before {
+                counter-increment: faq;
+                content: counter(faq);
+                position: absolute;
+                left: 0;
+                top: .1rem;
+                width: 1.6rem;
+                height: 1.6rem;
+                border-radius: 9999px;
+                display: grid;
+                place-items: center;
+                font-size: .85rem;
+                font-weight: 700;
+                color: var(--faq-accent);
+                background: color-mix(in srgb, var(--faq-accent) 10%, #ffffff);
+                border: 1px solid color-mix(in srgb, var(--faq-accent) 35%, #ffffff);
+            }
+
+        /* Answer copy */
+        .pg-faq .faq-item p {
+            margin: 0;
+            padding-left: 2.2rem; /* align with badge */
+            color: #374151;
+        }
+
+            .pg-faq .faq-item p + p {
+                margin-top: .6rem;
+            }
+
+    /* Links inside answers */
+    .pg-faq a {
+        text-decoration: underline;
+        text-underline-offset: 2px;
+    }
+
+        .pg-faq a:hover {
+            text-decoration-thickness: 2px;
+        }
+
+    /* Comfortable spacing between items on small screens */
+    .pg-faq .faq-item:not(:last-child) {
+        margin-bottom: .25rem;
+    }
+
+/* Make heading anchor-friendly if you have a sticky header */
+#faqs-heading {
+    scroll-margin-top: 80px;
+}
+
+/* Layout: two columns on wider screens, heading spans full width */
+@media (min-width: 960px) {
+    .pg-faq {
+        grid-template-columns: repeat(2, minmax(0, 1fr));
+    }
+
+        .pg-faq > h2 {
+            grid-column: 1 / -1;
+            margin-bottom: .75rem;
+        }
+}
+
+/* Dark mode tweaks */
+@media (prefers-color-scheme: dark) {
+    .pg-faq {
+        --faq-bg: hsl(250 25% 16%);
+        --faq-border: #2b2f36;
+        box-shadow: none;
+    }
+
+        .pg-faq > h2 {
+            color: color-mix(in srgb, var(--faq-accent) 75%, #fff);
+        }
+
+        .pg-faq .faq-item {
+            background: #0f1220;
+            border-color: var(--faq-border);
+            box-shadow: inset 0 1px 0 rgba(255,255,255,.03);
+        }
+
+            .pg-faq .faq-item h3 {
+                color: #e5e7eb;
+            }
+
+            .pg-faq .faq-item p {
+                color: #c7cbd1;
+            }
+
+        .pg-faq a {
+            color: color-mix(in srgb, var(--faq-accent) 70%, #fff);
+        }
+}
+
+/* Tooltip glossary links */
+a.glossary-term {
+    text-decoration: none;
+    border-bottom: 1px dotted currentColor;
+    cursor: help;
+    position: relative;
+}
+
+    a.glossary-term:focus,
+    a.glossary-term:hover {
+        outline: none;
+    }
+
+    a.glossary-term::after {
+        content: attr(data-tooltip);
+        position: absolute;
+        left: 0;
+        top: 100%;
+        transform: translateY(.4rem);
+        background: #111827;
+        color: #fff;
+        font-size: .85rem;
+        line-height: 1.2;
+        padding: .35rem .5rem;
+        border-radius: .5rem;
+        white-space: normal;
+        width: min(38ch, 80vw);
+        opacity: 0;
+        pointer-events: none;
+        transition: opacity .15s ease-in-out;
+        z-index: 30;
+        box-shadow: 0 6px 20px rgba(0,0,0,.18);
+    }
+
+    a.glossary-term:hover::after,
+    a.glossary-term:focus::after {
+        opacity: 1;
+    }
+
+/* Article glossary block */
+.article-glossary {
+    margin: 2rem 0;
+    padding: 1rem 1.25rem;
+    border: 1px solid #e5e7eb;
+    border-radius: .75rem;
+    background: hsl(210 40% 96% / .6);
+}
+
+    .article-glossary h2 {
+        margin: 0 0 .5rem 0;
+        font-size: 1.25rem;
+    }
+
+.article-glossary-list {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+    .article-glossary-list li {
+        margin: .4rem 0;
+    }
+
+    .article-glossary-list .def {
+        color: #374151;
+    }
+
+/* Glossary index */
+.glossary-az {
+    display: flex;
+    flex-wrap: wrap;
+    gap: .35rem;
+    margin: 1rem 0 1.25rem 0;
+}
+
+    .glossary-az .chip {
+        display: inline-block;
+        padding: .25rem .5rem;
+        border: 1px solid #e5e7eb;
+        border-radius: 999px;
+        font-size: .9rem;
+        text-decoration: none;
+    }
+
+.glossary-list {
+    display: grid;
+    grid-template-columns: 220px 1fr;
+    gap: .5rem 1rem;
+}
+
+    .glossary-list dt {
+        font-weight: 700;
+    }
+
+    .glossary-list dd {
+        margin: 0;
+        color: #374151;
+    }
+
+@media (max-width: 720px) {
+    .glossary-list {
+        grid-template-columns: 1fr;
+    }
+}
+
