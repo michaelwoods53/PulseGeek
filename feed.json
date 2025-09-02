@@ -6,354 +6,316 @@
   "description": "Tech news, gaming, and geek culture in one pulse",
   "items": [
     {
-      "id": "https://pulsegeek.com/articles/ai-ethics-and-fairness-practical-paths-to-responsible-ai/",
-      "url": "https://pulsegeek.com/articles/ai-ethics-and-fairness-practical-paths-to-responsible-ai/",
-      "title": "AI Ethics and Fairness: Practical Paths to Responsible AI",
-      "content_text": "Practical frameworks for AI ethics and fairness with metrics, governance, data practices, interpretability, monitoring, and incident response.",
-      "date_published": "2025-08-30T03:27:04.2130984Z"
+      "id": "https://pulsegeek.com/articles/implementing-data-retention-and-consent-controls/",
+      "url": "https://pulsegeek.com/articles/implementing-data-retention-and-consent-controls/",
+      "title": "Implementing Data Retention and Consent Controls",
+      "content_text": "Practical steps to engineer data retention schedules, capture granular consent, and audit traceability across the AI lifecycle with clear governance.",
+      "date_published": "2025-09-02T18:00:00.0000000Z",
+      "date_modified": "2025-09-02T18:00:00.0000000Z"
     },
     {
-      "id": "https://pulsegeek.com/articles/what-is-retrieval-augmented-generation-prompting-context-grounding-and-limits/",
-      "url": "https://pulsegeek.com/articles/what-is-retrieval-augmented-generation-prompting-context-grounding-and-limits/",
-      "title": "What Is Retrieval Augmented Generation Prompting? Context, Grounding, and Limits",
-      "content_text": "Explore retrieval augmented generation prompting, how it grounds answers with context, where it breaks, and how to operationalize it safely.",
-      "date_published": "2025-08-29T00:17:01.9941285Z"
+      "id": "https://pulsegeek.com/articles/how-to-conduct-a-data-bias-audit-with-confidence/",
+      "url": "https://pulsegeek.com/articles/how-to-conduct-a-data-bias-audit-with-confidence/",
+      "title": "How to Conduct a Data Bias Audit with Confidence",
+      "content_text": "A practical, step-by-step method to scope, measure, mitigate, and monitor data bias with clear controls, documentation, and ongoing accountability.",
+      "date_published": "2025-08-30T18:00:00.0000000Z",
+      "date_modified": "2025-08-30T18:00:00.0000000Z"
     },
     {
-      "id": "https://pulsegeek.com/articles/how-to-version-and-document-prompts-changelogs-tests-and-readme-patterns/",
-      "url": "https://pulsegeek.com/articles/how-to-version-and-document-prompts-changelogs-tests-and-readme-patterns/",
-      "title": "How to Version and Document Prompts: Changelogs, Tests, and Readme Patterns",
-      "content_text": "Learn how to version and document prompts with changelogs, tests, and READMEs. Build reliable, governed workflows that scale across teams.",
-      "date_published": "2025-08-29T00:17:01.9854876Z"
-    },
-    {
-      "id": "https://pulsegeek.com/articles/orchestration-tools-for-prompt-workflows-features-integrations-and-fit/",
-      "url": "https://pulsegeek.com/articles/orchestration-tools-for-prompt-workflows-features-integrations-and-fit/",
-      "title": "Orchestration Tools for Prompt Workflows: Features, Integrations, and Fit",
-      "content_text": "Explore orchestration tools for prompt workflows, including governance, integrations, and evaluation practices to scale safe, consistent outputs.",
-      "date_published": "2025-08-29T00:17:01.9779041Z"
-    },
-    {
-      "id": "https://pulsegeek.com/articles/guardrails-and-safety-prompts-best-practices-filters-policies-and-overrides/",
-      "url": "https://pulsegeek.com/articles/guardrails-and-safety-prompts-best-practices-filters-policies-and-overrides/",
-      "title": "Guardrails and Safety Prompts Best Practices: Filters, Policies, and Overrides",
-      "content_text": "Practical best practices for guardrails and safety prompts, including filters, policies, overrides, and governance across teams.",
-      "date_published": "2025-08-29T00:17:01.9693849Z"
-    },
-    {
-      "id": "https://pulsegeek.com/articles/how-to-create-reusable-prompt-libraries-taxonomy-metadata-and-access/",
-      "url": "https://pulsegeek.com/articles/how-to-create-reusable-prompt-libraries-taxonomy-metadata-and-access/",
-      "title": "How to Create Reusable Prompt Libraries: Taxonomy, Metadata, and Access",
-      "content_text": "Build reusable prompt libraries with clear taxonomy, rich metadata, and governed access to scale consistency and safety across teams.",
-      "date_published": "2025-08-29T00:17:01.9627304Z"
-    },
-    {
-      "id": "https://pulsegeek.com/articles/prompt-chaining-workflow-templates-reusable-chains-governance-and-versioning/",
-      "url": "https://pulsegeek.com/articles/prompt-chaining-workflow-templates-reusable-chains-governance-and-versioning/",
-      "title": "Prompt Chaining Workflow Templates: Reusable Chains, Governance, and Versioning",
-      "content_text": "Build prompt chaining workflow templates with reusable chains, guardrails, and versioning. Learn tools, libraries, documentation, and RAG integration for safe scale.",
-      "date_published": "2025-08-29T00:17:01.9554397Z"
-    },
-    {
-      "id": "https://pulsegeek.com/articles/what-is-prompt-leakage-and-how-to-prevent-it-risks-patterns-and-guardrails/",
-      "url": "https://pulsegeek.com/articles/what-is-prompt-leakage-and-how-to-prevent-it-risks-patterns-and-guardrails/",
-      "title": "What Is Prompt Leakage and How to Prevent It? Risks, Patterns, and Guardrails",
-      "content_text": "Learn what prompt leakage is, why it\u2019s risky, common patterns to watch, and practical guardrails to prevent it.",
-      "date_published": "2025-08-29T00:17:01.9477283Z"
-    },
-    {
-      "id": "https://pulsegeek.com/articles/human-vs-automated-prompt-evaluation-cost-bias-and-speed-compared/",
-      "url": "https://pulsegeek.com/articles/human-vs-automated-prompt-evaluation-cost-bias-and-speed-compared/",
-      "title": "Human vs Automated Prompt Evaluation: Cost, Bias, and Speed Compared",
-      "content_text": "Compare human vs automated prompt evaluation across cost, bias, and speed. Learn when to use each and how to mix both effectively.",
-      "date_published": "2025-08-29T00:17:01.9397700Z"
-    },
-    {
-      "id": "https://pulsegeek.com/articles/how-to-build-a-prompt-test-dataset-coverage-edge-cases-and-ground-truth/",
-      "url": "https://pulsegeek.com/articles/how-to-build-a-prompt-test-dataset-coverage-edge-cases-and-ground-truth/",
-      "title": "How to Build a Prompt Test Dataset: Coverage, Edge Cases, and Ground Truth",
-      "content_text": "Learn how to build a prompt test dataset with broad coverage, edge cases, and verifiable ground truth for reliable evaluation.",
-      "date_published": "2025-08-29T00:17:01.9319527Z"
-    },
-    {
-      "id": "https://pulsegeek.com/articles/automatic-prompt-quality-metrics-from-cot-validity-to-toxicity-screens/",
-      "url": "https://pulsegeek.com/articles/automatic-prompt-quality-metrics-from-cot-validity-to-toxicity-screens/",
-      "title": "Automatic Prompt Quality Metrics: From CoT Validity to Toxicity Screens",
-      "content_text": "Learn automatic prompt quality metrics from chain-of-thought validity to toxicity screens, with examples, tradeoffs, and practical workflows.",
-      "date_published": "2025-08-29T00:17:01.9226512Z"
-    },
-    {
-      "id": "https://pulsegeek.com/articles/how-to-a-b-test-prompts-experiment-design-metrics-and-significance/",
-      "url": "https://pulsegeek.com/articles/how-to-a-b-test-prompts-experiment-design-metrics-and-significance/",
-      "title": "How to A/B Test Prompts: Experiment Design, Metrics, and Significance",
-      "content_text": "Learn how to A/B test prompts with solid experiment design, reliable metrics, and significance checks, plus tips to avoid common pitfalls.",
-      "date_published": "2025-08-29T00:17:01.9146570Z"
-    },
-    {
-      "id": "https://pulsegeek.com/articles/prompt-evaluation-rubric-examples-scoring-criteria-test-sets-and-a-b-methods/",
-      "url": "https://pulsegeek.com/articles/prompt-evaluation-rubric-examples-scoring-criteria-test-sets-and-a-b-methods/",
-      "title": "Prompt Evaluation Rubric Examples: Scoring Criteria, Test Sets, and A/B Methods",
-      "content_text": "Learn practical prompt evaluation rubric examples, scoring criteria, test sets, and A/B methods with balanced human and automated review.",
-      "date_published": "2025-08-29T00:17:01.9064157Z"
-    },
-    {
-      "id": "https://pulsegeek.com/articles/how-to-prompt-for-brand-consistent-visuals-palettes-props-and-negative-prompts/",
-      "url": "https://pulsegeek.com/articles/how-to-prompt-for-brand-consistent-visuals-palettes-props-and-negative-prompts/",
-      "title": "How to Prompt for Brand-Consistent Visuals: Palettes, Props, and Negative Prompts",
-      "content_text": "Learn how to prompt for brand-consistent visuals using palettes, signature props, and negative prompts, with testing workflows and governance tips.",
-      "date_published": "2025-08-29T00:17:01.8991081Z"
-    },
-    {
-      "id": "https://pulsegeek.com/articles/comparison-of-text-to-image-prompt-styles-photorealism-vs-illustration-vs-3d/",
-      "url": "https://pulsegeek.com/articles/comparison-of-text-to-image-prompt-styles-photorealism-vs-illustration-vs-3d/",
-      "title": "Comparison of Text-to-Image Prompt Styles: Photorealism vs Illustration vs 3D",
-      "content_text": "A practical comparison of text-to-image prompt styles\u2014photorealism, illustration, and 3D\u2014with controls, pros and cons, and use-case guidance.",
-      "date_published": "2025-08-29T00:17:01.8914850Z"
-    },
-    {
-      "id": "https://pulsegeek.com/articles/prompt-modifiers-and-styles-for-images-a-catalog-of-aesthetics-and-lighting/",
-      "url": "https://pulsegeek.com/articles/prompt-modifiers-and-styles-for-images-a-catalog-of-aesthetics-and-lighting/",
-      "title": "Prompt Modifiers and Styles for Images: A Catalog of Aesthetics and Lighting",
-      "content_text": "Learn prompt modifiers and styles for images with clear examples of aesthetics, lighting, and camera controls for consistent visuals.",
-      "date_published": "2025-08-29T00:17:01.8839660Z"
-    },
-    {
-      "id": "https://pulsegeek.com/articles/how-to-write-prompts-for-image-generation-subjects-styles-and-constraints/",
-      "url": "https://pulsegeek.com/articles/how-to-write-prompts-for-image-generation-subjects-styles-and-constraints/",
-      "title": "How to Write Prompts for Image Generation: Subjects, Styles, and Constraints",
-      "content_text": "Learn how to write prompts for image generation with clear subjects, consistent styles, and brand-safe constraints.",
-      "date_published": "2025-08-29T00:17:01.8773795Z"
-    },
-    {
-      "id": "https://pulsegeek.com/articles/image-prompt-templates-for-marketers-campaign-ready-structures-and-variations/",
-      "url": "https://pulsegeek.com/articles/image-prompt-templates-for-marketers-campaign-ready-structures-and-variations/",
-      "title": "Image Prompt Templates for Marketers: Campaign-Ready Structures and Variations",
-      "content_text": "Steal-ready image prompt templates for marketers. Craft brand-safe, scalable visuals with structured prompts, style controls, and testing tips.",
-      "date_published": "2025-08-29T00:17:01.8690448Z"
-    },
-    {
-      "id": "https://pulsegeek.com/articles/multimodal-prompting-with-text-and-images-a-practitioners-guide-to-consistency/",
-      "url": "https://pulsegeek.com/articles/multimodal-prompting-with-text-and-images-a-practitioners-guide-to-consistency/",
-      "title": "Multimodal Prompting with Text and Images: A Practitioner\u2019s Guide to Consistency",
-      "content_text": "A practical guide to consistent multimodal prompting, with style controls, templates, evaluation, and brand-safe workflows.",
-      "date_published": "2025-08-29T00:17:01.8569601Z"
-    },
-    {
-      "id": "https://pulsegeek.com/articles/product-description-prompt-templates-attributes-benefits-and-schema/",
-      "url": "https://pulsegeek.com/articles/product-description-prompt-templates-attributes-benefits-and-schema/",
-      "title": "Product Description Prompt Templates: Attributes, Benefits, and Schema",
-      "content_text": "Use product description prompt templates to turn attributes into benefits, align tone, and output schema-ready copy for SEO.",
-      "date_published": "2025-08-29T00:17:01.8436575Z"
-    },
-    {
-      "id": "https://pulsegeek.com/articles/how-to-prompt-for-code-generation-safely-constraints-tests-and-reviews/",
-      "url": "https://pulsegeek.com/articles/how-to-prompt-for-code-generation-safely-constraints-tests-and-reviews/",
-      "title": "How to Prompt for Code Generation Safely: Constraints, Tests, and Reviews",
-      "content_text": "Learn how to prompt for code generation safely using clear constraints, test-first prompts, and structured reviews with CI guardrails.",
-      "date_published": "2025-08-29T00:17:01.8305130Z"
-    },
-    {
-      "id": "https://pulsegeek.com/articles/email-writing-prompt-templates-subject-lines-sequences-and-ctas/",
-      "url": "https://pulsegeek.com/articles/email-writing-prompt-templates-subject-lines-sequences-and-ctas/",
-      "title": "Email Writing Prompt Templates: Subject Lines, Sequences, and CTAs",
-      "content_text": "Steal-ready email writing prompt templates for subject lines, sequences, and CTAs. Build clarity, test fast, and maintain brand-safe tone.",
-      "date_published": "2025-08-29T00:17:01.8182806Z"
-    },
-    {
-      "id": "https://pulsegeek.com/articles/how-to-prompt-for-seo-content-outlines-entities-headers-and-internal-links/",
-      "url": "https://pulsegeek.com/articles/how-to-prompt-for-seo-content-outlines-entities-headers-and-internal-links/",
-      "title": "How to Prompt for SEO Content Outlines: Entities, Headers, and Internal Links",
-      "content_text": "Learn step-by-step prompts for SEO content outlines using entities, H2/H3 structure, and internal links with examples and QA tips.",
-      "date_published": "2025-08-29T00:17:01.8058923Z"
-    },
-    {
-      "id": "https://pulsegeek.com/articles/blog-post-prompt-templates-outlines-angles-and-style-controls/",
-      "url": "https://pulsegeek.com/articles/blog-post-prompt-templates-outlines-angles-and-style-controls/",
-      "title": "Blog Post Prompt Templates: Outlines, Angles, and Style Controls",
-      "content_text": "Use proven blog post prompt templates for outlines, angles, and tone. Get reusable styles, SEO structure, and QA prompts.",
-      "date_published": "2025-08-29T00:17:01.7923472Z"
-    },
-    {
-      "id": "https://pulsegeek.com/articles/persona-based-prompting-for-marketing-templates-tone-controls-and-seo-structure/",
-      "url": "https://pulsegeek.com/articles/persona-based-prompting-for-marketing-templates-tone-controls-and-seo-structure/",
-      "title": "Persona-Based Prompting for Marketing: Templates, Tone Controls, and SEO Structure",
-      "content_text": "Reusable persona-led prompts for marketing with tone controls, SEO structure, and evaluation techniques that scale across channels.",
-      "date_published": "2025-08-29T00:17:01.7792429Z"
-    },
-    {
-      "id": "https://pulsegeek.com/articles/what-is-a-system-prompt-in-ai-roles-boundaries-and-best-practices/",
-      "url": "https://pulsegeek.com/articles/what-is-a-system-prompt-in-ai-roles-boundaries-and-best-practices/",
-      "title": "What Is a System Prompt in AI? Roles, Boundaries, and Best Practices",
-      "content_text": "Learn how system prompts set model behavior, define boundaries, and improve reliability, with practical patterns and safe deployment tips.",
-      "date_published": "2025-08-29T00:17:01.7666061Z"
-    },
-    {
-      "id": "https://pulsegeek.com/articles/zero-shot-vs-few-shot-prompting-accuracy-control-and-cost-compared/",
-      "url": "https://pulsegeek.com/articles/zero-shot-vs-few-shot-prompting-accuracy-control-and-cost-compared/",
-      "title": "Zero-Shot vs Few-Shot Prompting: Accuracy, Control, and Cost Compared",
-      "content_text": "Compare zero-shot vs few-shot prompting by accuracy, control, and cost. See tradeoffs, when to choose each, and practical guidance.",
-      "date_published": "2025-08-29T00:17:01.7545459Z"
-    },
-    {
-      "id": "https://pulsegeek.com/articles/how-to-write-effective-prompts-from-role-hints-to-output-constraints/",
-      "url": "https://pulsegeek.com/articles/how-to-write-effective-prompts-from-role-hints-to-output-constraints/",
-      "title": "How to Write Effective Prompts: From Role Hints to Output Constraints",
-      "content_text": "Learn how to write effective prompts with role hints, boundaries, examples, and output constraints that improve accuracy and reliability.",
-      "date_published": "2025-08-29T00:17:01.7407016Z"
-    },
-    {
-      "id": "https://pulsegeek.com/articles/few-shot-prompting-examples-reusable-patterns-for-better-outputs/",
-      "url": "https://pulsegeek.com/articles/few-shot-prompting-examples-reusable-patterns-for-better-outputs/",
-      "title": "Few-Shot Prompting Examples: Reusable Patterns for Better Outputs",
-      "content_text": "See practical few-shot prompting examples with reusable patterns, tips, and tradeoffs to improve accuracy and control across tasks.",
-      "date_published": "2025-08-29T00:17:01.7282094Z"
-    },
-    {
-      "id": "https://pulsegeek.com/articles/chain-of-thought-prompting-pattern-when-to-use-it-and-how-to-guide-reasoning/",
-      "url": "https://pulsegeek.com/articles/chain-of-thought-prompting-pattern-when-to-use-it-and-how-to-guide-reasoning/",
-      "title": "Chain-of-Thought Prompting Pattern: When to Use It and How to Guide Reasoning",
-      "content_text": "Learn when chain-of-thought prompting helps, how to guide reasoning, and what tradeoffs to expect with examples and patterns.",
-      "date_published": "2025-08-29T00:17:01.7153773Z"
-    },
-    {
-      "id": "https://pulsegeek.com/articles/prompt-engineering-guide-core-patterns-system-prompts-and-reliable-techniques/",
-      "url": "https://pulsegeek.com/articles/prompt-engineering-guide-core-patterns-system-prompts-and-reliable-techniques/",
-      "title": "Prompt Engineering Guide: Core Patterns, System Prompts, and Reliable Techniques",
-      "content_text": "A deep prompt engineering guide on core patterns, system prompts, and reliable techniques with practical examples and links.",
-      "date_published": "2025-08-29T00:17:01.6933722Z"
-    },
-    {
-      "id": "https://pulsegeek.com/articles/prompt-engineering-complete-patterns-templates-and-evaluation-playbook/",
-      "url": "https://pulsegeek.com/articles/prompt-engineering-complete-patterns-templates-and-evaluation-playbook/",
-      "title": "Prompt Engineering: Complete Patterns, Templates, and Evaluation Playbook",
-      "content_text": "A complete prompt engineering playbook covering core patterns, reusable templates, multimodal tactics, and rigorous evaluation workflows.",
-      "date_published": "2025-08-29T00:17:01.6212725Z"
-    },
-    {
-      "id": "https://pulsegeek.com/articles/saidi-saifi-reliability-improvement-roadmap-high-impact-projects-and-metrics/",
-      "url": "https://pulsegeek.com/articles/saidi-saifi-reliability-improvement-roadmap-high-impact-projects-and-metrics/",
-      "title": "SAIDI/SAIFI Reliability Improvement Roadmap: High\u2011Impact Projects and Metrics",
-      "content_text": "A focused roadmap to improve SAIDI and SAIFI with data governance, grid\u2011edge automation, and cybersecurity, plus metrics that drive dependable gains.",
-      "date_published": "2025-08-21T06:58:11.0704122Z"
-    },
-    {
-      "id": "https://pulsegeek.com/articles/open-source-vs-commercial-interoperability-testing-tools-for-smart-grids/",
-      "url": "https://pulsegeek.com/articles/open-source-vs-commercial-interoperability-testing-tools-for-smart-grids/",
-      "title": "Open\u2011Source vs Commercial Interoperability Testing Tools for Smart Grids",
-      "content_text": "Compare open-source vs commercial interoperability testing tools for smart grids. Evaluate cost, coverage, security, and fit for OT and IT teams.",
-      "date_published": "2025-08-21T06:58:11.0627969Z"
-    },
-    {
-      "id": "https://pulsegeek.com/articles/security-controls-for-iec-61850-substations-a-defense-in-depth-checklist/",
-      "url": "https://pulsegeek.com/articles/security-controls-for-iec-61850-substations-a-defense-in-depth-checklist/",
-      "title": "Security Controls for IEC 61850 Substations: A Defense\u2011in\u2011Depth Checklist",
-      "content_text": "A practical, defense-in-depth checklist of security controls for IEC 61850 substations, spanning segmentation, identity, monitoring, and resilience.",
-      "date_published": "2025-08-21T06:58:11.0547994Z"
-    },
-    {
-      "id": "https://pulsegeek.com/articles/grid-edge-analytics-for-outage-management-top-techniques-and-tools/",
-      "url": "https://pulsegeek.com/articles/grid-edge-analytics-for-outage-management-top-techniques-and-tools/",
-      "title": "Grid\u2011Edge Analytics for Outage Management: Top Techniques and Tools",
-      "content_text": "Top techniques and tools for grid\u2011edge analytics that accelerate outage detection, localization, and restoration while improving reliability and security.",
-      "date_published": "2025-08-21T06:58:11.0483386Z"
-    },
-    {
-      "id": "https://pulsegeek.com/articles/synchrophasor-pmu-data-for-distribution-visibility-use-cases-and-integration-patterns/",
-      "url": "https://pulsegeek.com/articles/synchrophasor-pmu-data-for-distribution-visibility-use-cases-and-integration-patterns/",
-      "title": "Synchrophasor (PMU) Data for Distribution Visibility: Use Cases and Integration Patterns",
-      "content_text": "Learn how PMU synchrophasors unlock distribution visibility, key use cases, and secure integration patterns across OT and IT systems.",
-      "date_published": "2025-08-21T06:58:11.0422748Z"
-    },
-    {
-      "id": "https://pulsegeek.com/articles/data-governance-for-utility-ot-it-convergence-models-security-and-interoperability/",
-      "url": "https://pulsegeek.com/articles/data-governance-for-utility-ot-it-convergence-models-security-and-interoperability/",
-      "title": "Data Governance for Utility OT/IT Convergence: Models, Security, and Interoperability",
-      "content_text": "A practical guide to utility OT/IT data governance covering models, security, interoperability, and reliability with actionable frameworks and real examples.",
-      "date_published": "2025-08-21T06:58:11.0353935Z"
-    },
-    {
-      "id": "https://pulsegeek.com/articles/how-does-bidirectional-charging-work-power-flow-converters-and-use-cases/",
-      "url": "https://pulsegeek.com/articles/how-does-bidirectional-charging-work-power-flow-converters-and-use-cases/",
-      "title": "How Does Bidirectional Charging Work? Power Flow, Converters, and Use Cases",
-      "content_text": "Understand bidirectional charging: power flow, converters, controls, and real use cases across homes, fleets, and the grid.",
-      "date_published": "2025-08-21T06:58:11.0293057Z"
-    },
-    {
-      "id": "https://pulsegeek.com/articles/v2g-aggregator-business-models-revenue-stacks-and-regulatory-paths/",
-      "url": "https://pulsegeek.com/articles/v2g-aggregator-business-models-revenue-stacks-and-regulatory-paths/",
-      "title": "V2G Aggregator Business Models: Revenue Stacks and Regulatory Paths",
-      "content_text": "Explore V2G aggregator business models, revenue stacks, and regulatory paths with actionable steps, standards context, and real project lessons.",
-      "date_published": "2025-08-21T06:58:11.0223685Z"
-    },
-    {
-      "id": "https://pulsegeek.com/articles/how-to-plan-v2g-interconnection-for-utilities-protection-metering-and-tariffs/",
-      "url": "https://pulsegeek.com/articles/how-to-plan-v2g-interconnection-for-utilities-protection-metering-and-tariffs/",
-      "title": "How to Plan V2G Interconnection for Utilities: Protection, Metering, and Tariffs",
-      "content_text": "Step-by-step V2G interconnection planning for utilities covering standards, protection, metering, and tariff design with field tips and pilot lessons.",
-      "date_published": "2025-08-21T06:58:11.0161234Z"
-    },
-    {
-      "id": "https://pulsegeek.com/articles/ocpp-vs-iso-15118-communication-plug-and-charge-and-smart-charging-compared/",
-      "url": "https://pulsegeek.com/articles/ocpp-vs-iso-15118-communication-plug-and-charge-and-smart-charging-compared/",
-      "title": "OCPP vs ISO 15118: Communication, Plug\u2011and\u2011Charge, and Smart Charging Compared",
-      "content_text": "Compare OCPP and ISO 15118 for EV charging. Understand Plug-and-Charge, security, smart charging, and V2G readiness with clear use-case guidance.",
-      "date_published": "2025-08-21T06:58:11.0099661Z"
-    },
-    {
-      "id": "https://pulsegeek.com/articles/ev-charging-load-management-strategies-for-depots-fleets-and-buildings/",
-      "url": "https://pulsegeek.com/articles/ev-charging-load-management-strategies-for-depots-fleets-and-buildings/",
-      "title": "EV Charging Load Management Strategies for Depots, Fleets, and Buildings",
-      "content_text": "Practical EV charging load management strategies for depots, fleets, and buildings with standards, tariffs, and V2G readiness.",
-      "date_published": "2025-08-21T06:58:11.0030993Z"
+      "id": "https://pulsegeek.com/articles/best-tools-for-ai-dataset-versioning-and-lineage/",
+      "url": "https://pulsegeek.com/articles/best-tools-for-ai-dataset-versioning-and-lineage/",
+      "title": "Best Tools for AI Dataset Versioning and Lineage",
+      "content_text": "Explore the best tools for AI dataset versioning and lineage, with practical tradeoffs, examples, and auditing guidance for ethical, reproducible ML.",
+      "date_published": "2025-08-27T18:00:00.0000000Z",
+      "date_modified": "2025-08-27T18:00:00.0000000Z"
     },
     {
       "id": "https://pulsegeek.com/articles/vehicle-to-grid-integration-standards-overview-ocpp-iso-15118-ieee-2030-5-and-grid-codes/",
       "url": "https://pulsegeek.com/articles/vehicle-to-grid-integration-standards-overview-ocpp-iso-15118-ieee-2030-5-and-grid-codes/",
       "title": "Vehicle\u2011to\u2011Grid Integration Standards Overview: OCPP, ISO 15118, IEEE 2030.5, and Grid Codes",
       "content_text": "Explore V2G standards with practical guidance on OCPP, ISO 15118, IEEE 2030.5, and grid codes for interoperable bidirectional charging.",
-      "date_published": "2025-08-21T06:58:10.9971359Z"
+      "date_published": "2025-08-26T02:00:00.0000000Z",
+      "date_modified": "2025-08-26T02:00:00.0000000Z"
+    },
+    {
+      "id": "https://pulsegeek.com/articles/how-to-write-effective-prompts-from-role-hints-to-output-constraints/",
+      "url": "https://pulsegeek.com/articles/how-to-write-effective-prompts-from-role-hints-to-output-constraints/",
+      "title": "How to Write Effective Prompts: From Role Hints to Output Constraints",
+      "content_text": "Learn how to write effective prompts with role hints, boundaries, examples, and output constraints that improve accuracy and reliability.",
+      "date_published": "2025-08-25T02:00:00.0000000Z",
+      "date_modified": "2025-08-25T02:00:00.0000000Z"
+    },
+    {
+      "id": "https://pulsegeek.com/articles/dataset-documentation-and-datasheets-the-complete-guide/",
+      "url": "https://pulsegeek.com/articles/dataset-documentation-and-datasheets-the-complete-guide/",
+      "title": "Dataset Documentation and Datasheets: The Complete Guide",
+      "content_text": "Learn how to design, maintain, and audit dataset documentation and datasheets to reduce bias, protect privacy, and ensure traceable AI data.",
+      "date_published": "2025-08-24T18:00:00.0000000Z",
+      "date_modified": "2025-08-24T18:00:00.0000000Z"
+    },
+    {
+      "id": "https://pulsegeek.com/articles/security-controls-for-iec-61850-substations-a-defense-in-depth-checklist/",
+      "url": "https://pulsegeek.com/articles/security-controls-for-iec-61850-substations-a-defense-in-depth-checklist/",
+      "title": "Security Controls for IEC 61850 Substations: A Defense\u2011in\u2011Depth Checklist",
+      "content_text": "A practical, defense-in-depth checklist of security controls for IEC 61850 substations, spanning segmentation, identity, monitoring, and resilience.",
+      "date_published": "2025-08-24T02:00:00.0000000Z",
+      "date_modified": "2025-08-24T02:00:00.0000000Z"
+    },
+    {
+      "id": "https://pulsegeek.com/articles/few-shot-prompting-examples-reusable-patterns-for-better-outputs/",
+      "url": "https://pulsegeek.com/articles/few-shot-prompting-examples-reusable-patterns-for-better-outputs/",
+      "title": "Few-Shot Prompting Examples: Reusable Patterns for Better Outputs",
+      "content_text": "See practical few-shot prompting examples with reusable patterns, tips, and tradeoffs to improve accuracy and control across tasks.",
+      "date_published": "2025-08-23T02:00:00.0000000Z",
+      "date_modified": "2025-08-23T02:00:00.0000000Z"
+    },
+    {
+      "id": "https://pulsegeek.com/articles/top-iec-cim-data-model-use-cases-for-utilities/",
+      "url": "https://pulsegeek.com/articles/top-iec-cim-data-model-use-cases-for-utilities/",
+      "title": "Top IEC CIM Data Model Use Cases for Utilities",
+      "content_text": "Discover high\u2011impact IEC CIM use cases for utilities, from CGMES model exchange to ADMS integration and DER planning with IEEE 2030.5 mappings.",
+      "date_published": "2025-08-22T02:00:00.0000000Z",
+      "date_modified": "2025-08-22T02:00:00.0000000Z"
+    },
+    {
+      "id": "https://pulsegeek.com/articles/open-source-vs-commercial-interoperability-testing-tools-for-smart-grids/",
+      "url": "https://pulsegeek.com/articles/open-source-vs-commercial-interoperability-testing-tools-for-smart-grids/",
+      "title": "Open\u2011Source vs Commercial Interoperability Testing Tools for Smart Grids",
+      "content_text": "Compare open-source vs commercial interoperability testing tools for smart grids. Evaluate cost, coverage, security, and fit for OT and IT teams.",
+      "date_published": "2025-08-22T02:00:00.0000000Z",
+      "date_modified": "2025-08-22T02:00:00.0000000Z"
+    },
+    {
+      "id": "https://pulsegeek.com/articles/top-ai-governance-best-practices-for-real-programs/",
+      "url": "https://pulsegeek.com/articles/top-ai-governance-best-practices-for-real-programs/",
+      "title": "Top AI Governance Best Practices for Real Programs",
+      "content_text": "A practical list of AI governance best practices that anchor accountability, operationalize risk, and sustain monitoring across real programs.",
+      "date_published": "2025-08-21T18:00:00.0000000Z",
+      "date_modified": "2025-08-21T18:00:00.0000000Z"
+    },
+    {
+      "id": "https://pulsegeek.com/articles/grid-edge-analytics-for-outage-management-top-techniques-and-tools/",
+      "url": "https://pulsegeek.com/articles/grid-edge-analytics-for-outage-management-top-techniques-and-tools/",
+      "title": "Grid\u2011Edge Analytics for Outage Management: Top Techniques and Tools",
+      "content_text": "Top techniques and tools for grid\u2011edge analytics that accelerate outage detection, localization, and restoration while improving reliability and security.",
+      "date_published": "2025-08-21T02:00:00.0000000Z",
+      "date_modified": "2025-08-21T02:00:00.0000000Z"
+    },
+    {
+      "id": "https://pulsegeek.com/articles/chain-of-thought-prompting-pattern-when-to-use-it-and-how-to-guide-reasoning/",
+      "url": "https://pulsegeek.com/articles/chain-of-thought-prompting-pattern-when-to-use-it-and-how-to-guide-reasoning/",
+      "title": "Chain-of-Thought Prompting Pattern: When to Use It and How to Guide Reasoning",
+      "content_text": "Learn when chain-of-thought prompting helps, how to guide reasoning, and what tradeoffs to expect with examples and patterns.",
+      "date_published": "2025-08-21T02:00:00.0000000Z",
+      "date_modified": "2025-08-21T02:00:00.0000000Z"
+    },
+    {
+      "id": "https://pulsegeek.com/articles/smart-grid-integration-architecture-reference-models-from-substation-to-cloud/",
+      "url": "https://pulsegeek.com/articles/smart-grid-integration-architecture-reference-models-from-substation-to-cloud/",
+      "title": "Smart Grid Integration Architecture: Reference Models from Substation to Cloud",
+      "content_text": "Design interoperable smart grid integration architecture from substation to cloud with IEC 61850, CIM, and IEEE 2030.5 reference patterns.",
+      "date_published": "2025-08-20T02:00:00.0000000Z",
+      "date_modified": "2025-08-20T02:00:00.0000000Z"
+    },
+    {
+      "id": "https://pulsegeek.com/articles/data-governance-for-utility-ot-it-convergence-models-security-and-interoperability/",
+      "url": "https://pulsegeek.com/articles/data-governance-for-utility-ot-it-convergence-models-security-and-interoperability/",
+      "title": "Data Governance for Utility OT/IT Convergence: Models, Security, and Interoperability",
+      "content_text": "A practical guide to utility OT/IT data governance covering models, security, interoperability, and reliability with actionable frameworks and real examples.",
+      "date_published": "2025-08-20T02:00:00.0000000Z",
+      "date_modified": "2025-08-20T02:00:00.0000000Z"
+    },
+    {
+      "id": "https://pulsegeek.com/articles/prompt-engineering-guide-core-patterns-system-prompts-and-reliable-techniques/",
+      "url": "https://pulsegeek.com/articles/prompt-engineering-guide-core-patterns-system-prompts-and-reliable-techniques/",
+      "title": "Prompt Engineering Guide: Core Patterns, System Prompts, and Reliable Techniques",
+      "content_text": "A deep prompt engineering guide on core patterns, system prompts, and reliable techniques with practical examples and links.",
+      "date_published": "2025-08-19T02:00:00.0000000Z",
+      "date_modified": "2025-08-19T02:00:00.0000000Z"
+    },
+    {
+      "id": "https://pulsegeek.com/articles/setting-up-an-ai-oversight-committee-step-by-step/",
+      "url": "https://pulsegeek.com/articles/setting-up-an-ai-oversight-committee-step-by-step/",
+      "title": "Setting Up an AI Oversight Committee, Step by Step",
+      "content_text": "Learn how to set up an AI oversight committee with clear mandate, structure, workflows, and metrics for accountable governance.",
+      "date_published": "2025-08-18T18:00:00.0000000Z",
+      "date_modified": "2025-08-18T18:00:00.0000000Z"
+    },
+    {
+      "id": "https://pulsegeek.com/articles/ieee-2030-5-sep-for-der-integration-capabilities-security-and-utility-adoption/",
+      "url": "https://pulsegeek.com/articles/ieee-2030-5-sep-for-der-integration-capabilities-security-and-utility-adoption/",
+      "title": "IEEE 2030.5 SEP for DER Integration: Capabilities, Security, and Utility Adoption",
+      "content_text": "Understand IEEE 2030.5 SEP for DER integration, including capabilities, security, profiles like CSIP, and how utilities deploy it alongside IEC 61850 and CIM.",
+      "date_published": "2025-08-18T02:00:00.0000000Z",
+      "date_modified": "2025-08-18T02:00:00.0000000Z"
+    },
+    {
+      "id": "https://pulsegeek.com/articles/prompt-modifiers-and-styles-for-images-a-catalog-of-aesthetics-and-lighting/",
+      "url": "https://pulsegeek.com/articles/prompt-modifiers-and-styles-for-images-a-catalog-of-aesthetics-and-lighting/",
+      "title": "Prompt Modifiers and Styles for Images: A Catalog of Aesthetics and Lighting",
+      "content_text": "Learn prompt modifiers and styles for images with clear examples of aesthetics, lighting, and camera controls for consistent visuals.",
+      "date_published": "2025-08-17T02:00:00.0000000Z",
+      "date_modified": "2025-08-17T02:00:00.0000000Z"
     },
     {
       "id": "https://pulsegeek.com/articles/top-load-flexibility-use-cases-for-c-and-i-and-residential-customers/",
       "url": "https://pulsegeek.com/articles/top-load-flexibility-use-cases-for-c-and-i-and-residential-customers/",
       "title": "Top Load Flexibility Use Cases for C\u0026I and Residential Customers",
       "content_text": "Explore top load flexibility use cases for C\u0026amp;I and residential customers, from HVAC and refrigeration to EVs and batteries, powered by AMI and DR.",
-      "date_published": "2025-08-21T06:58:10.9903182Z"
+      "date_published": "2025-08-16T18:00:00.0000000Z",
+      "date_modified": "2025-08-16T18:00:00.0000000Z"
     },
     {
-      "id": "https://pulsegeek.com/articles/how-to-build-load-forecasting-for-demand-response-optimization/",
-      "url": "https://pulsegeek.com/articles/how-to-build-load-forecasting-for-demand-response-optimization/",
-      "title": "How to Build Load Forecasting for Demand Response Optimization",
-      "content_text": "Step-by-step guide to build AMI-based load forecasting for demand response, from data prep to DRMS integration and operational playbooks.",
-      "date_published": "2025-08-21T06:58:10.9837674Z"
+      "id": "https://pulsegeek.com/articles/how-to-implement-iec-61850-in-substations-profiles-scl-and-migration-steps/",
+      "url": "https://pulsegeek.com/articles/how-to-implement-iec-61850-in-substations-profiles-scl-and-migration-steps/",
+      "title": "How to Implement IEC 61850 in Substations: Profiles, SCL, and Migration Steps",
+      "content_text": "Step-by-step IEC 61850 substation implementation using profiles, SCL engineering, testing, and staged migration for interoperable protection and SCADA.",
+      "date_published": "2025-08-16T02:00:00.0000000Z",
+      "date_modified": "2025-08-16T02:00:00.0000000Z"
     },
     {
-      "id": "https://pulsegeek.com/articles/how-to-integrate-drms-with-the-ami-headend-interfaces-events-and-testing/",
-      "url": "https://pulsegeek.com/articles/how-to-integrate-drms-with-the-ami-headend-interfaces-events-and-testing/",
-      "title": "How to Integrate DRMS with the AMI Headend: Interfaces, Events, and Testing",
-      "content_text": "Step-by-step guide to integrate DRMS with an AMI headend, map interfaces, model events, and run end-to-end testing.",
-      "date_published": "2025-08-21T06:58:10.9777341Z"
+      "id": "https://pulsegeek.com/articles/nist-ai-rmf-vs-iso-standards-what-teams-should-know/",
+      "url": "https://pulsegeek.com/articles/nist-ai-rmf-vs-iso-standards-what-teams-should-know/",
+      "title": "NIST AI RMF vs ISO Standards: What Teams Should Know",
+      "content_text": "Compare NIST AI RMF with ISO AI management standards. Understand scope, controls, certification, and how to map both into practical governance.",
+      "date_published": "2025-08-15T18:00:00.0000000Z",
+      "date_modified": "2025-08-15T18:00:00.0000000Z"
+    },
+    {
+      "id": "https://pulsegeek.com/articles/image-prompt-templates-for-marketers-campaign-ready-structures-and-variations/",
+      "url": "https://pulsegeek.com/articles/image-prompt-templates-for-marketers-campaign-ready-structures-and-variations/",
+      "title": "Image Prompt Templates for Marketers: Campaign-Ready Structures and Variations",
+      "content_text": "Steal-ready image prompt templates for marketers. Craft brand-safe, scalable visuals with structured prompts, style controls, and testing tips.",
+      "date_published": "2025-08-15T02:00:00.0000000Z",
+      "date_modified": "2025-08-15T02:00:00.0000000Z"
+    },
+    {
+      "id": "https://pulsegeek.com/articles/smart-grid-interoperability-framework-architectures-models-and-standards-that-scale/",
+      "url": "https://pulsegeek.com/articles/smart-grid-interoperability-framework-architectures-models-and-standards-that-scale/",
+      "title": "Smart Grid Interoperability Framework: Architectures, Models, and Standards That Scale",
+      "content_text": "Design interoperable smart grids with layered architectures and standards like IEC 61850, CIM, and IEEE 2030.5. Practical models, tips, and roadmaps.",
+      "date_published": "2025-08-14T02:00:00.0000000Z",
+      "date_modified": "2025-08-14T02:00:00.0000000Z"
     },
     {
       "id": "https://pulsegeek.com/articles/time-of-use-pricing-communication-via-ami-messaging-standards-and-customer-ux/",
       "url": "https://pulsegeek.com/articles/time-of-use-pricing-communication-via-ami-messaging-standards-and-customer-ux/",
       "title": "Time\u2011of\u2011Use Pricing Communication via AMI: Messaging, Standards, and Customer UX",
       "content_text": "How AMI delivers clear time-of-use pricing: customer messaging patterns, standards like IEEE 2030.5, and UX design linked to DR and forecasting.",
-      "date_published": "2025-08-21T06:58:10.9710486Z"
+      "date_published": "2025-08-13T18:00:00.0000000Z",
+      "date_modified": "2025-08-13T18:00:00.0000000Z"
+    },
+    {
+      "id": "https://pulsegeek.com/articles/how-to-write-prompts-for-image-generation-subjects-styles-and-constraints/",
+      "url": "https://pulsegeek.com/articles/how-to-write-prompts-for-image-generation-subjects-styles-and-constraints/",
+      "title": "How to Write Prompts for Image Generation: Subjects, Styles, and Constraints",
+      "content_text": "Learn how to write prompts for image generation with clear subjects, consistent styles, and brand-safe constraints.",
+      "date_published": "2025-08-13T02:00:00.0000000Z",
+      "date_modified": "2025-08-13T02:00:00.0000000Z"
+    },
+    {
+      "id": "https://pulsegeek.com/articles/how-to-build-an-ai-ethics-policy-that-scales/",
+      "url": "https://pulsegeek.com/articles/how-to-build-an-ai-ethics-policy-that-scales/",
+      "title": "How to Build an AI Ethics Policy That Scales",
+      "content_text": "Practical steps to design, govern, and operationalize an AI ethics policy that scales across teams, products, and regulations.",
+      "date_published": "2025-08-12T18:00:00.0000000Z",
+      "date_modified": "2025-08-12T18:00:00.0000000Z"
+    },
+    {
+      "id": "https://pulsegeek.com/articles/smart-grid-integration-architectures-der-ami-v2g-and-interoperability-for-urban-utilities/",
+      "url": "https://pulsegeek.com/articles/smart-grid-integration-architectures-der-ami-v2g-and-interoperability-for-urban-utilities/",
+      "title": "Smart Grid Integration: Architectures, DER, AMI, V2G, and Interoperability for Urban Utilities",
+      "content_text": "Urban utilities guide to smart grid integration: architectures, DER, AMI, V2G, and interoperable data governance with real examples and standards.",
+      "date_published": "2025-08-12T02:00:00.0000000Z",
+      "date_modified": "2025-08-12T02:00:00.0000000Z"
+    },
+    {
+      "id": "https://pulsegeek.com/articles/how-to-prompt-for-brand-consistent-visuals-palettes-props-and-negative-prompts/",
+      "url": "https://pulsegeek.com/articles/how-to-prompt-for-brand-consistent-visuals-palettes-props-and-negative-prompts/",
+      "title": "How to Prompt for Brand-Consistent Visuals: Palettes, Props, and Negative Prompts",
+      "content_text": "Learn how to prompt for brand-consistent visuals using palettes, signature props, and negative prompts, with testing workflows and governance tips.",
+      "date_published": "2025-08-11T02:00:00.0000000Z",
+      "date_modified": "2025-08-11T02:00:00.0000000Z"
+    },
+    {
+      "id": "https://pulsegeek.com/articles/how-to-integrate-drms-with-the-ami-headend-interfaces-events-and-testing/",
+      "url": "https://pulsegeek.com/articles/how-to-integrate-drms-with-the-ami-headend-interfaces-events-and-testing/",
+      "title": "How to Integrate DRMS with the AMI Headend: Interfaces, Events, and Testing",
+      "content_text": "Step-by-step guide to integrate DRMS with an AMI headend, map interfaces, model events, and run end-to-end testing.",
+      "date_published": "2025-08-10T18:00:00.0000000Z",
+      "date_modified": "2025-08-10T18:00:00.0000000Z"
+    },
+    {
+      "id": "https://pulsegeek.com/articles/checklist-for-responsible-ai-deployment-and-rollout/",
+      "url": "https://pulsegeek.com/articles/checklist-for-responsible-ai-deployment-and-rollout/",
+      "title": "Checklist for Responsible AI Deployment and Rollout",
+      "content_text": "A practical, benefit-focused checklist to deploy responsible AI with governance, data controls, oversight, and response plans.",
+      "date_published": "2025-08-09T18:00:00.0000000Z",
+      "date_modified": "2025-08-09T18:00:00.0000000Z"
+    },
+    {
+      "id": "https://pulsegeek.com/articles/comparison-of-text-to-image-prompt-styles-photorealism-vs-illustration-vs-3d/",
+      "url": "https://pulsegeek.com/articles/comparison-of-text-to-image-prompt-styles-photorealism-vs-illustration-vs-3d/",
+      "title": "Comparison of Text-to-Image Prompt Styles: Photorealism vs Illustration vs 3D",
+      "content_text": "A practical comparison of text-to-image prompt styles\u2014photorealism, illustration, and 3D\u2014with controls, pros and cons, and use-case guidance.",
+      "date_published": "2025-08-09T02:00:00.0000000Z",
+      "date_modified": "2025-08-09T02:00:00.0000000Z"
     },
     {
       "id": "https://pulsegeek.com/articles/how-to-design-utility-demand-response-programs-segments-incentives-and-measurement/",
       "url": "https://pulsegeek.com/articles/how-to-design-utility-demand-response-programs-segments-incentives-and-measurement/",
       "title": "How to Design Utility Demand Response Programs: Segments, Incentives, and Measurement",
       "content_text": "Step-by-step demand response program design for utilities: segmenting customers, incentives, event rules, integration, and measurement.",
-      "date_published": "2025-08-21T06:58:10.9648312Z"
+      "date_published": "2025-08-07T18:00:00.0000000Z",
+      "date_modified": "2025-08-07T18:00:00.0000000Z"
+    },
+    {
+      "id": "https://pulsegeek.com/articles/multimodal-prompting-with-text-and-images-a-practitioners-guide-to-consistency/",
+      "url": "https://pulsegeek.com/articles/multimodal-prompting-with-text-and-images-a-practitioners-guide-to-consistency/",
+      "title": "Multimodal Prompting with Text and Images: A Practitioner\u2019s Guide to Consistency",
+      "content_text": "A practical guide to consistent multimodal prompting, with style controls, templates, evaluation, and brand-safe workflows.",
+      "date_published": "2025-08-07T02:00:00.0000000Z",
+      "date_modified": "2025-08-07T02:00:00.0000000Z"
+    },
+    {
+      "id": "https://pulsegeek.com/articles/ai-governance-framework-components-a-working-guide/",
+      "url": "https://pulsegeek.com/articles/ai-governance-framework-components-a-working-guide/",
+      "title": "AI Governance Framework Components: A Working Guide",
+      "content_text": "A practical guide to AI governance framework components spanning principles, roles, risk controls, and monitoring with actionable steps.",
+      "date_published": "2025-08-06T18:00:00.0000000Z",
+      "date_modified": "2025-08-06T18:00:00.0000000Z"
+    },
+    {
+      "id": "https://pulsegeek.com/articles/prompt-engineering-complete-patterns-templates-and-evaluation-playbook/",
+      "url": "https://pulsegeek.com/articles/prompt-engineering-complete-patterns-templates-and-evaluation-playbook/",
+      "title": "Prompt Engineering: Complete Patterns, Templates, and Evaluation Playbook",
+      "content_text": "A complete prompt engineering playbook covering core patterns, reusable templates, multimodal tactics, and rigorous evaluation workflows.",
+      "date_published": "2025-08-05T02:00:00.0000000Z",
+      "date_modified": "2025-08-05T02:00:00.0000000Z"
+    },
+    {
+      "id": "https://pulsegeek.com/articles/how-to-build-load-forecasting-for-demand-response-optimization/",
+      "url": "https://pulsegeek.com/articles/how-to-build-load-forecasting-for-demand-response-optimization/",
+      "title": "How to Build Load Forecasting for Demand Response Optimization",
+      "content_text": "Step-by-step guide to build AMI-based load forecasting for demand response, from data prep to DRMS integration and operational playbooks.",
+      "date_published": "2025-08-04T18:00:00.0000000Z",
+      "date_modified": "2025-08-04T18:00:00.0000000Z"
+    },
+    {
+      "id": "https://pulsegeek.com/articles/ai-ethics-and-fairness-practical-paths-to-responsible-ai/",
+      "url": "https://pulsegeek.com/articles/ai-ethics-and-fairness-practical-paths-to-responsible-ai/",
+      "title": "AI Ethics and Fairness: Practical Paths to Responsible AI",
+      "content_text": "A practical, nuanced guide to AI ethics and fairness with metrics, interpretability, governance, documentation, and monitoring you can operationalize.",
+      "date_published": "2025-08-03T02:00:00.0000000Z",
+      "date_modified": "2025-08-03T02:00:00.0000000Z"
     },
     {
       "id": "https://pulsegeek.com/articles/advanced-metering-infrastructure-deployment-plan-architecture-rollout-and-change-management/",
       "url": "https://pulsegeek.com/articles/advanced-metering-infrastructure-deployment-plan-architecture-rollout-and-change-management/",
       "title": "Advanced Metering Infrastructure Deployment Plan: Architecture, Rollout, and Change Management",
       "content_text": "Design an advanced metering infrastructure deployment plan with architecture, DR integration, forecasting, and change management for utility-scale results.",
-      "date_published": "2025-08-21T06:58:10.9584534Z"
+      "date_published": "2025-08-01T18:00:00.0000000Z",
+      "date_modified": "2025-08-01T18:00:00.0000000Z"
     }
   ]
 }

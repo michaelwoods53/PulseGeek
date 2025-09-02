@@ -1,4 +1,4 @@
-﻿/* ─────────── tree view ─────────── */
+﻿/* ============ tree view ============ */
 
 .tree details {
     margin: .25rem 0 .25rem 1rem;
@@ -58,7 +58,7 @@
     display: none;
 }
 
-/* link / node styling */
+/* link and node styling */
 .node {
     text-decoration: none;
     color: inherit;
@@ -94,18 +94,16 @@
         border: 1px solid #bbb5;
         color: #666;
     }
-/* ─── mobile-first fixes for the sitemap tree ───────────────────────── */
+
+/* ============ mobile fixes for sitemap tree ============ */
 
 @media (max-width: 640px) {
-
-    /* 1) kill the vertical + horizontal rails */
     .tree details::before,
     .tree details summary::before {
         display: none;
     }
 
-    /* 2) responsive left indent using clamp:
-        min 0.5rem · ideal 2vw · max 1rem per level            */
+    /* responsive left indent using clamp */
     .tree details {
         margin-left: clamp(.5rem, 2vw, 1rem);
     }
@@ -118,11 +116,10 @@
         margin-left: clamp(.75rem, 3vw, 1.25rem);
     }
 
-    /* 3) wrap long titles & keep badges on next line if needed */
     .tree summary,
     .tree .node {
-        white-space: normal; /* allow wrap */
-        overflow-wrap: anywhere; /* break long words */
+        white-space: normal;
+        overflow-wrap: anywhere;
     }
 
     .badge {
@@ -130,13 +127,14 @@
         display: inline-block;
     }
 
-    /* 4) shrink chevron size a bit on small screens */
     .tree summary::after {
         font-size: .6rem;
         margin-left: .2rem;
     }
 }
-/* — share buttons — */
+
+/* ============ share buttons ============ */
+
 .share-buttons {
     display: inline-flex;
     flex-wrap: wrap;
@@ -157,7 +155,9 @@
         .share-buttons .share-btn:hover {
             background: #f4f4f4;
         }
-/* — Author Page — */
+
+/* ============ author page ============ */
+
 .author-page .author-header {
     margin-bottom: 2rem;
     text-align: center;
@@ -188,23 +188,25 @@
     margin: 0;
 }
 
-.author-page .articles > li {
-    margin: 0 0 .25rem .75rem;
-}
+    .author-page .articles > li {
+        margin: 0 0 .25rem .75rem;
+    }
 
 .author-page .card h3 {
     margin: 0;
 }
+
+/* ============ layout helpers ============ */
 
 .pg-container {
     max-width: 980px;
     margin-inline: auto;
 }
 
-/* MISC*/
+/* misc */
 
 .lead {
-    font-size: 1.05rem
+    font-size: 1.05rem;
 }
 
 .breadcrumb ol {
@@ -227,9 +229,9 @@ figure img {
     max-width: 100%;
     border-radius: 8px;
 }
-/* === Highlighted Summary Blocks === */
 
-/* Shared styles for both Key takeaways and Quick start */
+/* ============ highlighted summary blocks ============ */
+
 .pg-summary-block {
     border-left: 4px solid var(--pico-primary, #16a34a);
     background: hsl(210 40% 96% / 0.8);
@@ -258,32 +260,43 @@ figure img {
         line-height: 1.5;
     }
 
-/* Key takeaways specific */
+/* key takeaways */
 .pg-key-takeaways {
-    border-left-color: #2563eb; /* blue accent */
+    border-left-color: #2563eb;
     background: hsl(214 100% 97%);
 }
 
-/* Quick start checklist specific */
+    .pg-key-takeaways li::marker {
+        color: #2563eb;
+    }
+
+/* quick start checklist */
 .pg-quick-start {
-    border-left-color: #f59e0b; /* amber accent */
+    border-left-color: #f59e0b;
     background: hsl(42 100% 97%);
 }
 
     .pg-quick-start ol {
         list-style: decimal;
+        margin-top: .25rem;
     }
 
-    .pg-quick-start li strong {
-        color: #92400e;
+    .pg-quick-start li {
+        padding-left: .05rem;
     }
 
-/* === FAQ Section Styling ================================================== */
+        .pg-quick-start li strong {
+            color: #92400e;
+        }
+
+/* ============ FAQ section styling (revised) ============ */
 
 .pg-faq {
-    --faq-accent: #7c3aed; /* violet */
-    --faq-bg: hsl(250 100% 98%);
-    --faq-border: #e5e7eb;
+    /* tuned to harmonize with pico green theme */
+    --faq-accent: #6366f1; /* indigo 500 */
+    --faq-accent-strong: #4f46e5; /* indigo 600 for markers and outlines */
+    --faq-bg: hsl(240 67% 98%); /* soft indigo wash */
+    --faq-border: #e6e8ff;
     margin: 2.5rem 0;
     padding: 1rem 1rem 1.25rem;
     background: var(--faq-bg);
@@ -317,7 +330,7 @@ figure img {
         .pg-faq .faq-item:hover {
             transform: translateY(-2px);
             box-shadow: 0 6px 14px rgba(0,0,0,.06);
-            border-color: #d1d5db;
+            border-color: #d9dbff;
         }
 
         .pg-faq .faq-item:focus-within {
@@ -325,12 +338,12 @@ figure img {
             outline-offset: 2px;
         }
 
-        /* Numbered Q badge */
+        /* numbered Q badge */
         .pg-faq .faq-item h3 {
             margin: 0 0 .4rem 0;
             font-size: 1.05rem;
             line-height: 1.35;
-            padding-left: 2.2rem; /* room for badge */
+            padding-left: 2.2rem;
             color: #111827;
             position: relative;
         }
@@ -348,15 +361,15 @@ figure img {
                 place-items: center;
                 font-size: .85rem;
                 font-weight: 700;
-                color: var(--faq-accent);
-                background: color-mix(in srgb, var(--faq-accent) 10%, #ffffff);
-                border: 1px solid color-mix(in srgb, var(--faq-accent) 35%, #ffffff);
+                color: var(--faq-accent-strong);
+                background: color-mix(in srgb, var(--faq-accent) 15%, #ffffff);
+                border: 1px solid color-mix(in srgb, var(--faq-accent-strong) 35%, #ffffff);
             }
 
-        /* Answer copy */
+        /* answer copy */
         .pg-faq .faq-item p {
             margin: 0;
-            padding-left: 2.2rem; /* align with badge */
+            padding-left: 2.2rem;
             color: #374151;
         }
 
@@ -364,7 +377,7 @@ figure img {
                 margin-top: .6rem;
             }
 
-    /* Links inside answers */
+    /* links inside answers */
     .pg-faq a {
         text-decoration: underline;
         text-underline-offset: 2px;
@@ -374,17 +387,17 @@ figure img {
             text-decoration-thickness: 2px;
         }
 
-    /* Comfortable spacing between items on small screens */
+    /* comfortable spacing */
     .pg-faq .faq-item:not(:last-child) {
         margin-bottom: .25rem;
     }
 
-/* Make heading anchor-friendly if you have a sticky header */
+/* heading scroll margin for anchor links */
 #faqs-heading {
     scroll-margin-top: 80px;
 }
 
-/* Layout: two columns on wider screens, heading spans full width */
+/* layout: two columns on wider screens */
 @media (min-width: 960px) {
     .pg-faq {
         grid-template-columns: repeat(2, minmax(0, 1fr));
@@ -394,12 +407,19 @@ figure img {
             grid-column: 1 / -1;
             margin-bottom: .75rem;
         }
+
+        /* subtle divider between items for scanability */
+        .pg-faq .faq-item + .faq-item {
+            border-top: 1px dashed color-mix(in srgb, var(--faq-accent) 20%, #e5e7eb);
+            margin-top: .5rem;
+            padding-top: 1rem;
+        }
 }
 
-/* Dark mode tweaks */
+/* dark mode tweaks for FAQ */
 @media (prefers-color-scheme: dark) {
     .pg-faq {
-        --faq-bg: hsl(250 25% 16%);
+        --faq-bg: color-mix(in srgb, var(--faq-accent) 10%, #0b0f17);
         --faq-border: #2b2f36;
         box-shadow: none;
     }
@@ -425,9 +445,15 @@ figure img {
         .pg-faq a {
             color: color-mix(in srgb, var(--faq-accent) 70%, #fff);
         }
+
+        .pg-faq .faq-item h3::before {
+            background: color-mix(in srgb, var(--faq-accent) 25%, #0b0f17);
+            border-color: color-mix(in srgb, var(--faq-accent-strong) 45%, #0b0f17);
+        }
 }
 
-/* Tooltip glossary links */
+/* ============ tooltip glossary links ============ */
+
 a.glossary-term {
     text-decoration: none;
     border-bottom: 1px dotted currentColor;
@@ -440,33 +466,62 @@ a.glossary-term {
         outline: none;
     }
 
-    a.glossary-term::after {
-        content: attr(data-tooltip);
-        position: absolute;
-        left: 0;
-        top: 100%;
-        transform: translateY(.4rem);
-        background: #111827;
-        color: #fff;
-        font-size: .85rem;
-        line-height: 1.2;
-        padding: .35rem .5rem;
-        border-radius: .5rem;
-        white-space: normal;
-        width: min(38ch, 80vw);
-        opacity: 0;
-        pointer-events: none;
-        transition: opacity .15s ease-in-out;
-        z-index: 30;
-        box-shadow: 0 6px 20px rgba(0,0,0,.18);
+    /* disable Pico’s default arrow/box on ::before for glossary tooltips */
+    a.glossary-term[data-tooltip]::before,
+    a.glossary-term[data-tooltip]:hover::before,
+    a.glossary-term[data-tooltip]:focus::before {
+        content: none !important;
+        display: none !important;
     }
 
-    a.glossary-term:hover::after,
-    a.glossary-term:focus::after {
-        opacity: 1;
+    a.glossary-term[data-tooltip]::after {
+        content: attr(data-tooltip) !important;
+        position: absolute !important;
+        left: 50% !important;
+        top: auto !important;
+        bottom: calc(100% + .5rem) !important; /* show above the link */
+        transform: translateX(-50%) !important;
+        display: inline-block !important;
+        background: #111827 !important;
+        color: #fff !important;
+        font-size: .95rem !important;
+        line-height: 1.35 !important;
+        padding: .45rem .6rem !important;
+        border-radius: .5rem !important;
+        text-align: left !important;
+        white-space: normal !important;
+        min-width: 28ch !important;
+        max-width: min(60ch, 90vw) !important;
+        overflow-wrap: anywhere !important;
+        opacity: 0 !important;
+        visibility: hidden !important;
+        pointer-events: none !important;
+        transition: opacity .12s ease-in-out !important;
+        z-index: 2147483647 !important;
+        box-shadow: 0 6px 20px rgba(0,0,0,.18) !important;
+        will-change: opacity, transform !important;
     }
 
-/* Article glossary block */
+    a.glossary-term[data-tooltip]:hover::after,
+    a.glossary-term[data-tooltip]:focus::after {
+        opacity: 1 !important;
+        visibility: visible !important;
+    }
+
+/* Generic safety for any element using data-tooltip (non-glossary) */
+[data-tooltip] {
+    position: relative;
+}
+
+[data-tooltip]::after,
+[data-tooltip]::before {
+    max-width: 90vw;
+    white-space: normal;
+    overflow-wrap: anywhere;
+}
+
+/* ============ article glossary block ============ */
+
 .article-glossary {
     margin: 2rem 0;
     padding: 1rem 1.25rem;
@@ -494,7 +549,7 @@ a.glossary-term {
         color: #374151;
     }
 
-/* Glossary index */
+/* glossary index */
 .glossary-az {
     display: flex;
     flex-wrap: wrap;
@@ -511,6 +566,7 @@ a.glossary-term {
         text-decoration: none;
     }
 
+/* glossary list layout */
 .glossary-list {
     display: grid;
     grid-template-columns: 220px 1fr;
@@ -532,3 +588,159 @@ a.glossary-term {
     }
 }
 
+/* ============ section summary widget ============ */
+
+.pg-section-summary {
+    border-left: 4px solid var(--pico-primary, #16a34a);
+    background: hsl(210 40% 96% / 0.7);
+    padding: .75rem 1rem;
+    margin: 1.25rem 0 1.75rem 0;
+    border-radius: .75rem;
+    box-shadow: 0 1px 3px rgba(0,0,0,.06);
+}
+
+    .pg-section-summary .mini {
+        list-style: disc;
+        margin: 0;
+        padding-left: 1.1rem;
+        display: grid;
+        gap: .25rem;
+    }
+
+        .pg-section-summary .mini li {
+            line-height: 1.5;
+            color: var(--pico-color, #374151);
+        }
+
+            .pg-section-summary .mini li::marker {
+                color: color-mix(in srgb, var(--pico-primary, #16a34a) 80%, #000);
+            }
+
+/* dark mode */
+@media (prefers-color-scheme: dark) {
+    .pg-section-summary {
+        background: color-mix(in srgb, var(--pico-primary, #16a34a) 8%, #0b0f17);
+        box-shadow: none;
+        border-left-color: color-mix(in srgb, var(--pico-primary, #16a34a) 80%, #0b0f17);
+    }
+
+        .pg-section-summary .mini li {
+            color: #d1d5db;
+        }
+}
+
+/* ============ figure and figcaption polish ============ */
+
+figure {
+    margin: 1rem 0 1.5rem 0;
+}
+
+    figure > figcaption {
+        font-size: .92rem;
+        color: var(--pico-muted-color, #6b7280);
+        text-align: center;
+        margin-top: .4rem;
+    }
+
+/* ============ sources block ============ */
+
+.pg-sources {
+    --src-accent: #0ea5a5; /* teal */
+    --src-bg: hsl(182 60% 96%);
+    --src-border: #cbecec;
+    border-left: 4px solid var(--src-accent);
+    background: var(--src-bg);
+    padding: 1rem 1.25rem;
+    margin: 2rem 0;
+    border-radius: .75rem;
+    box-shadow: 0 1px 3px rgba(0,0,0,.06);
+    outline: 1px solid #ccfbf1;
+}
+
+    .pg-sources h2 {
+        margin: 0 0 .5rem 0;
+        font-size: 1.15rem;
+        font-weight: 700;
+        color: var(--src-accent);
+    }
+
+    .pg-sources ul {
+        margin: 0;
+        padding-left: 1.1rem;
+    }
+
+    .pg-sources li {
+        line-height: 1.5;
+        margin: .35rem 0;
+    }
+
+        .pg-sources li::marker {
+            color: color-mix(in srgb, var(--src-accent) 85%, #000);
+        }
+
+    .pg-sources a {
+        text-underline-offset: 2px;
+    }
+
+        .pg-sources a:hover {
+            text-decoration-thickness: 2px;
+        }
+
+@media (prefers-color-scheme: dark) {
+    .pg-sources {
+        --src-bg: color-mix(in srgb, var(--src-accent) 10%, #0b0f17);
+        --src-border: #0b3f3f;
+        background: var(--src-bg);
+        box-shadow: none;
+        border-left-color: color-mix(in srgb, var(--src-accent) 75%, #0b0f17);
+        outline-color: color-mix(in srgb, #0ea5a5 30%, #0b0f17);
+    }
+
+        .pg-sources h2 {
+            color: color-mix(in srgb, var(--src-accent) 80%, #fff);
+        }
+
+        .pg-sources li {
+            color: #d1d5db;
+        }
+}
+
+/* ============ table helpers to complement Pico ============ */
+
+article table {
+    width: 100%;
+    border-collapse: separate;
+    border-spacing: 0;
+    overflow: hidden;
+    border-radius: .5rem;
+    box-shadow: 0 1px 2px rgba(0,0,0,.04);
+}
+
+article thead th {
+    background: hsl(210 40% 96%);
+    font-weight: 600;
+}
+
+@media (prefers-color-scheme: dark) {
+    article thead th {
+        background: color-mix(in srgb, var(--pico-primary, #16a34a) 8%, #0b0f17);
+    }
+}
+
+/* ============ small contrasts to differentiate artifact blocks ============ */
+
+.pg-summary-block.pg-key-takeaways {
+    outline: 1px solid #dbeafe;
+}
+/* blue tint */
+.pg-summary-block.pg-quick-start {
+    outline: 1px solid #fde68a;
+}
+/* amber tint */
+.pg-faq {
+    outline: 1px solid #e0e7ff;
+}
+/* indigo tint */
+.pg-sources {
+    outline: 1px solid #ccfbf1;
+}
