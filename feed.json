@@ -54,6 +54,14 @@
       "date_modified": "2025-08-24T18:00:00.0000000Z"
     },
     {
+      "id": "https://pulsegeek.com/articles/what-is-iec-61850-and-why-it-matters-for-smart-grids/",
+      "url": "https://pulsegeek.com/articles/what-is-iec-61850-and-why-it-matters-for-smart-grids/",
+      "title": "What Is IEC 61850 and Why It Matters for Smart Grids?",
+      "content_text": "Learn what IEC 61850 is, how it enables interoperable substation automation, and why it matters for modern, DER-rich smart grids.",
+      "date_published": "2025-08-24T02:00:00.0000000Z",
+      "date_modified": "2025-08-24T02:00:00.0000000Z"
+    },
+    {
       "id": "https://pulsegeek.com/articles/security-controls-for-iec-61850-substations-a-defense-in-depth-checklist/",
       "url": "https://pulsegeek.com/articles/security-controls-for-iec-61850-substations-a-defense-in-depth-checklist/",
       "title": "Security Controls for IEC 61850 Substations: A Defense\u2011in\u2011Depth Checklist",
