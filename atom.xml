@@ -2,13 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>PulseGeek</title>
   <id>https://pulsegeek.com/atom.xml</id>
-  <updated>2025-09-02T18:00:00Z</updated>
+  <updated>2025-09-06T00:01:37Z</updated>
   <link href="https://pulsegeek.com/atom.xml" rel="self" type="application/atom+xml" />
   <link href="https://pulsegeek.com" />
   <author>
     <name>PulseGeek</name>
   </author>
   <subtitle>Tech news, gaming, and geek culture in one pulse</subtitle>
+  <entry>
+    <title>Key Questions to Ask During an AI Data Review</title>
+    <id>https://pulsegeek.com/articles/key-questions-to-ask-during-an-ai-data-review/</id>
+    <link href="https://pulsegeek.com/articles/key-questions-to-ask-during-an-ai-data-review/" />
+    <updated>2025-09-05T18:00:00Z</updated>
+    <summary type="html"><![CDATA[Use this question set to guide a thorough AI data review that safeguards consent, reduces bias, and strengthens traceability.]]></summary>
+  </entry>
   <entry>
     <title>Implementing Data Retention and Consent Controls</title>
     <id>https://pulsegeek.com/articles/implementing-data-retention-and-consent-controls/</id>
@@ -31,6 +38,13 @@
     <summary type="html"><![CDATA[Explore the best tools for AI dataset versioning and lineage, with practical tradeoffs, examples, and auditing guidance for ethical, reproducible ML.]]></summary>
   </entry>
   <entry>
+    <title>What Is a System Prompt in AI? Roles, Boundaries, and Best Practices</title>
+    <id>https://pulsegeek.com/articles/what-is-a-system-prompt-in-ai-roles-boundaries-and-best-practices/</id>
+    <link href="https://pulsegeek.com/articles/what-is-a-system-prompt-in-ai-roles-boundaries-and-best-practices/" />
+    <updated>2025-08-27T02:00:00Z</updated>
+    <summary type="html"><![CDATA[Learn how system prompts set model behavior, define boundaries, and improve reliability, with practical patterns and safe deployment tips.]]></summary>
+  </entry>
+  <entry>
     <title>Vehicle‑to‑Grid Integration Standards Overview: OCPP, ISO 15118, IEEE 2030.5, and Grid Codes</title>
     <id>https://pulsegeek.com/articles/vehicle-to-grid-integration-standards-overview-ocpp-iso-15118-ieee-2030-5-and-grid-codes/</id>
     <link href="https://pulsegeek.com/articles/vehicle-to-grid-integration-standards-overview-ocpp-iso-15118-ieee-2030-5-and-grid-codes/" />
@@ -48,7 +62,7 @@
     <title>Dataset Documentation and Datasheets: The Complete Guide</title>
     <id>https://pulsegeek.com/articles/dataset-documentation-and-datasheets-the-complete-guide/</id>
     <link href="https://pulsegeek.com/articles/dataset-documentation-and-datasheets-the-complete-guide/" />
-    <updated>2025-08-24T18:00:00Z</updated>
+    <updated>2025-09-05T20:37:02Z</updated>
     <summary type="html"><![CDATA[Learn how to design, maintain, and audit dataset documentation and datasheets to reduce bias, protect privacy, and ensure traceable AI data.]]></summary>
   </entry>
   <entry>
@@ -125,7 +139,7 @@
     <title>Prompt Engineering Guide: Core Patterns, System Prompts, and Reliable Techniques</title>
     <id>https://pulsegeek.com/articles/prompt-engineering-guide-core-patterns-system-prompts-and-reliable-techniques/</id>
     <link href="https://pulsegeek.com/articles/prompt-engineering-guide-core-patterns-system-prompts-and-reliable-techniques/" />
-    <updated>2025-08-19T02:00:00Z</updated>
+    <updated>2025-09-05T05:58:52Z</updated>
     <summary type="html"><![CDATA[A deep prompt engineering guide on core patterns, system prompts, and reliable techniques with practical examples and links.]]></summary>
   </entry>
   <entry>
@@ -153,8 +167,8 @@
     <title>Top Load Flexibility Use Cases for C&amp;I and Residential Customers</title>
     <id>https://pulsegeek.com/articles/top-load-flexibility-use-cases-for-c-and-i-and-residential-customers/</id>
     <link href="https://pulsegeek.com/articles/top-load-flexibility-use-cases-for-c-and-i-and-residential-customers/" />
-    <updated>2025-08-16T18:00:00Z</updated>
-    <summary type="html"><![CDATA[Explore top load flexibility use cases for C&amp;I and residential customers, from HVAC and refrigeration to EVs and batteries, powered by AMI and DR.]]></summary>
+    <updated>2025-09-06T00:01:37Z</updated>
+    <summary type="html"><![CDATA[Explore top load flexibility use cases for C&I and residential customers, from HVAC and refrigeration to EVs and batteries, powered by AMI and DR.]]></summary>
   </entry>
   <entry>
     <title>How to Implement IEC 61850 in Substations: Profiles, SCL, and Migration Steps</title>
@@ -265,7 +279,7 @@
     <title>Prompt Engineering: Complete Patterns, Templates, and Evaluation Playbook</title>
     <id>https://pulsegeek.com/articles/prompt-engineering-complete-patterns-templates-and-evaluation-playbook/</id>
     <link href="https://pulsegeek.com/articles/prompt-engineering-complete-patterns-templates-and-evaluation-playbook/" />
-    <updated>2025-08-05T02:00:00Z</updated>
+    <updated>2025-09-05T05:58:52Z</updated>
     <summary type="html"><![CDATA[A complete prompt engineering playbook covering core patterns, reusable templates, multimodal tactics, and rigorous evaluation workflows.]]></summary>
   </entry>
   <entry>

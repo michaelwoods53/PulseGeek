@@ -6,8 +6,15 @@
     <description>Tech news, gaming, and geek culture in one pulse</description>
     <language>en-us</language>
     <generator>PulseGeek Rss Feed Generator</generator>
-    <lastBuildDate>Tue, 02 Sep 2025 18:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 06 Sep 2025 00:01:37 GMT</lastBuildDate>
     <atom:link href="https://pulsegeek.com/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Key Questions to Ask During an AI Data Review</title>
+      <link>https://pulsegeek.com/articles/key-questions-to-ask-during-an-ai-data-review/</link>
+      <guid isPermaLink="true">https://pulsegeek.com/articles/key-questions-to-ask-during-an-ai-data-review/</guid>
+      <pubDate>Fri, 05 Sep 2025 18:00:00 GMT</pubDate>
+      <description>Use this question set to guide a thorough AI data review that safeguards consent, reduces bias, and strengthens traceability.</description>
+    </item>
     <item>
       <title>Implementing Data Retention and Consent Controls</title>
       <link>https://pulsegeek.com/articles/implementing-data-retention-and-consent-controls/</link>
@@ -28,6 +35,13 @@
       <guid isPermaLink="true">https://pulsegeek.com/articles/best-tools-for-ai-dataset-versioning-and-lineage/</guid>
       <pubDate>Wed, 27 Aug 2025 18:00:00 GMT</pubDate>
       <description>Explore the best tools for AI dataset versioning and lineage, with practical tradeoffs, examples, and auditing guidance for ethical, reproducible ML.</description>
+    </item>
+    <item>
+      <title>What Is a System Prompt in AI? Roles, Boundaries, and Best Practices</title>
+      <link>https://pulsegeek.com/articles/what-is-a-system-prompt-in-ai-roles-boundaries-and-best-practices/</link>
+      <guid isPermaLink="true">https://pulsegeek.com/articles/what-is-a-system-prompt-in-ai-roles-boundaries-and-best-practices/</guid>
+      <pubDate>Wed, 27 Aug 2025 02:00:00 GMT</pubDate>
+      <description>Learn how system prompts set model behavior, define boundaries, and improve reliability, with practical patterns and safe deployment tips.</description>
     </item>
     <item>
       <title>Vehicle‑to‑Grid Integration Standards Overview: OCPP, ISO 15118, IEEE 2030.5, and Grid Codes</title>
@@ -153,7 +167,7 @@
       <link>https://pulsegeek.com/articles/top-load-flexibility-use-cases-for-c-and-i-and-residential-customers/</link>
       <guid isPermaLink="true">https://pulsegeek.com/articles/top-load-flexibility-use-cases-for-c-and-i-and-residential-customers/</guid>
       <pubDate>Sat, 16 Aug 2025 18:00:00 GMT</pubDate>
-      <description>Explore top load flexibility use cases for C&amp;amp;I and residential customers, from HVAC and refrigeration to EVs and batteries, powered by AMI and DR.</description>
+      <description>Explore top load flexibility use cases for C&amp;I and residential customers, from HVAC and refrigeration to EVs and batteries, powered by AMI and DR.</description>
     </item>
     <item>
       <title>How to Implement IEC 61850 in Substations: Profiles, SCL, and Migration Steps</title>
