@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>PulseGeek</title>
   <id>https://pulsegeek.com/atom.xml</id>
-  <updated>2025-09-06T00:01:37Z</updated>
+  <updated>2025-09-05T18:00:00Z</updated>
   <link href="https://pulsegeek.com/atom.xml" rel="self" type="application/atom+xml" />
   <link href="https://pulsegeek.com" />
   <author>
@@ -17,6 +17,34 @@
     <summary type="html"><![CDATA[Use this question set to guide a thorough AI data review that safeguards consent, reduces bias, and strengthens traceability.]]></summary>
   </entry>
   <entry>
+    <title>What Is Continuous Compliance for AI Systems Today?</title>
+    <id>https://pulsegeek.com/articles/what-is-continuous-compliance-for-ai-systems-today/</id>
+    <link href="https://pulsegeek.com/articles/what-is-continuous-compliance-for-ai-systems-today/" />
+    <updated>2025-09-03T18:01:00Z</updated>
+    <summary type="html"><![CDATA[Learn what continuous compliance for AI systems means, how it works day to day, and how to monitor, evidence, and improve it.]]></summary>
+  </entry>
+  <entry>
+    <title>What Is Retrieval Augmented Generation Prompting? Context, Grounding, and Limits</title>
+    <id>https://pulsegeek.com/articles/what-is-retrieval-augmented-generation-prompting-context-grounding-and-limits/</id>
+    <link href="https://pulsegeek.com/articles/what-is-retrieval-augmented-generation-prompting-context-grounding-and-limits/" />
+    <updated>2025-09-03T18:00:00Z</updated>
+    <summary type="html"><![CDATA[Explore retrieval augmented generation prompting, how it grounds answers with context, where it breaks, and how to operationalize it safely.]]></summary>
+  </entry>
+  <entry>
+    <title>Top Alerts and Dashboards for Fairness Monitoring</title>
+    <id>https://pulsegeek.com/articles/top-alerts-and-dashboards-for-fairness-monitoring/</id>
+    <link href="https://pulsegeek.com/articles/top-alerts-and-dashboards-for-fairness-monitoring/" />
+    <updated>2025-09-02T18:01:00Z</updated>
+    <summary type="html"><![CDATA[Explore actionable alert patterns and dashboard designs that keep AI fairness measurable, explainable, and responsive across production systems.]]></summary>
+  </entry>
+  <entry>
+    <title>Orchestration Tools for Prompt Workflows: Features, Integrations, and Fit</title>
+    <id>https://pulsegeek.com/articles/orchestration-tools-for-prompt-workflows-features-integrations-and-fit/</id>
+    <link href="https://pulsegeek.com/articles/orchestration-tools-for-prompt-workflows-features-integrations-and-fit/" />
+    <updated>2025-09-02T18:00:00Z</updated>
+    <summary type="html"><![CDATA[Explore orchestration tools for prompt workflows, including governance, integrations, and evaluation practices to scale safe, consistent outputs.]]></summary>
+  </entry>
+  <entry>
     <title>Implementing Data Retention and Consent Controls</title>
     <id>https://pulsegeek.com/articles/implementing-data-retention-and-consent-controls/</id>
     <link href="https://pulsegeek.com/articles/implementing-data-retention-and-consent-controls/" />
@@ -24,11 +52,137 @@
     <summary type="html"><![CDATA[Practical steps to engineer data retention schedules, capture granular consent, and audit traceability across the AI lifecycle with clear governance.]]></summary>
   </entry>
   <entry>
+    <title>Automatic Prompt Quality Metrics: From CoT Validity to Toxicity Screens</title>
+    <id>https://pulsegeek.com/articles/automatic-prompt-quality-metrics-from-cot-validity-to-toxicity-screens/</id>
+    <link href="https://pulsegeek.com/articles/automatic-prompt-quality-metrics-from-cot-validity-to-toxicity-screens/" />
+    <updated>2025-09-02T02:00:00Z</updated>
+    <summary type="html"><![CDATA[Learn automatic prompt quality metrics from chain-of-thought validity to toxicity screens, with examples, tradeoffs, and practical workflows.]]></summary>
+  </entry>
+  <entry>
+    <title>Incident Response Playbook for Avoiding AI Harms</title>
+    <id>https://pulsegeek.com/articles/incident-response-playbook-for-avoiding-ai-harms/</id>
+    <link href="https://pulsegeek.com/articles/incident-response-playbook-for-avoiding-ai-harms/" />
+    <updated>2025-09-01T18:01:00Z</updated>
+    <summary type="html"><![CDATA[A practical incident response playbook for AI harms covering definitions, detection, triage, containment, remediation, and governance with tools and metrics.]]></summary>
+  </entry>
+  <entry>
+    <title>How to Version and Document Prompts: Changelogs, Tests, and Readme Patterns</title>
+    <id>https://pulsegeek.com/articles/how-to-version-and-document-prompts-changelogs-tests-and-readme-patterns/</id>
+    <link href="https://pulsegeek.com/articles/how-to-version-and-document-prompts-changelogs-tests-and-readme-patterns/" />
+    <updated>2025-09-01T18:00:00Z</updated>
+    <summary type="html"><![CDATA[Learn how to version and document prompts with changelogs, tests, and READMEs. Build reliable, governed workflows that scale across teams.]]></summary>
+  </entry>
+  <entry>
+    <title>AI Risk Assessment Template and Steps That Work</title>
+    <id>https://pulsegeek.com/articles/ai-risk-assessment-template-and-steps-that-work/</id>
+    <link href="https://pulsegeek.com/articles/ai-risk-assessment-template-and-steps-that-work/" />
+    <updated>2025-08-31T18:01:00Z</updated>
+    <summary type="html"><![CDATA[Use a practical AI risk assessment template with sequenced steps, monitoring, and response to keep systems fair, reliable, and compliant.]]></summary>
+  </entry>
+  <entry>
+    <title>How to Create Reusable Prompt Libraries: Taxonomy, Metadata, and Access</title>
+    <id>https://pulsegeek.com/articles/how-to-create-reusable-prompt-libraries-taxonomy-metadata-and-access/</id>
+    <link href="https://pulsegeek.com/articles/how-to-create-reusable-prompt-libraries-taxonomy-metadata-and-access/" />
+    <updated>2025-08-31T18:00:00Z</updated>
+    <summary type="html"><![CDATA[Build reusable prompt libraries with clear taxonomy, rich metadata, and governed access to scale consistency and safety across teams.]]></summary>
+  </entry>
+  <entry>
+    <title>Prompt Evaluation Rubric Examples: Scoring Criteria, Test Sets, and A/B Methods</title>
+    <id>https://pulsegeek.com/articles/prompt-evaluation-rubric-examples-scoring-criteria-test-sets-and-a-b-methods/</id>
+    <link href="https://pulsegeek.com/articles/prompt-evaluation-rubric-examples-scoring-criteria-test-sets-and-a-b-methods/" />
+    <updated>2025-08-31T02:00:00Z</updated>
+    <summary type="html"><![CDATA[Learn practical prompt evaluation rubric examples, scoring criteria, test sets, and A/B methods with balanced human and automated review.]]></summary>
+  </entry>
+  <entry>
+    <title>AI Model Monitoring Tools Compared for Real Use</title>
+    <id>https://pulsegeek.com/articles/ai-model-monitoring-tools-compared-for-real-use/</id>
+    <link href="https://pulsegeek.com/articles/ai-model-monitoring-tools-compared-for-real-use/" />
+    <updated>2025-08-30T18:01:00Z</updated>
+    <summary type="html"><![CDATA[An objective comparison of AI model monitoring tools with fairness, compliance, and real-world operations in mind, plus tables, tradeoffs, and guidance.]]></summary>
+  </entry>
+  <entry>
+    <title>Guardrails and Safety Prompts Best Practices: Filters, Policies, and Overrides</title>
+    <id>https://pulsegeek.com/articles/guardrails-and-safety-prompts-best-practices-filters-policies-and-overrides/</id>
+    <link href="https://pulsegeek.com/articles/guardrails-and-safety-prompts-best-practices-filters-policies-and-overrides/" />
+    <updated>2025-08-30T18:00:00Z</updated>
+    <summary type="html"><![CDATA[Practical best practices for guardrails and safety prompts, including filters, policies, overrides, and governance across teams.]]></summary>
+  </entry>
+  <entry>
     <title>How to Conduct a Data Bias Audit with Confidence</title>
     <id>https://pulsegeek.com/articles/how-to-conduct-a-data-bias-audit-with-confidence/</id>
     <link href="https://pulsegeek.com/articles/how-to-conduct-a-data-bias-audit-with-confidence/" />
     <updated>2025-08-30T18:00:00Z</updated>
     <summary type="html"><![CDATA[A practical, step-by-step method to scope, measure, mitigate, and monitor data bias with clear controls, documentation, and ongoing accountability.]]></summary>
+  </entry>
+  <entry>
+    <title>Responsible AI KPIs and Monitoring Metrics: A Guide</title>
+    <id>https://pulsegeek.com/articles/responsible-ai-kpis-and-monitoring-metrics-a-guide/</id>
+    <link href="https://pulsegeek.com/articles/responsible-ai-kpis-and-monitoring-metrics-a-guide/" />
+    <updated>2025-08-29T18:01:00Z</updated>
+    <summary type="html"><![CDATA[Define responsible AI KPIs and monitoring metrics, set fair thresholds, build dashboards, and connect alerts to governance and incident response.]]></summary>
+  </entry>
+  <entry>
+    <title>Prompt Chaining Workflow Templates: Reusable Chains, Governance, and Versioning</title>
+    <id>https://pulsegeek.com/articles/prompt-chaining-workflow-templates-reusable-chains-governance-and-versioning/</id>
+    <link href="https://pulsegeek.com/articles/prompt-chaining-workflow-templates-reusable-chains-governance-and-versioning/" />
+    <updated>2025-08-29T18:00:00Z</updated>
+    <summary type="html"><![CDATA[Build prompt chaining workflow templates with reusable chains, guardrails, and versioning. Learn tools, libraries, documentation, and RAG integration for safe scale.]]></summary>
+  </entry>
+  <entry>
+    <title>Zero-Shot vs Few-Shot Prompting: Accuracy, Control, and Cost Compared</title>
+    <id>https://pulsegeek.com/articles/zero-shot-vs-few-shot-prompting-accuracy-control-and-cost-compared/</id>
+    <link href="https://pulsegeek.com/articles/zero-shot-vs-few-shot-prompting-accuracy-control-and-cost-compared/" />
+    <updated>2025-08-29T02:00:00Z</updated>
+    <summary type="html"><![CDATA[Compare zero-shot vs few-shot prompting by accuracy, control, and cost. See tradeoffs, when to choose each, and practical guidance.]]></summary>
+  </entry>
+  <entry>
+    <title>Top Model Interpretability Techniques Teams Rely On</title>
+    <id>https://pulsegeek.com/articles/top-model-interpretability-techniques-teams-rely-on/</id>
+    <link href="https://pulsegeek.com/articles/top-model-interpretability-techniques-teams-rely-on/" />
+    <updated>2025-08-28T18:02:00Z</updated>
+    <summary type="html"><![CDATA[Explore practical interpretability techniques like SHAP, counterfactuals, and surrogate models to explain AI decisions and inform responsible deployment.]]></summary>
+  </entry>
+  <entry>
+    <title>Product Description Prompt Templates: Attributes, Benefits, and Schema</title>
+    <id>https://pulsegeek.com/articles/product-description-prompt-templates-attributes-benefits-and-schema/</id>
+    <link href="https://pulsegeek.com/articles/product-description-prompt-templates-attributes-benefits-and-schema/" />
+    <updated>2025-08-28T18:01:00Z</updated>
+    <summary type="html"><![CDATA[Use product description prompt templates to turn attributes into benefits, align tone, and output schema-ready copy for SEO.]]></summary>
+  </entry>
+  <entry>
+    <title>V2G Aggregator Business Models: Revenue Stacks and Regulatory Paths</title>
+    <id>https://pulsegeek.com/articles/v2g-aggregator-business-models-revenue-stacks-and-regulatory-paths/</id>
+    <link href="https://pulsegeek.com/articles/v2g-aggregator-business-models-revenue-stacks-and-regulatory-paths/" />
+    <updated>2025-08-28T18:00:00Z</updated>
+    <summary type="html"><![CDATA[Explore V2G aggregator business models, revenue stacks, and regulatory paths with actionable steps, standards context, and real project lessons.]]></summary>
+  </entry>
+  <entry>
+    <title>DERMS vs ADMS: Functions, Overlaps, and When You Need Each</title>
+    <id>https://pulsegeek.com/articles/derms-vs-adms-functions-overlaps-and-when-you-need-each/</id>
+    <link href="https://pulsegeek.com/articles/derms-vs-adms-functions-overlaps-and-when-you-need-each/" />
+    <updated>2025-08-28T02:00:00Z</updated>
+    <summary type="html"><![CDATA[Compare DERMS vs ADMS: core functions, overlaps, integration patterns, and when utilities should deploy each system to manage modern distribution grids.]]></summary>
+  </entry>
+  <entry>
+    <title>Tools for Visualizing Model Explanations, Compared</title>
+    <id>https://pulsegeek.com/articles/tools-for-visualizing-model-explanations-compared/</id>
+    <link href="https://pulsegeek.com/articles/tools-for-visualizing-model-explanations-compared/" />
+    <updated>2025-08-27T18:02:00Z</updated>
+    <summary type="html"><![CDATA[Compare practical tools for visualizing model explanations. Learn tradeoffs, workflows, and when to use SHAP, LIME, and interactive what-if dashboards.]]></summary>
+  </entry>
+  <entry>
+    <title>How to Prompt for SEO Content Outlines: Entities, Headers, and Internal Links</title>
+    <id>https://pulsegeek.com/articles/how-to-prompt-for-seo-content-outlines-entities-headers-and-internal-links/</id>
+    <link href="https://pulsegeek.com/articles/how-to-prompt-for-seo-content-outlines-entities-headers-and-internal-links/" />
+    <updated>2025-08-27T18:01:00Z</updated>
+    <summary type="html"><![CDATA[Learn step-by-step prompts for SEO content outlines using entities, H2/H3 structure, and internal links with examples and QA tips.]]></summary>
+  </entry>
+  <entry>
+    <title>OCPP vs ISO 15118: Communication, Plug‑and‑Charge, and Smart Charging Compared</title>
+    <id>https://pulsegeek.com/articles/ocpp-vs-iso-15118-communication-plug-and-charge-and-smart-charging-compared/</id>
+    <link href="https://pulsegeek.com/articles/ocpp-vs-iso-15118-communication-plug-and-charge-and-smart-charging-compared/" />
+    <updated>2025-08-27T18:00:00Z</updated>
+    <summary type="html"><![CDATA[Compare OCPP and ISO 15118 for EV charging. Understand Plug-and-Charge, security, smart charging, and V2G readiness with clear use-case guidance.]]></summary>
   </entry>
   <entry>
     <title>Best Tools for AI Dataset Versioning and Lineage</title>
@@ -45,11 +199,60 @@
     <summary type="html"><![CDATA[Learn how system prompts set model behavior, define boundaries, and improve reliability, with practical patterns and safe deployment tips.]]></summary>
   </entry>
   <entry>
+    <title>SHAP vs LIME: Choosing the Right Explanation Method</title>
+    <id>https://pulsegeek.com/articles/shap-vs-lime-choosing-the-right-explanation-method/</id>
+    <link href="https://pulsegeek.com/articles/shap-vs-lime-choosing-the-right-explanation-method/" />
+    <updated>2025-08-26T18:02:00Z</updated>
+    <summary type="html"><![CDATA[Compare SHAP and LIME across accuracy, stability, cost, and communication value. Learn when to choose each method and how to explain results.]]></summary>
+  </entry>
+  <entry>
+    <title>How to Prompt for Code Generation Safely: Constraints, Tests, and Reviews</title>
+    <id>https://pulsegeek.com/articles/how-to-prompt-for-code-generation-safely-constraints-tests-and-reviews/</id>
+    <link href="https://pulsegeek.com/articles/how-to-prompt-for-code-generation-safely-constraints-tests-and-reviews/" />
+    <updated>2025-08-26T18:01:00Z</updated>
+    <summary type="html"><![CDATA[Learn how to prompt for code generation safely using clear constraints, test-first prompts, and structured reviews with CI guardrails.]]></summary>
+  </entry>
+  <entry>
+    <title>How to Plan V2G Interconnection for Utilities: Protection, Metering, and Tariffs</title>
+    <id>https://pulsegeek.com/articles/how-to-plan-v2g-interconnection-for-utilities-protection-metering-and-tariffs/</id>
+    <link href="https://pulsegeek.com/articles/how-to-plan-v2g-interconnection-for-utilities-protection-metering-and-tariffs/" />
+    <updated>2025-08-26T18:00:00Z</updated>
+    <summary type="html"><![CDATA[Step-by-step V2G interconnection planning for utilities covering standards, protection, metering, and tariff design with field tips and pilot lessons.]]></summary>
+  </entry>
+  <entry>
+    <title>Integrating DERs into Urban Distribution Grids: A Practical Implementation Guide</title>
+    <id>https://pulsegeek.com/articles/integrating-ders-into-urban-distribution-grids-a-practical-implementation-guide/</id>
+    <link href="https://pulsegeek.com/articles/integrating-ders-into-urban-distribution-grids-a-practical-implementation-guide/" />
+    <updated>2025-08-26T02:00:00Z</updated>
+    <summary type="html"><![CDATA[Step-by-step guidance to integrate DERs and microgrids into urban distribution grids with hosting studies, controls, and operations.]]></summary>
+  </entry>
+  <entry>
     <title>Vehicle‑to‑Grid Integration Standards Overview: OCPP, ISO 15118, IEEE 2030.5, and Grid Codes</title>
     <id>https://pulsegeek.com/articles/vehicle-to-grid-integration-standards-overview-ocpp-iso-15118-ieee-2030-5-and-grid-codes/</id>
     <link href="https://pulsegeek.com/articles/vehicle-to-grid-integration-standards-overview-ocpp-iso-15118-ieee-2030-5-and-grid-codes/" />
     <updated>2025-08-26T02:00:00Z</updated>
     <summary type="html"><![CDATA[Explore V2G standards with practical guidance on OCPP, ISO 15118, IEEE 2030.5, and grid codes for interoperable bidirectional charging.]]></summary>
+  </entry>
+  <entry>
+    <title>How to Generate Feature Attribution Charts That Inform</title>
+    <id>https://pulsegeek.com/articles/how-to-generate-feature-attribution-charts-that-inform/</id>
+    <link href="https://pulsegeek.com/articles/how-to-generate-feature-attribution-charts-that-inform/" />
+    <updated>2025-08-25T18:02:00Z</updated>
+    <summary type="html"><![CDATA[Step-by-step guidance to compute, validate, and present feature attribution charts that stakeholders understand and trust.]]></summary>
+  </entry>
+  <entry>
+    <title>Email Writing Prompt Templates: Subject Lines, Sequences, and CTAs</title>
+    <id>https://pulsegeek.com/articles/email-writing-prompt-templates-subject-lines-sequences-and-ctas/</id>
+    <link href="https://pulsegeek.com/articles/email-writing-prompt-templates-subject-lines-sequences-and-ctas/" />
+    <updated>2025-08-25T18:01:00Z</updated>
+    <summary type="html"><![CDATA[Steal-ready email writing prompt templates for subject lines, sequences, and CTAs. Build clarity, test fast, and maintain brand-safe tone.]]></summary>
+  </entry>
+  <entry>
+    <title>How Does Bidirectional Charging Work? Power Flow, Converters, and Use Cases</title>
+    <id>https://pulsegeek.com/articles/how-does-bidirectional-charging-work-power-flow-converters-and-use-cases/</id>
+    <link href="https://pulsegeek.com/articles/how-does-bidirectional-charging-work-power-flow-converters-and-use-cases/" />
+    <updated>2025-08-25T18:00:00Z</updated>
+    <summary type="html"><![CDATA[Understand bidirectional charging: power flow, converters, controls, and real use cases across homes, fleets, and the grid.]]></summary>
   </entry>
   <entry>
     <title>How to Write Effective Prompts: From Role Hints to Output Constraints</title>
@@ -59,10 +262,31 @@
     <summary type="html"><![CDATA[Learn how to write effective prompts with role hints, boundaries, examples, and output constraints that improve accuracy and reliability.]]></summary>
   </entry>
   <entry>
+    <title>Explaining AI Decisions to Stakeholders with Clarity</title>
+    <id>https://pulsegeek.com/articles/explaining-ai-decisions-to-stakeholders-with-clarity/</id>
+    <link href="https://pulsegeek.com/articles/explaining-ai-decisions-to-stakeholders-with-clarity/" />
+    <updated>2025-08-24T18:02:00Z</updated>
+    <summary type="html"><![CDATA[A step-by-step guide to explain AI decisions clearly with fit-for-purpose methods, visuals, validation, and feedback loops for non-technical stakeholders.]]></summary>
+  </entry>
+  <entry>
+    <title>Blog Post Prompt Templates: Outlines, Angles, and Style Controls</title>
+    <id>https://pulsegeek.com/articles/blog-post-prompt-templates-outlines-angles-and-style-controls/</id>
+    <link href="https://pulsegeek.com/articles/blog-post-prompt-templates-outlines-angles-and-style-controls/" />
+    <updated>2025-08-24T18:01:00Z</updated>
+    <summary type="html"><![CDATA[Use proven blog post prompt templates for outlines, angles, and tone. Get reusable styles, SEO structure, and QA prompts.]]></summary>
+  </entry>
+  <entry>
+    <title>EV Charging Load Management Strategies for Depots, Fleets, and Buildings</title>
+    <id>https://pulsegeek.com/articles/ev-charging-load-management-strategies-for-depots-fleets-and-buildings/</id>
+    <link href="https://pulsegeek.com/articles/ev-charging-load-management-strategies-for-depots-fleets-and-buildings/" />
+    <updated>2025-08-24T18:00:00Z</updated>
+    <summary type="html"><![CDATA[Practical EV charging load management strategies for depots, fleets, and buildings with standards, tariffs, and V2G readiness.]]></summary>
+  </entry>
+  <entry>
     <title>Dataset Documentation and Datasheets: The Complete Guide</title>
     <id>https://pulsegeek.com/articles/dataset-documentation-and-datasheets-the-complete-guide/</id>
     <link href="https://pulsegeek.com/articles/dataset-documentation-and-datasheets-the-complete-guide/" />
-    <updated>2025-09-05T20:37:02Z</updated>
+    <updated>2025-08-24T18:00:00Z</updated>
     <summary type="html"><![CDATA[Learn how to design, maintain, and audit dataset documentation and datasheets to reduce bias, protect privacy, and ensure traceable AI data.]]></summary>
   </entry>
   <entry>
@@ -80,6 +304,27 @@
     <summary type="html"><![CDATA[A practical, defense-in-depth checklist of security controls for IEC 61850 substations, spanning segmentation, identity, monitoring, and resilience.]]></summary>
   </entry>
   <entry>
+    <title>Interpretable ML Methods: A Complete Practical Overview</title>
+    <id>https://pulsegeek.com/articles/interpretable-ml-methods-a-complete-practical-overview/</id>
+    <link href="https://pulsegeek.com/articles/interpretable-ml-methods-a-complete-practical-overview/" />
+    <updated>2025-08-23T18:02:00Z</updated>
+    <summary type="html"><![CDATA[A practical guide to interpretable machine learning methods, from intrinsic models to post hoc explanations, with validation tips and communication strategies.]]></summary>
+  </entry>
+  <entry>
+    <title>Persona-Based Prompting for Marketing: Templates, Tone Controls, and SEO Structure</title>
+    <id>https://pulsegeek.com/articles/persona-based-prompting-for-marketing-templates-tone-controls-and-seo-structure/</id>
+    <link href="https://pulsegeek.com/articles/persona-based-prompting-for-marketing-templates-tone-controls-and-seo-structure/" />
+    <updated>2025-08-23T18:01:00Z</updated>
+    <summary type="html"><![CDATA[Reusable persona-led prompts for marketing with tone controls, SEO structure, and evaluation techniques that scale across channels.]]></summary>
+  </entry>
+  <entry>
+    <title>Synchrophasor (PMU) Data for Distribution Visibility: Use Cases and Integration Patterns</title>
+    <id>https://pulsegeek.com/articles/synchrophasor-pmu-data-for-distribution-visibility-use-cases-and-integration-patterns/</id>
+    <link href="https://pulsegeek.com/articles/synchrophasor-pmu-data-for-distribution-visibility-use-cases-and-integration-patterns/" />
+    <updated>2025-08-23T18:00:00Z</updated>
+    <summary type="html"><![CDATA[Learn how PMU synchrophasors unlock distribution visibility, key use cases, and secure integration patterns across OT and IT systems.]]></summary>
+  </entry>
+  <entry>
     <title>Few-Shot Prompting Examples: Reusable Patterns for Better Outputs</title>
     <id>https://pulsegeek.com/articles/few-shot-prompting-examples-reusable-patterns-for-better-outputs/</id>
     <link href="https://pulsegeek.com/articles/few-shot-prompting-examples-reusable-patterns-for-better-outputs/" />
@@ -87,220 +332,31 @@
     <summary type="html"><![CDATA[See practical few-shot prompting examples with reusable patterns, tips, and tradeoffs to improve accuracy and control across tasks.]]></summary>
   </entry>
   <entry>
+    <title>Top Techniques to Reduce Algorithmic Bias in Practice</title>
+    <id>https://pulsegeek.com/articles/top-techniques-to-reduce-algorithmic-bias-in-practice/</id>
+    <link href="https://pulsegeek.com/articles/top-techniques-to-reduce-algorithmic-bias-in-practice/" />
+    <updated>2025-08-22T18:02:00Z</updated>
+    <summary type="html"><![CDATA[Learn practical, measurable techniques to reduce algorithmic bias, from choosing fairness metrics to data fixes, constraint-based training, and ongoing evaluation.]]></summary>
+  </entry>
+  <entry>
+    <title>What Is Prompt Leakage and How to Prevent It? Risks, Patterns, and Guardrails</title>
+    <id>https://pulsegeek.com/articles/what-is-prompt-leakage-and-how-to-prevent-it-risks-patterns-and-guardrails/</id>
+    <link href="https://pulsegeek.com/articles/what-is-prompt-leakage-and-how-to-prevent-it-risks-patterns-and-guardrails/" />
+    <updated>2025-08-22T18:01:00Z</updated>
+    <summary type="html"><![CDATA[Learn what prompt leakage is, why it’s risky, common patterns to watch, and practical guardrails to prevent it.]]></summary>
+  </entry>
+  <entry>
+    <title>SAIDI/SAIFI Reliability Improvement Roadmap: High‑Impact Projects and Metrics</title>
+    <id>https://pulsegeek.com/articles/saidi-saifi-reliability-improvement-roadmap-high-impact-projects-and-metrics/</id>
+    <link href="https://pulsegeek.com/articles/saidi-saifi-reliability-improvement-roadmap-high-impact-projects-and-metrics/" />
+    <updated>2025-08-22T18:00:00Z</updated>
+    <summary type="html"><![CDATA[A focused roadmap to improve SAIDI and SAIFI with data governance, grid‑edge automation, and cybersecurity, plus metrics that drive dependable gains.]]></summary>
+  </entry>
+  <entry>
     <title>Top IEC CIM Data Model Use Cases for Utilities</title>
     <id>https://pulsegeek.com/articles/top-iec-cim-data-model-use-cases-for-utilities/</id>
     <link href="https://pulsegeek.com/articles/top-iec-cim-data-model-use-cases-for-utilities/" />
     <updated>2025-08-22T02:00:00Z</updated>
     <summary type="html"><![CDATA[Discover high‑impact IEC CIM use cases for utilities, from CGMES model exchange to ADMS integration and DER planning with IEEE 2030.5 mappings.]]></summary>
-  </entry>
-  <entry>
-    <title>Open‑Source vs Commercial Interoperability Testing Tools for Smart Grids</title>
-    <id>https://pulsegeek.com/articles/open-source-vs-commercial-interoperability-testing-tools-for-smart-grids/</id>
-    <link href="https://pulsegeek.com/articles/open-source-vs-commercial-interoperability-testing-tools-for-smart-grids/" />
-    <updated>2025-08-22T02:00:00Z</updated>
-    <summary type="html"><![CDATA[Compare open-source vs commercial interoperability testing tools for smart grids. Evaluate cost, coverage, security, and fit for OT and IT teams.]]></summary>
-  </entry>
-  <entry>
-    <title>Top AI Governance Best Practices for Real Programs</title>
-    <id>https://pulsegeek.com/articles/top-ai-governance-best-practices-for-real-programs/</id>
-    <link href="https://pulsegeek.com/articles/top-ai-governance-best-practices-for-real-programs/" />
-    <updated>2025-08-21T18:00:00Z</updated>
-    <summary type="html"><![CDATA[A practical list of AI governance best practices that anchor accountability, operationalize risk, and sustain monitoring across real programs.]]></summary>
-  </entry>
-  <entry>
-    <title>Grid‑Edge Analytics for Outage Management: Top Techniques and Tools</title>
-    <id>https://pulsegeek.com/articles/grid-edge-analytics-for-outage-management-top-techniques-and-tools/</id>
-    <link href="https://pulsegeek.com/articles/grid-edge-analytics-for-outage-management-top-techniques-and-tools/" />
-    <updated>2025-08-21T02:00:00Z</updated>
-    <summary type="html"><![CDATA[Top techniques and tools for grid‑edge analytics that accelerate outage detection, localization, and restoration while improving reliability and security.]]></summary>
-  </entry>
-  <entry>
-    <title>Chain-of-Thought Prompting Pattern: When to Use It and How to Guide Reasoning</title>
-    <id>https://pulsegeek.com/articles/chain-of-thought-prompting-pattern-when-to-use-it-and-how-to-guide-reasoning/</id>
-    <link href="https://pulsegeek.com/articles/chain-of-thought-prompting-pattern-when-to-use-it-and-how-to-guide-reasoning/" />
-    <updated>2025-08-21T02:00:00Z</updated>
-    <summary type="html"><![CDATA[Learn when chain-of-thought prompting helps, how to guide reasoning, and what tradeoffs to expect with examples and patterns.]]></summary>
-  </entry>
-  <entry>
-    <title>Smart Grid Integration Architecture: Reference Models from Substation to Cloud</title>
-    <id>https://pulsegeek.com/articles/smart-grid-integration-architecture-reference-models-from-substation-to-cloud/</id>
-    <link href="https://pulsegeek.com/articles/smart-grid-integration-architecture-reference-models-from-substation-to-cloud/" />
-    <updated>2025-08-20T02:00:00Z</updated>
-    <summary type="html"><![CDATA[Design interoperable smart grid integration architecture from substation to cloud with IEC 61850, CIM, and IEEE 2030.5 reference patterns.]]></summary>
-  </entry>
-  <entry>
-    <title>Data Governance for Utility OT/IT Convergence: Models, Security, and Interoperability</title>
-    <id>https://pulsegeek.com/articles/data-governance-for-utility-ot-it-convergence-models-security-and-interoperability/</id>
-    <link href="https://pulsegeek.com/articles/data-governance-for-utility-ot-it-convergence-models-security-and-interoperability/" />
-    <updated>2025-08-20T02:00:00Z</updated>
-    <summary type="html"><![CDATA[A practical guide to utility OT/IT data governance covering models, security, interoperability, and reliability with actionable frameworks and real examples.]]></summary>
-  </entry>
-  <entry>
-    <title>Prompt Engineering Guide: Core Patterns, System Prompts, and Reliable Techniques</title>
-    <id>https://pulsegeek.com/articles/prompt-engineering-guide-core-patterns-system-prompts-and-reliable-techniques/</id>
-    <link href="https://pulsegeek.com/articles/prompt-engineering-guide-core-patterns-system-prompts-and-reliable-techniques/" />
-    <updated>2025-09-05T05:58:52Z</updated>
-    <summary type="html"><![CDATA[A deep prompt engineering guide on core patterns, system prompts, and reliable techniques with practical examples and links.]]></summary>
-  </entry>
-  <entry>
-    <title>Setting Up an AI Oversight Committee, Step by Step</title>
-    <id>https://pulsegeek.com/articles/setting-up-an-ai-oversight-committee-step-by-step/</id>
-    <link href="https://pulsegeek.com/articles/setting-up-an-ai-oversight-committee-step-by-step/" />
-    <updated>2025-08-18T18:00:00Z</updated>
-    <summary type="html"><![CDATA[Learn how to set up an AI oversight committee with clear mandate, structure, workflows, and metrics for accountable governance.]]></summary>
-  </entry>
-  <entry>
-    <title>IEEE 2030.5 SEP for DER Integration: Capabilities, Security, and Utility Adoption</title>
-    <id>https://pulsegeek.com/articles/ieee-2030-5-sep-for-der-integration-capabilities-security-and-utility-adoption/</id>
-    <link href="https://pulsegeek.com/articles/ieee-2030-5-sep-for-der-integration-capabilities-security-and-utility-adoption/" />
-    <updated>2025-08-18T02:00:00Z</updated>
-    <summary type="html"><![CDATA[Understand IEEE 2030.5 SEP for DER integration, including capabilities, security, profiles like CSIP, and how utilities deploy it alongside IEC 61850 and CIM.]]></summary>
-  </entry>
-  <entry>
-    <title>Prompt Modifiers and Styles for Images: A Catalog of Aesthetics and Lighting</title>
-    <id>https://pulsegeek.com/articles/prompt-modifiers-and-styles-for-images-a-catalog-of-aesthetics-and-lighting/</id>
-    <link href="https://pulsegeek.com/articles/prompt-modifiers-and-styles-for-images-a-catalog-of-aesthetics-and-lighting/" />
-    <updated>2025-08-17T02:00:00Z</updated>
-    <summary type="html"><![CDATA[Learn prompt modifiers and styles for images with clear examples of aesthetics, lighting, and camera controls for consistent visuals.]]></summary>
-  </entry>
-  <entry>
-    <title>Top Load Flexibility Use Cases for C&amp;I and Residential Customers</title>
-    <id>https://pulsegeek.com/articles/top-load-flexibility-use-cases-for-c-and-i-and-residential-customers/</id>
-    <link href="https://pulsegeek.com/articles/top-load-flexibility-use-cases-for-c-and-i-and-residential-customers/" />
-    <updated>2025-09-06T00:01:37Z</updated>
-    <summary type="html"><![CDATA[Explore top load flexibility use cases for C&I and residential customers, from HVAC and refrigeration to EVs and batteries, powered by AMI and DR.]]></summary>
-  </entry>
-  <entry>
-    <title>How to Implement IEC 61850 in Substations: Profiles, SCL, and Migration Steps</title>
-    <id>https://pulsegeek.com/articles/how-to-implement-iec-61850-in-substations-profiles-scl-and-migration-steps/</id>
-    <link href="https://pulsegeek.com/articles/how-to-implement-iec-61850-in-substations-profiles-scl-and-migration-steps/" />
-    <updated>2025-08-16T02:00:00Z</updated>
-    <summary type="html"><![CDATA[Step-by-step IEC 61850 substation implementation using profiles, SCL engineering, testing, and staged migration for interoperable protection and SCADA.]]></summary>
-  </entry>
-  <entry>
-    <title>NIST AI RMF vs ISO Standards: What Teams Should Know</title>
-    <id>https://pulsegeek.com/articles/nist-ai-rmf-vs-iso-standards-what-teams-should-know/</id>
-    <link href="https://pulsegeek.com/articles/nist-ai-rmf-vs-iso-standards-what-teams-should-know/" />
-    <updated>2025-08-15T18:00:00Z</updated>
-    <summary type="html"><![CDATA[Compare NIST AI RMF with ISO AI management standards. Understand scope, controls, certification, and how to map both into practical governance.]]></summary>
-  </entry>
-  <entry>
-    <title>Image Prompt Templates for Marketers: Campaign-Ready Structures and Variations</title>
-    <id>https://pulsegeek.com/articles/image-prompt-templates-for-marketers-campaign-ready-structures-and-variations/</id>
-    <link href="https://pulsegeek.com/articles/image-prompt-templates-for-marketers-campaign-ready-structures-and-variations/" />
-    <updated>2025-08-15T02:00:00Z</updated>
-    <summary type="html"><![CDATA[Steal-ready image prompt templates for marketers. Craft brand-safe, scalable visuals with structured prompts, style controls, and testing tips.]]></summary>
-  </entry>
-  <entry>
-    <title>Smart Grid Interoperability Framework: Architectures, Models, and Standards That Scale</title>
-    <id>https://pulsegeek.com/articles/smart-grid-interoperability-framework-architectures-models-and-standards-that-scale/</id>
-    <link href="https://pulsegeek.com/articles/smart-grid-interoperability-framework-architectures-models-and-standards-that-scale/" />
-    <updated>2025-08-14T02:00:00Z</updated>
-    <summary type="html"><![CDATA[Design interoperable smart grids with layered architectures and standards like IEC 61850, CIM, and IEEE 2030.5. Practical models, tips, and roadmaps.]]></summary>
-  </entry>
-  <entry>
-    <title>Time‑of‑Use Pricing Communication via AMI: Messaging, Standards, and Customer UX</title>
-    <id>https://pulsegeek.com/articles/time-of-use-pricing-communication-via-ami-messaging-standards-and-customer-ux/</id>
-    <link href="https://pulsegeek.com/articles/time-of-use-pricing-communication-via-ami-messaging-standards-and-customer-ux/" />
-    <updated>2025-08-13T18:00:00Z</updated>
-    <summary type="html"><![CDATA[How AMI delivers clear time-of-use pricing: customer messaging patterns, standards like IEEE 2030.5, and UX design linked to DR and forecasting.]]></summary>
-  </entry>
-  <entry>
-    <title>How to Write Prompts for Image Generation: Subjects, Styles, and Constraints</title>
-    <id>https://pulsegeek.com/articles/how-to-write-prompts-for-image-generation-subjects-styles-and-constraints/</id>
-    <link href="https://pulsegeek.com/articles/how-to-write-prompts-for-image-generation-subjects-styles-and-constraints/" />
-    <updated>2025-08-13T02:00:00Z</updated>
-    <summary type="html"><![CDATA[Learn how to write prompts for image generation with clear subjects, consistent styles, and brand-safe constraints.]]></summary>
-  </entry>
-  <entry>
-    <title>How to Build an AI Ethics Policy That Scales</title>
-    <id>https://pulsegeek.com/articles/how-to-build-an-ai-ethics-policy-that-scales/</id>
-    <link href="https://pulsegeek.com/articles/how-to-build-an-ai-ethics-policy-that-scales/" />
-    <updated>2025-08-12T18:00:00Z</updated>
-    <summary type="html"><![CDATA[Practical steps to design, govern, and operationalize an AI ethics policy that scales across teams, products, and regulations.]]></summary>
-  </entry>
-  <entry>
-    <title>Smart Grid Integration: Architectures, DER, AMI, V2G, and Interoperability for Urban Utilities</title>
-    <id>https://pulsegeek.com/articles/smart-grid-integration-architectures-der-ami-v2g-and-interoperability-for-urban-utilities/</id>
-    <link href="https://pulsegeek.com/articles/smart-grid-integration-architectures-der-ami-v2g-and-interoperability-for-urban-utilities/" />
-    <updated>2025-08-12T02:00:00Z</updated>
-    <summary type="html"><![CDATA[Urban utilities guide to smart grid integration: architectures, DER, AMI, V2G, and interoperable data governance with real examples and standards.]]></summary>
-  </entry>
-  <entry>
-    <title>How to Prompt for Brand-Consistent Visuals: Palettes, Props, and Negative Prompts</title>
-    <id>https://pulsegeek.com/articles/how-to-prompt-for-brand-consistent-visuals-palettes-props-and-negative-prompts/</id>
-    <link href="https://pulsegeek.com/articles/how-to-prompt-for-brand-consistent-visuals-palettes-props-and-negative-prompts/" />
-    <updated>2025-08-11T02:00:00Z</updated>
-    <summary type="html"><![CDATA[Learn how to prompt for brand-consistent visuals using palettes, signature props, and negative prompts, with testing workflows and governance tips.]]></summary>
-  </entry>
-  <entry>
-    <title>How to Integrate DRMS with the AMI Headend: Interfaces, Events, and Testing</title>
-    <id>https://pulsegeek.com/articles/how-to-integrate-drms-with-the-ami-headend-interfaces-events-and-testing/</id>
-    <link href="https://pulsegeek.com/articles/how-to-integrate-drms-with-the-ami-headend-interfaces-events-and-testing/" />
-    <updated>2025-08-10T18:00:00Z</updated>
-    <summary type="html"><![CDATA[Step-by-step guide to integrate DRMS with an AMI headend, map interfaces, model events, and run end-to-end testing.]]></summary>
-  </entry>
-  <entry>
-    <title>Checklist for Responsible AI Deployment and Rollout</title>
-    <id>https://pulsegeek.com/articles/checklist-for-responsible-ai-deployment-and-rollout/</id>
-    <link href="https://pulsegeek.com/articles/checklist-for-responsible-ai-deployment-and-rollout/" />
-    <updated>2025-08-09T18:00:00Z</updated>
-    <summary type="html"><![CDATA[A practical, benefit-focused checklist to deploy responsible AI with governance, data controls, oversight, and response plans.]]></summary>
-  </entry>
-  <entry>
-    <title>Comparison of Text-to-Image Prompt Styles: Photorealism vs Illustration vs 3D</title>
-    <id>https://pulsegeek.com/articles/comparison-of-text-to-image-prompt-styles-photorealism-vs-illustration-vs-3d/</id>
-    <link href="https://pulsegeek.com/articles/comparison-of-text-to-image-prompt-styles-photorealism-vs-illustration-vs-3d/" />
-    <updated>2025-08-09T02:00:00Z</updated>
-    <summary type="html"><![CDATA[A practical comparison of text-to-image prompt styles—photorealism, illustration, and 3D—with controls, pros and cons, and use-case guidance.]]></summary>
-  </entry>
-  <entry>
-    <title>How to Design Utility Demand Response Programs: Segments, Incentives, and Measurement</title>
-    <id>https://pulsegeek.com/articles/how-to-design-utility-demand-response-programs-segments-incentives-and-measurement/</id>
-    <link href="https://pulsegeek.com/articles/how-to-design-utility-demand-response-programs-segments-incentives-and-measurement/" />
-    <updated>2025-08-07T18:00:00Z</updated>
-    <summary type="html"><![CDATA[Step-by-step demand response program design for utilities: segmenting customers, incentives, event rules, integration, and measurement.]]></summary>
-  </entry>
-  <entry>
-    <title>Multimodal Prompting with Text and Images: A Practitioner’s Guide to Consistency</title>
-    <id>https://pulsegeek.com/articles/multimodal-prompting-with-text-and-images-a-practitioners-guide-to-consistency/</id>
-    <link href="https://pulsegeek.com/articles/multimodal-prompting-with-text-and-images-a-practitioners-guide-to-consistency/" />
-    <updated>2025-08-07T02:00:00Z</updated>
-    <summary type="html"><![CDATA[A practical guide to consistent multimodal prompting, with style controls, templates, evaluation, and brand-safe workflows.]]></summary>
-  </entry>
-  <entry>
-    <title>AI Governance Framework Components: A Working Guide</title>
-    <id>https://pulsegeek.com/articles/ai-governance-framework-components-a-working-guide/</id>
-    <link href="https://pulsegeek.com/articles/ai-governance-framework-components-a-working-guide/" />
-    <updated>2025-08-06T18:00:00Z</updated>
-    <summary type="html"><![CDATA[A practical guide to AI governance framework components spanning principles, roles, risk controls, and monitoring with actionable steps.]]></summary>
-  </entry>
-  <entry>
-    <title>Prompt Engineering: Complete Patterns, Templates, and Evaluation Playbook</title>
-    <id>https://pulsegeek.com/articles/prompt-engineering-complete-patterns-templates-and-evaluation-playbook/</id>
-    <link href="https://pulsegeek.com/articles/prompt-engineering-complete-patterns-templates-and-evaluation-playbook/" />
-    <updated>2025-09-05T05:58:52Z</updated>
-    <summary type="html"><![CDATA[A complete prompt engineering playbook covering core patterns, reusable templates, multimodal tactics, and rigorous evaluation workflows.]]></summary>
-  </entry>
-  <entry>
-    <title>How to Build Load Forecasting for Demand Response Optimization</title>
-    <id>https://pulsegeek.com/articles/how-to-build-load-forecasting-for-demand-response-optimization/</id>
-    <link href="https://pulsegeek.com/articles/how-to-build-load-forecasting-for-demand-response-optimization/" />
-    <updated>2025-08-04T18:00:00Z</updated>
-    <summary type="html"><![CDATA[Step-by-step guide to build AMI-based load forecasting for demand response, from data prep to DRMS integration and operational playbooks.]]></summary>
-  </entry>
-  <entry>
-    <title>AI Ethics and Fairness: Practical Paths to Responsible AI</title>
-    <id>https://pulsegeek.com/articles/ai-ethics-and-fairness-practical-paths-to-responsible-ai/</id>
-    <link href="https://pulsegeek.com/articles/ai-ethics-and-fairness-practical-paths-to-responsible-ai/" />
-    <updated>2025-08-03T02:00:00Z</updated>
-    <summary type="html"><![CDATA[A practical, nuanced guide to AI ethics and fairness with metrics, interpretability, governance, documentation, and monitoring you can operationalize.]]></summary>
-  </entry>
-  <entry>
-    <title>Advanced Metering Infrastructure Deployment Plan: Architecture, Rollout, and Change Management</title>
-    <id>https://pulsegeek.com/articles/advanced-metering-infrastructure-deployment-plan-architecture-rollout-and-change-management/</id>
-    <link href="https://pulsegeek.com/articles/advanced-metering-infrastructure-deployment-plan-architecture-rollout-and-change-management/" />
-    <updated>2025-08-01T18:00:00Z</updated>
-    <summary type="html"><![CDATA[Design an advanced metering infrastructure deployment plan with architecture, DR integration, forecasting, and change management for utility-scale results.]]></summary>
   </entry>
 </feed>
