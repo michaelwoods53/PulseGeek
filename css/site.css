@@ -1020,7 +1020,7 @@ figure.code-example {
         display: block;
         font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
         font-size: 0.95rem;
-        line-height: 1.55;
+        line-height: 1;
         tab-size: 2;
         white-space: pre; /* keep original wraps */
     }

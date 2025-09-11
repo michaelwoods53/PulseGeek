@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>PulseGeek</title>
   <id>https://pulsegeek.com/atom.xml</id>
-  <updated>2025-09-12T00:33:57Z</updated>
+  <updated>2025-09-12T03:27:21Z</updated>
   <link href="https://pulsegeek.com/atom.xml" rel="self" type="application/atom+xml" />
   <link href="https://pulsegeek.com" />
   <author>
@@ -20,14 +20,14 @@
     <title>Digital Signatures in Blockchain: Verify and Authorize</title>
     <id>https://pulsegeek.com/articles/digital-signatures-in-blockchain-verify-and-authorize/</id>
     <link href="https://pulsegeek.com/articles/digital-signatures-in-blockchain-verify-and-authorize/" />
-    <updated>2025-09-12T00:33:57Z</updated>
+    <updated>2025-09-12T03:27:21Z</updated>
     <summary type="html"><![CDATA[Learn how digital signatures in blockchain verify identity and authorize transactions, from key generation to secure storage, signature formats, verification flows, and risk controls.]]></summary>
   </entry>
   <entry>
     <title>Smart Contract Lifecycle: Plan, Test, Deploy, Maintain</title>
     <id>https://pulsegeek.com/articles/smart-contract-lifecycle-plan-test-deploy-maintain/</id>
     <link href="https://pulsegeek.com/articles/smart-contract-lifecycle-plan-test-deploy-maintain/" />
-    <updated>2025-09-12T00:33:57Z</updated>
+    <updated>2025-09-12T03:27:21Z</updated>
     <summary type="html"><![CDATA[Learn the smart contract lifecycle from planning and specification to secure design, development, testing, deployment, and maintenance, with pitfalls, patterns, and practical steps that reduce risk and improve on-chain reliability.]]></summary>
   </entry>
   <entry>
