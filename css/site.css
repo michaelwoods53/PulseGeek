@@ -981,3 +981,44 @@ ul.media-list {
             outline: 1px solid rgba(255,255,255,.06);
         }
 }
+/* Code blocks */
+figure.code-example {
+    margin: var(--spacing-xxl) 0;
+}
+
+    figure.code-example pre {
+        padding: var(--spacing-md);
+        border-radius: var(--radius);
+        overflow: auto;
+        background: var(--card-background-color);
+        box-shadow: var(--card-box-shadow);
+    }
+
+    figure.code-example code {
+        font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+        font-size: 0.95rem;
+        line-height: 1.5;
+        white-space: pre;
+    }
+
+    figure.code-example figcaption {
+        margin-top: .5rem;
+        font-size: .9rem;
+        color: var(--muted-color);
+    }
+
+    figure.code-example .copy-code {
+        margin-top: .5rem;
+        padding: .35rem .65rem;
+        font-size: .85rem;
+        border: 1px solid var(--muted-border-color);
+        background: var(--secondary-background);
+        border-radius: var(--radius);
+        cursor: pointer;
+    }
+
+article code:not(pre code) {
+    padding: .1rem .3rem;
+    border-radius: .25rem;
+    background: var(--secondary-background);
+}

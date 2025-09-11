@@ -6,8 +6,50 @@
     <description>Tech news, gaming, and geek culture in one pulse</description>
     <language>en-us</language>
     <generator>PulseGeek Rss Feed Generator</generator>
-    <lastBuildDate>Fri, 05 Sep 2025 18:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 11 Sep 2025 23:03:26 GMT</lastBuildDate>
     <atom:link href="https://pulsegeek.com/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Artificial Intelligence in Education: A Complete Guide</title>
+      <link>https://pulsegeek.com/articles/artificial-intelligence-in-education-a-complete-guide/</link>
+      <guid isPermaLink="true">https://pulsegeek.com/articles/artificial-intelligence-in-education-a-complete-guide/</guid>
+      <pubDate>Wed, 10 Sep 2025 23:00:00 GMT</pubDate>
+      <description>Learn what artificial intelligence in education means, where it adds value, how to reduce risks, and how to launch responsibly with governance, examples, and a practical roadmap.</description>
+    </item>
+    <item>
+      <title>Digital Signatures in Blockchain: Verify and Authorize</title>
+      <link>https://pulsegeek.com/articles/digital-signatures-in-blockchain-verify-and-authorize/</link>
+      <guid isPermaLink="true">https://pulsegeek.com/articles/digital-signatures-in-blockchain-verify-and-authorize/</guid>
+      <pubDate>Tue, 09 Sep 2025 23:00:00 GMT</pubDate>
+      <description>Learn how digital signatures in blockchain verify identity and authorize transactions, from key generation to secure storage, signature formats, verification flows, and risk controls.</description>
+    </item>
+    <item>
+      <title>Smart Contract Lifecycle: Plan, Test, Deploy, Maintain</title>
+      <link>https://pulsegeek.com/articles/smart-contract-lifecycle-plan-test-deploy-maintain/</link>
+      <guid isPermaLink="true">https://pulsegeek.com/articles/smart-contract-lifecycle-plan-test-deploy-maintain/</guid>
+      <pubDate>Mon, 08 Sep 2025 23:00:00 GMT</pubDate>
+      <description>Learn the smart contract lifecycle from planning and specification to secure design, development, testing, deployment, and maintenance, with pitfalls, patterns, and practical steps that reduce risk and improve on-chain reliability.</description>
+    </item>
+    <item>
+      <title>AI in Education: Adoption, Equity, and Practical Pathways</title>
+      <link>https://pulsegeek.com/articles/ai-in-education-adoption-equity-and-practical-pathways/</link>
+      <guid isPermaLink="true">https://pulsegeek.com/articles/ai-in-education-adoption-equity-and-practical-pathways/</guid>
+      <pubDate>Sun, 07 Sep 2025 23:00:00 GMT</pubDate>
+      <description>A strategic guide to AI in education that maps adoption choices, equity safeguards, and stepwise pathways from pilots to scale, with practical examples and governance frameworks.</description>
+    </item>
+    <item>
+      <title>Blockchain Cryptography: Core Hashes, Keys, and Proofs</title>
+      <link>https://pulsegeek.com/articles/blockchain-cryptography-core-hashes-keys-and-proofs/</link>
+      <guid isPermaLink="true">https://pulsegeek.com/articles/blockchain-cryptography-core-hashes-keys-and-proofs/</guid>
+      <pubDate>Sat, 06 Sep 2025 23:00:00 GMT</pubDate>
+      <description>Learn how blockchain cryptography works across hashes, keys, and proofs. Explore integrity, authorization, Merkle trees, zero-knowledge, and randomness to design secure, verifiable systems.</description>
+    </item>
+    <item>
+      <title>Smart Contracts Explained: From Code to On-Chain Trust</title>
+      <link>https://pulsegeek.com/articles/smart-contracts-explained-from-code-to-on-chain-trust/</link>
+      <guid isPermaLink="true">https://pulsegeek.com/articles/smart-contracts-explained-from-code-to-on-chain-trust/</guid>
+      <pubDate>Fri, 05 Sep 2025 23:00:00 GMT</pubDate>
+      <description>Learn how smart contracts work, why they matter, and how to design, secure, and operate them from development through on-chain trust and real use cases.</description>
+    </item>
     <item>
       <title>Key Questions to Ask During an AI Data Review</title>
       <link>https://pulsegeek.com/articles/key-questions-to-ask-during-an-ai-data-review/</link>
@@ -315,48 +357,6 @@
       <guid isPermaLink="true">https://pulsegeek.com/articles/persona-based-prompting-for-marketing-templates-tone-controls-and-seo-structure/</guid>
       <pubDate>Sat, 23 Aug 2025 18:01:00 GMT</pubDate>
       <description>Reusable persona-led prompts for marketing with tone controls, SEO structure, and evaluation techniques that scale across channels.</description>
-    </item>
-    <item>
-      <title>Synchrophasor (PMU) Data for Distribution Visibility: Use Cases and Integration Patterns</title>
-      <link>https://pulsegeek.com/articles/synchrophasor-pmu-data-for-distribution-visibility-use-cases-and-integration-patterns/</link>
-      <guid isPermaLink="true">https://pulsegeek.com/articles/synchrophasor-pmu-data-for-distribution-visibility-use-cases-and-integration-patterns/</guid>
-      <pubDate>Sat, 23 Aug 2025 18:00:00 GMT</pubDate>
-      <description>Learn how PMU synchrophasors unlock distribution visibility, key use cases, and secure integration patterns across OT and IT systems.</description>
-    </item>
-    <item>
-      <title>Few-Shot Prompting Examples: Reusable Patterns for Better Outputs</title>
-      <link>https://pulsegeek.com/articles/few-shot-prompting-examples-reusable-patterns-for-better-outputs/</link>
-      <guid isPermaLink="true">https://pulsegeek.com/articles/few-shot-prompting-examples-reusable-patterns-for-better-outputs/</guid>
-      <pubDate>Sat, 23 Aug 2025 02:00:00 GMT</pubDate>
-      <description>See practical few-shot prompting examples with reusable patterns, tips, and tradeoffs to improve accuracy and control across tasks.</description>
-    </item>
-    <item>
-      <title>Top Techniques to Reduce Algorithmic Bias in Practice</title>
-      <link>https://pulsegeek.com/articles/top-techniques-to-reduce-algorithmic-bias-in-practice/</link>
-      <guid isPermaLink="true">https://pulsegeek.com/articles/top-techniques-to-reduce-algorithmic-bias-in-practice/</guid>
-      <pubDate>Fri, 22 Aug 2025 18:02:00 GMT</pubDate>
-      <description>Learn practical, measurable techniques to reduce algorithmic bias, from choosing fairness metrics to data fixes, constraint-based training, and ongoing evaluation.</description>
-    </item>
-    <item>
-      <title>What Is Prompt Leakage and How to Prevent It? Risks, Patterns, and Guardrails</title>
-      <link>https://pulsegeek.com/articles/what-is-prompt-leakage-and-how-to-prevent-it-risks-patterns-and-guardrails/</link>
-      <guid isPermaLink="true">https://pulsegeek.com/articles/what-is-prompt-leakage-and-how-to-prevent-it-risks-patterns-and-guardrails/</guid>
-      <pubDate>Fri, 22 Aug 2025 18:01:00 GMT</pubDate>
-      <description>Learn what prompt leakage is, why it’s risky, common patterns to watch, and practical guardrails to prevent it.</description>
-    </item>
-    <item>
-      <title>SAIDI/SAIFI Reliability Improvement Roadmap: High‑Impact Projects and Metrics</title>
-      <link>https://pulsegeek.com/articles/saidi-saifi-reliability-improvement-roadmap-high-impact-projects-and-metrics/</link>
-      <guid isPermaLink="true">https://pulsegeek.com/articles/saidi-saifi-reliability-improvement-roadmap-high-impact-projects-and-metrics/</guid>
-      <pubDate>Fri, 22 Aug 2025 18:00:00 GMT</pubDate>
-      <description>A focused roadmap to improve SAIDI and SAIFI with data governance, grid‑edge automation, and cybersecurity, plus metrics that drive dependable gains.</description>
-    </item>
-    <item>
-      <title>Top IEC CIM Data Model Use Cases for Utilities</title>
-      <link>https://pulsegeek.com/articles/top-iec-cim-data-model-use-cases-for-utilities/</link>
-      <guid isPermaLink="true">https://pulsegeek.com/articles/top-iec-cim-data-model-use-cases-for-utilities/</guid>
-      <pubDate>Fri, 22 Aug 2025 02:00:00 GMT</pubDate>
-      <description>Discover high‑impact IEC CIM use cases for utilities, from CGMES model exchange to ADMS integration and DER planning with IEEE 2030.5 mappings.</description>
     </item>
   </channel>
 </rss>
