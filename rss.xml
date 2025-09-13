@@ -6,8 +6,22 @@
     <description>Tech news, gaming, and geek culture in one pulse</description>
     <language>en-us</language>
     <generator>PulseGeek Rss Feed Generator</generator>
-    <lastBuildDate>Fri, 12 Sep 2025 03:27:21 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 13 Sep 2025 18:53:03 GMT</lastBuildDate>
     <atom:link href="https://pulsegeek.com/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>10 Smart Contract Use Cases Shaping Digital Trust</title>
+      <link>https://pulsegeek.com/articles/10-smart-contract-use-cases-shaping-digital-trust/</link>
+      <guid isPermaLink="true">https://pulsegeek.com/articles/10-smart-contract-use-cases-shaping-digital-trust/</guid>
+      <pubDate>Fri, 12 Sep 2025 23:00:00 GMT</pubDate>
+      <description>Explore ten smart contract use cases that anchor digital trust, from escrow and tokenized assets to identity, compliance, and DAOs, with security tips and cryptographic guardrails.</description>
+    </item>
+    <item>
+      <title>Blockchain and Smart Contracts: How They Interconnect</title>
+      <link>https://pulsegeek.com/articles/blockchain-and-smart-contracts-how-they-interconnect/</link>
+      <guid isPermaLink="true">https://pulsegeek.com/articles/blockchain-and-smart-contracts-how-they-interconnect/</guid>
+      <pubDate>Thu, 11 Sep 2025 23:00:00 GMT</pubDate>
+      <description>Learn how blockchain and smart contracts work together, from transactions and gas to on-chain execution, composability, testing, and safe deployment patterns across major networks.</description>
+    </item>
     <item>
       <title>Artificial Intelligence in Education: A Complete Guide</title>
       <link>https://pulsegeek.com/articles/artificial-intelligence-in-education-a-complete-guide/</link>
@@ -343,20 +357,6 @@
       <guid isPermaLink="true">https://pulsegeek.com/articles/security-controls-for-iec-61850-substations-a-defense-in-depth-checklist/</guid>
       <pubDate>Sun, 24 Aug 2025 02:00:00 GMT</pubDate>
       <description>A practical, defense-in-depth checklist of security controls for IEC 61850 substations, spanning segmentation, identity, monitoring, and resilience.</description>
-    </item>
-    <item>
-      <title>Interpretable ML Methods: A Complete Practical Overview</title>
-      <link>https://pulsegeek.com/articles/interpretable-ml-methods-a-complete-practical-overview/</link>
-      <guid isPermaLink="true">https://pulsegeek.com/articles/interpretable-ml-methods-a-complete-practical-overview/</guid>
-      <pubDate>Sat, 23 Aug 2025 18:02:00 GMT</pubDate>
-      <description>A practical guide to interpretable machine learning methods, from intrinsic models to post hoc explanations, with validation tips and communication strategies.</description>
-    </item>
-    <item>
-      <title>Persona-Based Prompting for Marketing: Templates, Tone Controls, and SEO Structure</title>
-      <link>https://pulsegeek.com/articles/persona-based-prompting-for-marketing-templates-tone-controls-and-seo-structure/</link>
-      <guid isPermaLink="true">https://pulsegeek.com/articles/persona-based-prompting-for-marketing-templates-tone-controls-and-seo-structure/</guid>
-      <pubDate>Sat, 23 Aug 2025 18:01:00 GMT</pubDate>
-      <description>Reusable persona-led prompts for marketing with tone controls, SEO structure, and evaluation techniques that scale across channels.</description>
     </item>
   </channel>
 </rss>

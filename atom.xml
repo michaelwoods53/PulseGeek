@@ -2,13 +2,27 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>PulseGeek</title>
   <id>https://pulsegeek.com/atom.xml</id>
-  <updated>2025-09-12T03:27:21Z</updated>
+  <updated>2025-09-13T18:53:03Z</updated>
   <link href="https://pulsegeek.com/atom.xml" rel="self" type="application/atom+xml" />
   <link href="https://pulsegeek.com" />
   <author>
     <name>PulseGeek</name>
   </author>
   <subtitle>Tech news, gaming, and geek culture in one pulse</subtitle>
+  <entry>
+    <title>10 Smart Contract Use Cases Shaping Digital Trust</title>
+    <id>https://pulsegeek.com/articles/10-smart-contract-use-cases-shaping-digital-trust/</id>
+    <link href="https://pulsegeek.com/articles/10-smart-contract-use-cases-shaping-digital-trust/" />
+    <updated>2025-09-12T23:00:00Z</updated>
+    <summary type="html"><![CDATA[Explore ten smart contract use cases that anchor digital trust, from escrow and tokenized assets to identity, compliance, and DAOs, with security tips and cryptographic guardrails.]]></summary>
+  </entry>
+  <entry>
+    <title>Blockchain and Smart Contracts: How They Interconnect</title>
+    <id>https://pulsegeek.com/articles/blockchain-and-smart-contracts-how-they-interconnect/</id>
+    <link href="https://pulsegeek.com/articles/blockchain-and-smart-contracts-how-they-interconnect/" />
+    <updated>2025-09-11T23:00:00Z</updated>
+    <summary type="html"><![CDATA[Learn how blockchain and smart contracts work together, from transactions and gas to on-chain execution, composability, testing, and safe deployment patterns across major networks.]]></summary>
+  </entry>
   <entry>
     <title>Artificial Intelligence in Education: A Complete Guide</title>
     <id>https://pulsegeek.com/articles/artificial-intelligence-in-education-a-complete-guide/</id>
@@ -20,14 +34,14 @@
     <title>Digital Signatures in Blockchain: Verify and Authorize</title>
     <id>https://pulsegeek.com/articles/digital-signatures-in-blockchain-verify-and-authorize/</id>
     <link href="https://pulsegeek.com/articles/digital-signatures-in-blockchain-verify-and-authorize/" />
-    <updated>2025-09-12T03:27:21Z</updated>
+    <updated>2025-09-13T18:53:03Z</updated>
     <summary type="html"><![CDATA[Learn how digital signatures in blockchain verify identity and authorize transactions, from key generation to secure storage, signature formats, verification flows, and risk controls.]]></summary>
   </entry>
   <entry>
     <title>Smart Contract Lifecycle: Plan, Test, Deploy, Maintain</title>
     <id>https://pulsegeek.com/articles/smart-contract-lifecycle-plan-test-deploy-maintain/</id>
     <link href="https://pulsegeek.com/articles/smart-contract-lifecycle-plan-test-deploy-maintain/" />
-    <updated>2025-09-12T03:27:21Z</updated>
+    <updated>2025-09-13T18:53:03Z</updated>
     <summary type="html"><![CDATA[Learn the smart contract lifecycle from planning and specification to secure design, development, testing, deployment, and maintenance, with pitfalls, patterns, and practical steps that reduce risk and improve on-chain reliability.]]></summary>
   </entry>
   <entry>
@@ -48,7 +62,7 @@
     <title>Smart Contracts Explained: From Code to On-Chain Trust</title>
     <id>https://pulsegeek.com/articles/smart-contracts-explained-from-code-to-on-chain-trust/</id>
     <link href="https://pulsegeek.com/articles/smart-contracts-explained-from-code-to-on-chain-trust/" />
-    <updated>2025-09-12T00:33:57Z</updated>
+    <updated>2025-09-13T18:53:03Z</updated>
     <summary type="html"><![CDATA[Learn how smart contracts work, why they matter, and how to design, secure, and operate them from development through on-chain trust and real use cases.]]></summary>
   </entry>
   <entry>
@@ -344,19 +358,5 @@
     <link href="https://pulsegeek.com/articles/security-controls-for-iec-61850-substations-a-defense-in-depth-checklist/" />
     <updated>2025-09-12T00:33:57Z</updated>
     <summary type="html"><![CDATA[A practical, defense-in-depth checklist of security controls for IEC 61850 substations, spanning segmentation, identity, monitoring, and resilience.]]></summary>
-  </entry>
-  <entry>
-    <title>Interpretable ML Methods: A Complete Practical Overview</title>
-    <id>https://pulsegeek.com/articles/interpretable-ml-methods-a-complete-practical-overview/</id>
-    <link href="https://pulsegeek.com/articles/interpretable-ml-methods-a-complete-practical-overview/" />
-    <updated>2025-09-12T00:33:57Z</updated>
-    <summary type="html"><![CDATA[A practical guide to interpretable machine learning methods, from intrinsic models to post hoc explanations, with validation tips and communication strategies.]]></summary>
-  </entry>
-  <entry>
-    <title>Persona-Based Prompting for Marketing: Templates, Tone Controls, and SEO Structure</title>
-    <id>https://pulsegeek.com/articles/persona-based-prompting-for-marketing-templates-tone-controls-and-seo-structure/</id>
-    <link href="https://pulsegeek.com/articles/persona-based-prompting-for-marketing-templates-tone-controls-and-seo-structure/" />
-    <updated>2025-09-12T00:33:57Z</updated>
-    <summary type="html"><![CDATA[Reusable persona-led prompts for marketing with tone controls, SEO structure, and evaluation techniques that scale across channels.]]></summary>
   </entry>
 </feed>

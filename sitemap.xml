@@ -2,7 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://pulsegeek.com/</loc>
-    <lastmod>2025-09-11T19:33:57Z</lastmod>
+    <lastmod>2025-09-13T13:53:03Z</lastmod>
+  </url>
+  <url>
+    <loc>https://pulsegeek.com/articles/10-smart-contract-use-cases-shaping-digital-trust/</loc>
+    <lastmod>2025-09-12T18:00:00Z</lastmod>
   </url>
   <url>
     <loc>https://pulsegeek.com/articles/advanced-metering-infrastructure-deployment-plan-architecture-rollout-and-change-management/</loc>
@@ -53,6 +57,10 @@
     <lastmod>2025-09-11T19:33:57Z</lastmod>
   </url>
   <url>
+    <loc>https://pulsegeek.com/articles/blockchain-and-smart-contracts-how-they-interconnect/</loc>
+    <lastmod>2025-09-11T18:00:00Z</lastmod>
+  </url>
+  <url>
     <loc>https://pulsegeek.com/articles/blockchain-cryptography-core-hashes-keys-and-proofs/</loc>
     <lastmod>2025-09-11T19:33:57Z</lastmod>
   </url>
@@ -86,7 +94,7 @@
   </url>
   <url>
     <loc>https://pulsegeek.com/articles/digital-signatures-in-blockchain-verify-and-authorize/</loc>
-    <lastmod>2025-09-11T22:27:21Z</lastmod>
+    <lastmod>2025-09-13T13:53:03Z</lastmod>
   </url>
   <url>
     <loc>https://pulsegeek.com/articles/email-writing-prompt-templates-subject-lines-sequences-and-ctas/</loc>
@@ -306,11 +314,11 @@
   </url>
   <url>
     <loc>https://pulsegeek.com/articles/smart-contract-lifecycle-plan-test-deploy-maintain/</loc>
-    <lastmod>2025-09-11T22:27:21Z</lastmod>
+    <lastmod>2025-09-13T13:53:03Z</lastmod>
   </url>
   <url>
     <loc>https://pulsegeek.com/articles/smart-contracts-explained-from-code-to-on-chain-trust/</loc>
-    <lastmod>2025-09-11T19:33:57Z</lastmod>
+    <lastmod>2025-09-13T13:53:03Z</lastmod>
   </url>
   <url>
     <loc>https://pulsegeek.com/articles/smart-grid-integration-architecture-reference-models-from-substation-to-cloud/</loc>
@@ -418,11 +426,11 @@
   </url>
   <url>
     <loc>https://pulsegeek.com/authors/maya-navarre/</loc>
-    <lastmod>2025-09-11T19:33:57Z</lastmod>
+    <lastmod>2025-09-13T13:53:03Z</lastmod>
   </url>
   <url>
     <loc>https://pulsegeek.com/authors/rhea-kavinsky/</loc>
-    <lastmod>2025-09-11T19:33:57Z</lastmod>
+    <lastmod>2025-09-13T13:53:03Z</lastmod>
   </url>
   <url>
     <loc>https://pulsegeek.com/authors/rowan-el-sayegh/</loc>
@@ -434,7 +442,7 @@
   </url>
   <url>
     <loc>https://pulsegeek.com/glossary/ab-testing-for-prompts/</loc>
-    <lastmod>2025-09-11T19:33:57Z</lastmod>
+    <lastmod>2025-09-13T13:53:03Z</lastmod>
   </url>
   <url>
     <loc>https://pulsegeek.com/glossary/academic-integrity/</loc>
@@ -454,7 +462,7 @@
   </url>
   <url>
     <loc>https://pulsegeek.com/glossary/advanced-metering-infrastructure/</loc>
-    <lastmod>2025-09-11T19:33:57Z</lastmod>
+    <lastmod>2025-09-13T13:53:03Z</lastmod>
   </url>
   <url>
     <loc>https://pulsegeek.com/glossary/ai-ethics/</loc>
@@ -478,7 +486,7 @@
   </url>
   <url>
     <loc>https://pulsegeek.com/glossary/artificial-intelligence/</loc>
-    <lastmod>2025-09-11T19:33:57Z</lastmod>
+    <lastmod>2025-09-13T13:53:03Z</lastmod>
   </url>
   <url>
     <loc>https://pulsegeek.com/glossary/assessment-analytics/</loc>
@@ -546,7 +554,7 @@
   </url>
   <url>
     <loc>https://pulsegeek.com/glossary/digital-signature/</loc>
-    <lastmod>2025-09-11T19:33:57Z</lastmod>
+    <lastmod>2025-09-13T13:53:03Z</lastmod>
   </url>
   <url>
     <loc>https://pulsegeek.com/glossary/digital-twin/</loc>
@@ -586,7 +594,7 @@
   </url>
   <url>
     <loc>https://pulsegeek.com/glossary/federated-learning/</loc>
-    <lastmod>2025-09-11T19:33:57Z</lastmod>
+    <lastmod>2025-09-13T13:53:03Z</lastmod>
   </url>
   <url>
     <loc>https://pulsegeek.com/glossary/few-shot-prompting/</loc>
@@ -598,7 +606,7 @@
   </url>
   <url>
     <loc>https://pulsegeek.com/glossary/gas/</loc>
-    <lastmod>2025-09-11T19:33:57Z</lastmod>
+    <lastmod>2025-09-13T13:53:03Z</lastmod>
   </url>
   <url>
     <loc>https://pulsegeek.com/glossary/generative-ai/</loc>
@@ -606,7 +614,7 @@
   </url>
   <url>
     <loc>https://pulsegeek.com/glossary/guardrails/</loc>
-    <lastmod>2025-09-11T19:33:57Z</lastmod>
+    <lastmod>2025-09-13T13:53:03Z</lastmod>
   </url>
   <url>
     <loc>https://pulsegeek.com/glossary/hash-function/</loc>
@@ -642,11 +650,11 @@
   </url>
   <url>
     <loc>https://pulsegeek.com/glossary/machine-learning/</loc>
-    <lastmod>2025-09-11T19:33:57Z</lastmod>
+    <lastmod>2025-09-13T13:53:03Z</lastmod>
   </url>
   <url>
     <loc>https://pulsegeek.com/glossary/mempool/</loc>
-    <lastmod>2025-09-11T19:33:57Z</lastmod>
+    <lastmod>2025-09-13T13:53:03Z</lastmod>
   </url>
   <url>
     <loc>https://pulsegeek.com/glossary/merkle-tree/</loc>
@@ -662,7 +670,7 @@
   </url>
   <url>
     <loc>https://pulsegeek.com/glossary/negative-prompting/</loc>
-    <lastmod>2025-09-11T19:33:57Z</lastmod>
+    <lastmod>2025-09-13T13:53:03Z</lastmod>
   </url>
   <url>
     <loc>https://pulsegeek.com/glossary/open-charge-point-protocol/</loc>
@@ -670,7 +678,7 @@
   </url>
   <url>
     <loc>https://pulsegeek.com/glossary/oracle/</loc>
-    <lastmod>2025-09-11T19:33:57Z</lastmod>
+    <lastmod>2025-09-13T13:53:03Z</lastmod>
   </url>
   <url>
     <loc>https://pulsegeek.com/glossary/patricia-trie/</loc>
@@ -694,11 +702,11 @@
   </url>
   <url>
     <loc>https://pulsegeek.com/glossary/prompt-evaluation-rubric/</loc>
-    <lastmod>2025-09-11T19:33:57Z</lastmod>
+    <lastmod>2025-09-13T13:53:03Z</lastmod>
   </url>
   <url>
     <loc>https://pulsegeek.com/glossary/prompt-leakage/</loc>
-    <lastmod>2025-09-11T19:33:57Z</lastmod>
+    <lastmod>2025-09-13T13:53:03Z</lastmod>
   </url>
   <url>
     <loc>https://pulsegeek.com/glossary/prompt-template/</loc>
@@ -710,7 +718,7 @@
   </url>
   <url>
     <loc>https://pulsegeek.com/glossary/reentrancy/</loc>
-    <lastmod>2025-09-11T19:33:57Z</lastmod>
+    <lastmod>2025-09-13T13:53:03Z</lastmod>
   </url>
   <url>
     <loc>https://pulsegeek.com/glossary/responsible-ai/</loc>
@@ -718,23 +726,23 @@
   </url>
   <url>
     <loc>https://pulsegeek.com/glossary/retrieval-augmented-generation/</loc>
-    <lastmod>2025-09-11T19:33:57Z</lastmod>
+    <lastmod>2025-09-13T13:53:03Z</lastmod>
   </url>
   <url>
     <loc>https://pulsegeek.com/glossary/shap-shapley-additive-explanations/</loc>
-    <lastmod>2025-09-11T19:33:57Z</lastmod>
+    <lastmod>2025-09-13T13:53:03Z</lastmod>
   </url>
   <url>
     <loc>https://pulsegeek.com/glossary/smart-contract/</loc>
-    <lastmod>2025-09-11T19:33:57Z</lastmod>
+    <lastmod>2025-09-13T13:53:03Z</lastmod>
   </url>
   <url>
     <loc>https://pulsegeek.com/glossary/solidity/</loc>
-    <lastmod>2025-09-11T19:33:57Z</lastmod>
+    <lastmod>2025-09-13T13:53:03Z</lastmod>
   </url>
   <url>
     <loc>https://pulsegeek.com/glossary/substation-configuration-language/</loc>
-    <lastmod>2025-09-11T19:33:57Z</lastmod>
+    <lastmod>2025-09-13T13:53:03Z</lastmod>
   </url>
   <url>
     <loc>https://pulsegeek.com/glossary/system-prompt/</loc>
@@ -746,7 +754,7 @@
   </url>
   <url>
     <loc>https://pulsegeek.com/glossary/upgradeable-proxy/</loc>
-    <lastmod>2025-09-11T19:33:57Z</lastmod>
+    <lastmod>2025-09-13T13:53:03Z</lastmod>
   </url>
   <url>
     <loc>https://pulsegeek.com/glossary/verifiable-random-function/</loc>
@@ -758,7 +766,7 @@
   </url>
   <url>
     <loc>https://pulsegeek.com/glossary/zero-knowledge-proof/</loc>
-    <lastmod>2025-09-11T19:33:57Z</lastmod>
+    <lastmod>2025-09-13T13:53:03Z</lastmod>
   </url>
   <url>
     <loc>https://pulsegeek.com/glossary/zero-shot-prompting/</loc>
