@@ -6,8 +6,22 @@
     <description>Tech news, gaming, and geek culture in one pulse</description>
     <language>en-us</language>
     <generator>PulseGeek Rss Feed Generator</generator>
-    <lastBuildDate>Sat, 13 Sep 2025 18:53:03 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 15 Sep 2025 21:04:21 GMT</lastBuildDate>
     <atom:link href="https://pulsegeek.com/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Blockchain Transaction Flow: From Call to Finality</title>
+      <link>https://pulsegeek.com/articles/blockchain-transaction-flow-from-call-to-finality/</link>
+      <guid isPermaLink="true">https://pulsegeek.com/articles/blockchain-transaction-flow-from-call-to-finality/</guid>
+      <pubDate>Sun, 14 Sep 2025 23:00:00 GMT</pubDate>
+      <description>Follow a blockchain transaction from function call to economic finality. Learn how gas, mempools, validation, block inclusion, and confirmations shape reliability, cost, and user safety.</description>
+    </item>
+    <item>
+      <title>AI and Education: What’s Changing in Classrooms Now</title>
+      <link>https://pulsegeek.com/articles/ai-and-education-whats-changing-in-classrooms-now/</link>
+      <guid isPermaLink="true">https://pulsegeek.com/articles/ai-and-education-whats-changing-in-classrooms-now/</guid>
+      <pubDate>Sat, 13 Sep 2025 23:00:00 GMT</pubDate>
+      <description>Explore how AI and education intersect today. Learn where tools fit in classrooms, the benefits and risks, practical governance, equity questions, and what to monitor next.</description>
+    </item>
     <item>
       <title>10 Smart Contract Use Cases Shaping Digital Trust</title>
       <link>https://pulsegeek.com/articles/10-smart-contract-use-cases-shaping-digital-trust/</link>
@@ -343,20 +357,6 @@
       <guid isPermaLink="true">https://pulsegeek.com/articles/dataset-documentation-and-datasheets-the-complete-guide/</guid>
       <pubDate>Sun, 24 Aug 2025 18:00:00 GMT</pubDate>
       <description>Learn how to design, maintain, and audit dataset documentation and datasheets to reduce bias, protect privacy, and ensure traceable AI data.</description>
-    </item>
-    <item>
-      <title>What Is IEC 61850 and Why It Matters for Smart Grids?</title>
-      <link>https://pulsegeek.com/articles/what-is-iec-61850-and-why-it-matters-for-smart-grids/</link>
-      <guid isPermaLink="true">https://pulsegeek.com/articles/what-is-iec-61850-and-why-it-matters-for-smart-grids/</guid>
-      <pubDate>Sun, 24 Aug 2025 02:00:00 GMT</pubDate>
-      <description>Learn what IEC 61850 is, how it enables interoperable substation automation, and why it matters for modern, DER-rich smart grids.</description>
-    </item>
-    <item>
-      <title>Security Controls for IEC 61850 Substations: A Defense‑in‑Depth Checklist</title>
-      <link>https://pulsegeek.com/articles/security-controls-for-iec-61850-substations-a-defense-in-depth-checklist/</link>
-      <guid isPermaLink="true">https://pulsegeek.com/articles/security-controls-for-iec-61850-substations-a-defense-in-depth-checklist/</guid>
-      <pubDate>Sun, 24 Aug 2025 02:00:00 GMT</pubDate>
-      <description>A practical, defense-in-depth checklist of security controls for IEC 61850 substations, spanning segmentation, identity, monitoring, and resilience.</description>
     </item>
   </channel>
 </rss>
