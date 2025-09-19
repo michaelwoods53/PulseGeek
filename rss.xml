@@ -6,8 +6,36 @@
     <description>Tech news, gaming, and geek culture in one pulse</description>
     <language>en-us</language>
     <generator>PulseGeek Rss Feed Generator</generator>
-    <lastBuildDate>Mon, 15 Sep 2025 21:04:21 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 20 Sep 2025 01:43:03 GMT</lastBuildDate>
     <atom:link href="https://pulsegeek.com/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ECC in Blockchain: Curves, Keys, and Signature Safety</title>
+      <link>https://pulsegeek.com/articles/ecc-in-blockchain-curves-keys-and-signature-safety/</link>
+      <guid isPermaLink="true">https://pulsegeek.com/articles/ecc-in-blockchain-curves-keys-and-signature-safety/</guid>
+      <pubDate>Wed, 17 Sep 2025 23:00:00 GMT</pubDate>
+      <description>Learn how elliptic curve cryptography secures blockchain addresses and signatures. Compare curves, avoid nonce leaks, and strengthen key storage with practical safeguards.</description>
+    </item>
+    <item>
+      <title>Deploy Smart Contract Steps: Network, Gas, Verifications</title>
+      <link>https://pulsegeek.com/articles/deploy-smart-contract-steps-network-gas-verifications/</link>
+      <guid isPermaLink="true">https://pulsegeek.com/articles/deploy-smart-contract-steps-network-gas-verifications/</guid>
+      <pubDate>Wed, 17 Sep 2025 23:00:00 GMT</pubDate>
+      <description>Follow a proven path to deploy smart contracts. Choose networks, set gas strategy, broadcast safely, verify on explorers, and manage addresses with confidence.</description>
+    </item>
+    <item>
+      <title>Artificial Intelligence and Education: Key Connections</title>
+      <link>https://pulsegeek.com/articles/artificial-intelligence-and-education-key-connections/</link>
+      <guid isPermaLink="true">https://pulsegeek.com/articles/artificial-intelligence-and-education-key-connections/</guid>
+      <pubDate>Tue, 16 Sep 2025 23:00:00 GMT</pubDate>
+      <description>Learn how artificial intelligence intersects with education, from core definitions and classroom uses to benefits, risks, ethics, and future directions that support equitable, practical adoption across K–12 and higher education.</description>
+    </item>
+    <item>
+      <title>Blockchain Security Essentials: Threats and Defenses</title>
+      <link>https://pulsegeek.com/articles/blockchain-security-essentials-threats-and-defenses/</link>
+      <guid isPermaLink="true">https://pulsegeek.com/articles/blockchain-security-essentials-threats-and-defenses/</guid>
+      <pubDate>Mon, 15 Sep 2025 23:00:00 GMT</pubDate>
+      <description>Learn core blockchain security risks and practical defenses across keys, signatures, smart contracts, and nodes. See threat models, key management, and response playbooks with real tradeoffs.</description>
+    </item>
     <item>
       <title>Blockchain Transaction Flow: From Call to Finality</title>
       <link>https://pulsegeek.com/articles/blockchain-transaction-flow-from-call-to-finality/</link>
@@ -329,34 +357,6 @@
       <guid isPermaLink="true">https://pulsegeek.com/articles/how-to-write-effective-prompts-from-role-hints-to-output-constraints/</guid>
       <pubDate>Mon, 25 Aug 2025 02:00:00 GMT</pubDate>
       <description>Learn how to write effective prompts with role hints, boundaries, examples, and output constraints that improve accuracy and reliability.</description>
-    </item>
-    <item>
-      <title>Explaining AI Decisions to Stakeholders with Clarity</title>
-      <link>https://pulsegeek.com/articles/explaining-ai-decisions-to-stakeholders-with-clarity/</link>
-      <guid isPermaLink="true">https://pulsegeek.com/articles/explaining-ai-decisions-to-stakeholders-with-clarity/</guid>
-      <pubDate>Sun, 24 Aug 2025 18:02:00 GMT</pubDate>
-      <description>A step-by-step guide to explain AI decisions clearly with fit-for-purpose methods, visuals, validation, and feedback loops for non-technical stakeholders.</description>
-    </item>
-    <item>
-      <title>Blog Post Prompt Templates: Outlines, Angles, and Style Controls</title>
-      <link>https://pulsegeek.com/articles/blog-post-prompt-templates-outlines-angles-and-style-controls/</link>
-      <guid isPermaLink="true">https://pulsegeek.com/articles/blog-post-prompt-templates-outlines-angles-and-style-controls/</guid>
-      <pubDate>Sun, 24 Aug 2025 18:01:00 GMT</pubDate>
-      <description>Use proven blog post prompt templates for outlines, angles, and tone. Get reusable styles, SEO structure, and QA prompts.</description>
-    </item>
-    <item>
-      <title>EV Charging Load Management Strategies for Depots, Fleets, and Buildings</title>
-      <link>https://pulsegeek.com/articles/ev-charging-load-management-strategies-for-depots-fleets-and-buildings/</link>
-      <guid isPermaLink="true">https://pulsegeek.com/articles/ev-charging-load-management-strategies-for-depots-fleets-and-buildings/</guid>
-      <pubDate>Sun, 24 Aug 2025 18:00:00 GMT</pubDate>
-      <description>Practical EV charging load management strategies for depots, fleets, and buildings with standards, tariffs, and V2G readiness.</description>
-    </item>
-    <item>
-      <title>Dataset Documentation and Datasheets: The Complete Guide</title>
-      <link>https://pulsegeek.com/articles/dataset-documentation-and-datasheets-the-complete-guide/</link>
-      <guid isPermaLink="true">https://pulsegeek.com/articles/dataset-documentation-and-datasheets-the-complete-guide/</guid>
-      <pubDate>Sun, 24 Aug 2025 18:00:00 GMT</pubDate>
-      <description>Learn how to design, maintain, and audit dataset documentation and datasheets to reduce bias, protect privacy, and ensure traceable AI data.</description>
     </item>
   </channel>
 </rss>

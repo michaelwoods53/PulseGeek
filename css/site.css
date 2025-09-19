@@ -1,4 +1,9 @@
-﻿/* ============ tree view ============ */
+﻿/* ========================================================================== */
+/*  PulseGeek – Pico Green site.css (reorganized & deduplicated)              */
+/* ========================================================================== */
+
+
+/* ============ 1) NAV / TREE VIEW ========================================= */
 
 .tree details {
     margin: .25rem 0 .25rem 1rem;
@@ -95,15 +100,12 @@
         color: #666;
     }
 
-/* ============ mobile fixes for sitemap tree ============ */
-
+/* mobile fixes for sitemap tree */
 @media (max-width: 640px) {
-    .tree details::before,
-    .tree details summary::before {
+    .tree details::before, .tree details summary::before {
         display: none;
     }
 
-    /* responsive left indent using clamp */
     .tree details {
         margin-left: clamp(.5rem, 2vw, 1rem);
     }
@@ -116,8 +118,7 @@
         margin-left: clamp(.75rem, 3vw, 1.25rem);
     }
 
-    .tree summary,
-    .tree .node {
+    .tree summary, .tree .node {
         white-space: normal;
         overflow-wrap: anywhere;
     }
@@ -133,7 +134,8 @@
     }
 }
 
-/* ============ share buttons ============ */
+
+/* ============ 2) SHARING ================================================== */
 
 .share-buttons {
     display: inline-flex;
@@ -156,7 +158,8 @@
             background: #f4f4f4;
         }
 
-/* ============ author page ============ */
+
+/* ============ 3) AUTHOR PAGE ============================================= */
 
 .author-page .author-header {
     margin-bottom: 2rem;
@@ -196,14 +199,13 @@
     margin: 0;
 }
 
-/* ============ layout helpers ============ */
+
+/* ============ 4) LAYOUT & TYPOGRAPHY HELPERS ============================= */
 
 .pg-container {
     max-width: 980px;
     margin-inline: auto;
 }
-
-/* misc */
 
 .lead {
     font-size: 1.05rem;
@@ -230,7 +232,19 @@ figure img {
     border-radius: 8px;
 }
 
-/* ============ highlighted summary blocks ============ */
+figure {
+    margin: 1rem 0 1.5rem 0;
+}
+
+    figure > figcaption {
+        font-size: .92rem;
+        color: var(--pico-muted-color, #6b7280);
+        text-align: center;
+        margin-top: .4rem;
+    }
+
+
+/* ============ 5) HIGHLIGHTED SUMMARY BLOCKS (generic) ==================== */
 
 .pg-summary-block {
     border-left: 4px solid var(--pico-primary, #16a34a);
@@ -260,42 +274,103 @@ figure img {
         line-height: 1.5;
     }
 
-/* key takeaways */
-.pg-key-takeaways {
-    border-left-color: #2563eb;
-    background: hsl(214 100% 97%);
-}
-
-    .pg-key-takeaways li::marker {
-        color: #2563eb;
+    /* Key Takeaways (harmonized palette) */
+    .pg-summary-block.pg-key-takeaways {
+        border-left-width: 5px;
+        border-left-color: #2563eb; /* blue 600 */
+        background: hsl(214 100% 97%); /* pale blue wash */
+        outline: 1px solid #dbeafe; /* soft blue border */
     }
 
-/* quick start checklist */
-.pg-quick-start {
-    border-left-color: #f59e0b;
-    background: hsl(42 100% 97%);
-}
-
-    .pg-quick-start ol {
-        list-style: decimal;
-        margin-top: .25rem;
-    }
-
-    .pg-quick-start li {
-        padding-left: .05rem;
-    }
-
-        .pg-quick-start li strong {
-            color: #92400e;
+        .pg-summary-block.pg-key-takeaways h2,
+        .pg-summary-block.pg-key-takeaways h3 {
+            color: #2563eb;
         }
 
-/* ============ FAQ section styling (revised) ============ */
+        .pg-summary-block.pg-key-takeaways li::marker {
+            color: #2563eb;
+        }
+
+    /* Quick Start checklist */
+    .pg-summary-block.pg-quick-start {
+        border-left-color: #f59e0b;
+        background: hsl(42 100% 97%);
+        outline: 1px solid #fde68a;
+    }
+
+        .pg-summary-block.pg-quick-start ol {
+            list-style: decimal;
+            margin-top: .25rem;
+        }
+
+        .pg-summary-block.pg-quick-start li {
+            padding-left: .05rem;
+        }
+
+            .pg-summary-block.pg-quick-start li strong {
+                color: #92400e;
+            }
+
+
+/* ============ 6) SECTION SUMMARY WIDGET (global + nested variant) ======== */
+
+.pg-section-summary {
+    border-left: 4px solid var(--pico-primary, #16a34a);
+    background: hsl(210 40% 96% / 0.7);
+    padding: .75rem 1rem;
+    margin: 1.25rem 0 1.75rem 0;
+    border-radius: .75rem;
+    box-shadow: 0 1px 2px rgba(0,0,0,.05);
+}
+
+    .pg-section-summary .mini {
+        list-style: disc;
+        margin: 0;
+        padding-left: 1.1rem;
+        display: grid;
+        gap: .25rem;
+    }
+
+        .pg-section-summary .mini li {
+            line-height: 1.5;
+            color: var(--pico-color, #374151);
+        }
+
+            .pg-section-summary .mini li::marker {
+                color: color-mix(in srgb, var(--pico-primary, #16a34a) 80%, #000);
+            }
+
+/* When the summary sits inside a listicle item, tweak scale/contrast */
+.pg-listicle-item .pg-section-summary {
+    background: color-mix(in srgb, var(--pico-primary, #16a34a) 7%, #f7fff9);
+    border: 1px dotted color-mix(in srgb, var(--pico-primary, #16a34a) 45%, #a7f3d0);
+    border-left: 6px solid color-mix(in srgb, var(--pico-primary, #16a34a) 85%, #0b0f17);
+    border-radius: .75rem;
+    padding: .85rem 1rem;
+    margin: .85rem 0 0;
+    box-shadow: 0 1px 2px rgba(0,0,0,.05);
+}
+
+    .pg-listicle-item .pg-section-summary h3,
+    .pg-listicle-item .pg-section-summary .summary-title {
+        margin: 0 0 .35rem;
+        font-size: clamp(.96rem, .92rem + .2vw, 1.05rem); /* smaller than item h2 */
+        line-height: 1.25;
+        font-weight: 800;
+        color: color-mix(in srgb, var(--pico-primary, #16a34a) 80%, #0f172a);
+    }
+
+    .pg-listicle-item .pg-section-summary .mini {
+        gap: .28rem;
+    }
+
+
+/* ============ 7) FAQ ====================================================== */
 
 .pg-faq {
-    /* tuned to harmonize with pico green theme */
-    --faq-accent: #6366f1; /* indigo 500 */
-    --faq-accent-strong: #4f46e5; /* indigo 600 for markers and outlines */
-    --faq-bg: hsl(240 67% 98%); /* soft indigo wash */
+    --faq-accent: #6366f1;
+    --faq-accent-strong: #4f46e5;
+    --faq-bg: hsl(240 67% 98%);
     --faq-border: #e6e8ff;
     margin: 2.5rem 0;
     padding: 1rem 1rem 1.25rem;
@@ -338,7 +413,6 @@ figure img {
             outline-offset: 2px;
         }
 
-        /* numbered Q badge */
         .pg-faq .faq-item h3 {
             margin: 0 0 .4rem 0;
             font-size: 1.05rem;
@@ -366,7 +440,6 @@ figure img {
                 border: 1px solid color-mix(in srgb, var(--faq-accent-strong) 35%, #ffffff);
             }
 
-        /* answer copy */
         .pg-faq .faq-item p {
             margin: 0;
             padding-left: 2.2rem;
@@ -377,7 +450,6 @@ figure img {
                 margin-top: .6rem;
             }
 
-    /* links inside answers */
     .pg-faq a {
         text-decoration: underline;
         text-underline-offset: 2px;
@@ -387,17 +459,14 @@ figure img {
             text-decoration-thickness: 2px;
         }
 
-    /* comfortable spacing */
     .pg-faq .faq-item:not(:last-child) {
         margin-bottom: .25rem;
     }
 
-/* heading scroll margin for anchor links */
 #faqs-heading {
     scroll-margin-top: 80px;
 }
 
-/* layout: two columns on wider screens */
 @media (min-width: 960px) {
     .pg-faq {
         grid-template-columns: repeat(2, minmax(0, 1fr));
@@ -408,7 +477,6 @@ figure img {
             margin-bottom: .75rem;
         }
 
-        /* subtle divider between items for scanability */
         .pg-faq .faq-item + .faq-item {
             border-top: 1px dashed color-mix(in srgb, var(--faq-accent) 20%, #e5e7eb);
             margin-top: .5rem;
@@ -416,43 +484,8 @@ figure img {
         }
 }
 
-/* dark mode tweaks for FAQ */
-@media (prefers-color-scheme: dark) {
-    .pg-faq {
-        --faq-bg: color-mix(in srgb, var(--faq-accent) 10%, #0b0f17);
-        --faq-border: #2b2f36;
-        box-shadow: none;
-    }
 
-        .pg-faq > h2 {
-            color: color-mix(in srgb, var(--faq-accent) 75%, #fff);
-        }
-
-        .pg-faq .faq-item {
-            background: #0f1220;
-            border-color: var(--faq-border);
-            box-shadow: inset 0 1px 0 rgba(255,255,255,.03);
-        }
-
-            .pg-faq .faq-item h3 {
-                color: #e5e7eb;
-            }
-
-            .pg-faq .faq-item p {
-                color: #c7cbd1;
-            }
-
-        .pg-faq a {
-            color: color-mix(in srgb, var(--faq-accent) 70%, #fff);
-        }
-
-        .pg-faq .faq-item h3::before {
-            background: color-mix(in srgb, var(--faq-accent) 25%, #0b0f17);
-            border-color: color-mix(in srgb, var(--faq-accent-strong) 45%, #0b0f17);
-        }
-}
-
-/* ============ tooltip glossary links ============ */
+/* ============ 8) TOOLTIP GLOSSARY LINKS ================================= */
 
 a.glossary-term {
     text-decoration: none;
@@ -461,12 +494,11 @@ a.glossary-term {
     position: relative;
 }
 
-    a.glossary-term:focus,
-    a.glossary-term:hover {
+    a.glossary-term:focus, a.glossary-term:hover {
         outline: none;
     }
 
-    /* disable Pico’s default arrow/box on ::before for glossary tooltips */
+    /* disable Pico’s default tooltip ::before box for these */
     a.glossary-term[data-tooltip]::before,
     a.glossary-term[data-tooltip]:hover::before,
     a.glossary-term[data-tooltip]:focus::before {
@@ -478,8 +510,7 @@ a.glossary-term {
         content: attr(data-tooltip) !important;
         position: absolute !important;
         left: 50% !important;
-        top: auto !important;
-        bottom: calc(100% + .5rem) !important; /* show above the link */
+        bottom: calc(100% + .5rem) !important;
         transform: translateX(-50%) !important;
         display: inline-block !important;
         background: #111827 !important;
@@ -499,7 +530,6 @@ a.glossary-term {
         transition: opacity .12s ease-in-out !important;
         z-index: 2147483647 !important;
         box-shadow: 0 6px 20px rgba(0,0,0,.18) !important;
-        will-change: opacity, transform !important;
     }
 
     a.glossary-term[data-tooltip]:hover::after,
@@ -508,141 +538,71 @@ a.glossary-term {
         visibility: visible !important;
     }
 
-/* Generic safety for any element using data-tooltip (non-glossary) */
+/* generic safety for any [data-tooltip] */
 [data-tooltip] {
     position: relative;
 }
 
-[data-tooltip]::after,
-[data-tooltip]::before {
-    max-width: 90vw;
-    white-space: normal;
-    overflow-wrap: anywhere;
-}
+    [data-tooltip]::after, [data-tooltip]::before {
+        max-width: 90vw;
+        white-space: normal;
+        overflow-wrap: anywhere;
+    }
 
-/* ============ article glossary block ============ */
+
+/* ============ 9) ARTICLE GLOSSARY (Key Terms) ============================ */
 
 .article-glossary {
     margin: 2rem 0;
-    padding: 1rem 1.25rem;
-    border: 1px solid #e5e7eb;
-    border-radius: .75rem;
-    background: hsl(210 40% 96% / .6);
+    padding: 1rem 1.25rem 1.25rem;
+    border-left: 4px solid #0d9488; /* teal accent */
+    background: hsl(180 33% 98%); /* very soft teal wash */
+    border-radius: .5rem;
 }
 
     .article-glossary h2 {
-        margin: 0 0 .5rem 0;
-        font-size: 1.25rem;
+        margin: 0 0 .75rem;
+        font-size: 1.15rem;
+        font-weight: 700;
+        color: #0d9488;
     }
 
+    .article-glossary ul,
+    .article-glossary ol {
+        margin: 0.5rem 0 0 1.25rem;
+        padding: 0;
+    }
 .article-glossary-list {
     list-style: none;
     margin: 0;
     padding: 0;
+    display: grid;
+    gap: .5rem;
 }
 
-    .article-glossary-list li {
-        margin: .4rem 0;
-    }
-
-    .article-glossary-list .def {
-        color: #374151;
-    }
-
-/* glossary index */
-.glossary-az {
-    display: flex;
-    flex-wrap: wrap;
-    gap: .35rem;
-    margin: 1rem 0 1.25rem 0;
+.article-glossary li {
+    margin: 0.4rem 0;
+    line-height: 1.5;
 }
 
-    .glossary-az .chip {
-        display: inline-block;
-        padding: .25rem .5rem;
-        border: 1px solid #e5e7eb;
-        border-radius: 999px;
-        font-size: .9rem;
+    .article-glossary-list a {
+        font-weight: 600;
+        color: #0f766e;
         text-decoration: none;
     }
 
-/* glossary list layout */
-.glossary-list {
-    display: grid;
-    grid-template-columns: 220px 1fr;
-    gap: .5rem 1rem;
-}
+        .article-glossary-list a:hover {
+            text-decoration: underline;
+        }
 
-    .glossary-list dt {
-        font-weight: 700;
-    }
-
-    .glossary-list dd {
-        margin: 0;
+    .article-glossary-list .def {
+        margin-left: .25rem;
         color: #374151;
-    }
-
-@media (max-width: 720px) {
-    .glossary-list {
-        grid-template-columns: 1fr;
-    }
-}
-
-/* ============ section summary widget ============ */
-
-.pg-section-summary {
-    border-left: 4px solid var(--pico-primary, #16a34a);
-    background: hsl(210 40% 96% / 0.7);
-    padding: .75rem 1rem;
-    margin: 1.25rem 0 1.75rem 0;
-    border-radius: .75rem;
-    box-shadow: 0 1px 3px rgba(0,0,0,.06);
-}
-
-    .pg-section-summary .mini {
-        list-style: disc;
-        margin: 0;
-        padding-left: 1.1rem;
-        display: grid;
-        gap: .25rem;
-    }
-
-        .pg-section-summary .mini li {
-            line-height: 1.5;
-            color: var(--pico-color, #374151);
-        }
-
-            .pg-section-summary .mini li::marker {
-                color: color-mix(in srgb, var(--pico-primary, #16a34a) 80%, #000);
-            }
-
-/* dark mode */
-@media (prefers-color-scheme: dark) {
-    .pg-section-summary {
-        background: color-mix(in srgb, var(--pico-primary, #16a34a) 8%, #0b0f17);
-        box-shadow: none;
-        border-left-color: color-mix(in srgb, var(--pico-primary, #16a34a) 80%, #0b0f17);
-    }
-
-        .pg-section-summary .mini li {
-            color: #d1d5db;
-        }
-}
-
-/* ============ figure and figcaption polish ============ */
-
-figure {
-    margin: 1rem 0 1.5rem 0;
-}
-
-    figure > figcaption {
         font-size: .92rem;
-        color: var(--pico-muted-color, #6b7280);
-        text-align: center;
-        margin-top: .4rem;
     }
 
-/* ============ sources block ============ */
+
+/* ============ 10) SOURCES BLOCK ========================================= */
 
 .pg-sources {
     --src-accent: #0ea5a5; /* teal */
@@ -686,26 +646,8 @@ figure {
             text-decoration-thickness: 2px;
         }
 
-@media (prefers-color-scheme: dark) {
-    .pg-sources {
-        --src-bg: color-mix(in srgb, var(--src-accent) 10%, #0b0f17);
-        --src-border: #0b3f3f;
-        background: var(--src-bg);
-        box-shadow: none;
-        border-left-color: color-mix(in srgb, var(--src-accent) 75%, #0b0f17);
-        outline-color: color-mix(in srgb, #0ea5a5 30%, #0b0f17);
-    }
 
-        .pg-sources h2 {
-            color: color-mix(in srgb, var(--src-accent) 80%, #fff);
-        }
-
-        .pg-sources li {
-            color: #d1d5db;
-        }
-}
-
-/* ============ table helpers to complement Pico ============ */
+/* ============ 11) TABLE HELPERS ========================================== */
 
 article table {
     width: 100%;
@@ -721,32 +663,8 @@ article thead th {
     font-weight: 600;
 }
 
-@media (prefers-color-scheme: dark) {
-    article thead th {
-        background: color-mix(in srgb, var(--pico-primary, #16a34a) 8%, #0b0f17);
-    }
-}
 
-/* ============ small contrasts to differentiate artifact blocks ============ */
-
-.pg-summary-block.pg-key-takeaways {
-    outline: 1px solid #dbeafe;
-}
-/* blue tint */
-.pg-summary-block.pg-quick-start {
-    outline: 1px solid #fde68a;
-}
-/* amber tint */
-.pg-faq {
-    outline: 1px solid #e0e7ff;
-}
-/* indigo tint */
-.pg-sources {
-    outline: 1px solid #ccfbf1;
-}
-
-
-/* ============ homepage polish ============ */
+/* ============ 12) HOMEPAGE MEDIA & CARDS ================================= */
 
 .pg-hero {
     text-align: center;
@@ -770,7 +688,6 @@ article thead th {
     font-size: .95rem;
 }
 
-/* Editor's picks as media list */
 .media-list {
     list-style: none;
     padding: 0;
@@ -778,48 +695,26 @@ article thead th {
     display: grid;
     gap: .75rem;
 }
-
-/* Editor's picks list - no bullets, no left padding */
+/* guard against bullets */
 ul.media-list {
     list-style: none;
-    list-style-type: none;
     margin: .75rem 0 0 0;
     padding: 0;
 }
 
     ul.media-list > li {
         list-style: none;
-        list-style-type: none;
         margin: 0;
         padding: 0;
     }
-        /* Extra guard in case Pico injects markers */
+
         ul.media-list > li::marker {
             content: "";
         }
 
-/* Wider side thumbnail at >= 720px */
-@media (min-width: 720px) {
-    .media {
-        flex-direction: row;
-        align-items: flex-start;
-    }
-
-        .media .thumb,
-        .media .thumb img {
-            width: 176px; /* was 132px */
-            height: 110px; /* ~16:10 */
-        }
-
-        .media .thumb {
-            flex: 0 0 176px;
-            aspect-ratio: auto;
-        }
-}
-/* mobile first: stack image on top of text */
 .media {
     display: flex;
-    flex-direction: column; /* stack on mobile */
+    flex-direction: column;
     gap: .75rem;
     border: 1px solid #e5e7eb;
     border-radius: .6rem;
@@ -857,7 +752,6 @@ ul.media-list {
     background: repeating-linear-gradient(45deg, #f1f5f9, #f1f5f9 8px, #eef2f7 8px, #eef2f7 16px);
 }
 
-/* text area */
 .media .content {
     flex: 1 1 auto;
     min-width: 0;
@@ -874,27 +768,34 @@ ul.media-list {
     margin: 0;
 }
 
-
-
-/* on wider screens, put the image on the left */
+/* on wider screens, image left */
 @media (min-width: 720px) {
     .media {
-        flex-direction: row; /* image left, text right */
+        flex-direction: row;
         align-items: flex-start;
     }
 
-        .media .thumb,
-        .media .thumb img {
+        .media .thumb, .media .thumb img {
             width: 132px;
-            height: 82px; /* ~16:10 ratio */
+            height: 82px;
         }
 
         .media .thumb {
             flex: 0 0 132px;
-            aspect-ratio: auto; /* use explicit width/height now */
+            aspect-ratio: auto;
         }
 }
+/* optional wider side thumbnail at >= 720px for special lists */
+@media (min-width: 720px) {
+    .media.wide-thumb .thumb, .media.wide-thumb .thumb img {
+        width: 176px;
+        height: 110px;
+    }
 
+    .media.wide-thumb .thumb {
+        flex: 0 0 176px;
+    }
+}
 
 /* Category cards */
 .card-grid {
@@ -951,7 +852,6 @@ ul.media-list {
     gap: .35rem;
 }
 
-/* Responsive columns for cards */
 @media (min-width: 640px) {
     .card {
         grid-column: span 6;
@@ -964,35 +864,34 @@ ul.media-list {
     }
 }
 
-/* Dark mode tweaks for media and cards */
-@media (prefers-color-scheme: dark) {
-    .media,
-    .card {
-        background: #0f1220;
-        border-color: #2b2f36;
-        box-shadow: inset 0 1px 0 rgba(255,255,255,.03);
-    }
 
-        .media:hover,
-        .card:hover {
-            border-color: #343a46;
-            box-shadow: none;
-            transform: translateY(0);
-            outline: 1px solid rgba(255,255,255,.06);
-        }
-}
-/* -------- code example polish + line numbers -------- */
+/* ============ 13) CODE EXAMPLES ========================================== */
 
 figure.code-example {
     position: relative;
-    margin: var(--spacing-xxl) 0;
-    border: 1px solid var(--muted-border-color);
-    border-radius: var(--radius);
-    background: var(--card-background-color);
-    box-shadow: var(--card-box-shadow);
+    border-left: 3px solid color-mix(in srgb, var(--pico-primary, #16a34a) 70%, #a3e635);
+    background: #fff;
+    border-radius: .5rem;
+    padding: 1rem 1.25rem;
+    margin: 1.25rem 0;
+    box-shadow: 0 1px 2px rgba(0,0,0,.05);
+    transition: box-shadow .12s ease;
 }
 
-    /* optional language pill from data-language */
+
+/* When a code block is inside a listicle item → deeper "summary style" shadow */
+.pg-listicle-item figure.code-example {
+    background: color-mix(in srgb, var(--pico-primary, #16a34a) 7%, #f7fff9);
+    border: 1px dotted color-mix(in srgb, var(--pico-primary, #16a34a) 45%, #a7f3d0);
+    border-left: 4px solid color-mix(in srgb, var(--pico-primary, #16a34a) 85%, #0b0f17);
+    box-shadow: 0 2px 4px rgba(0,0,0,.08), 0 6px 14px rgba(0,0,0,.06);
+    margin: 1rem 0;
+}
+
+/* Optional: hover pop for standalone code blocks */
+figure.code-example:hover {
+    box-shadow: 0 6px 14px rgba(0,0,0,.08);
+}
     figure.code-example::before {
         content: attr(data-language);
         position: absolute;
@@ -1009,60 +908,54 @@ figure.code-example {
 
     figure.code-example pre {
         margin: 0;
-        padding: 1rem 1rem 1rem 0; /* gutter adds left padding below */
+        padding: 1rem 1rem 1rem 0;
         overflow: auto;
         border-radius: var(--radius);
         background: transparent;
     }
 
-    /* base code typography */
     figure.code-example code {
         display: block;
         font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
         font-size: 0.95rem;
         line-height: 1;
         tab-size: 2;
-        white-space: pre; /* keep original wraps */
+        white-space: pre;
     }
-
-    /* enable line numbering when figure has .line-numbers */
+    /* line numbers mode */
     figure.code-example.line-numbers pre {
         position: relative;
-        /* subtle gutter background */
-        background: linear-gradient(to right, color-mix(in srgb, var(--muted-border-color) 28%, transparent), transparent 3.25rem) no-repeat;
+        background: linear-gradient(to right, color-mix(in srgb, var(--muted-border-color) 28%, transparent), transparent 2.5rem) no-repeat;
     }
 
-    /* each line becomes a block <span> with a counter */
     figure.code-example.line-numbers code {
         counter-reset: code-line;
-        padding-left: 3.25rem; /* space for numbers */
+        padding-left: 2.5rem; /* tighter gutter */
     }
 
         figure.code-example.line-numbers code > span {
             display: block;
             counter-increment: code-line;
             position: relative;
-            padding-left: .5rem; /* small text inset after gutter rule */
+            padding-left: .25rem; /* less inner padding */
         }
 
-            /* the actual number */
             figure.code-example.line-numbers code > span::before {
                 content: counter(code-line);
                 position: absolute;
-                left: -3.25rem;
-                width: 2.75rem;
+                left: -2.5rem; /* aligns with new gutter */
+                width: 2.2rem; /* tighter number column */
                 text-align: right;
                 color: var(--muted-color);
                 opacity: .7;
                 user-select: none;
             }
 
-            /* highlight a line by adding class="hl" on its <span> */
+            /* highlight line via class="hl" on span */
             figure.code-example.line-numbers code > span.hl {
                 background: color-mix(in srgb, var(--pico-primary, #16a34a) 10%, transparent);
             }
 
-    /* copy button pinned top-right inside the figure */
     figure.code-example .copy-code {
         position: absolute;
         top: .5rem;
@@ -1075,7 +968,7 @@ figure.code-example {
         border-radius: .4rem;
     }
 
-    /* nicer scrollbars inside code on browsers that support it */
+    /* nicer scrollbars in code blocks */
     figure.code-example pre::-webkit-scrollbar {
         height: 10px;
         width: 10px;
@@ -1086,17 +979,10 @@ figure.code-example {
         border-radius: 8px;
     }
 
-@media (prefers-color-scheme: dark) {
-    figure.code-example pre::-webkit-scrollbar-thumb {
-        background: #3a3f47;
+    figure.code-example code ::selection {
+        background: color-mix(in srgb, var(--pico-primary, #16a34a) 28%, #fff);
+        color: #000;
     }
-}
-
-/* better text selection contrast */
-figure.code-example code ::selection {
-    background: color-mix(in srgb, var(--pico-primary, #16a34a) 28%, #fff);
-    color: #000;
-}
 
 article code:not(pre code) {
     padding: .1rem .3rem;
@@ -1104,7 +990,9 @@ article code:not(pre code) {
     background: var(--secondary-background);
 }
 
-/* ============ authors directory list ============ */
+
+/* ============ 14) AUTHORS DIRECTORY ===================================== */
+
 .authors-list {
     list-style: none;
     margin: 0;
@@ -1116,7 +1004,10 @@ article code:not(pre code) {
     margin-inline: auto;
 }
 
-.author-item { margin: 0; padding: 0; }
+.author-item {
+    margin: 0;
+    padding: 0;
+}
 
 .author-card {
     display: flex;
@@ -1125,34 +1016,252 @@ article code:not(pre code) {
     padding: .85rem 1rem;
     border: 1px solid #e5e7eb;
     border-radius: .75rem;
-    background:#fff;
+    background: #fff;
     box-shadow: 0 1px 2px rgba(0,0,0,.04);
     transition: box-shadow .12s ease, transform .12s ease, border-color .12s ease;
 }
 
-.author-card:hover {
-    transform: translateY(-2px);
-    box-shadow: 0 8px 18px rgba(0,0,0,.06);
-    border-color: #dfe3ea;
-}
+    .author-card:hover {
+        transform: translateY(-2px);
+        box-shadow: 0 8px 18px rgba(0,0,0,.06);
+        border-color: #dfe3ea;
+    }
 
-.author-link { display:flex; align-items:center; gap:1rem; text-decoration:none; color:inherit; width:100%; }
+.author-link {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+    text-decoration: none;
+    color: inherit;
+    width: 100%;
+}
 
 .author-avatar {
-    width:96px; height:96px; border-radius:50%; object-fit:cover; flex:0 0 96px; background:#f1f5f9;
+    width: 96px;
+    height: 96px;
+    border-radius: 50%;
+    object-fit: cover;
+    flex: 0 0 96px;
+    background: #f1f5f9;
 }
 
-.author-meta { display:flex; flex-direction:column; justify-content:center; min-width:0; }
-.author-name { font-size:1.05rem; line-height:1.3; }
-
-@media (prefers-color-scheme: dark){
-  .author-card { background:#0f1220; border-color:#2b2f36; box-shadow:none; }
-  .author-card:hover { border-color:#3a404b; transform:translateY(-1px); }
+.author-meta {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    min-width: 0;
 }
 
-@media (max-width:640px){
-  .author-card { padding:.75rem .85rem; }
-  .author-avatar { width:72px; height:72px; flex:0 0 72px; }
-  .author-name { font-size:1rem; }
+.author-name {
+    font-size: 1.05rem;
+    line-height: 1.3;
 }
-/* ...end authors directory list */
+
+@media (max-width:640px) {
+    .author-card {
+        padding: .75rem .85rem;
+    }
+
+    .author-avatar {
+        width: 72px;
+        height: 72px;
+        flex: 0 0 72px;
+    }
+
+    .author-name {
+        font-size: 1rem;
+    }
+}
+
+
+/* ============ 15) LISTICLE ITEM ========================================= */
+
+.pg-listicle-item {
+    background: #fff;
+    border: 1px solid #e3e7ef;
+    border-left: 3px solid color-mix(in srgb, var(--pico-primary, #16a34a) 70%, #a3e635); /* subtle accent */
+    border-radius: .5rem;
+    padding: 1.25rem;
+    margin: 1rem 0;
+    box-shadow: 0 1px 2px rgba(0,0,0,.05);
+}
+
+    .pg-listicle-item .item-header {
+        display: grid;
+        grid-template-columns: 1fr;
+        gap: .5rem;
+        margin-bottom: .25rem;
+    }
+
+    .pg-listicle-item h2 {
+        margin: 0;
+        line-height: 1.35;
+        font-size: 1.15rem;
+    }
+
+    .pg-listicle-item > h2 {
+        margin: 0 0 .35rem;
+        line-height: 1.3;
+        font-size: clamp(1.12rem, 0.98rem + 0.55vw, 1.35rem);
+        font-weight: 700;
+    }
+
+    .pg-listicle-item .sub {
+        margin: 0 0 .5rem;
+        color: #6b7280;
+        font-size: .9rem;
+    }
+
+
+/* ============ 16) SMALL CONTRAST OUTLINES (tints) ======================== */
+
+.pg-faq {
+    outline: 1px solid #e0e7ff;
+}
+/* indigo tint */
+.pg-sources {
+    outline: 1px solid #ccfbf1;
+}
+/* teal tint */
+
+
+/* ============ 17) DARK MODE (grouped where sensible) ===================== */
+
+@media (prefers-color-scheme: dark) {
+    /* summaries */
+    .pg-section-summary {
+        background: color-mix(in srgb, var(--pico-primary, #16a34a) 8%, #0b0f17);
+        box-shadow: none;
+        border-left-color: color-mix(in srgb, var(--pico-primary, #16a34a) 80%, #0b0f17);
+    }
+
+        .pg-section-summary .mini li {
+            color: #d1d5db;
+        }
+
+    /* FAQ shell */
+    .pg-faq {
+        --faq-bg: color-mix(in srgb, var(--faq-accent) 10%, #0b0f17);
+        --faq-border: #2b2f36;
+        box-shadow: none;
+    }
+
+        .pg-faq > h2 {
+            color: color-mix(in srgb, var(--faq-accent) 75%, #fff);
+        }
+
+        .pg-faq .faq-item {
+            background: #0f1220;
+            border-color: var(--faq-border);
+            box-shadow: inset 0 1px 0 rgba(255,255,255,.03);
+        }
+
+            .pg-faq .faq-item h3 {
+                color: #e5e7eb;
+            }
+
+            .pg-faq .faq-item p {
+                color: #c7cbd1;
+            }
+
+        .pg-faq a {
+            color: color-mix(in srgb, var(--faq-accent) 70%, #fff);
+        }
+
+        .pg-faq .faq-item h3::before {
+            background: color-mix(in srgb, var(--faq-accent) 25%, #0b0f17);
+            border-color: color-mix(in srgb, var(--faq-accent-strong) 45%, #0b0f17);
+        }
+
+    /* article glossary (key terms) */
+    .article-glossary {
+        border-left-color: #2dd4bf;
+        background: color-mix(in srgb, #2dd4bf 10%, #0b0f17);
+    }
+
+        .article-glossary h2 {
+            color: #2dd4bf;
+        }
+
+    .article-glossary-list a {
+        color: #2dd4bf;
+    }
+
+    .article-glossary-list .def {
+        color: #d1d5db;
+    }
+
+    /* sources */
+    .pg-sources {
+        --src-bg: color-mix(in srgb, var(--src-accent) 10%, #0b0f17);
+        --src-border: #0b3f3f;
+        background: var(--src-bg);
+        box-shadow: none;
+        border-left-color: color-mix(in srgb, var(--src-accent) 75%, #0b0f17);
+        outline-color: color-mix(in srgb, #0ea5a5 30%, #0b0f17);
+    }
+
+        .pg-sources h2 {
+            color: color-mix(in srgb, var(--src-accent) 80%, #fff);
+        }
+
+        .pg-sources li {
+            color: #d1d5db;
+        }
+
+    /* media & cards */
+    .media, .card {
+        background: #0f1220;
+        border-color: #2b2f36;
+        box-shadow: inset 0 1px 0 rgba(255,255,255,.03);
+    }
+
+        .media:hover, .card:hover {
+            border-color: #343a46;
+            box-shadow: none;
+            transform: translateY(0);
+            outline: 1px solid rgba(255,255,255,.06);
+        }
+
+    /* table head */
+    article thead th {
+        background: color-mix(in srgb, var(--pico-primary, #16a34a) 8%, #0b0f17);
+    }
+
+    /* authors */
+    .author-card {
+        background: #0f1220;
+        border-color: #2b2f36;
+        box-shadow: none;
+    }
+
+        .author-card:hover {
+            border-color: #3a404b;
+            transform: translateY(-1px);
+        }
+
+    /* code block scrollbar thumb */
+    figure.code-example pre::-webkit-scrollbar-thumb {
+        background: #3a3f47;
+    }
+
+    /* listicle */
+    .pg-listicle-item {
+        background: #0f1220;
+        border-color: #2b2f36;
+        border-left-color: color-mix(in srgb, var(--pico-primary, #16a34a) 65%, #0b0f17);
+        box-shadow: none;
+    }
+
+        .pg-listicle-item .pg-section-summary {
+            background: color-mix(in srgb, var(--pico-primary, #16a34a) 12%, #0b0f17);
+            border-color: color-mix(in srgb, var(--pico-primary, #16a34a) 35%, #0b0f17);
+            border-left-color: color-mix(in srgb, var(--pico-primary, #16a34a) 70%, #0b0f17);
+            box-shadow: inset 0 1px 0 rgba(255,255,255,.03);
+        }
+
+            .pg-listicle-item .pg-section-summary h3,
+            .pg-listicle-item .pg-section-summary .summary-title {
+                color: color-mix(in srgb, var(--pico-primary, #16a34a) 70%, #fff);
+            }
+}
