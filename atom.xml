@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>PulseGeek</title>
   <id>https://pulsegeek.com/atom.xml</id>
-  <updated>2025-09-20T01:43:03Z</updated>
+  <updated>2025-09-23T03:08:17Z</updated>
   <link href="https://pulsegeek.com/atom.xml" rel="self" type="application/atom+xml" />
   <link href="https://pulsegeek.com" />
   <author>
@@ -10,353 +10,353 @@
   </author>
   <subtitle>Tech news, gaming, and geek culture in one pulse</subtitle>
   <entry>
+    <title>Elliptic Curve Crypto in Blockchain: What and Why</title>
+    <id>https://pulsegeek.com/articles/elliptic-curve-crypto-in-blockchain-what-and-why/</id>
+    <link href="https://pulsegeek.com/articles/elliptic-curve-crypto-in-blockchain-what-and-why/" />
+    <updated>2025-09-23T03:08:17Z</updated>
+    <summary type="html"><![CDATA[Learn how elliptic curve cryptography powers blockchain security. See why ECC is chosen, how keys and signatures work, and what risks and tradeoffs matter now.]]></summary>
+  </entry>
+  <entry>
+    <title>Developing Smart Contracts: A Practical Step‑by‑Step Path</title>
+    <id>https://pulsegeek.com/articles/developing-smart-contracts-a-practical-step-by-step-path/</id>
+    <link href="https://pulsegeek.com/articles/developing-smart-contracts-a-practical-step-by-step-path/" />
+    <updated>2025-09-23T03:08:17Z</updated>
+    <summary type="html"><![CDATA[Learn developing smart contracts from planning and modeling to writing, testing, deploying, verifying, and maintaining. Follow a practical sequence with code, tooling choices, and pitfalls to avoid.]]></summary>
+  </entry>
+  <entry>
     <title>ECC in Blockchain: Curves, Keys, and Signature Safety</title>
     <id>https://pulsegeek.com/articles/ecc-in-blockchain-curves-keys-and-signature-safety/</id>
     <link href="https://pulsegeek.com/articles/ecc-in-blockchain-curves-keys-and-signature-safety/" />
-    <updated>2025-09-20T01:43:03Z</updated>
+    <updated>2025-09-23T03:08:17Z</updated>
     <summary type="html"><![CDATA[Learn how elliptic curve cryptography secures blockchain addresses and signatures. Compare curves, avoid nonce leaks, and strengthen key storage with practical safeguards.]]></summary>
   </entry>
   <entry>
     <title>Deploy Smart Contract Steps: Network, Gas, Verifications</title>
     <id>https://pulsegeek.com/articles/deploy-smart-contract-steps-network-gas-verifications/</id>
     <link href="https://pulsegeek.com/articles/deploy-smart-contract-steps-network-gas-verifications/" />
-    <updated>2025-09-20T01:43:03Z</updated>
+    <updated>2025-09-23T03:08:17Z</updated>
     <summary type="html"><![CDATA[Follow a proven path to deploy smart contracts. Choose networks, set gas strategy, broadcast safely, verify on explorers, and manage addresses with confidence.]]></summary>
   </entry>
   <entry>
     <title>Artificial Intelligence and Education: Key Connections</title>
     <id>https://pulsegeek.com/articles/artificial-intelligence-and-education-key-connections/</id>
     <link href="https://pulsegeek.com/articles/artificial-intelligence-and-education-key-connections/" />
-    <updated>2025-09-20T01:43:03Z</updated>
+    <updated>2025-09-23T03:08:17Z</updated>
     <summary type="html"><![CDATA[Learn how artificial intelligence intersects with education, from core definitions and classroom uses to benefits, risks, ethics, and future directions that support equitable, practical adoption across K–12 and higher education.]]></summary>
   </entry>
   <entry>
     <title>Blockchain Security Essentials: Threats and Defenses</title>
     <id>https://pulsegeek.com/articles/blockchain-security-essentials-threats-and-defenses/</id>
     <link href="https://pulsegeek.com/articles/blockchain-security-essentials-threats-and-defenses/" />
-    <updated>2025-09-20T01:43:03Z</updated>
+    <updated>2025-09-23T03:08:17Z</updated>
     <summary type="html"><![CDATA[Learn core blockchain security risks and practical defenses across keys, signatures, smart contracts, and nodes. See threat models, key management, and response playbooks with real tradeoffs.]]></summary>
   </entry>
   <entry>
     <title>Blockchain Transaction Flow: From Call to Finality</title>
     <id>https://pulsegeek.com/articles/blockchain-transaction-flow-from-call-to-finality/</id>
     <link href="https://pulsegeek.com/articles/blockchain-transaction-flow-from-call-to-finality/" />
-    <updated>2025-09-20T01:43:03Z</updated>
+    <updated>2025-09-23T03:08:17Z</updated>
     <summary type="html"><![CDATA[Follow a blockchain transaction from function call to economic finality. Learn how gas, mempools, validation, block inclusion, and confirmations shape reliability, cost, and user safety.]]></summary>
   </entry>
   <entry>
     <title>AI and Education: What’s Changing in Classrooms Now</title>
     <id>https://pulsegeek.com/articles/ai-and-education-whats-changing-in-classrooms-now/</id>
     <link href="https://pulsegeek.com/articles/ai-and-education-whats-changing-in-classrooms-now/" />
-    <updated>2025-09-20T01:43:03Z</updated>
+    <updated>2025-09-23T03:08:17Z</updated>
     <summary type="html"><![CDATA[Explore how AI and education intersect today. Learn where tools fit in classrooms, the benefits and risks, practical governance, equity questions, and what to monitor next.]]></summary>
   </entry>
   <entry>
     <title>10 Smart Contract Use Cases Shaping Digital Trust</title>
     <id>https://pulsegeek.com/articles/10-smart-contract-use-cases-shaping-digital-trust/</id>
     <link href="https://pulsegeek.com/articles/10-smart-contract-use-cases-shaping-digital-trust/" />
-    <updated>2025-09-20T01:43:03Z</updated>
+    <updated>2025-09-23T03:08:17Z</updated>
     <summary type="html"><![CDATA[Explore ten smart contract use cases that anchor digital trust, from escrow and tokenized assets to identity, compliance, and DAOs, with security tips and cryptographic guardrails.]]></summary>
   </entry>
   <entry>
     <title>Blockchain and Smart Contracts: How They Interconnect</title>
     <id>https://pulsegeek.com/articles/blockchain-and-smart-contracts-how-they-interconnect/</id>
     <link href="https://pulsegeek.com/articles/blockchain-and-smart-contracts-how-they-interconnect/" />
-    <updated>2025-09-20T01:43:03Z</updated>
+    <updated>2025-09-23T03:08:17Z</updated>
     <summary type="html"><![CDATA[Learn how blockchain and smart contracts work together, from transactions and gas to on-chain execution, composability, testing, and safe deployment patterns across major networks.]]></summary>
   </entry>
   <entry>
     <title>Artificial Intelligence in Education: A Complete Guide</title>
     <id>https://pulsegeek.com/articles/artificial-intelligence-in-education-a-complete-guide/</id>
     <link href="https://pulsegeek.com/articles/artificial-intelligence-in-education-a-complete-guide/" />
-    <updated>2025-09-20T01:43:03Z</updated>
+    <updated>2025-09-23T03:08:17Z</updated>
     <summary type="html"><![CDATA[Learn what artificial intelligence in education means, where it adds value, how to reduce risks, and how to launch responsibly with governance, examples, and a practical roadmap.]]></summary>
   </entry>
   <entry>
     <title>Digital Signatures in Blockchain: Verify and Authorize</title>
     <id>https://pulsegeek.com/articles/digital-signatures-in-blockchain-verify-and-authorize/</id>
     <link href="https://pulsegeek.com/articles/digital-signatures-in-blockchain-verify-and-authorize/" />
-    <updated>2025-09-20T01:43:03Z</updated>
+    <updated>2025-09-23T03:08:17Z</updated>
     <summary type="html"><![CDATA[Learn how digital signatures in blockchain verify identity and authorize transactions, from key generation to secure storage, signature formats, verification flows, and risk controls.]]></summary>
   </entry>
   <entry>
     <title>Smart Contract Lifecycle: Plan, Test, Deploy, Maintain</title>
     <id>https://pulsegeek.com/articles/smart-contract-lifecycle-plan-test-deploy-maintain/</id>
     <link href="https://pulsegeek.com/articles/smart-contract-lifecycle-plan-test-deploy-maintain/" />
-    <updated>2025-09-20T01:43:03Z</updated>
+    <updated>2025-09-23T03:08:17Z</updated>
     <summary type="html"><![CDATA[Learn the smart contract lifecycle from planning and specification to secure design, development, testing, deployment, and maintenance, with pitfalls, patterns, and practical steps that reduce risk and improve on-chain reliability.]]></summary>
   </entry>
   <entry>
     <title>AI in Education: Adoption, Equity, and Practical Pathways</title>
     <id>https://pulsegeek.com/articles/ai-in-education-adoption-equity-and-practical-pathways/</id>
     <link href="https://pulsegeek.com/articles/ai-in-education-adoption-equity-and-practical-pathways/" />
-    <updated>2025-09-20T01:43:03Z</updated>
+    <updated>2025-09-23T03:08:17Z</updated>
     <summary type="html"><![CDATA[A strategic guide to AI in education that maps adoption choices, equity safeguards, and stepwise pathways from pilots to scale, with practical examples and governance frameworks.]]></summary>
   </entry>
   <entry>
     <title>Blockchain Cryptography: Core Hashes, Keys, and Proofs</title>
     <id>https://pulsegeek.com/articles/blockchain-cryptography-core-hashes-keys-and-proofs/</id>
     <link href="https://pulsegeek.com/articles/blockchain-cryptography-core-hashes-keys-and-proofs/" />
-    <updated>2025-09-20T01:43:03Z</updated>
+    <updated>2025-09-23T03:08:17Z</updated>
     <summary type="html"><![CDATA[Learn how blockchain cryptography works across hashes, keys, and proofs. Explore integrity, authorization, Merkle trees, zero-knowledge, and randomness to design secure, verifiable systems.]]></summary>
   </entry>
   <entry>
     <title>Smart Contracts Explained: From Code to On-Chain Trust</title>
     <id>https://pulsegeek.com/articles/smart-contracts-explained-from-code-to-on-chain-trust/</id>
     <link href="https://pulsegeek.com/articles/smart-contracts-explained-from-code-to-on-chain-trust/" />
-    <updated>2025-09-20T01:43:03Z</updated>
+    <updated>2025-09-23T03:08:17Z</updated>
     <summary type="html"><![CDATA[Learn how smart contracts work, why they matter, and how to design, secure, and operate them from development through on-chain trust and real use cases.]]></summary>
   </entry>
   <entry>
     <title>Key Questions to Ask During an AI Data Review</title>
     <id>https://pulsegeek.com/articles/key-questions-to-ask-during-an-ai-data-review/</id>
     <link href="https://pulsegeek.com/articles/key-questions-to-ask-during-an-ai-data-review/" />
-    <updated>2025-09-20T01:43:03Z</updated>
+    <updated>2025-09-23T03:08:17Z</updated>
     <summary type="html"><![CDATA[Use this question set to guide a thorough AI data review that safeguards consent, reduces bias, and strengthens traceability.]]></summary>
   </entry>
   <entry>
     <title>What Is Continuous Compliance for AI Systems Today?</title>
     <id>https://pulsegeek.com/articles/what-is-continuous-compliance-for-ai-systems-today/</id>
     <link href="https://pulsegeek.com/articles/what-is-continuous-compliance-for-ai-systems-today/" />
-    <updated>2025-09-20T01:43:03Z</updated>
+    <updated>2025-09-23T03:08:17Z</updated>
     <summary type="html"><![CDATA[Learn what continuous compliance for AI systems means, how it works day to day, and how to monitor, evidence, and improve it.]]></summary>
   </entry>
   <entry>
     <title>What Is Retrieval Augmented Generation Prompting? Context, Grounding, and Limits</title>
     <id>https://pulsegeek.com/articles/what-is-retrieval-augmented-generation-prompting-context-grounding-and-limits/</id>
     <link href="https://pulsegeek.com/articles/what-is-retrieval-augmented-generation-prompting-context-grounding-and-limits/" />
-    <updated>2025-09-20T01:43:03Z</updated>
+    <updated>2025-09-23T03:08:17Z</updated>
     <summary type="html"><![CDATA[Explore retrieval augmented generation prompting, how it grounds answers with context, where it breaks, and how to operationalize it safely.]]></summary>
   </entry>
   <entry>
     <title>Top Alerts and Dashboards for Fairness Monitoring</title>
     <id>https://pulsegeek.com/articles/top-alerts-and-dashboards-for-fairness-monitoring/</id>
     <link href="https://pulsegeek.com/articles/top-alerts-and-dashboards-for-fairness-monitoring/" />
-    <updated>2025-09-20T01:43:03Z</updated>
+    <updated>2025-09-23T03:08:17Z</updated>
     <summary type="html"><![CDATA[Explore actionable alert patterns and dashboard designs that keep AI fairness measurable, explainable, and responsive across production systems.]]></summary>
   </entry>
   <entry>
     <title>Orchestration Tools for Prompt Workflows: Features, Integrations, and Fit</title>
     <id>https://pulsegeek.com/articles/orchestration-tools-for-prompt-workflows-features-integrations-and-fit/</id>
     <link href="https://pulsegeek.com/articles/orchestration-tools-for-prompt-workflows-features-integrations-and-fit/" />
-    <updated>2025-09-20T01:43:03Z</updated>
+    <updated>2025-09-23T03:08:17Z</updated>
     <summary type="html"><![CDATA[Explore orchestration tools for prompt workflows, including governance, integrations, and evaluation practices to scale safe, consistent outputs.]]></summary>
   </entry>
   <entry>
     <title>Implementing Data Retention and Consent Controls</title>
     <id>https://pulsegeek.com/articles/implementing-data-retention-and-consent-controls/</id>
     <link href="https://pulsegeek.com/articles/implementing-data-retention-and-consent-controls/" />
-    <updated>2025-09-20T01:43:03Z</updated>
+    <updated>2025-09-23T03:08:17Z</updated>
     <summary type="html"><![CDATA[Practical steps to engineer data retention schedules, capture granular consent, and audit traceability across the AI lifecycle with clear governance.]]></summary>
   </entry>
   <entry>
     <title>Automatic Prompt Quality Metrics: From CoT Validity to Toxicity Screens</title>
     <id>https://pulsegeek.com/articles/automatic-prompt-quality-metrics-from-cot-validity-to-toxicity-screens/</id>
     <link href="https://pulsegeek.com/articles/automatic-prompt-quality-metrics-from-cot-validity-to-toxicity-screens/" />
-    <updated>2025-09-20T01:43:03Z</updated>
+    <updated>2025-09-23T03:08:17Z</updated>
     <summary type="html"><![CDATA[Learn automatic prompt quality metrics from chain-of-thought validity to toxicity screens, with examples, tradeoffs, and practical workflows.]]></summary>
   </entry>
   <entry>
     <title>Incident Response Playbook for Avoiding AI Harms</title>
     <id>https://pulsegeek.com/articles/incident-response-playbook-for-avoiding-ai-harms/</id>
     <link href="https://pulsegeek.com/articles/incident-response-playbook-for-avoiding-ai-harms/" />
-    <updated>2025-09-20T01:43:03Z</updated>
+    <updated>2025-09-23T03:08:17Z</updated>
     <summary type="html"><![CDATA[A practical incident response playbook for AI harms covering definitions, detection, triage, containment, remediation, and governance with tools and metrics.]]></summary>
   </entry>
   <entry>
     <title>How to Version and Document Prompts: Changelogs, Tests, and Readme Patterns</title>
     <id>https://pulsegeek.com/articles/how-to-version-and-document-prompts-changelogs-tests-and-readme-patterns/</id>
     <link href="https://pulsegeek.com/articles/how-to-version-and-document-prompts-changelogs-tests-and-readme-patterns/" />
-    <updated>2025-09-20T01:43:03Z</updated>
+    <updated>2025-09-23T03:08:17Z</updated>
     <summary type="html"><![CDATA[Learn how to version and document prompts with changelogs, tests, and READMEs. Build reliable, governed workflows that scale across teams.]]></summary>
   </entry>
   <entry>
     <title>AI Risk Assessment Template and Steps That Work</title>
     <id>https://pulsegeek.com/articles/ai-risk-assessment-template-and-steps-that-work/</id>
     <link href="https://pulsegeek.com/articles/ai-risk-assessment-template-and-steps-that-work/" />
-    <updated>2025-09-20T01:43:03Z</updated>
+    <updated>2025-09-23T03:08:17Z</updated>
     <summary type="html"><![CDATA[Use a practical AI risk assessment template with sequenced steps, monitoring, and response to keep systems fair, reliable, and compliant.]]></summary>
   </entry>
   <entry>
     <title>How to Create Reusable Prompt Libraries: Taxonomy, Metadata, and Access</title>
     <id>https://pulsegeek.com/articles/how-to-create-reusable-prompt-libraries-taxonomy-metadata-and-access/</id>
     <link href="https://pulsegeek.com/articles/how-to-create-reusable-prompt-libraries-taxonomy-metadata-and-access/" />
-    <updated>2025-09-20T01:43:03Z</updated>
+    <updated>2025-09-23T03:08:17Z</updated>
     <summary type="html"><![CDATA[Build reusable prompt libraries with clear taxonomy, rich metadata, and governed access to scale consistency and safety across teams.]]></summary>
   </entry>
   <entry>
     <title>Prompt Evaluation Rubric Examples: Scoring Criteria, Test Sets, and A/B Methods</title>
     <id>https://pulsegeek.com/articles/prompt-evaluation-rubric-examples-scoring-criteria-test-sets-and-a-b-methods/</id>
     <link href="https://pulsegeek.com/articles/prompt-evaluation-rubric-examples-scoring-criteria-test-sets-and-a-b-methods/" />
-    <updated>2025-09-20T01:43:03Z</updated>
+    <updated>2025-09-23T03:08:17Z</updated>
     <summary type="html"><![CDATA[Learn practical prompt evaluation rubric examples, scoring criteria, test sets, and A/B methods with balanced human and automated review.]]></summary>
   </entry>
   <entry>
     <title>AI Model Monitoring Tools Compared for Real Use</title>
     <id>https://pulsegeek.com/articles/ai-model-monitoring-tools-compared-for-real-use/</id>
     <link href="https://pulsegeek.com/articles/ai-model-monitoring-tools-compared-for-real-use/" />
-    <updated>2025-09-20T01:43:03Z</updated>
+    <updated>2025-09-23T03:08:17Z</updated>
     <summary type="html"><![CDATA[An objective comparison of AI model monitoring tools with fairness, compliance, and real-world operations in mind, plus tables, tradeoffs, and guidance.]]></summary>
   </entry>
   <entry>
     <title>Guardrails and Safety Prompts Best Practices: Filters, Policies, and Overrides</title>
     <id>https://pulsegeek.com/articles/guardrails-and-safety-prompts-best-practices-filters-policies-and-overrides/</id>
     <link href="https://pulsegeek.com/articles/guardrails-and-safety-prompts-best-practices-filters-policies-and-overrides/" />
-    <updated>2025-09-20T01:43:03Z</updated>
+    <updated>2025-09-23T03:08:17Z</updated>
     <summary type="html"><![CDATA[Practical best practices for guardrails and safety prompts, including filters, policies, overrides, and governance across teams.]]></summary>
   </entry>
   <entry>
     <title>How to Conduct a Data Bias Audit with Confidence</title>
     <id>https://pulsegeek.com/articles/how-to-conduct-a-data-bias-audit-with-confidence/</id>
     <link href="https://pulsegeek.com/articles/how-to-conduct-a-data-bias-audit-with-confidence/" />
-    <updated>2025-09-20T01:43:03Z</updated>
+    <updated>2025-09-23T03:08:17Z</updated>
     <summary type="html"><![CDATA[A practical, step-by-step method to scope, measure, mitigate, and monitor data bias with clear controls, documentation, and ongoing accountability.]]></summary>
   </entry>
   <entry>
     <title>Responsible AI KPIs and Monitoring Metrics: A Guide</title>
     <id>https://pulsegeek.com/articles/responsible-ai-kpis-and-monitoring-metrics-a-guide/</id>
     <link href="https://pulsegeek.com/articles/responsible-ai-kpis-and-monitoring-metrics-a-guide/" />
-    <updated>2025-09-20T01:43:03Z</updated>
+    <updated>2025-09-23T03:08:17Z</updated>
     <summary type="html"><![CDATA[Define responsible AI KPIs and monitoring metrics, set fair thresholds, build dashboards, and connect alerts to governance and incident response.]]></summary>
   </entry>
   <entry>
     <title>Prompt Chaining Workflow Templates: Reusable Chains, Governance, and Versioning</title>
     <id>https://pulsegeek.com/articles/prompt-chaining-workflow-templates-reusable-chains-governance-and-versioning/</id>
     <link href="https://pulsegeek.com/articles/prompt-chaining-workflow-templates-reusable-chains-governance-and-versioning/" />
-    <updated>2025-09-20T01:43:03Z</updated>
+    <updated>2025-09-23T03:08:17Z</updated>
     <summary type="html"><![CDATA[Build prompt chaining workflow templates with reusable chains, guardrails, and versioning. Learn tools, libraries, documentation, and RAG integration for safe scale.]]></summary>
   </entry>
   <entry>
     <title>Zero-Shot vs Few-Shot Prompting: Accuracy, Control, and Cost Compared</title>
     <id>https://pulsegeek.com/articles/zero-shot-vs-few-shot-prompting-accuracy-control-and-cost-compared/</id>
     <link href="https://pulsegeek.com/articles/zero-shot-vs-few-shot-prompting-accuracy-control-and-cost-compared/" />
-    <updated>2025-09-20T01:43:03Z</updated>
+    <updated>2025-09-23T03:08:17Z</updated>
     <summary type="html"><![CDATA[Compare zero-shot vs few-shot prompting by accuracy, control, and cost. See tradeoffs, when to choose each, and practical guidance.]]></summary>
   </entry>
   <entry>
     <title>Top Model Interpretability Techniques Teams Rely On</title>
     <id>https://pulsegeek.com/articles/top-model-interpretability-techniques-teams-rely-on/</id>
     <link href="https://pulsegeek.com/articles/top-model-interpretability-techniques-teams-rely-on/" />
-    <updated>2025-09-20T01:43:03Z</updated>
+    <updated>2025-09-23T03:08:17Z</updated>
     <summary type="html"><![CDATA[Explore practical interpretability techniques like SHAP, counterfactuals, and surrogate models to explain AI decisions and inform responsible deployment.]]></summary>
   </entry>
   <entry>
     <title>Product Description Prompt Templates: Attributes, Benefits, and Schema</title>
     <id>https://pulsegeek.com/articles/product-description-prompt-templates-attributes-benefits-and-schema/</id>
     <link href="https://pulsegeek.com/articles/product-description-prompt-templates-attributes-benefits-and-schema/" />
-    <updated>2025-09-20T01:43:03Z</updated>
+    <updated>2025-09-23T03:08:17Z</updated>
     <summary type="html"><![CDATA[Use product description prompt templates to turn attributes into benefits, align tone, and output schema-ready copy for SEO.]]></summary>
   </entry>
   <entry>
     <title>V2G Aggregator Business Models: Revenue Stacks and Regulatory Paths</title>
     <id>https://pulsegeek.com/articles/v2g-aggregator-business-models-revenue-stacks-and-regulatory-paths/</id>
     <link href="https://pulsegeek.com/articles/v2g-aggregator-business-models-revenue-stacks-and-regulatory-paths/" />
-    <updated>2025-09-20T01:43:03Z</updated>
+    <updated>2025-09-23T03:08:17Z</updated>
     <summary type="html"><![CDATA[Explore V2G aggregator business models, revenue stacks, and regulatory paths with actionable steps, standards context, and real project lessons.]]></summary>
   </entry>
   <entry>
     <title>DERMS vs ADMS: Functions, Overlaps, and When You Need Each</title>
     <id>https://pulsegeek.com/articles/derms-vs-adms-functions-overlaps-and-when-you-need-each/</id>
     <link href="https://pulsegeek.com/articles/derms-vs-adms-functions-overlaps-and-when-you-need-each/" />
-    <updated>2025-09-20T01:43:03Z</updated>
+    <updated>2025-09-23T03:08:17Z</updated>
     <summary type="html"><![CDATA[Compare DERMS vs ADMS: core functions, overlaps, integration patterns, and when utilities should deploy each system to manage modern distribution grids.]]></summary>
   </entry>
   <entry>
     <title>Tools for Visualizing Model Explanations, Compared</title>
     <id>https://pulsegeek.com/articles/tools-for-visualizing-model-explanations-compared/</id>
     <link href="https://pulsegeek.com/articles/tools-for-visualizing-model-explanations-compared/" />
-    <updated>2025-09-20T01:43:03Z</updated>
+    <updated>2025-09-23T03:08:17Z</updated>
     <summary type="html"><![CDATA[Compare practical tools for visualizing model explanations. Learn tradeoffs, workflows, and when to use SHAP, LIME, and interactive what-if dashboards.]]></summary>
   </entry>
   <entry>
     <title>How to Prompt for SEO Content Outlines: Entities, Headers, and Internal Links</title>
     <id>https://pulsegeek.com/articles/how-to-prompt-for-seo-content-outlines-entities-headers-and-internal-links/</id>
     <link href="https://pulsegeek.com/articles/how-to-prompt-for-seo-content-outlines-entities-headers-and-internal-links/" />
-    <updated>2025-09-20T01:43:03Z</updated>
+    <updated>2025-09-23T03:08:17Z</updated>
     <summary type="html"><![CDATA[Learn step-by-step prompts for SEO content outlines using entities, H2/H3 structure, and internal links with examples and QA tips.]]></summary>
   </entry>
   <entry>
     <title>OCPP vs ISO 15118: Communication, Plug‑and‑Charge, and Smart Charging Compared</title>
     <id>https://pulsegeek.com/articles/ocpp-vs-iso-15118-communication-plug-and-charge-and-smart-charging-compared/</id>
     <link href="https://pulsegeek.com/articles/ocpp-vs-iso-15118-communication-plug-and-charge-and-smart-charging-compared/" />
-    <updated>2025-09-20T01:43:03Z</updated>
+    <updated>2025-09-23T03:08:17Z</updated>
     <summary type="html"><![CDATA[Compare OCPP and ISO 15118 for EV charging. Understand Plug-and-Charge, security, smart charging, and V2G readiness with clear use-case guidance.]]></summary>
   </entry>
   <entry>
     <title>Best Tools for AI Dataset Versioning and Lineage</title>
     <id>https://pulsegeek.com/articles/best-tools-for-ai-dataset-versioning-and-lineage/</id>
     <link href="https://pulsegeek.com/articles/best-tools-for-ai-dataset-versioning-and-lineage/" />
-    <updated>2025-09-20T01:43:03Z</updated>
+    <updated>2025-09-23T03:08:17Z</updated>
     <summary type="html"><![CDATA[Explore the best tools for AI dataset versioning and lineage, with practical tradeoffs, examples, and auditing guidance for ethical, reproducible ML.]]></summary>
   </entry>
   <entry>
     <title>What Is a System Prompt in AI? Roles, Boundaries, and Best Practices</title>
     <id>https://pulsegeek.com/articles/what-is-a-system-prompt-in-ai-roles-boundaries-and-best-practices/</id>
     <link href="https://pulsegeek.com/articles/what-is-a-system-prompt-in-ai-roles-boundaries-and-best-practices/" />
-    <updated>2025-09-20T01:43:03Z</updated>
+    <updated>2025-09-23T03:08:17Z</updated>
     <summary type="html"><![CDATA[Learn how system prompts set model behavior, define boundaries, and improve reliability, with practical patterns and safe deployment tips.]]></summary>
   </entry>
   <entry>
     <title>SHAP vs LIME: Choosing the Right Explanation Method</title>
     <id>https://pulsegeek.com/articles/shap-vs-lime-choosing-the-right-explanation-method/</id>
     <link href="https://pulsegeek.com/articles/shap-vs-lime-choosing-the-right-explanation-method/" />
-    <updated>2025-09-20T01:43:03Z</updated>
+    <updated>2025-09-23T03:08:17Z</updated>
     <summary type="html"><![CDATA[Compare SHAP and LIME across accuracy, stability, cost, and communication value. Learn when to choose each method and how to explain results.]]></summary>
   </entry>
   <entry>
     <title>How to Prompt for Code Generation Safely: Constraints, Tests, and Reviews</title>
     <id>https://pulsegeek.com/articles/how-to-prompt-for-code-generation-safely-constraints-tests-and-reviews/</id>
     <link href="https://pulsegeek.com/articles/how-to-prompt-for-code-generation-safely-constraints-tests-and-reviews/" />
-    <updated>2025-09-20T01:43:03Z</updated>
+    <updated>2025-09-23T03:08:17Z</updated>
     <summary type="html"><![CDATA[Learn how to prompt for code generation safely using clear constraints, test-first prompts, and structured reviews with CI guardrails.]]></summary>
   </entry>
   <entry>
     <title>How to Plan V2G Interconnection for Utilities: Protection, Metering, and Tariffs</title>
     <id>https://pulsegeek.com/articles/how-to-plan-v2g-interconnection-for-utilities-protection-metering-and-tariffs/</id>
     <link href="https://pulsegeek.com/articles/how-to-plan-v2g-interconnection-for-utilities-protection-metering-and-tariffs/" />
-    <updated>2025-09-20T01:43:03Z</updated>
+    <updated>2025-09-23T03:08:17Z</updated>
     <summary type="html"><![CDATA[Step-by-step V2G interconnection planning for utilities covering standards, protection, metering, and tariff design with field tips and pilot lessons.]]></summary>
   </entry>
   <entry>
     <title>Integrating DERs into Urban Distribution Grids: A Practical Implementation Guide</title>
     <id>https://pulsegeek.com/articles/integrating-ders-into-urban-distribution-grids-a-practical-implementation-guide/</id>
     <link href="https://pulsegeek.com/articles/integrating-ders-into-urban-distribution-grids-a-practical-implementation-guide/" />
-    <updated>2025-09-20T01:43:03Z</updated>
+    <updated>2025-09-23T03:08:17Z</updated>
     <summary type="html"><![CDATA[Step-by-step guidance to integrate DERs and microgrids into urban distribution grids with hosting studies, controls, and operations.]]></summary>
   </entry>
   <entry>
     <title>Vehicle‑to‑Grid Integration Standards Overview: OCPP, ISO 15118, IEEE 2030.5, and Grid Codes</title>
     <id>https://pulsegeek.com/articles/vehicle-to-grid-integration-standards-overview-ocpp-iso-15118-ieee-2030-5-and-grid-codes/</id>
     <link href="https://pulsegeek.com/articles/vehicle-to-grid-integration-standards-overview-ocpp-iso-15118-ieee-2030-5-and-grid-codes/" />
-    <updated>2025-09-20T01:43:03Z</updated>
+    <updated>2025-09-23T03:08:17Z</updated>
     <summary type="html"><![CDATA[Explore V2G standards with practical guidance on OCPP, ISO 15118, IEEE 2030.5, and grid codes for interoperable bidirectional charging.]]></summary>
   </entry>
   <entry>
     <title>How to Generate Feature Attribution Charts That Inform</title>
     <id>https://pulsegeek.com/articles/how-to-generate-feature-attribution-charts-that-inform/</id>
     <link href="https://pulsegeek.com/articles/how-to-generate-feature-attribution-charts-that-inform/" />
-    <updated>2025-09-20T01:43:03Z</updated>
+    <updated>2025-09-23T03:08:17Z</updated>
     <summary type="html"><![CDATA[Step-by-step guidance to compute, validate, and present feature attribution charts that stakeholders understand and trust.]]></summary>
   </entry>
   <entry>
     <title>Email Writing Prompt Templates: Subject Lines, Sequences, and CTAs</title>
     <id>https://pulsegeek.com/articles/email-writing-prompt-templates-subject-lines-sequences-and-ctas/</id>
     <link href="https://pulsegeek.com/articles/email-writing-prompt-templates-subject-lines-sequences-and-ctas/" />
-    <updated>2025-09-20T01:43:03Z</updated>
+    <updated>2025-09-23T03:08:17Z</updated>
     <summary type="html"><![CDATA[Steal-ready email writing prompt templates for subject lines, sequences, and CTAs. Build clarity, test fast, and maintain brand-safe tone.]]></summary>
-  </entry>
-  <entry>
-    <title>How Does Bidirectional Charging Work? Power Flow, Converters, and Use Cases</title>
-    <id>https://pulsegeek.com/articles/how-does-bidirectional-charging-work-power-flow-converters-and-use-cases/</id>
-    <link href="https://pulsegeek.com/articles/how-does-bidirectional-charging-work-power-flow-converters-and-use-cases/" />
-    <updated>2025-09-20T01:43:03Z</updated>
-    <summary type="html"><![CDATA[Understand bidirectional charging: power flow, converters, controls, and real use cases across homes, fleets, and the grid.]]></summary>
-  </entry>
-  <entry>
-    <title>How to Write Effective Prompts: From Role Hints to Output Constraints</title>
-    <id>https://pulsegeek.com/articles/how-to-write-effective-prompts-from-role-hints-to-output-constraints/</id>
-    <link href="https://pulsegeek.com/articles/how-to-write-effective-prompts-from-role-hints-to-output-constraints/" />
-    <updated>2025-09-20T01:43:03Z</updated>
-    <summary type="html"><![CDATA[Learn how to write effective prompts with role hints, boundaries, examples, and output constraints that improve accuracy and reliability.]]></summary>
   </entry>
 </feed>

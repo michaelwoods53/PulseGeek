@@ -6,8 +6,22 @@
     <description>Tech news, gaming, and geek culture in one pulse</description>
     <language>en-us</language>
     <generator>PulseGeek Rss Feed Generator</generator>
-    <lastBuildDate>Sat, 20 Sep 2025 01:43:03 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 23 Sep 2025 03:08:17 GMT</lastBuildDate>
     <atom:link href="https://pulsegeek.com/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Elliptic Curve Crypto in Blockchain: What and Why</title>
+      <link>https://pulsegeek.com/articles/elliptic-curve-crypto-in-blockchain-what-and-why/</link>
+      <guid isPermaLink="true">https://pulsegeek.com/articles/elliptic-curve-crypto-in-blockchain-what-and-why/</guid>
+      <pubDate>Wed, 17 Sep 2025 23:00:00 GMT</pubDate>
+      <description>Learn how elliptic curve cryptography powers blockchain security. See why ECC is chosen, how keys and signatures work, and what risks and tradeoffs matter now.</description>
+    </item>
+    <item>
+      <title>Developing Smart Contracts: A Practical Step‑by‑Step Path</title>
+      <link>https://pulsegeek.com/articles/developing-smart-contracts-a-practical-step-by-step-path/</link>
+      <guid isPermaLink="true">https://pulsegeek.com/articles/developing-smart-contracts-a-practical-step-by-step-path/</guid>
+      <pubDate>Wed, 17 Sep 2025 23:00:00 GMT</pubDate>
+      <description>Learn developing smart contracts from planning and modeling to writing, testing, deploying, verifying, and maintaining. Follow a practical sequence with code, tooling choices, and pitfalls to avoid.</description>
+    </item>
     <item>
       <title>ECC in Blockchain: Curves, Keys, and Signature Safety</title>
       <link>https://pulsegeek.com/articles/ecc-in-blockchain-curves-keys-and-signature-safety/</link>
@@ -343,20 +357,6 @@
       <guid isPermaLink="true">https://pulsegeek.com/articles/email-writing-prompt-templates-subject-lines-sequences-and-ctas/</guid>
       <pubDate>Mon, 25 Aug 2025 18:01:00 GMT</pubDate>
       <description>Steal-ready email writing prompt templates for subject lines, sequences, and CTAs. Build clarity, test fast, and maintain brand-safe tone.</description>
-    </item>
-    <item>
-      <title>How Does Bidirectional Charging Work? Power Flow, Converters, and Use Cases</title>
-      <link>https://pulsegeek.com/articles/how-does-bidirectional-charging-work-power-flow-converters-and-use-cases/</link>
-      <guid isPermaLink="true">https://pulsegeek.com/articles/how-does-bidirectional-charging-work-power-flow-converters-and-use-cases/</guid>
-      <pubDate>Mon, 25 Aug 2025 18:00:00 GMT</pubDate>
-      <description>Understand bidirectional charging: power flow, converters, controls, and real use cases across homes, fleets, and the grid.</description>
-    </item>
-    <item>
-      <title>How to Write Effective Prompts: From Role Hints to Output Constraints</title>
-      <link>https://pulsegeek.com/articles/how-to-write-effective-prompts-from-role-hints-to-output-constraints/</link>
-      <guid isPermaLink="true">https://pulsegeek.com/articles/how-to-write-effective-prompts-from-role-hints-to-output-constraints/</guid>
-      <pubDate>Mon, 25 Aug 2025 02:00:00 GMT</pubDate>
-      <description>Learn how to write effective prompts with role hints, boundaries, examples, and output constraints that improve accuracy and reliability.</description>
     </item>
   </channel>
 </rss>
