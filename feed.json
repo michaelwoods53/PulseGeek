@@ -6,6 +6,70 @@
   "description": "Tech news, gaming, and geek culture in one pulse",
   "items": [
     {
+      "id": "https://pulsegeek.com/articles/smart-contracts-explained-from-code-to-on-chain-trust/",
+      "url": "https://pulsegeek.com/articles/smart-contracts-explained-from-code-to-on-chain-trust/",
+      "title": "Smart Contracts Explained: From Code to On-Chain Trust",
+      "content_text": "Learn how smart contracts work, why they matter, and how to design, secure, and operate them from development through on-chain trust and real use cases.",
+      "date_published": "2025-09-05T23:00:00.0000000Z",
+      "date_modified": "2025-09-24T23:45:08.6407179Z"
+    },
+    {
+      "id": "https://pulsegeek.com/articles/smart-contract-testing-best-practices-that-catch-bugs/",
+      "url": "https://pulsegeek.com/articles/smart-contract-testing-best-practices-that-catch-bugs/",
+      "title": "Smart Contract Testing Best Practices That Catch Bugs",
+      "content_text": "Learn pragmatic smart contract testing best practices that catch bugs early, reduce risk, and mirror real transaction flows. Threat model, write precise specs, use fuzz and invariants, and test deployments.",
+      "date_published": "2025-09-17T23:00:00.0000000Z",
+      "date_modified": "2025-09-24T23:45:08.6404471Z"
+    },
+    {
+      "id": "https://pulsegeek.com/articles/smart-contract-lifecycle-plan-test-deploy-maintain/",
+      "url": "https://pulsegeek.com/articles/smart-contract-lifecycle-plan-test-deploy-maintain/",
+      "title": "Smart Contract Lifecycle: Plan, Test, Deploy, Maintain",
+      "content_text": "Learn the smart contract lifecycle from planning and specification to secure design, development, testing, deployment, and maintenance, with pitfalls, patterns, and practical steps that reduce risk and improve on-chain reliability.",
+      "date_published": "2025-09-08T23:00:00.0000000Z",
+      "date_modified": "2025-09-24T23:45:08.6401553Z"
+    },
+    {
+      "id": "https://pulsegeek.com/articles/multisignature-wallets-explained-control-and-safety/",
+      "url": "https://pulsegeek.com/articles/multisignature-wallets-explained-control-and-safety/",
+      "title": "Multisignature Wallets Explained: Control and Safety",
+      "content_text": "Learn how multisignature wallets work, when to use them, and how thresholds, roles, and recovery planning create stronger control without sacrificing usability or speed.",
+      "date_published": "2025-09-17T23:00:00.0000000Z",
+      "date_modified": "2025-09-24T23:45:08.6364074Z"
+    },
+    {
+      "id": "https://pulsegeek.com/articles/digital-signatures-in-blockchain-verify-and-authorize/",
+      "url": "https://pulsegeek.com/articles/digital-signatures-in-blockchain-verify-and-authorize/",
+      "title": "Digital Signatures in Blockchain: Verify and Authorize",
+      "content_text": "Learn how digital signatures in blockchain verify identity and authorize transactions, from key generation to secure storage, signature formats, verification flows, and risk controls.",
+      "date_published": "2025-09-09T23:00:00.0000000Z",
+      "date_modified": "2025-09-24T23:45:08.6279196Z"
+    },
+    {
+      "id": "https://pulsegeek.com/articles/developing-smart-contracts-a-practical-step-by-step-path/",
+      "url": "https://pulsegeek.com/articles/developing-smart-contracts-a-practical-step-by-step-path/",
+      "title": "Developing Smart Contracts: A Practical Step\u2011by\u2011Step Path",
+      "content_text": "Learn developing smart contracts from planning and modeling to writing, testing, deploying, verifying, and maintaining. Follow a practical sequence with code, tooling choices, and pitfalls to avoid.",
+      "date_published": "2025-09-17T23:00:00.0000000Z",
+      "date_modified": "2025-09-24T23:45:08.6276599Z"
+    },
+    {
+      "id": "https://pulsegeek.com/articles/blockchain-cryptography-core-hashes-keys-and-proofs/",
+      "url": "https://pulsegeek.com/articles/blockchain-cryptography-core-hashes-keys-and-proofs/",
+      "title": "Blockchain Cryptography: Core Hashes, Keys, and Proofs",
+      "content_text": "Learn how blockchain cryptography works across hashes, keys, and proofs. Explore integrity, authorization, Merkle trees, zero-knowledge, and randomness to design secure, verifiable systems.",
+      "date_published": "2025-09-06T23:00:00.0000000Z",
+      "date_modified": "2025-09-24T23:45:08.6250464Z"
+    },
+    {
+      "id": "https://pulsegeek.com/articles/blockchain-and-smart-contracts-how-they-interconnect/",
+      "url": "https://pulsegeek.com/articles/blockchain-and-smart-contracts-how-they-interconnect/",
+      "title": "Blockchain and Smart Contracts: How They Interconnect",
+      "content_text": "Learn how blockchain and smart contracts work together, from transactions and gas to on-chain execution, composability, testing, and safe deployment patterns across major networks.",
+      "date_published": "2025-09-11T23:00:00.0000000Z",
+      "date_modified": "2025-09-24T23:45:08.6248220Z"
+    },
+    {
       "id": "https://pulsegeek.com/articles/zero-shot-vs-few-shot-prompting-accuracy-control-and-cost-compared/",
       "url": "https://pulsegeek.com/articles/zero-shot-vs-few-shot-prompting-accuracy-control-and-cost-compared/",
       "title": "Zero-Shot vs Few-Shot Prompting: Accuracy, Control, and Cost Compared",
@@ -182,22 +246,6 @@
       "date_modified": "2025-09-23T03:08:17.2314331Z"
     },
     {
-      "id": "https://pulsegeek.com/articles/smart-contracts-explained-from-code-to-on-chain-trust/",
-      "url": "https://pulsegeek.com/articles/smart-contracts-explained-from-code-to-on-chain-trust/",
-      "title": "Smart Contracts Explained: From Code to On-Chain Trust",
-      "content_text": "Learn how smart contracts work, why they matter, and how to design, secure, and operate them from development through on-chain trust and real use cases.",
-      "date_published": "2025-09-05T23:00:00.0000000Z",
-      "date_modified": "2025-09-23T03:08:17.2311343Z"
-    },
-    {
-      "id": "https://pulsegeek.com/articles/smart-contract-lifecycle-plan-test-deploy-maintain/",
-      "url": "https://pulsegeek.com/articles/smart-contract-lifecycle-plan-test-deploy-maintain/",
-      "title": "Smart Contract Lifecycle: Plan, Test, Deploy, Maintain",
-      "content_text": "Learn the smart contract lifecycle from planning and specification to secure design, development, testing, deployment, and maintenance, with pitfalls, patterns, and practical steps that reduce risk and improve on-chain reliability.",
-      "date_published": "2025-09-08T23:00:00.0000000Z",
-      "date_modified": "2025-09-23T03:08:17.2308945Z"
-    },
-    {
       "id": "https://pulsegeek.com/articles/shap-vs-lime-choosing-the-right-explanation-method/",
       "url": "https://pulsegeek.com/articles/shap-vs-lime-choosing-the-right-explanation-method/",
       "title": "SHAP vs LIME: Choosing the Right Explanation Method",
@@ -356,54 +404,6 @@
       "content_text": "Use this question set to guide a thorough AI data review that safeguards consent, reduces bias, and strengthens traceability.",
       "date_published": "2025-09-05T18:00:00.0000000Z",
       "date_modified": "2025-09-23T03:08:17.2262615Z"
-    },
-    {
-      "id": "https://pulsegeek.com/articles/interpretable-ml-methods-a-complete-practical-overview/",
-      "url": "https://pulsegeek.com/articles/interpretable-ml-methods-a-complete-practical-overview/",
-      "title": "Interpretable ML Methods: A Complete Practical Overview",
-      "content_text": "A practical guide to interpretable machine learning methods, from intrinsic models to post hoc explanations, with validation tips and communication strategies.",
-      "date_published": "2025-08-23T18:02:00.0000000Z",
-      "date_modified": "2025-09-23T03:08:17.2260611Z"
-    },
-    {
-      "id": "https://pulsegeek.com/articles/integrating-ders-into-urban-distribution-grids-a-practical-implementation-guide/",
-      "url": "https://pulsegeek.com/articles/integrating-ders-into-urban-distribution-grids-a-practical-implementation-guide/",
-      "title": "Integrating DERs into Urban Distribution Grids: A Practical Implementation Guide",
-      "content_text": "Step-by-step guidance to integrate DERs and microgrids into urban distribution grids with hosting studies, controls, and operations.",
-      "date_published": "2025-08-26T02:00:00.0000000Z",
-      "date_modified": "2025-09-23T03:08:17.2258194Z"
-    },
-    {
-      "id": "https://pulsegeek.com/articles/incident-response-playbook-for-avoiding-ai-harms/",
-      "url": "https://pulsegeek.com/articles/incident-response-playbook-for-avoiding-ai-harms/",
-      "title": "Incident Response Playbook for Avoiding AI Harms",
-      "content_text": "A practical incident response playbook for AI harms covering definitions, detection, triage, containment, remediation, and governance with tools and metrics.",
-      "date_published": "2025-09-01T18:01:00.0000000Z",
-      "date_modified": "2025-09-23T03:08:17.2255619Z"
-    },
-    {
-      "id": "https://pulsegeek.com/articles/implementing-data-retention-and-consent-controls/",
-      "url": "https://pulsegeek.com/articles/implementing-data-retention-and-consent-controls/",
-      "title": "Implementing Data Retention and Consent Controls",
-      "content_text": "Practical steps to engineer data retention schedules, capture granular consent, and audit traceability across the AI lifecycle with clear governance.",
-      "date_published": "2025-09-02T18:00:00.0000000Z",
-      "date_modified": "2025-09-23T03:08:17.2253436Z"
-    },
-    {
-      "id": "https://pulsegeek.com/articles/image-prompt-templates-for-marketers-campaign-ready-structures-and-variations/",
-      "url": "https://pulsegeek.com/articles/image-prompt-templates-for-marketers-campaign-ready-structures-and-variations/",
-      "title": "Image Prompt Templates for Marketers: Campaign-Ready Structures and Variations",
-      "content_text": "Steal-ready image prompt templates for marketers. Craft brand-safe, scalable visuals with structured prompts, style controls, and testing tips.",
-      "date_published": "2025-08-15T02:00:00.0000000Z",
-      "date_modified": "2025-09-23T03:08:17.2250638Z"
-    },
-    {
-      "id": "https://pulsegeek.com/articles/ieee-2030-5-sep-for-der-integration-capabilities-security-and-utility-adoption/",
-      "url": "https://pulsegeek.com/articles/ieee-2030-5-sep-for-der-integration-capabilities-security-and-utility-adoption/",
-      "title": "IEEE 2030.5 SEP for DER Integration: Capabilities, Security, and Utility Adoption",
-      "content_text": "Understand IEEE 2030.5 SEP for DER integration, including capabilities, security, profiles like CSIP, and how utilities deploy it alongside IEC 61850 and CIM.",
-      "date_published": "2025-08-18T02:00:00.0000000Z",
-      "date_modified": "2025-09-23T03:08:17.2247960Z"
     }
   ]
 }

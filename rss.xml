@@ -6,8 +6,22 @@
     <description>Tech news, gaming, and geek culture in one pulse</description>
     <language>en-us</language>
     <generator>PulseGeek Rss Feed Generator</generator>
-    <lastBuildDate>Tue, 23 Sep 2025 03:08:17 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 24 Sep 2025 23:45:08 GMT</lastBuildDate>
     <atom:link href="https://pulsegeek.com/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Multisignature Wallets Explained: Control and Safety</title>
+      <link>https://pulsegeek.com/articles/multisignature-wallets-explained-control-and-safety/</link>
+      <guid isPermaLink="true">https://pulsegeek.com/articles/multisignature-wallets-explained-control-and-safety/</guid>
+      <pubDate>Wed, 17 Sep 2025 23:00:00 GMT</pubDate>
+      <description>Learn how multisignature wallets work, when to use them, and how thresholds, roles, and recovery planning create stronger control without sacrificing usability or speed.</description>
+    </item>
+    <item>
+      <title>Smart Contract Testing Best Practices That Catch Bugs</title>
+      <link>https://pulsegeek.com/articles/smart-contract-testing-best-practices-that-catch-bugs/</link>
+      <guid isPermaLink="true">https://pulsegeek.com/articles/smart-contract-testing-best-practices-that-catch-bugs/</guid>
+      <pubDate>Wed, 17 Sep 2025 23:00:00 GMT</pubDate>
+      <description>Learn pragmatic smart contract testing best practices that catch bugs early, reduce risk, and mirror real transaction flows. Threat model, write precise specs, use fuzz and invariants, and test deployments.</description>
+    </item>
     <item>
       <title>Elliptic Curve Crypto in Blockchain: What and Why</title>
       <link>https://pulsegeek.com/articles/elliptic-curve-crypto-in-blockchain-what-and-why/</link>
@@ -343,20 +357,6 @@
       <guid isPermaLink="true">https://pulsegeek.com/articles/vehicle-to-grid-integration-standards-overview-ocpp-iso-15118-ieee-2030-5-and-grid-codes/</guid>
       <pubDate>Tue, 26 Aug 2025 02:00:00 GMT</pubDate>
       <description>Explore V2G standards with practical guidance on OCPP, ISO 15118, IEEE 2030.5, and grid codes for interoperable bidirectional charging.</description>
-    </item>
-    <item>
-      <title>How to Generate Feature Attribution Charts That Inform</title>
-      <link>https://pulsegeek.com/articles/how-to-generate-feature-attribution-charts-that-inform/</link>
-      <guid isPermaLink="true">https://pulsegeek.com/articles/how-to-generate-feature-attribution-charts-that-inform/</guid>
-      <pubDate>Mon, 25 Aug 2025 18:02:00 GMT</pubDate>
-      <description>Step-by-step guidance to compute, validate, and present feature attribution charts that stakeholders understand and trust.</description>
-    </item>
-    <item>
-      <title>Email Writing Prompt Templates: Subject Lines, Sequences, and CTAs</title>
-      <link>https://pulsegeek.com/articles/email-writing-prompt-templates-subject-lines-sequences-and-ctas/</link>
-      <guid isPermaLink="true">https://pulsegeek.com/articles/email-writing-prompt-templates-subject-lines-sequences-and-ctas/</guid>
-      <pubDate>Mon, 25 Aug 2025 18:01:00 GMT</pubDate>
-      <description>Steal-ready email writing prompt templates for subject lines, sequences, and CTAs. Build clarity, test fast, and maintain brand-safe tone.</description>
     </item>
   </channel>
 </rss>

@@ -2,13 +2,27 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>PulseGeek</title>
   <id>https://pulsegeek.com/atom.xml</id>
-  <updated>2025-09-23T03:08:17Z</updated>
+  <updated>2025-09-24T23:45:08Z</updated>
   <link href="https://pulsegeek.com/atom.xml" rel="self" type="application/atom+xml" />
   <link href="https://pulsegeek.com" />
   <author>
     <name>PulseGeek</name>
   </author>
   <subtitle>Tech news, gaming, and geek culture in one pulse</subtitle>
+  <entry>
+    <title>Multisignature Wallets Explained: Control and Safety</title>
+    <id>https://pulsegeek.com/articles/multisignature-wallets-explained-control-and-safety/</id>
+    <link href="https://pulsegeek.com/articles/multisignature-wallets-explained-control-and-safety/" />
+    <updated>2025-09-24T23:45:08Z</updated>
+    <summary type="html"><![CDATA[Learn how multisignature wallets work, when to use them, and how thresholds, roles, and recovery planning create stronger control without sacrificing usability or speed.]]></summary>
+  </entry>
+  <entry>
+    <title>Smart Contract Testing Best Practices That Catch Bugs</title>
+    <id>https://pulsegeek.com/articles/smart-contract-testing-best-practices-that-catch-bugs/</id>
+    <link href="https://pulsegeek.com/articles/smart-contract-testing-best-practices-that-catch-bugs/" />
+    <updated>2025-09-24T23:45:08Z</updated>
+    <summary type="html"><![CDATA[Learn pragmatic smart contract testing best practices that catch bugs early, reduce risk, and mirror real transaction flows. Threat model, write precise specs, use fuzz and invariants, and test deployments.]]></summary>
+  </entry>
   <entry>
     <title>Elliptic Curve Crypto in Blockchain: What and Why</title>
     <id>https://pulsegeek.com/articles/elliptic-curve-crypto-in-blockchain-what-and-why/</id>
@@ -20,7 +34,7 @@
     <title>Developing Smart Contracts: A Practical Step‑by‑Step Path</title>
     <id>https://pulsegeek.com/articles/developing-smart-contracts-a-practical-step-by-step-path/</id>
     <link href="https://pulsegeek.com/articles/developing-smart-contracts-a-practical-step-by-step-path/" />
-    <updated>2025-09-23T03:08:17Z</updated>
+    <updated>2025-09-24T23:45:08Z</updated>
     <summary type="html"><![CDATA[Learn developing smart contracts from planning and modeling to writing, testing, deploying, verifying, and maintaining. Follow a practical sequence with code, tooling choices, and pitfalls to avoid.]]></summary>
   </entry>
   <entry>
@@ -76,7 +90,7 @@
     <title>Blockchain and Smart Contracts: How They Interconnect</title>
     <id>https://pulsegeek.com/articles/blockchain-and-smart-contracts-how-they-interconnect/</id>
     <link href="https://pulsegeek.com/articles/blockchain-and-smart-contracts-how-they-interconnect/" />
-    <updated>2025-09-23T03:08:17Z</updated>
+    <updated>2025-09-24T23:45:08Z</updated>
     <summary type="html"><![CDATA[Learn how blockchain and smart contracts work together, from transactions and gas to on-chain execution, composability, testing, and safe deployment patterns across major networks.]]></summary>
   </entry>
   <entry>
@@ -90,14 +104,14 @@
     <title>Digital Signatures in Blockchain: Verify and Authorize</title>
     <id>https://pulsegeek.com/articles/digital-signatures-in-blockchain-verify-and-authorize/</id>
     <link href="https://pulsegeek.com/articles/digital-signatures-in-blockchain-verify-and-authorize/" />
-    <updated>2025-09-23T03:08:17Z</updated>
+    <updated>2025-09-24T23:45:08Z</updated>
     <summary type="html"><![CDATA[Learn how digital signatures in blockchain verify identity and authorize transactions, from key generation to secure storage, signature formats, verification flows, and risk controls.]]></summary>
   </entry>
   <entry>
     <title>Smart Contract Lifecycle: Plan, Test, Deploy, Maintain</title>
     <id>https://pulsegeek.com/articles/smart-contract-lifecycle-plan-test-deploy-maintain/</id>
     <link href="https://pulsegeek.com/articles/smart-contract-lifecycle-plan-test-deploy-maintain/" />
-    <updated>2025-09-23T03:08:17Z</updated>
+    <updated>2025-09-24T23:45:08Z</updated>
     <summary type="html"><![CDATA[Learn the smart contract lifecycle from planning and specification to secure design, development, testing, deployment, and maintenance, with pitfalls, patterns, and practical steps that reduce risk and improve on-chain reliability.]]></summary>
   </entry>
   <entry>
@@ -111,14 +125,14 @@
     <title>Blockchain Cryptography: Core Hashes, Keys, and Proofs</title>
     <id>https://pulsegeek.com/articles/blockchain-cryptography-core-hashes-keys-and-proofs/</id>
     <link href="https://pulsegeek.com/articles/blockchain-cryptography-core-hashes-keys-and-proofs/" />
-    <updated>2025-09-23T03:08:17Z</updated>
+    <updated>2025-09-24T23:45:08Z</updated>
     <summary type="html"><![CDATA[Learn how blockchain cryptography works across hashes, keys, and proofs. Explore integrity, authorization, Merkle trees, zero-knowledge, and randomness to design secure, verifiable systems.]]></summary>
   </entry>
   <entry>
     <title>Smart Contracts Explained: From Code to On-Chain Trust</title>
     <id>https://pulsegeek.com/articles/smart-contracts-explained-from-code-to-on-chain-trust/</id>
     <link href="https://pulsegeek.com/articles/smart-contracts-explained-from-code-to-on-chain-trust/" />
-    <updated>2025-09-23T03:08:17Z</updated>
+    <updated>2025-09-24T23:45:08Z</updated>
     <summary type="html"><![CDATA[Learn how smart contracts work, why they matter, and how to design, secure, and operate them from development through on-chain trust and real use cases.]]></summary>
   </entry>
   <entry>
@@ -344,19 +358,5 @@
     <link href="https://pulsegeek.com/articles/vehicle-to-grid-integration-standards-overview-ocpp-iso-15118-ieee-2030-5-and-grid-codes/" />
     <updated>2025-09-23T03:08:17Z</updated>
     <summary type="html"><![CDATA[Explore V2G standards with practical guidance on OCPP, ISO 15118, IEEE 2030.5, and grid codes for interoperable bidirectional charging.]]></summary>
-  </entry>
-  <entry>
-    <title>How to Generate Feature Attribution Charts That Inform</title>
-    <id>https://pulsegeek.com/articles/how-to-generate-feature-attribution-charts-that-inform/</id>
-    <link href="https://pulsegeek.com/articles/how-to-generate-feature-attribution-charts-that-inform/" />
-    <updated>2025-09-23T03:08:17Z</updated>
-    <summary type="html"><![CDATA[Step-by-step guidance to compute, validate, and present feature attribution charts that stakeholders understand and trust.]]></summary>
-  </entry>
-  <entry>
-    <title>Email Writing Prompt Templates: Subject Lines, Sequences, and CTAs</title>
-    <id>https://pulsegeek.com/articles/email-writing-prompt-templates-subject-lines-sequences-and-ctas/</id>
-    <link href="https://pulsegeek.com/articles/email-writing-prompt-templates-subject-lines-sequences-and-ctas/" />
-    <updated>2025-09-23T03:08:17Z</updated>
-    <summary type="html"><![CDATA[Steal-ready email writing prompt templates for subject lines, sequences, and CTAs. Build clarity, test fast, and maintain brand-safe tone.]]></summary>
   </entry>
 </feed>
