@@ -6,8 +6,22 @@
     <description>Tech news, gaming, and geek culture in one pulse</description>
     <language>en-us</language>
     <generator>PulseGeek Rss Feed Generator</generator>
-    <lastBuildDate>Wed, 24 Sep 2025 23:45:08 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 26 Sep 2025 23:00:00 GMT</lastBuildDate>
     <atom:link href="https://pulsegeek.com/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Smart Contract Languages: Choose the Right Stack</title>
+      <link>https://pulsegeek.com/articles/smart-contract-languages-choose-the-right-stack/</link>
+      <guid isPermaLink="true">https://pulsegeek.com/articles/smart-contract-languages-choose-the-right-stack/</guid>
+      <pubDate>Fri, 26 Sep 2025 23:00:00 GMT</pubDate>
+      <description>Learn how to pick smart contract languages and platforms with clear tradeoffs, safety practices, and ecosystem context. Compare EVM, Rust-based chains, Hyperledger, and Corda with practical guidance.</description>
+    </item>
+    <item>
+      <title>Top Benefits of AI in Education: From Access to Impact</title>
+      <link>https://pulsegeek.com/articles/top-benefits-of-ai-in-education-from-access-to-impact/</link>
+      <guid isPermaLink="true">https://pulsegeek.com/articles/top-benefits-of-ai-in-education-from-access-to-impact/</guid>
+      <pubDate>Wed, 17 Sep 2025 23:00:00 GMT</pubDate>
+      <description>See how AI strengthens teaching and learning with personalization, inclusion, timely feedback, and data-informed decisions, plus ethics and risks to watch as schools plan responsible adoption.</description>
+    </item>
     <item>
       <title>Multisignature Wallets Explained: Control and Safety</title>
       <link>https://pulsegeek.com/articles/multisignature-wallets-explained-control-and-safety/</link>
@@ -343,20 +357,6 @@
       <guid isPermaLink="true">https://pulsegeek.com/articles/how-to-plan-v2g-interconnection-for-utilities-protection-metering-and-tariffs/</guid>
       <pubDate>Tue, 26 Aug 2025 18:00:00 GMT</pubDate>
       <description>Step-by-step V2G interconnection planning for utilities covering standards, protection, metering, and tariff design with field tips and pilot lessons.</description>
-    </item>
-    <item>
-      <title>Integrating DERs into Urban Distribution Grids: A Practical Implementation Guide</title>
-      <link>https://pulsegeek.com/articles/integrating-ders-into-urban-distribution-grids-a-practical-implementation-guide/</link>
-      <guid isPermaLink="true">https://pulsegeek.com/articles/integrating-ders-into-urban-distribution-grids-a-practical-implementation-guide/</guid>
-      <pubDate>Tue, 26 Aug 2025 02:00:00 GMT</pubDate>
-      <description>Step-by-step guidance to integrate DERs and microgrids into urban distribution grids with hosting studies, controls, and operations.</description>
-    </item>
-    <item>
-      <title>Vehicle‑to‑Grid Integration Standards Overview: OCPP, ISO 15118, IEEE 2030.5, and Grid Codes</title>
-      <link>https://pulsegeek.com/articles/vehicle-to-grid-integration-standards-overview-ocpp-iso-15118-ieee-2030-5-and-grid-codes/</link>
-      <guid isPermaLink="true">https://pulsegeek.com/articles/vehicle-to-grid-integration-standards-overview-ocpp-iso-15118-ieee-2030-5-and-grid-codes/</guid>
-      <pubDate>Tue, 26 Aug 2025 02:00:00 GMT</pubDate>
-      <description>Explore V2G standards with practical guidance on OCPP, ISO 15118, IEEE 2030.5, and grid codes for interoperable bidirectional charging.</description>
     </item>
   </channel>
 </rss>

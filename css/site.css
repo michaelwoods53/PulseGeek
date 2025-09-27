@@ -3,6 +3,19 @@
 /* ========================================================================== */
 
 
+/* Tag label for cards/media */
+.tag {
+    display: inline-block;
+    font-size: .72rem;
+    line-height: 1;
+    padding: .2rem .45rem;
+    margin: 0 0 .35rem 0;
+    border-radius: .35rem;
+    background: #eefdf6;
+    color: #0f766e;
+    border: 1px solid #99f6e4;
+}
+
 /* ============ 1) NAV / TREE VIEW ========================================= */
 
 .tree details {
@@ -538,10 +551,10 @@ a.glossary-term {
         visibility: visible !important;
     }
 
-/* generic safety for any [data-tooltip] */
-[data-tooltip] {
-    position: relative;
-}
+    /* generic safety for any [data-tooltip] */
+    [data-tooltip] {
+        position: relative;
+    }
 
     [data-tooltip]::after, [data-tooltip]::before {
         max-width: 90vw;
@@ -928,7 +941,7 @@ figure.code-example:hover {
         background: linear-gradient(to right, color-mix(in srgb, var(--muted-border-color) 28%, transparent), transparent 2.5rem) no-repeat;
     }
 
-    figure.code-example.line-numbers code {
+    figure.code-example line-numbers code {
         counter-reset: code-line;
         padding-left: 2.5rem; /* tighter gutter */
     }
@@ -1095,12 +1108,6 @@ article code:not(pre code) {
 
     .pg-listicle-item h2 {
         margin: 0;
-        line-height: 1.35;
-        font-size: 1.15rem;
-    }
-
-    .pg-listicle-item > h2 {
-        margin: 0 0 .35rem;
         line-height: 1.3;
         font-size: clamp(1.12rem, 0.98rem + 0.55vw, 1.35rem);
         font-weight: 700;
@@ -1128,6 +1135,12 @@ article code:not(pre code) {
 /* ============ 17) DARK MODE (grouped where sensible) ===================== */
 
 @media (prefers-color-scheme: dark) {
+    .tag {
+        background: #07373a;
+        color: #99f6e4;
+        border-color: #115e59;
+    }
+
     /* summaries */
     .pg-section-summary {
         background: color-mix(in srgb, var(--pico-primary, #16a34a) 8%, #0b0f17);
