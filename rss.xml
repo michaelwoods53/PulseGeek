@@ -6,13 +6,27 @@
     <description>Tech news, gaming, and geek culture in one pulse</description>
     <language>en-us</language>
     <generator>PulseGeek Rss Feed Generator</generator>
-    <lastBuildDate>Fri, 26 Sep 2025 23:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 27 Sep 2025 19:14:41 GMT</lastBuildDate>
     <atom:link href="https://pulsegeek.com/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Public Keys, Private Keys: Managing Blockchain Identity</title>
+      <link>https://pulsegeek.com/articles/public-keys-private-keys-managing-blockchain-identity/</link>
+      <guid isPermaLink="true">https://pulsegeek.com/articles/public-keys-private-keys-managing-blockchain-identity/</guid>
+      <pubDate>Sat, 27 Sep 2025 04:01:00 GMT</pubDate>
+      <description>Learn how to generate, store, and rotate keys, then sign and verify blockchain transactions with strong policies for identity safety using practical, testable steps.</description>
+    </item>
+    <item>
+      <title>Hyperledger Platforms: Frameworks, Networks, and Fit</title>
+      <link>https://pulsegeek.com/articles/hyperledger-platforms-frameworks-networks-and-fit/</link>
+      <guid isPermaLink="true">https://pulsegeek.com/articles/hyperledger-platforms-frameworks-networks-and-fit/</guid>
+      <pubDate>Sat, 27 Sep 2025 04:00:00 GMT</pubDate>
+      <description>Explore Hyperledger platforms with a focused look at frameworks, network design, privacy, and governance. Compare Fabric, Besu, Indy, Iroha, and Sawtooth to decide the right fit.</description>
+    </item>
     <item>
       <title>Smart Contract Languages: Choose the Right Stack</title>
       <link>https://pulsegeek.com/articles/smart-contract-languages-choose-the-right-stack/</link>
       <guid isPermaLink="true">https://pulsegeek.com/articles/smart-contract-languages-choose-the-right-stack/</guid>
-      <pubDate>Fri, 26 Sep 2025 23:00:00 GMT</pubDate>
+      <pubDate>Wed, 17 Sep 2025 23:00:00 GMT</pubDate>
       <description>Learn how to pick smart contract languages and platforms with clear tradeoffs, safety practices, and ecosystem context. Compare EVM, Rust-based chains, Hyperledger, and Corda with practical guidance.</description>
     </item>
     <item>
@@ -343,20 +357,6 @@
       <guid isPermaLink="true">https://pulsegeek.com/articles/shap-vs-lime-choosing-the-right-explanation-method/</guid>
       <pubDate>Tue, 26 Aug 2025 18:02:00 GMT</pubDate>
       <description>Compare SHAP and LIME across accuracy, stability, cost, and communication value. Learn when to choose each method and how to explain results.</description>
-    </item>
-    <item>
-      <title>How to Prompt for Code Generation Safely: Constraints, Tests, and Reviews</title>
-      <link>https://pulsegeek.com/articles/how-to-prompt-for-code-generation-safely-constraints-tests-and-reviews/</link>
-      <guid isPermaLink="true">https://pulsegeek.com/articles/how-to-prompt-for-code-generation-safely-constraints-tests-and-reviews/</guid>
-      <pubDate>Tue, 26 Aug 2025 18:01:00 GMT</pubDate>
-      <description>Learn how to prompt for code generation safely using clear constraints, test-first prompts, and structured reviews with CI guardrails.</description>
-    </item>
-    <item>
-      <title>How to Plan V2G Interconnection for Utilities: Protection, Metering, and Tariffs</title>
-      <link>https://pulsegeek.com/articles/how-to-plan-v2g-interconnection-for-utilities-protection-metering-and-tariffs/</link>
-      <guid isPermaLink="true">https://pulsegeek.com/articles/how-to-plan-v2g-interconnection-for-utilities-protection-metering-and-tariffs/</guid>
-      <pubDate>Tue, 26 Aug 2025 18:00:00 GMT</pubDate>
-      <description>Step-by-step V2G interconnection planning for utilities covering standards, protection, metering, and tariff design with field tips and pilot lessons.</description>
     </item>
   </channel>
 </rss>
