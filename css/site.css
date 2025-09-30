@@ -16,6 +16,54 @@
     border: 1px solid #99f6e4;
 }
 
+/* Related Articles aside */
+.related-articles {
+    margin-top: 2rem;
+}
+
+.related-articles ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: grid;
+    gap: .75rem;
+}
+
+@media (min-width: 640px) {
+    .related-articles ul {
+        grid-template-columns: repeat(2, 1fr);
+    }
+}
+
+@media (min-width: 960px) {
+    .related-articles ul {
+        grid-template-columns: repeat(3, 1fr);
+    }
+}
+
+.related-card {
+    padding: .9rem;
+    border: 1px solid var(--muted-border-color);
+    border-radius: .6rem;
+    background: var(--card-background-color, #fff);
+}
+
+.related-card h3 {
+    margin: 0 0 .4rem 0;
+    font-size: 1rem;
+}
+
+.related-card p {
+    margin: 0;
+    font-size: .92rem;
+    color: var(--muted-color);
+}
+
+.related-articles h2 {
+    font-size: 1.1rem;
+    margin-bottom: .6rem;
+}
+
 /* ============ 1) NAV / TREE VIEW ========================================= */
 
 .tree details {
