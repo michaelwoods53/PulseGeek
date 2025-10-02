@@ -6,8 +6,29 @@
     <description>Tech news, gaming, and geek culture in one pulse</description>
     <language>en-us</language>
     <generator>PulseGeek Rss Feed Generator</generator>
-    <lastBuildDate>Thu, 02 Oct 2025 01:39:22 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 02 Oct 2025 04:02:00 GMT</lastBuildDate>
     <atom:link href="https://pulsegeek.com/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AI Chatbot vs Alternatives: Picking the Right Classroom Fit</title>
+      <link>https://pulsegeek.com/articles/ai-chatbot-vs-alternatives-picking-the-right-classroom-fit/</link>
+      <guid isPermaLink="true">https://pulsegeek.com/articles/ai-chatbot-vs-alternatives-picking-the-right-classroom-fit/</guid>
+      <pubDate>Thu, 02 Oct 2025 04:02:00 GMT</pubDate>
+      <description>Compare an AI chatbot with teacher tools like knowledge bases, search, tutor platforms, and rule-based bots to match classroom goals while managing cost, privacy, and equity.</description>
+    </item>
+    <item>
+      <title>Blockchain vs Database: Integrity, Speed, and Control</title>
+      <link>https://pulsegeek.com/articles/blockchain-vs-database-integrity-speed-and-control/</link>
+      <guid isPermaLink="true">https://pulsegeek.com/articles/blockchain-vs-database-integrity-speed-and-control/</guid>
+      <pubDate>Thu, 02 Oct 2025 04:01:00 GMT</pubDate>
+      <description>Compare a blockchain and a traditional database across integrity, speed, and control. Learn when tamper evidence beats mutability, how throughput differs, and what governance models fit your data.</description>
+    </item>
+    <item>
+      <title>Smart Contract Design Patterns for Resilient Systems</title>
+      <link>https://pulsegeek.com/articles/smart-contract-design-patterns-for-resilient-systems/</link>
+      <guid isPermaLink="true">https://pulsegeek.com/articles/smart-contract-design-patterns-for-resilient-systems/</guid>
+      <pubDate>Thu, 02 Oct 2025 04:00:00 GMT</pubDate>
+      <description>Learn core smart contract design patterns that improve reliability, upgradeability, and safe oracle interaction, with examples, tradeoffs, and practical checklists.</description>
+    </item>
     <item>
       <title>AI Assistant vs Tutor Bots: Choosing for Your Course</title>
       <link>https://pulsegeek.com/articles/ai-assistant-vs-tutor-bots-choosing-for-your-course/</link>
@@ -336,27 +357,6 @@
       <guid isPermaLink="true">https://pulsegeek.com/articles/prompt-evaluation-rubric-examples-scoring-criteria-test-sets-and-a-b-methods/</guid>
       <pubDate>Sun, 31 Aug 2025 02:00:00 GMT</pubDate>
       <description>Learn practical prompt evaluation rubric examples, scoring criteria, test sets, and A/B methods with balanced human and automated review.</description>
-    </item>
-    <item>
-      <title>AI Model Monitoring Tools Compared for Real Use</title>
-      <link>https://pulsegeek.com/articles/ai-model-monitoring-tools-compared-for-real-use/</link>
-      <guid isPermaLink="true">https://pulsegeek.com/articles/ai-model-monitoring-tools-compared-for-real-use/</guid>
-      <pubDate>Sat, 30 Aug 2025 18:01:00 GMT</pubDate>
-      <description>An objective comparison of AI model monitoring tools with fairness, compliance, and real-world operations in mind, plus tables, tradeoffs, and guidance.</description>
-    </item>
-    <item>
-      <title>Guardrails and Safety Prompts Best Practices: Filters, Policies, and Overrides</title>
-      <link>https://pulsegeek.com/articles/guardrails-and-safety-prompts-best-practices-filters-policies-and-overrides/</link>
-      <guid isPermaLink="true">https://pulsegeek.com/articles/guardrails-and-safety-prompts-best-practices-filters-policies-and-overrides/</guid>
-      <pubDate>Sat, 30 Aug 2025 18:00:00 GMT</pubDate>
-      <description>Practical best practices for guardrails and safety prompts, including filters, policies, overrides, and governance across teams.</description>
-    </item>
-    <item>
-      <title>How to Conduct a Data Bias Audit with Confidence</title>
-      <link>https://pulsegeek.com/articles/how-to-conduct-a-data-bias-audit-with-confidence/</link>
-      <guid isPermaLink="true">https://pulsegeek.com/articles/how-to-conduct-a-data-bias-audit-with-confidence/</guid>
-      <pubDate>Sat, 30 Aug 2025 18:00:00 GMT</pubDate>
-      <description>A practical, step-by-step method to scope, measure, mitigate, and monitor data bias with clear controls, documentation, and ongoing accountability.</description>
     </item>
   </channel>
 </rss>

@@ -6,6 +6,30 @@
   "description": "Tech news, gaming, and geek culture in one pulse",
   "items": [
     {
+      "id": "https://pulsegeek.com/articles/ai-chatbot-vs-alternatives-picking-the-right-classroom-fit/",
+      "url": "https://pulsegeek.com/articles/ai-chatbot-vs-alternatives-picking-the-right-classroom-fit/",
+      "title": "AI Chatbot vs Alternatives: Picking the Right Classroom Fit",
+      "content_text": "Compare an AI chatbot with teacher tools like knowledge bases, search, tutor platforms, and rule-based bots to match classroom goals while managing cost, privacy, and equity.",
+      "date_published": "2025-10-02T04:02:00.0000000Z",
+      "date_modified": "2025-10-02T04:02:00.0000000Z"
+    },
+    {
+      "id": "https://pulsegeek.com/articles/blockchain-vs-database-integrity-speed-and-control/",
+      "url": "https://pulsegeek.com/articles/blockchain-vs-database-integrity-speed-and-control/",
+      "title": "Blockchain vs Database: Integrity, Speed, and Control",
+      "content_text": "Compare a blockchain and a traditional database across integrity, speed, and control. Learn when tamper evidence beats mutability, how throughput differs, and what governance models fit your data.",
+      "date_published": "2025-10-02T04:01:00.0000000Z",
+      "date_modified": "2025-10-02T04:01:00.0000000Z"
+    },
+    {
+      "id": "https://pulsegeek.com/articles/smart-contract-design-patterns-for-resilient-systems/",
+      "url": "https://pulsegeek.com/articles/smart-contract-design-patterns-for-resilient-systems/",
+      "title": "Smart Contract Design Patterns for Resilient Systems",
+      "content_text": "Learn core smart contract design patterns that improve reliability, upgradeability, and safe oracle interaction, with examples, tradeoffs, and practical checklists.",
+      "date_published": "2025-10-02T04:00:00.0000000Z",
+      "date_modified": "2025-10-02T04:00:00.0000000Z"
+    },
+    {
       "id": "https://pulsegeek.com/articles/ai-assistant-vs-tutor-bots-choosing-for-your-course/",
       "url": "https://pulsegeek.com/articles/ai-assistant-vs-tutor-bots-choosing-for-your-course/",
       "title": "AI Assistant vs Tutor Bots: Choosing for Your Course",
@@ -380,30 +404,6 @@
       "content_text": "Learn how fairness metrics in machine learning work, choose the right metric, mitigate bias, and connect metrics to responsible decisions.",
       "date_published": "2025-08-17T18:02:00.0000000Z",
       "date_modified": "2025-10-01T23:18:12.6788524Z"
-    },
-    {
-      "id": "https://pulsegeek.com/articles/explaining-ai-decisions-to-stakeholders-with-clarity/",
-      "url": "https://pulsegeek.com/articles/explaining-ai-decisions-to-stakeholders-with-clarity/",
-      "title": "Explaining AI Decisions to Stakeholders with Clarity",
-      "content_text": "A step-by-step guide to explain AI decisions clearly with fit-for-purpose methods, visuals, validation, and feedback loops for non-technical stakeholders.",
-      "date_published": "2025-08-24T18:02:00.0000000Z",
-      "date_modified": "2025-10-01T23:18:12.6786414Z"
-    },
-    {
-      "id": "https://pulsegeek.com/articles/email-writing-prompt-templates-subject-lines-sequences-and-ctas/",
-      "url": "https://pulsegeek.com/articles/email-writing-prompt-templates-subject-lines-sequences-and-ctas/",
-      "title": "Email Writing Prompt Templates: Subject Lines, Sequences, and CTAs",
-      "content_text": "Steal-ready email writing prompt templates for subject lines, sequences, and CTAs. Build clarity, test fast, and maintain brand-safe tone.",
-      "date_published": "2025-08-25T18:01:00.0000000Z",
-      "date_modified": "2025-10-01T23:18:12.6782281Z"
-    },
-    {
-      "id": "https://pulsegeek.com/articles/digital-signatures-in-blockchain-verify-and-authorize/",
-      "url": "https://pulsegeek.com/articles/digital-signatures-in-blockchain-verify-and-authorize/",
-      "title": "Digital Signatures in Blockchain: Verify and Authorize",
-      "content_text": "Learn how digital signatures in blockchain verify identity and authorize transactions, from key generation to secure storage, signature formats, verification flows, and risk controls.",
-      "date_published": "2025-09-09T23:00:00.0000000Z",
-      "date_modified": "2025-10-01T23:18:12.6775439Z"
     }
   ]
 }

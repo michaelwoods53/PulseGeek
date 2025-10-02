@@ -2,13 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>PulseGeek</title>
   <id>https://pulsegeek.com/atom.xml</id>
-  <updated>2025-10-02T01:39:22Z</updated>
+  <updated>2025-10-02T04:02:00Z</updated>
   <link href="https://pulsegeek.com/atom.xml" rel="self" type="application/atom+xml" />
   <link href="https://pulsegeek.com" />
   <author>
     <name>PulseGeek</name>
   </author>
   <subtitle>Tech news, gaming, and geek culture in one pulse</subtitle>
+  <entry>
+    <title>AI Chatbot vs Alternatives: Picking the Right Classroom Fit</title>
+    <id>https://pulsegeek.com/articles/ai-chatbot-vs-alternatives-picking-the-right-classroom-fit/</id>
+    <link href="https://pulsegeek.com/articles/ai-chatbot-vs-alternatives-picking-the-right-classroom-fit/" />
+    <updated>2025-10-02T04:02:00Z</updated>
+    <summary type="html"><![CDATA[Compare an AI chatbot with teacher tools like knowledge bases, search, tutor platforms, and rule-based bots to match classroom goals while managing cost, privacy, and equity.]]></summary>
+  </entry>
+  <entry>
+    <title>Blockchain vs Database: Integrity, Speed, and Control</title>
+    <id>https://pulsegeek.com/articles/blockchain-vs-database-integrity-speed-and-control/</id>
+    <link href="https://pulsegeek.com/articles/blockchain-vs-database-integrity-speed-and-control/" />
+    <updated>2025-10-02T04:01:00Z</updated>
+    <summary type="html"><![CDATA[Compare a blockchain and a traditional database across integrity, speed, and control. Learn when tamper evidence beats mutability, how throughput differs, and what governance models fit your data.]]></summary>
+  </entry>
+  <entry>
+    <title>Smart Contract Design Patterns for Resilient Systems</title>
+    <id>https://pulsegeek.com/articles/smart-contract-design-patterns-for-resilient-systems/</id>
+    <link href="https://pulsegeek.com/articles/smart-contract-design-patterns-for-resilient-systems/" />
+    <updated>2025-10-02T04:00:00Z</updated>
+    <summary type="html"><![CDATA[Learn core smart contract design patterns that improve reliability, upgradeability, and safe oracle interaction, with examples, tradeoffs, and practical checklists.]]></summary>
+  </entry>
   <entry>
     <title>AI Assistant vs Tutor Bots: Choosing for Your Course</title>
     <id>https://pulsegeek.com/articles/ai-assistant-vs-tutor-bots-choosing-for-your-course/</id>
@@ -337,26 +358,5 @@
     <link href="https://pulsegeek.com/articles/prompt-evaluation-rubric-examples-scoring-criteria-test-sets-and-a-b-methods/" />
     <updated>2025-10-01T22:54:30Z</updated>
     <summary type="html"><![CDATA[Learn practical prompt evaluation rubric examples, scoring criteria, test sets, and A/B methods with balanced human and automated review.]]></summary>
-  </entry>
-  <entry>
-    <title>AI Model Monitoring Tools Compared for Real Use</title>
-    <id>https://pulsegeek.com/articles/ai-model-monitoring-tools-compared-for-real-use/</id>
-    <link href="https://pulsegeek.com/articles/ai-model-monitoring-tools-compared-for-real-use/" />
-    <updated>2025-10-01T22:54:30Z</updated>
-    <summary type="html"><![CDATA[An objective comparison of AI model monitoring tools with fairness, compliance, and real-world operations in mind, plus tables, tradeoffs, and guidance.]]></summary>
-  </entry>
-  <entry>
-    <title>Guardrails and Safety Prompts Best Practices: Filters, Policies, and Overrides</title>
-    <id>https://pulsegeek.com/articles/guardrails-and-safety-prompts-best-practices-filters-policies-and-overrides/</id>
-    <link href="https://pulsegeek.com/articles/guardrails-and-safety-prompts-best-practices-filters-policies-and-overrides/" />
-    <updated>2025-10-01T22:54:30Z</updated>
-    <summary type="html"><![CDATA[Practical best practices for guardrails and safety prompts, including filters, policies, overrides, and governance across teams.]]></summary>
-  </entry>
-  <entry>
-    <title>How to Conduct a Data Bias Audit with Confidence</title>
-    <id>https://pulsegeek.com/articles/how-to-conduct-a-data-bias-audit-with-confidence/</id>
-    <link href="https://pulsegeek.com/articles/how-to-conduct-a-data-bias-audit-with-confidence/" />
-    <updated>2025-10-01T22:54:30Z</updated>
-    <summary type="html"><![CDATA[A practical, step-by-step method to scope, measure, mitigate, and monitor data bias with clear controls, documentation, and ongoing accountability.]]></summary>
   </entry>
 </feed>
