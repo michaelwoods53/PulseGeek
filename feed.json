@@ -6,28 +6,188 @@
   "description": "Tech news, gaming, and geek culture in one pulse",
   "items": [
     {
-      "id": "https://pulsegeek.com/articles/ai-chatbot-vs-alternatives-picking-the-right-classroom-fit/",
-      "url": "https://pulsegeek.com/articles/ai-chatbot-vs-alternatives-picking-the-right-classroom-fit/",
-      "title": "AI Chatbot vs Alternatives: Picking the Right Classroom Fit",
-      "content_text": "Compare an AI chatbot with teacher tools like knowledge bases, search, tutor platforms, and rule-based bots to match classroom goals while managing cost, privacy, and equity.",
-      "date_published": "2025-10-02T04:02:00.0000000Z",
-      "date_modified": "2025-10-02T04:02:00.0000000Z"
+      "id": "https://pulsegeek.com/articles/blockchain-transaction-trackers-picking-the-best-tool/",
+      "url": "https://pulsegeek.com/articles/blockchain-transaction-trackers-picking-the-best-tool/",
+      "title": "Blockchain Transaction Trackers: Picking the Best Tool",
+      "content_text": "Compare blockchain transaction trackers by data depth, proof models, UX, and privacy. Learn how Merkle and Patricia proofs back results and pick the right tool.",
+      "date_published": "2025-10-08T04:01:00.0000000Z",
+      "date_modified": "2025-10-08T04:01:00.0000000Z"
     },
     {
-      "id": "https://pulsegeek.com/articles/blockchain-vs-database-integrity-speed-and-control/",
-      "url": "https://pulsegeek.com/articles/blockchain-vs-database-integrity-speed-and-control/",
-      "title": "Blockchain vs Database: Integrity, Speed, and Control",
-      "content_text": "Compare a blockchain and a traditional database across integrity, speed, and control. Learn when tamper evidence beats mutability, how throughput differs, and what governance models fit your data.",
-      "date_published": "2025-10-02T04:01:00.0000000Z",
-      "date_modified": "2025-10-02T04:01:00.0000000Z"
+      "id": "https://pulsegeek.com/articles/blockchain-security-threat-models-tools-and-culture/",
+      "url": "https://pulsegeek.com/articles/blockchain-security-threat-models-tools-and-culture/",
+      "title": "Blockchain Security: Threat Models, Tools, and Culture",
+      "content_text": "Learn blockchain security from first principles. Map threat models, spot common vulnerabilities, run practical audits, and build a resilient engineering culture with the right tools.",
+      "date_published": "2025-10-08T04:00:00.0000000Z",
+      "date_modified": "2025-10-08T04:00:00.0000000Z"
+    },
+    {
+      "id": "https://pulsegeek.com/articles/using-an-ai-virtual-assistant-routines-for-study-and-teaching/",
+      "url": "https://pulsegeek.com/articles/using-an-ai-virtual-assistant-routines-for-study-and-teaching/",
+      "title": "Using an AI Virtual Assistant: Routines for Study and Teaching",
+      "content_text": "Learn step by step routines to set up, prompt, and evaluate an AI virtual assistant for study sessions and teaching workflows, with templates, safeguards, and measurable outcomes.",
+      "date_published": "2025-10-07T04:02:00.0000000Z",
+      "date_modified": "2025-10-07T04:02:00.0000000Z"
+    },
+    {
+      "id": "https://pulsegeek.com/articles/merkle-trees-in-blockchains-building-efficient-proofs/",
+      "url": "https://pulsegeek.com/articles/merkle-trees-in-blockchains-building-efficient-proofs/",
+      "title": "Merkle Trees in Blockchains: Building Efficient Proofs",
+      "content_text": "Learn how Merkle trees and Patricia tries enable efficient proofs, how inclusion checks work, and where headers anchor integrity for light clients and nodes.",
+      "date_published": "2025-10-07T04:01:00.0000000Z",
+      "date_modified": "2025-10-07T04:01:00.0000000Z"
+    },
+    {
+      "id": "https://pulsegeek.com/articles/what-does-permissionless-really-mean-in-web3/",
+      "url": "https://pulsegeek.com/articles/what-does-permissionless-really-mean-in-web3/",
+      "title": "What Does Permissionless Really Mean in Web3?",
+      "content_text": "Explore what permissionless means in Web3, how open access affects safety, and which design patterns make trust-minimized contracts resilient without gatekeepers. Learn tradeoffs, examples, and practical safeguards.",
+      "date_published": "2025-10-07T04:00:00.0000000Z",
+      "date_modified": "2025-10-07T04:00:00.0000000Z"
+    },
+    {
+      "id": "https://pulsegeek.com/articles/top-ai-powered-chatbots-for-learning-and-support/",
+      "url": "https://pulsegeek.com/articles/top-ai-powered-chatbots-for-learning-and-support/",
+      "title": "Top AI-Powered Chatbots for Learning and Support",
+      "content_text": "Explore AI-powered chatbot picks for tutoring, lesson planning, homework feedback, and classroom support. Compare strengths, privacy tradeoffs, and setup tips to match real learning goals.",
+      "date_published": "2025-10-06T04:02:00.0000000Z",
+      "date_modified": "2025-10-06T04:02:00.0000000Z"
+    },
+    {
+      "id": "https://pulsegeek.com/articles/transaction-hash-explained-7-things-you-should-know/",
+      "url": "https://pulsegeek.com/articles/transaction-hash-explained-7-things-you-should-know/",
+      "title": "Transaction Hash Explained: 7 Things You Should Know",
+      "content_text": "Learn how a transaction hash works, why tiny input changes flip outputs, what collisions mean, how hashes link blocks, and how to verify one yourself.",
+      "date_published": "2025-10-06T04:01:00.0000000Z",
+      "date_modified": "2025-10-06T04:01:00.0000000Z"
+    },
+    {
+      "id": "https://pulsegeek.com/articles/upgradeable-smart-contracts-proxies-storage-safety/",
+      "url": "https://pulsegeek.com/articles/upgradeable-smart-contracts-proxies-storage-safety/",
+      "title": "Upgradeable Smart Contracts: Proxies, Storage, Safety",
+      "content_text": "Learn how to design upgradeable smart contracts using proxies, map storage safely, and run guarded upgrades with scripts, tests, and role checks.",
+      "date_published": "2025-10-06T04:00:00.0000000Z",
+      "date_modified": "2025-10-06T04:00:00.0000000Z"
+    },
+    {
+      "id": "https://pulsegeek.com/articles/conversational-ai-in-education-use-cases-and-limits/",
+      "url": "https://pulsegeek.com/articles/conversational-ai-in-education-use-cases-and-limits/",
+      "title": "Conversational AI in Education: Use Cases and Limits",
+      "content_text": "Learn how conversational AI supports tutoring, feedback, and planning in classrooms, with practical workflows, safety guardrails, and evaluation methods that reduce risk while improving learning outcomes.",
+      "date_published": "2025-10-05T04:02:00.0000000Z",
+      "date_modified": "2025-10-05T04:02:00.0000000Z"
+    },
+    {
+      "id": "https://pulsegeek.com/articles/sha-256-in-blockchain-why-this-hash-still-matters/",
+      "url": "https://pulsegeek.com/articles/sha-256-in-blockchain-why-this-hash-still-matters/",
+      "title": "SHA-256 in Blockchain: Why This Hash Still Matters",
+      "content_text": "Learn how SHA-256 secures blockchains through preimage resistance, collision hardness, and hash-linked blocks. See why miners use double hashing and where alternatives like SHA-3 might fit next.",
+      "date_published": "2025-10-05T04:01:00.0000000Z",
+      "date_modified": "2025-10-05T04:01:00.0000000Z"
+    },
+    {
+      "id": "https://pulsegeek.com/articles/oracle-pattern-in-smart-contracts-design-and-safety/",
+      "url": "https://pulsegeek.com/articles/oracle-pattern-in-smart-contracts-design-and-safety/",
+      "title": "Oracle Pattern in Smart Contracts: Design and Safety",
+      "content_text": "Learn how to implement the oracle pattern in smart contracts with secure design choices, staleness checks, and failure isolation. Compare push vs pull models and deploy a minimal Solidity oracle client safely.",
+      "date_published": "2025-10-05T04:00:00.0000000Z",
+      "date_modified": "2025-10-05T04:00:00.0000000Z"
+    },
+    {
+      "id": "https://pulsegeek.com/articles/ai-tools-for-teachers-planning-feedback-and-time-back/",
+      "url": "https://pulsegeek.com/articles/ai-tools-for-teachers-planning-feedback-and-time-back/",
+      "title": "AI Tools for Teachers: Planning, Feedback, and Time Back",
+      "content_text": "Explore practical AI tools for teachers that speed planning, improve feedback, streamline admin, and support diverse learners with clear steps, examples, and safeguards.",
+      "date_published": "2025-10-04T04:02:00.0000000Z",
+      "date_modified": "2025-10-04T04:02:00.0000000Z"
+    },
+    {
+      "id": "https://pulsegeek.com/articles/how-blockchain-transactions-work-from-input-to-block/",
+      "url": "https://pulsegeek.com/articles/how-blockchain-transactions-work-from-input-to-block/",
+      "title": "How Blockchain Transactions Work: From Input to Block",
+      "content_text": "Follow a practical path from inputs and signatures to hashes, mempool checks, Merkle trees, and headers. See how a blockchain transaction gets confirmed and linked into a block.",
+      "date_published": "2025-10-04T04:01:00.0000000Z",
+      "date_modified": "2025-10-04T04:01:00.0000000Z"
+    },
+    {
+      "id": "https://pulsegeek.com/articles/distributed-ledger-fundamentals-models-and-benefits/",
+      "url": "https://pulsegeek.com/articles/distributed-ledger-fundamentals-models-and-benefits/",
+      "title": "Distributed Ledger Fundamentals: Models and Benefits",
+      "content_text": "Learn how distributed ledgers work, compare core models like account, UTXO, and DAG, and understand consensus, finality, and real-world benefits for secure smart contract design.",
+      "date_published": "2025-10-04T04:00:00.0000000Z",
+      "date_modified": "2025-10-04T04:00:00.0000000Z"
+    },
+    {
+      "id": "https://pulsegeek.com/articles/ai-homework-help-ethical-effective-study-workflows/",
+      "url": "https://pulsegeek.com/articles/ai-homework-help-ethical-effective-study-workflows/",
+      "title": "AI Homework Help: Ethical, Effective Study Workflows",
+      "content_text": "Learn how to use AI homework help ethically and effectively. Build prompt patterns, citation habits, and feedback loops that strengthen understanding without crossing academic lines.",
+      "date_published": "2025-10-03T04:02:00.0000000Z",
+      "date_modified": "2025-10-03T04:02:00.0000000Z"
+    },
+    {
+      "id": "https://pulsegeek.com/articles/hash-pointers-the-simple-link-that-secures-a-ledger/",
+      "url": "https://pulsegeek.com/articles/hash-pointers-the-simple-link-that-secures-a-ledger/",
+      "title": "Hash Pointers: The Simple Link That Secures a Ledger",
+      "content_text": "Learn how hash pointers anchor integrity in blockchains, prevent undetected edits, and link blocks into a tamper-evident ledger. See properties, collision risks, and practical design tradeoffs.",
+      "date_published": "2025-10-03T04:01:00.0000000Z",
+      "date_modified": "2025-10-03T04:01:00.0000000Z"
+    },
+    {
+      "id": "https://pulsegeek.com/articles/build-a-decentralized-app-architecture-to-launch/",
+      "url": "https://pulsegeek.com/articles/build-a-decentralized-app-architecture-to-launch/",
+      "title": "Build a Decentralized App: Architecture to Launch",
+      "content_text": "Follow a practical path to plan, design, and ship a decentralized app. Learn contract patterns, oracle choices, wallet flows, testing, and secure deployment.",
+      "date_published": "2025-10-03T04:00:00.0000000Z",
+      "date_modified": "2025-10-03T04:00:00.0000000Z"
+    },
+    {
+      "id": "https://pulsegeek.com/articles/smart-contracts-explained-from-code-to-on-chain-trust/",
+      "url": "https://pulsegeek.com/articles/smart-contracts-explained-from-code-to-on-chain-trust/",
+      "title": "Smart Contracts Explained: From Code to On-Chain Trust",
+      "content_text": "Learn how smart contracts work, why they matter, and how to design, secure, and operate them from development through on-chain trust and real use cases.",
+      "date_published": "2025-09-05T23:00:00.0000000Z",
+      "date_modified": "2025-10-03T00:06:06.3808684Z"
     },
     {
       "id": "https://pulsegeek.com/articles/smart-contract-design-patterns-for-resilient-systems/",
       "url": "https://pulsegeek.com/articles/smart-contract-design-patterns-for-resilient-systems/",
       "title": "Smart Contract Design Patterns for Resilient Systems",
       "content_text": "Learn core smart contract design patterns that improve reliability, upgradeability, and safe oracle interaction, with examples, tradeoffs, and practical checklists.",
-      "date_published": "2025-10-02T04:00:00.0000000Z",
-      "date_modified": "2025-10-02T04:00:00.0000000Z"
+      "date_published": "2025-09-17T23:00:00.0000000Z",
+      "date_modified": "2025-10-03T00:06:06.3794474Z"
+    },
+    {
+      "id": "https://pulsegeek.com/articles/hash-functions-in-blockchains-properties-and-practice/",
+      "url": "https://pulsegeek.com/articles/hash-functions-in-blockchains-properties-and-practice/",
+      "title": "Hash Functions in Blockchains: Properties and Practice",
+      "content_text": "Learn how hash functions secure blockchains, from core properties and collision risks to Merkle trees, hash pointers, mining, and transaction IDs, with practical tips and pitfalls.",
+      "date_published": "2025-09-17T23:00:00.0000000Z",
+      "date_modified": "2025-10-03T00:06:06.3647424Z"
+    },
+    {
+      "id": "https://pulsegeek.com/articles/blockchain-vs-database-integrity-speed-and-control/",
+      "url": "https://pulsegeek.com/articles/blockchain-vs-database-integrity-speed-and-control/",
+      "title": "Blockchain vs Database: Integrity, Speed, and Control",
+      "content_text": "Compare a blockchain and a traditional database across integrity, speed, and control. Learn when tamper evidence beats mutability, how throughput differs, and what governance models fit your data.",
+      "date_published": "2025-09-17T23:00:00.0000000Z",
+      "date_modified": "2025-10-03T00:06:06.3600658Z"
+    },
+    {
+      "id": "https://pulsegeek.com/articles/best-ai-tools-for-students-classroom-to-career/",
+      "url": "https://pulsegeek.com/articles/best-ai-tools-for-students-classroom-to-career/",
+      "title": "Best AI Tools for Students: Classroom to Career",
+      "content_text": "Discover the best AI tools for students, how to choose and use them ethically, and classroom workflows that build career-ready skills. Compare chatbots and assistants, protect privacy, and plan responsible adoption.",
+      "date_published": "2025-09-17T23:00:00.0000000Z",
+      "date_modified": "2025-10-03T00:06:06.3584352Z"
+    },
+    {
+      "id": "https://pulsegeek.com/articles/ai-chatbot-vs-alternatives-picking-the-right-classroom-fit/",
+      "url": "https://pulsegeek.com/articles/ai-chatbot-vs-alternatives-picking-the-right-classroom-fit/",
+      "title": "AI Chatbot vs Alternatives: Picking the Right Classroom Fit",
+      "content_text": "Compare an AI chatbot with teacher tools like knowledge bases, search, tutor platforms, and rule-based bots to match classroom goals while managing cost, privacy, and equity.",
+      "date_published": "2025-09-17T23:00:00.0000000Z",
+      "date_modified": "2025-10-03T00:06:06.3559561Z"
     },
     {
       "id": "https://pulsegeek.com/articles/ai-assistant-vs-tutor-bots-choosing-for-your-course/",
@@ -35,7 +195,7 @@
       "title": "AI Assistant vs Tutor Bots: Choosing for Your Course",
       "content_text": "Compare ai assistant tools with tutor bots across pedagogy, accuracy, privacy, and cost. Learn when to choose each and how to implement them responsibly in your course.",
       "date_published": "2025-09-17T23:00:00.0000000Z",
-      "date_modified": "2025-10-02T01:39:22.2820185Z"
+      "date_modified": "2025-10-03T00:06:06.3555366Z"
     },
     {
       "id": "https://pulsegeek.com/articles/the-future-of-artificial-intelligence-in-education/",
@@ -150,14 +310,6 @@
       "date_modified": "2025-10-01T23:18:12.6938321Z"
     },
     {
-      "id": "https://pulsegeek.com/articles/smart-contracts-explained-from-code-to-on-chain-trust/",
-      "url": "https://pulsegeek.com/articles/smart-contracts-explained-from-code-to-on-chain-trust/",
-      "title": "Smart Contracts Explained: From Code to On-Chain Trust",
-      "content_text": "Learn how smart contracts work, why they matter, and how to design, secure, and operate them from development through on-chain trust and real use cases.",
-      "date_published": "2025-09-05T23:00:00.0000000Z",
-      "date_modified": "2025-10-01T23:18:12.6934034Z"
-    },
-    {
       "id": "https://pulsegeek.com/articles/smart-contract-lifecycle-plan-test-deploy-maintain/",
       "url": "https://pulsegeek.com/articles/smart-contract-lifecycle-plan-test-deploy-maintain/",
       "title": "Smart Contract Lifecycle: Plan, Test, Deploy, Maintain",
@@ -252,158 +404,6 @@
       "content_text": "Steal-ready image prompt templates for marketers. Craft brand-safe, scalable visuals with structured prompts, style controls, and testing tips.",
       "date_published": "2025-08-15T02:00:00.0000000Z",
       "date_modified": "2025-10-01T23:18:12.6849655Z"
-    },
-    {
-      "id": "https://pulsegeek.com/articles/ieee-2030-5-sep-for-der-integration-capabilities-security-and-utility-adoption/",
-      "url": "https://pulsegeek.com/articles/ieee-2030-5-sep-for-der-integration-capabilities-security-and-utility-adoption/",
-      "title": "IEEE 2030.5 SEP for DER Integration: Capabilities, Security, and Utility Adoption",
-      "content_text": "Understand IEEE 2030.5 SEP for DER integration, including capabilities, security, profiles like CSIP, and how utilities deploy it alongside IEC 61850 and CIM.",
-      "date_published": "2025-08-18T02:00:00.0000000Z",
-      "date_modified": "2025-10-01T23:18:12.6847675Z"
-    },
-    {
-      "id": "https://pulsegeek.com/articles/human-vs-automated-prompt-evaluation-cost-bias-and-speed-compared/",
-      "url": "https://pulsegeek.com/articles/human-vs-automated-prompt-evaluation-cost-bias-and-speed-compared/",
-      "title": "Human vs Automated Prompt Evaluation: Cost, Bias, and Speed Compared",
-      "content_text": "Compare human vs automated prompt evaluation across cost, bias, and speed. Learn when to use each and how to mix both effectively.",
-      "date_published": "2025-08-21T18:01:00.0000000Z",
-      "date_modified": "2025-10-01T23:18:12.6843330Z"
-    },
-    {
-      "id": "https://pulsegeek.com/articles/how-to-write-prompts-for-image-generation-subjects-styles-and-constraints/",
-      "url": "https://pulsegeek.com/articles/how-to-write-prompts-for-image-generation-subjects-styles-and-constraints/",
-      "title": "How to Write Prompts for Image Generation: Subjects, Styles, and Constraints",
-      "content_text": "Learn how to write prompts for image generation with clear subjects, consistent styles, and brand-safe constraints.",
-      "date_published": "2025-08-13T02:00:00.0000000Z",
-      "date_modified": "2025-10-01T23:18:12.6841453Z"
-    },
-    {
-      "id": "https://pulsegeek.com/articles/how-to-write-effective-prompts-from-role-hints-to-output-constraints/",
-      "url": "https://pulsegeek.com/articles/how-to-write-effective-prompts-from-role-hints-to-output-constraints/",
-      "title": "How to Write Effective Prompts: From Role Hints to Output Constraints",
-      "content_text": "Learn how to write effective prompts with role hints, boundaries, examples, and output constraints that improve accuracy and reliability.",
-      "date_published": "2025-08-25T02:00:00.0000000Z",
-      "date_modified": "2025-10-01T23:18:12.6839472Z"
-    },
-    {
-      "id": "https://pulsegeek.com/articles/how-to-set-inverter-based-resource-grid-support-functions-volt-var-freq-watt-ride-through/",
-      "url": "https://pulsegeek.com/articles/how-to-set-inverter-based-resource-grid-support-functions-volt-var-freq-watt-ride-through/",
-      "title": "How to Set Inverter-Based Resource Grid Support Functions (Volt/VAR, Freq\u2011Watt, Ride\u2011Through)",
-      "content_text": "Step-by-step guide to set inverter-based resource grid support functions with Volt/VAR, freq-watt, and ride-through, aligned to IEEE 1547 and utility profiles.",
-      "date_published": "2025-08-19T18:00:00.0000000Z",
-      "date_modified": "2025-10-01T23:18:12.6835636Z"
-    },
-    {
-      "id": "https://pulsegeek.com/articles/how-to-prompt-for-seo-content-outlines-entities-headers-and-internal-links/",
-      "url": "https://pulsegeek.com/articles/how-to-prompt-for-seo-content-outlines-entities-headers-and-internal-links/",
-      "title": "How to Prompt for SEO Content Outlines: Entities, Headers, and Internal Links",
-      "content_text": "Learn step-by-step prompts for SEO content outlines using entities, H2/H3 structure, and internal links with examples and QA tips.",
-      "date_published": "2025-08-27T18:01:00.0000000Z",
-      "date_modified": "2025-10-01T23:18:12.6833520Z"
-    },
-    {
-      "id": "https://pulsegeek.com/articles/how-to-prompt-for-code-generation-safely-constraints-tests-and-reviews/",
-      "url": "https://pulsegeek.com/articles/how-to-prompt-for-code-generation-safely-constraints-tests-and-reviews/",
-      "title": "How to Prompt for Code Generation Safely: Constraints, Tests, and Reviews",
-      "content_text": "Learn how to prompt for code generation safely using clear constraints, test-first prompts, and structured reviews with CI guardrails.",
-      "date_published": "2025-08-26T18:01:00.0000000Z",
-      "date_modified": "2025-10-01T23:18:12.6831546Z"
-    },
-    {
-      "id": "https://pulsegeek.com/articles/how-to-prompt-for-brand-consistent-visuals-palettes-props-and-negative-prompts/",
-      "url": "https://pulsegeek.com/articles/how-to-prompt-for-brand-consistent-visuals-palettes-props-and-negative-prompts/",
-      "title": "How to Prompt for Brand-Consistent Visuals: Palettes, Props, and Negative Prompts",
-      "content_text": "Learn how to prompt for brand-consistent visuals using palettes, signature props, and negative prompts, with testing workflows and governance tips.",
-      "date_published": "2025-08-11T02:00:00.0000000Z",
-      "date_modified": "2025-10-01T23:18:12.6829554Z"
-    },
-    {
-      "id": "https://pulsegeek.com/articles/how-to-perform-distribution-feeder-hosting-capacity-analysis/",
-      "url": "https://pulsegeek.com/articles/how-to-perform-distribution-feeder-hosting-capacity-analysis/",
-      "title": "How to Perform Distribution Feeder Hosting Capacity Analysis",
-      "content_text": "Step-by-step method to conduct distribution feeder hosting capacity analysis with realistic models, criteria, and mitigation planning.",
-      "date_published": "2025-08-18T18:00:00.0000000Z",
-      "date_modified": "2025-10-01T23:18:12.6825470Z"
-    },
-    {
-      "id": "https://pulsegeek.com/articles/how-to-integrate-drms-with-the-ami-headend-interfaces-events-and-testing/",
-      "url": "https://pulsegeek.com/articles/how-to-integrate-drms-with-the-ami-headend-interfaces-events-and-testing/",
-      "title": "How to Integrate DRMS with the AMI Headend: Interfaces, Events, and Testing",
-      "content_text": "Step-by-step guide to integrate DRMS with an AMI headend, map interfaces, model events, and run end-to-end testing.",
-      "date_published": "2025-08-10T18:00:00.0000000Z",
-      "date_modified": "2025-10-01T23:18:12.6823508Z"
-    },
-    {
-      "id": "https://pulsegeek.com/articles/how-to-implement-iec-61850-in-substations-profiles-scl-and-migration-steps/",
-      "url": "https://pulsegeek.com/articles/how-to-implement-iec-61850-in-substations-profiles-scl-and-migration-steps/",
-      "title": "How to Implement IEC 61850 in Substations: Profiles, SCL, and Migration Steps",
-      "content_text": "Step-by-step IEC 61850 substation implementation using profiles, SCL engineering, testing, and staged migration for interoperable protection and SCADA.",
-      "date_published": "2025-08-16T02:00:00.0000000Z",
-      "date_modified": "2025-10-01T23:18:12.6821307Z"
-    },
-    {
-      "id": "https://pulsegeek.com/articles/how-to-generate-feature-attribution-charts-that-inform/",
-      "url": "https://pulsegeek.com/articles/how-to-generate-feature-attribution-charts-that-inform/",
-      "title": "How to Generate Feature Attribution Charts That Inform",
-      "content_text": "Step-by-step guidance to compute, validate, and present feature attribution charts that stakeholders understand and trust.",
-      "date_published": "2025-08-25T18:02:00.0000000Z",
-      "date_modified": "2025-10-01T23:18:12.6819308Z"
-    },
-    {
-      "id": "https://pulsegeek.com/articles/how-to-design-utility-demand-response-programs-segments-incentives-and-measurement/",
-      "url": "https://pulsegeek.com/articles/how-to-design-utility-demand-response-programs-segments-incentives-and-measurement/",
-      "title": "How to Design Utility Demand Response Programs: Segments, Incentives, and Measurement",
-      "content_text": "Step-by-step demand response program design for utilities: segmenting customers, incentives, event rules, integration, and measurement.",
-      "date_published": "2025-08-07T18:00:00.0000000Z",
-      "date_modified": "2025-10-01T23:18:12.6816987Z"
-    },
-    {
-      "id": "https://pulsegeek.com/articles/how-to-build-load-forecasting-for-demand-response-optimization/",
-      "url": "https://pulsegeek.com/articles/how-to-build-load-forecasting-for-demand-response-optimization/",
-      "title": "How to Build Load Forecasting for Demand Response Optimization",
-      "content_text": "Step-by-step guide to build AMI-based load forecasting for demand response, from data prep to DRMS integration and operational playbooks.",
-      "date_published": "2025-08-04T18:00:00.0000000Z",
-      "date_modified": "2025-10-01T23:18:12.6810434Z"
-    },
-    {
-      "id": "https://pulsegeek.com/articles/how-to-build-an-ai-ethics-policy-that-scales/",
-      "url": "https://pulsegeek.com/articles/how-to-build-an-ai-ethics-policy-that-scales/",
-      "title": "How to Build an AI Ethics Policy That Scales",
-      "content_text": "Practical steps to design, govern, and operationalize an AI ethics policy that scales across teams, products, and regulations.",
-      "date_published": "2025-08-12T18:00:00.0000000Z",
-      "date_modified": "2025-10-01T23:18:12.6808121Z"
-    },
-    {
-      "id": "https://pulsegeek.com/articles/how-to-build-a-prompt-test-dataset-coverage-edge-cases-and-ground-truth/",
-      "url": "https://pulsegeek.com/articles/how-to-build-a-prompt-test-dataset-coverage-edge-cases-and-ground-truth/",
-      "title": "How to Build a Prompt Test Dataset: Coverage, Edge Cases, and Ground Truth",
-      "content_text": "Learn how to build a prompt test dataset with broad coverage, edge cases, and verifiable ground truth for reliable evaluation.",
-      "date_published": "2025-08-20T18:01:00.0000000Z",
-      "date_modified": "2025-10-01T23:18:12.6805565Z"
-    },
-    {
-      "id": "https://pulsegeek.com/articles/how-to-a-b-test-prompts-experiment-design-metrics-and-significance/",
-      "url": "https://pulsegeek.com/articles/how-to-a-b-test-prompts-experiment-design-metrics-and-significance/",
-      "title": "How to A/B Test Prompts: Experiment Design, Metrics, and Significance",
-      "content_text": "Learn how to A/B test prompts with solid experiment design, reliable metrics, and significance checks, plus tips to avoid common pitfalls.",
-      "date_published": "2025-08-19T18:01:00.0000000Z",
-      "date_modified": "2025-10-01T23:18:12.6803463Z"
-    },
-    {
-      "id": "https://pulsegeek.com/articles/few-shot-prompting-examples-reusable-patterns-for-better-outputs/",
-      "url": "https://pulsegeek.com/articles/few-shot-prompting-examples-reusable-patterns-for-better-outputs/",
-      "title": "Few-Shot Prompting Examples: Reusable Patterns for Better Outputs",
-      "content_text": "See practical few-shot prompting examples with reusable patterns, tips, and tradeoffs to improve accuracy and control across tasks.",
-      "date_published": "2025-08-23T02:00:00.0000000Z",
-      "date_modified": "2025-10-01T23:18:12.6790807Z"
-    },
-    {
-      "id": "https://pulsegeek.com/articles/fairness-metrics-in-ml-from-definitions-to-decisions/",
-      "url": "https://pulsegeek.com/articles/fairness-metrics-in-ml-from-definitions-to-decisions/",
-      "title": "Fairness Metrics in ML: From Definitions to Decisions",
-      "content_text": "Learn how fairness metrics in machine learning work, choose the right metric, mitigate bias, and connect metrics to responsible decisions.",
-      "date_published": "2025-08-17T18:02:00.0000000Z",
-      "date_modified": "2025-10-01T23:18:12.6788524Z"
     }
   ]
 }

@@ -6,27 +6,146 @@
     <description>Tech news, gaming, and geek culture in one pulse</description>
     <language>en-us</language>
     <generator>PulseGeek Rss Feed Generator</generator>
-    <lastBuildDate>Thu, 02 Oct 2025 04:02:00 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 08 Oct 2025 04:01:00 GMT</lastBuildDate>
     <atom:link href="https://pulsegeek.com/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Blockchain Transaction Trackers: Picking the Best Tool</title>
+      <link>https://pulsegeek.com/articles/blockchain-transaction-trackers-picking-the-best-tool/</link>
+      <guid isPermaLink="true">https://pulsegeek.com/articles/blockchain-transaction-trackers-picking-the-best-tool/</guid>
+      <pubDate>Wed, 08 Oct 2025 04:01:00 GMT</pubDate>
+      <description>Compare blockchain transaction trackers by data depth, proof models, UX, and privacy. Learn how Merkle and Patricia proofs back results and pick the right tool.</description>
+    </item>
+    <item>
+      <title>Blockchain Security: Threat Models, Tools, and Culture</title>
+      <link>https://pulsegeek.com/articles/blockchain-security-threat-models-tools-and-culture/</link>
+      <guid isPermaLink="true">https://pulsegeek.com/articles/blockchain-security-threat-models-tools-and-culture/</guid>
+      <pubDate>Wed, 08 Oct 2025 04:00:00 GMT</pubDate>
+      <description>Learn blockchain security from first principles. Map threat models, spot common vulnerabilities, run practical audits, and build a resilient engineering culture with the right tools.</description>
+    </item>
+    <item>
+      <title>Using an AI Virtual Assistant: Routines for Study and Teaching</title>
+      <link>https://pulsegeek.com/articles/using-an-ai-virtual-assistant-routines-for-study-and-teaching/</link>
+      <guid isPermaLink="true">https://pulsegeek.com/articles/using-an-ai-virtual-assistant-routines-for-study-and-teaching/</guid>
+      <pubDate>Tue, 07 Oct 2025 04:02:00 GMT</pubDate>
+      <description>Learn step by step routines to set up, prompt, and evaluate an AI virtual assistant for study sessions and teaching workflows, with templates, safeguards, and measurable outcomes.</description>
+    </item>
+    <item>
+      <title>Merkle Trees in Blockchains: Building Efficient Proofs</title>
+      <link>https://pulsegeek.com/articles/merkle-trees-in-blockchains-building-efficient-proofs/</link>
+      <guid isPermaLink="true">https://pulsegeek.com/articles/merkle-trees-in-blockchains-building-efficient-proofs/</guid>
+      <pubDate>Tue, 07 Oct 2025 04:01:00 GMT</pubDate>
+      <description>Learn how Merkle trees and Patricia tries enable efficient proofs, how inclusion checks work, and where headers anchor integrity for light clients and nodes.</description>
+    </item>
+    <item>
+      <title>What Does Permissionless Really Mean in Web3?</title>
+      <link>https://pulsegeek.com/articles/what-does-permissionless-really-mean-in-web3/</link>
+      <guid isPermaLink="true">https://pulsegeek.com/articles/what-does-permissionless-really-mean-in-web3/</guid>
+      <pubDate>Tue, 07 Oct 2025 04:00:00 GMT</pubDate>
+      <description>Explore what permissionless means in Web3, how open access affects safety, and which design patterns make trust-minimized contracts resilient without gatekeepers. Learn tradeoffs, examples, and practical safeguards.</description>
+    </item>
+    <item>
+      <title>Top AI-Powered Chatbots for Learning and Support</title>
+      <link>https://pulsegeek.com/articles/top-ai-powered-chatbots-for-learning-and-support/</link>
+      <guid isPermaLink="true">https://pulsegeek.com/articles/top-ai-powered-chatbots-for-learning-and-support/</guid>
+      <pubDate>Mon, 06 Oct 2025 04:02:00 GMT</pubDate>
+      <description>Explore AI-powered chatbot picks for tutoring, lesson planning, homework feedback, and classroom support. Compare strengths, privacy tradeoffs, and setup tips to match real learning goals.</description>
+    </item>
+    <item>
+      <title>Transaction Hash Explained: 7 Things You Should Know</title>
+      <link>https://pulsegeek.com/articles/transaction-hash-explained-7-things-you-should-know/</link>
+      <guid isPermaLink="true">https://pulsegeek.com/articles/transaction-hash-explained-7-things-you-should-know/</guid>
+      <pubDate>Mon, 06 Oct 2025 04:01:00 GMT</pubDate>
+      <description>Learn how a transaction hash works, why tiny input changes flip outputs, what collisions mean, how hashes link blocks, and how to verify one yourself.</description>
+    </item>
+    <item>
+      <title>Upgradeable Smart Contracts: Proxies, Storage, Safety</title>
+      <link>https://pulsegeek.com/articles/upgradeable-smart-contracts-proxies-storage-safety/</link>
+      <guid isPermaLink="true">https://pulsegeek.com/articles/upgradeable-smart-contracts-proxies-storage-safety/</guid>
+      <pubDate>Mon, 06 Oct 2025 04:00:00 GMT</pubDate>
+      <description>Learn how to design upgradeable smart contracts using proxies, map storage safely, and run guarded upgrades with scripts, tests, and role checks.</description>
+    </item>
+    <item>
+      <title>Conversational AI in Education: Use Cases and Limits</title>
+      <link>https://pulsegeek.com/articles/conversational-ai-in-education-use-cases-and-limits/</link>
+      <guid isPermaLink="true">https://pulsegeek.com/articles/conversational-ai-in-education-use-cases-and-limits/</guid>
+      <pubDate>Sun, 05 Oct 2025 04:02:00 GMT</pubDate>
+      <description>Learn how conversational AI supports tutoring, feedback, and planning in classrooms, with practical workflows, safety guardrails, and evaluation methods that reduce risk while improving learning outcomes.</description>
+    </item>
+    <item>
+      <title>SHA-256 in Blockchain: Why This Hash Still Matters</title>
+      <link>https://pulsegeek.com/articles/sha-256-in-blockchain-why-this-hash-still-matters/</link>
+      <guid isPermaLink="true">https://pulsegeek.com/articles/sha-256-in-blockchain-why-this-hash-still-matters/</guid>
+      <pubDate>Sun, 05 Oct 2025 04:01:00 GMT</pubDate>
+      <description>Learn how SHA-256 secures blockchains through preimage resistance, collision hardness, and hash-linked blocks. See why miners use double hashing and where alternatives like SHA-3 might fit next.</description>
+    </item>
+    <item>
+      <title>Oracle Pattern in Smart Contracts: Design and Safety</title>
+      <link>https://pulsegeek.com/articles/oracle-pattern-in-smart-contracts-design-and-safety/</link>
+      <guid isPermaLink="true">https://pulsegeek.com/articles/oracle-pattern-in-smart-contracts-design-and-safety/</guid>
+      <pubDate>Sun, 05 Oct 2025 04:00:00 GMT</pubDate>
+      <description>Learn how to implement the oracle pattern in smart contracts with secure design choices, staleness checks, and failure isolation. Compare push vs pull models and deploy a minimal Solidity oracle client safely.</description>
+    </item>
+    <item>
+      <title>AI Tools for Teachers: Planning, Feedback, and Time Back</title>
+      <link>https://pulsegeek.com/articles/ai-tools-for-teachers-planning-feedback-and-time-back/</link>
+      <guid isPermaLink="true">https://pulsegeek.com/articles/ai-tools-for-teachers-planning-feedback-and-time-back/</guid>
+      <pubDate>Sat, 04 Oct 2025 04:02:00 GMT</pubDate>
+      <description>Explore practical AI tools for teachers that speed planning, improve feedback, streamline admin, and support diverse learners with clear steps, examples, and safeguards.</description>
+    </item>
+    <item>
+      <title>How Blockchain Transactions Work: From Input to Block</title>
+      <link>https://pulsegeek.com/articles/how-blockchain-transactions-work-from-input-to-block/</link>
+      <guid isPermaLink="true">https://pulsegeek.com/articles/how-blockchain-transactions-work-from-input-to-block/</guid>
+      <pubDate>Sat, 04 Oct 2025 04:01:00 GMT</pubDate>
+      <description>Follow a practical path from inputs and signatures to hashes, mempool checks, Merkle trees, and headers. See how a blockchain transaction gets confirmed and linked into a block.</description>
+    </item>
+    <item>
+      <title>Distributed Ledger Fundamentals: Models and Benefits</title>
+      <link>https://pulsegeek.com/articles/distributed-ledger-fundamentals-models-and-benefits/</link>
+      <guid isPermaLink="true">https://pulsegeek.com/articles/distributed-ledger-fundamentals-models-and-benefits/</guid>
+      <pubDate>Sat, 04 Oct 2025 04:00:00 GMT</pubDate>
+      <description>Learn how distributed ledgers work, compare core models like account, UTXO, and DAG, and understand consensus, finality, and real-world benefits for secure smart contract design.</description>
+    </item>
+    <item>
+      <title>AI Homework Help: Ethical, Effective Study Workflows</title>
+      <link>https://pulsegeek.com/articles/ai-homework-help-ethical-effective-study-workflows/</link>
+      <guid isPermaLink="true">https://pulsegeek.com/articles/ai-homework-help-ethical-effective-study-workflows/</guid>
+      <pubDate>Fri, 03 Oct 2025 04:02:00 GMT</pubDate>
+      <description>Learn how to use AI homework help ethically and effectively. Build prompt patterns, citation habits, and feedback loops that strengthen understanding without crossing academic lines.</description>
+    </item>
+    <item>
+      <title>Hash Pointers: The Simple Link That Secures a Ledger</title>
+      <link>https://pulsegeek.com/articles/hash-pointers-the-simple-link-that-secures-a-ledger/</link>
+      <guid isPermaLink="true">https://pulsegeek.com/articles/hash-pointers-the-simple-link-that-secures-a-ledger/</guid>
+      <pubDate>Fri, 03 Oct 2025 04:01:00 GMT</pubDate>
+      <description>Learn how hash pointers anchor integrity in blockchains, prevent undetected edits, and link blocks into a tamper-evident ledger. See properties, collision risks, and practical design tradeoffs.</description>
+    </item>
+    <item>
+      <title>Build a Decentralized App: Architecture to Launch</title>
+      <link>https://pulsegeek.com/articles/build-a-decentralized-app-architecture-to-launch/</link>
+      <guid isPermaLink="true">https://pulsegeek.com/articles/build-a-decentralized-app-architecture-to-launch/</guid>
+      <pubDate>Fri, 03 Oct 2025 04:00:00 GMT</pubDate>
+      <description>Follow a practical path to plan, design, and ship a decentralized app. Learn contract patterns, oracle choices, wallet flows, testing, and secure deployment.</description>
+    </item>
     <item>
       <title>AI Chatbot vs Alternatives: Picking the Right Classroom Fit</title>
       <link>https://pulsegeek.com/articles/ai-chatbot-vs-alternatives-picking-the-right-classroom-fit/</link>
       <guid isPermaLink="true">https://pulsegeek.com/articles/ai-chatbot-vs-alternatives-picking-the-right-classroom-fit/</guid>
-      <pubDate>Thu, 02 Oct 2025 04:02:00 GMT</pubDate>
+      <pubDate>Wed, 17 Sep 2025 23:00:00 GMT</pubDate>
       <description>Compare an AI chatbot with teacher tools like knowledge bases, search, tutor platforms, and rule-based bots to match classroom goals while managing cost, privacy, and equity.</description>
     </item>
     <item>
       <title>Blockchain vs Database: Integrity, Speed, and Control</title>
       <link>https://pulsegeek.com/articles/blockchain-vs-database-integrity-speed-and-control/</link>
       <guid isPermaLink="true">https://pulsegeek.com/articles/blockchain-vs-database-integrity-speed-and-control/</guid>
-      <pubDate>Thu, 02 Oct 2025 04:01:00 GMT</pubDate>
+      <pubDate>Wed, 17 Sep 2025 23:00:00 GMT</pubDate>
       <description>Compare a blockchain and a traditional database across integrity, speed, and control. Learn when tamper evidence beats mutability, how throughput differs, and what governance models fit your data.</description>
     </item>
     <item>
       <title>Smart Contract Design Patterns for Resilient Systems</title>
       <link>https://pulsegeek.com/articles/smart-contract-design-patterns-for-resilient-systems/</link>
       <guid isPermaLink="true">https://pulsegeek.com/articles/smart-contract-design-patterns-for-resilient-systems/</guid>
-      <pubDate>Thu, 02 Oct 2025 04:00:00 GMT</pubDate>
+      <pubDate>Wed, 17 Sep 2025 23:00:00 GMT</pubDate>
       <description>Learn core smart contract design patterns that improve reliability, upgradeability, and safe oracle interaction, with examples, tradeoffs, and practical checklists.</description>
     </item>
     <item>
@@ -238,125 +357,6 @@
       <guid isPermaLink="true">https://pulsegeek.com/articles/artificial-intelligence-in-education-a-complete-guide/</guid>
       <pubDate>Wed, 10 Sep 2025 23:00:00 GMT</pubDate>
       <description>Learn what artificial intelligence in education means, where it adds value, how to reduce risks, and how to launch responsibly with governance, examples, and a practical roadmap.</description>
-    </item>
-    <item>
-      <title>Digital Signatures in Blockchain: Verify and Authorize</title>
-      <link>https://pulsegeek.com/articles/digital-signatures-in-blockchain-verify-and-authorize/</link>
-      <guid isPermaLink="true">https://pulsegeek.com/articles/digital-signatures-in-blockchain-verify-and-authorize/</guid>
-      <pubDate>Tue, 09 Sep 2025 23:00:00 GMT</pubDate>
-      <description>Learn how digital signatures in blockchain verify identity and authorize transactions, from key generation to secure storage, signature formats, verification flows, and risk controls.</description>
-    </item>
-    <item>
-      <title>Smart Contract Lifecycle: Plan, Test, Deploy, Maintain</title>
-      <link>https://pulsegeek.com/articles/smart-contract-lifecycle-plan-test-deploy-maintain/</link>
-      <guid isPermaLink="true">https://pulsegeek.com/articles/smart-contract-lifecycle-plan-test-deploy-maintain/</guid>
-      <pubDate>Mon, 08 Sep 2025 23:00:00 GMT</pubDate>
-      <description>Learn the smart contract lifecycle from planning and specification to secure design, development, testing, deployment, and maintenance, with pitfalls, patterns, and practical steps that reduce risk and improve on-chain reliability.</description>
-    </item>
-    <item>
-      <title>AI in Education: Adoption, Equity, and Practical Pathways</title>
-      <link>https://pulsegeek.com/articles/ai-in-education-adoption-equity-and-practical-pathways/</link>
-      <guid isPermaLink="true">https://pulsegeek.com/articles/ai-in-education-adoption-equity-and-practical-pathways/</guid>
-      <pubDate>Sun, 07 Sep 2025 23:00:00 GMT</pubDate>
-      <description>A strategic guide to AI in education that maps adoption choices, equity safeguards, and stepwise pathways from pilots to scale, with practical examples and governance frameworks.</description>
-    </item>
-    <item>
-      <title>Blockchain Cryptography: Core Hashes, Keys, and Proofs</title>
-      <link>https://pulsegeek.com/articles/blockchain-cryptography-core-hashes-keys-and-proofs/</link>
-      <guid isPermaLink="true">https://pulsegeek.com/articles/blockchain-cryptography-core-hashes-keys-and-proofs/</guid>
-      <pubDate>Sat, 06 Sep 2025 23:00:00 GMT</pubDate>
-      <description>Learn how blockchain cryptography works across hashes, keys, and proofs. Explore integrity, authorization, Merkle trees, zero-knowledge, and randomness to design secure, verifiable systems.</description>
-    </item>
-    <item>
-      <title>Smart Contracts Explained: From Code to On-Chain Trust</title>
-      <link>https://pulsegeek.com/articles/smart-contracts-explained-from-code-to-on-chain-trust/</link>
-      <guid isPermaLink="true">https://pulsegeek.com/articles/smart-contracts-explained-from-code-to-on-chain-trust/</guid>
-      <pubDate>Fri, 05 Sep 2025 23:00:00 GMT</pubDate>
-      <description>Learn how smart contracts work, why they matter, and how to design, secure, and operate them from development through on-chain trust and real use cases.</description>
-    </item>
-    <item>
-      <title>Key Questions to Ask During an AI Data Review</title>
-      <link>https://pulsegeek.com/articles/key-questions-to-ask-during-an-ai-data-review/</link>
-      <guid isPermaLink="true">https://pulsegeek.com/articles/key-questions-to-ask-during-an-ai-data-review/</guid>
-      <pubDate>Fri, 05 Sep 2025 18:00:00 GMT</pubDate>
-      <description>Use this question set to guide a thorough AI data review that safeguards consent, reduces bias, and strengthens traceability.</description>
-    </item>
-    <item>
-      <title>What Is Continuous Compliance for AI Systems Today?</title>
-      <link>https://pulsegeek.com/articles/what-is-continuous-compliance-for-ai-systems-today/</link>
-      <guid isPermaLink="true">https://pulsegeek.com/articles/what-is-continuous-compliance-for-ai-systems-today/</guid>
-      <pubDate>Wed, 03 Sep 2025 18:01:00 GMT</pubDate>
-      <description>Learn what continuous compliance for AI systems means, how it works day to day, and how to monitor, evidence, and improve it.</description>
-    </item>
-    <item>
-      <title>What Is Retrieval Augmented Generation Prompting? Context, Grounding, and Limits</title>
-      <link>https://pulsegeek.com/articles/what-is-retrieval-augmented-generation-prompting-context-grounding-and-limits/</link>
-      <guid isPermaLink="true">https://pulsegeek.com/articles/what-is-retrieval-augmented-generation-prompting-context-grounding-and-limits/</guid>
-      <pubDate>Wed, 03 Sep 2025 18:00:00 GMT</pubDate>
-      <description>Explore retrieval augmented generation prompting, how it grounds answers with context, where it breaks, and how to operationalize it safely.</description>
-    </item>
-    <item>
-      <title>Top Alerts and Dashboards for Fairness Monitoring</title>
-      <link>https://pulsegeek.com/articles/top-alerts-and-dashboards-for-fairness-monitoring/</link>
-      <guid isPermaLink="true">https://pulsegeek.com/articles/top-alerts-and-dashboards-for-fairness-monitoring/</guid>
-      <pubDate>Tue, 02 Sep 2025 18:01:00 GMT</pubDate>
-      <description>Explore actionable alert patterns and dashboard designs that keep AI fairness measurable, explainable, and responsive across production systems.</description>
-    </item>
-    <item>
-      <title>Orchestration Tools for Prompt Workflows: Features, Integrations, and Fit</title>
-      <link>https://pulsegeek.com/articles/orchestration-tools-for-prompt-workflows-features-integrations-and-fit/</link>
-      <guid isPermaLink="true">https://pulsegeek.com/articles/orchestration-tools-for-prompt-workflows-features-integrations-and-fit/</guid>
-      <pubDate>Tue, 02 Sep 2025 18:00:00 GMT</pubDate>
-      <description>Explore orchestration tools for prompt workflows, including governance, integrations, and evaluation practices to scale safe, consistent outputs.</description>
-    </item>
-    <item>
-      <title>Implementing Data Retention and Consent Controls</title>
-      <link>https://pulsegeek.com/articles/implementing-data-retention-and-consent-controls/</link>
-      <guid isPermaLink="true">https://pulsegeek.com/articles/implementing-data-retention-and-consent-controls/</guid>
-      <pubDate>Tue, 02 Sep 2025 18:00:00 GMT</pubDate>
-      <description>Practical steps to engineer data retention schedules, capture granular consent, and audit traceability across the AI lifecycle with clear governance.</description>
-    </item>
-    <item>
-      <title>Automatic Prompt Quality Metrics: From CoT Validity to Toxicity Screens</title>
-      <link>https://pulsegeek.com/articles/automatic-prompt-quality-metrics-from-cot-validity-to-toxicity-screens/</link>
-      <guid isPermaLink="true">https://pulsegeek.com/articles/automatic-prompt-quality-metrics-from-cot-validity-to-toxicity-screens/</guid>
-      <pubDate>Tue, 02 Sep 2025 02:00:00 GMT</pubDate>
-      <description>Learn automatic prompt quality metrics from chain-of-thought validity to toxicity screens, with examples, tradeoffs, and practical workflows.</description>
-    </item>
-    <item>
-      <title>Incident Response Playbook for Avoiding AI Harms</title>
-      <link>https://pulsegeek.com/articles/incident-response-playbook-for-avoiding-ai-harms/</link>
-      <guid isPermaLink="true">https://pulsegeek.com/articles/incident-response-playbook-for-avoiding-ai-harms/</guid>
-      <pubDate>Mon, 01 Sep 2025 18:01:00 GMT</pubDate>
-      <description>A practical incident response playbook for AI harms covering definitions, detection, triage, containment, remediation, and governance with tools and metrics.</description>
-    </item>
-    <item>
-      <title>How to Version and Document Prompts: Changelogs, Tests, and Readme Patterns</title>
-      <link>https://pulsegeek.com/articles/how-to-version-and-document-prompts-changelogs-tests-and-readme-patterns/</link>
-      <guid isPermaLink="true">https://pulsegeek.com/articles/how-to-version-and-document-prompts-changelogs-tests-and-readme-patterns/</guid>
-      <pubDate>Mon, 01 Sep 2025 18:00:00 GMT</pubDate>
-      <description>Learn how to version and document prompts with changelogs, tests, and READMEs. Build reliable, governed workflows that scale across teams.</description>
-    </item>
-    <item>
-      <title>AI Risk Assessment Template and Steps That Work</title>
-      <link>https://pulsegeek.com/articles/ai-risk-assessment-template-and-steps-that-work/</link>
-      <guid isPermaLink="true">https://pulsegeek.com/articles/ai-risk-assessment-template-and-steps-that-work/</guid>
-      <pubDate>Sun, 31 Aug 2025 18:01:00 GMT</pubDate>
-      <description>Use a practical AI risk assessment template with sequenced steps, monitoring, and response to keep systems fair, reliable, and compliant.</description>
-    </item>
-    <item>
-      <title>How to Create Reusable Prompt Libraries: Taxonomy, Metadata, and Access</title>
-      <link>https://pulsegeek.com/articles/how-to-create-reusable-prompt-libraries-taxonomy-metadata-and-access/</link>
-      <guid isPermaLink="true">https://pulsegeek.com/articles/how-to-create-reusable-prompt-libraries-taxonomy-metadata-and-access/</guid>
-      <pubDate>Sun, 31 Aug 2025 18:00:00 GMT</pubDate>
-      <description>Build reusable prompt libraries with clear taxonomy, rich metadata, and governed access to scale consistency and safety across teams.</description>
-    </item>
-    <item>
-      <title>Prompt Evaluation Rubric Examples: Scoring Criteria, Test Sets, and A/B Methods</title>
-      <link>https://pulsegeek.com/articles/prompt-evaluation-rubric-examples-scoring-criteria-test-sets-and-a-b-methods/</link>
-      <guid isPermaLink="true">https://pulsegeek.com/articles/prompt-evaluation-rubric-examples-scoring-criteria-test-sets-and-a-b-methods/</guid>
-      <pubDate>Sun, 31 Aug 2025 02:00:00 GMT</pubDate>
-      <description>Learn practical prompt evaluation rubric examples, scoring criteria, test sets, and A/B methods with balanced human and automated review.</description>
     </item>
   </channel>
 </rss>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>PulseGeek</title>
   <id>https://pulsegeek.com/atom.xml</id>
-  <updated>2025-10-02T04:02:00Z</updated>
+  <updated>2025-10-08T04:01:00Z</updated>
   <link href="https://pulsegeek.com/atom.xml" rel="self" type="application/atom+xml" />
   <link href="https://pulsegeek.com" />
   <author>
@@ -10,38 +10,157 @@
   </author>
   <subtitle>Tech news, gaming, and geek culture in one pulse</subtitle>
   <entry>
+    <title>Blockchain Transaction Trackers: Picking the Best Tool</title>
+    <id>https://pulsegeek.com/articles/blockchain-transaction-trackers-picking-the-best-tool/</id>
+    <link href="https://pulsegeek.com/articles/blockchain-transaction-trackers-picking-the-best-tool/" />
+    <updated>2025-10-08T04:01:00Z</updated>
+    <summary type="html"><![CDATA[Compare blockchain transaction trackers by data depth, proof models, UX, and privacy. Learn how Merkle and Patricia proofs back results and pick the right tool.]]></summary>
+  </entry>
+  <entry>
+    <title>Blockchain Security: Threat Models, Tools, and Culture</title>
+    <id>https://pulsegeek.com/articles/blockchain-security-threat-models-tools-and-culture/</id>
+    <link href="https://pulsegeek.com/articles/blockchain-security-threat-models-tools-and-culture/" />
+    <updated>2025-10-08T04:00:00Z</updated>
+    <summary type="html"><![CDATA[Learn blockchain security from first principles. Map threat models, spot common vulnerabilities, run practical audits, and build a resilient engineering culture with the right tools.]]></summary>
+  </entry>
+  <entry>
+    <title>Using an AI Virtual Assistant: Routines for Study and Teaching</title>
+    <id>https://pulsegeek.com/articles/using-an-ai-virtual-assistant-routines-for-study-and-teaching/</id>
+    <link href="https://pulsegeek.com/articles/using-an-ai-virtual-assistant-routines-for-study-and-teaching/" />
+    <updated>2025-10-07T04:02:00Z</updated>
+    <summary type="html"><![CDATA[Learn step by step routines to set up, prompt, and evaluate an AI virtual assistant for study sessions and teaching workflows, with templates, safeguards, and measurable outcomes.]]></summary>
+  </entry>
+  <entry>
+    <title>Merkle Trees in Blockchains: Building Efficient Proofs</title>
+    <id>https://pulsegeek.com/articles/merkle-trees-in-blockchains-building-efficient-proofs/</id>
+    <link href="https://pulsegeek.com/articles/merkle-trees-in-blockchains-building-efficient-proofs/" />
+    <updated>2025-10-07T04:01:00Z</updated>
+    <summary type="html"><![CDATA[Learn how Merkle trees and Patricia tries enable efficient proofs, how inclusion checks work, and where headers anchor integrity for light clients and nodes.]]></summary>
+  </entry>
+  <entry>
+    <title>What Does Permissionless Really Mean in Web3?</title>
+    <id>https://pulsegeek.com/articles/what-does-permissionless-really-mean-in-web3/</id>
+    <link href="https://pulsegeek.com/articles/what-does-permissionless-really-mean-in-web3/" />
+    <updated>2025-10-07T04:00:00Z</updated>
+    <summary type="html"><![CDATA[Explore what permissionless means in Web3, how open access affects safety, and which design patterns make trust-minimized contracts resilient without gatekeepers. Learn tradeoffs, examples, and practical safeguards.]]></summary>
+  </entry>
+  <entry>
+    <title>Top AI-Powered Chatbots for Learning and Support</title>
+    <id>https://pulsegeek.com/articles/top-ai-powered-chatbots-for-learning-and-support/</id>
+    <link href="https://pulsegeek.com/articles/top-ai-powered-chatbots-for-learning-and-support/" />
+    <updated>2025-10-06T04:02:00Z</updated>
+    <summary type="html"><![CDATA[Explore AI-powered chatbot picks for tutoring, lesson planning, homework feedback, and classroom support. Compare strengths, privacy tradeoffs, and setup tips to match real learning goals.]]></summary>
+  </entry>
+  <entry>
+    <title>Transaction Hash Explained: 7 Things You Should Know</title>
+    <id>https://pulsegeek.com/articles/transaction-hash-explained-7-things-you-should-know/</id>
+    <link href="https://pulsegeek.com/articles/transaction-hash-explained-7-things-you-should-know/" />
+    <updated>2025-10-06T04:01:00Z</updated>
+    <summary type="html"><![CDATA[Learn how a transaction hash works, why tiny input changes flip outputs, what collisions mean, how hashes link blocks, and how to verify one yourself.]]></summary>
+  </entry>
+  <entry>
+    <title>Upgradeable Smart Contracts: Proxies, Storage, Safety</title>
+    <id>https://pulsegeek.com/articles/upgradeable-smart-contracts-proxies-storage-safety/</id>
+    <link href="https://pulsegeek.com/articles/upgradeable-smart-contracts-proxies-storage-safety/" />
+    <updated>2025-10-06T04:00:00Z</updated>
+    <summary type="html"><![CDATA[Learn how to design upgradeable smart contracts using proxies, map storage safely, and run guarded upgrades with scripts, tests, and role checks.]]></summary>
+  </entry>
+  <entry>
+    <title>Conversational AI in Education: Use Cases and Limits</title>
+    <id>https://pulsegeek.com/articles/conversational-ai-in-education-use-cases-and-limits/</id>
+    <link href="https://pulsegeek.com/articles/conversational-ai-in-education-use-cases-and-limits/" />
+    <updated>2025-10-05T04:02:00Z</updated>
+    <summary type="html"><![CDATA[Learn how conversational AI supports tutoring, feedback, and planning in classrooms, with practical workflows, safety guardrails, and evaluation methods that reduce risk while improving learning outcomes.]]></summary>
+  </entry>
+  <entry>
+    <title>SHA-256 in Blockchain: Why This Hash Still Matters</title>
+    <id>https://pulsegeek.com/articles/sha-256-in-blockchain-why-this-hash-still-matters/</id>
+    <link href="https://pulsegeek.com/articles/sha-256-in-blockchain-why-this-hash-still-matters/" />
+    <updated>2025-10-05T04:01:00Z</updated>
+    <summary type="html"><![CDATA[Learn how SHA-256 secures blockchains through preimage resistance, collision hardness, and hash-linked blocks. See why miners use double hashing and where alternatives like SHA-3 might fit next.]]></summary>
+  </entry>
+  <entry>
+    <title>Oracle Pattern in Smart Contracts: Design and Safety</title>
+    <id>https://pulsegeek.com/articles/oracle-pattern-in-smart-contracts-design-and-safety/</id>
+    <link href="https://pulsegeek.com/articles/oracle-pattern-in-smart-contracts-design-and-safety/" />
+    <updated>2025-10-05T04:00:00Z</updated>
+    <summary type="html"><![CDATA[Learn how to implement the oracle pattern in smart contracts with secure design choices, staleness checks, and failure isolation. Compare push vs pull models and deploy a minimal Solidity oracle client safely.]]></summary>
+  </entry>
+  <entry>
+    <title>AI Tools for Teachers: Planning, Feedback, and Time Back</title>
+    <id>https://pulsegeek.com/articles/ai-tools-for-teachers-planning-feedback-and-time-back/</id>
+    <link href="https://pulsegeek.com/articles/ai-tools-for-teachers-planning-feedback-and-time-back/" />
+    <updated>2025-10-04T04:02:00Z</updated>
+    <summary type="html"><![CDATA[Explore practical AI tools for teachers that speed planning, improve feedback, streamline admin, and support diverse learners with clear steps, examples, and safeguards.]]></summary>
+  </entry>
+  <entry>
+    <title>How Blockchain Transactions Work: From Input to Block</title>
+    <id>https://pulsegeek.com/articles/how-blockchain-transactions-work-from-input-to-block/</id>
+    <link href="https://pulsegeek.com/articles/how-blockchain-transactions-work-from-input-to-block/" />
+    <updated>2025-10-04T04:01:00Z</updated>
+    <summary type="html"><![CDATA[Follow a practical path from inputs and signatures to hashes, mempool checks, Merkle trees, and headers. See how a blockchain transaction gets confirmed and linked into a block.]]></summary>
+  </entry>
+  <entry>
+    <title>Distributed Ledger Fundamentals: Models and Benefits</title>
+    <id>https://pulsegeek.com/articles/distributed-ledger-fundamentals-models-and-benefits/</id>
+    <link href="https://pulsegeek.com/articles/distributed-ledger-fundamentals-models-and-benefits/" />
+    <updated>2025-10-04T04:00:00Z</updated>
+    <summary type="html"><![CDATA[Learn how distributed ledgers work, compare core models like account, UTXO, and DAG, and understand consensus, finality, and real-world benefits for secure smart contract design.]]></summary>
+  </entry>
+  <entry>
+    <title>AI Homework Help: Ethical, Effective Study Workflows</title>
+    <id>https://pulsegeek.com/articles/ai-homework-help-ethical-effective-study-workflows/</id>
+    <link href="https://pulsegeek.com/articles/ai-homework-help-ethical-effective-study-workflows/" />
+    <updated>2025-10-03T04:02:00Z</updated>
+    <summary type="html"><![CDATA[Learn how to use AI homework help ethically and effectively. Build prompt patterns, citation habits, and feedback loops that strengthen understanding without crossing academic lines.]]></summary>
+  </entry>
+  <entry>
+    <title>Hash Pointers: The Simple Link That Secures a Ledger</title>
+    <id>https://pulsegeek.com/articles/hash-pointers-the-simple-link-that-secures-a-ledger/</id>
+    <link href="https://pulsegeek.com/articles/hash-pointers-the-simple-link-that-secures-a-ledger/" />
+    <updated>2025-10-03T04:01:00Z</updated>
+    <summary type="html"><![CDATA[Learn how hash pointers anchor integrity in blockchains, prevent undetected edits, and link blocks into a tamper-evident ledger. See properties, collision risks, and practical design tradeoffs.]]></summary>
+  </entry>
+  <entry>
+    <title>Build a Decentralized App: Architecture to Launch</title>
+    <id>https://pulsegeek.com/articles/build-a-decentralized-app-architecture-to-launch/</id>
+    <link href="https://pulsegeek.com/articles/build-a-decentralized-app-architecture-to-launch/" />
+    <updated>2025-10-03T04:00:00Z</updated>
+    <summary type="html"><![CDATA[Follow a practical path to plan, design, and ship a decentralized app. Learn contract patterns, oracle choices, wallet flows, testing, and secure deployment.]]></summary>
+  </entry>
+  <entry>
     <title>AI Chatbot vs Alternatives: Picking the Right Classroom Fit</title>
     <id>https://pulsegeek.com/articles/ai-chatbot-vs-alternatives-picking-the-right-classroom-fit/</id>
     <link href="https://pulsegeek.com/articles/ai-chatbot-vs-alternatives-picking-the-right-classroom-fit/" />
-    <updated>2025-10-02T04:02:00Z</updated>
+    <updated>2025-10-03T00:06:06Z</updated>
     <summary type="html"><![CDATA[Compare an AI chatbot with teacher tools like knowledge bases, search, tutor platforms, and rule-based bots to match classroom goals while managing cost, privacy, and equity.]]></summary>
   </entry>
   <entry>
     <title>Blockchain vs Database: Integrity, Speed, and Control</title>
     <id>https://pulsegeek.com/articles/blockchain-vs-database-integrity-speed-and-control/</id>
     <link href="https://pulsegeek.com/articles/blockchain-vs-database-integrity-speed-and-control/" />
-    <updated>2025-10-02T04:01:00Z</updated>
+    <updated>2025-10-03T00:06:06Z</updated>
     <summary type="html"><![CDATA[Compare a blockchain and a traditional database across integrity, speed, and control. Learn when tamper evidence beats mutability, how throughput differs, and what governance models fit your data.]]></summary>
   </entry>
   <entry>
     <title>Smart Contract Design Patterns for Resilient Systems</title>
     <id>https://pulsegeek.com/articles/smart-contract-design-patterns-for-resilient-systems/</id>
     <link href="https://pulsegeek.com/articles/smart-contract-design-patterns-for-resilient-systems/" />
-    <updated>2025-10-02T04:00:00Z</updated>
+    <updated>2025-10-03T00:06:06Z</updated>
     <summary type="html"><![CDATA[Learn core smart contract design patterns that improve reliability, upgradeability, and safe oracle interaction, with examples, tradeoffs, and practical checklists.]]></summary>
   </entry>
   <entry>
     <title>AI Assistant vs Tutor Bots: Choosing for Your Course</title>
     <id>https://pulsegeek.com/articles/ai-assistant-vs-tutor-bots-choosing-for-your-course/</id>
     <link href="https://pulsegeek.com/articles/ai-assistant-vs-tutor-bots-choosing-for-your-course/" />
-    <updated>2025-10-02T01:39:22Z</updated>
+    <updated>2025-10-03T00:06:06Z</updated>
     <summary type="html"><![CDATA[Compare ai assistant tools with tutor bots across pedagogy, accuracy, privacy, and cost. Learn when to choose each and how to implement them responsibly in your course.]]></summary>
   </entry>
   <entry>
     <title>Hash Functions in Blockchains: Properties and Practice</title>
     <id>https://pulsegeek.com/articles/hash-functions-in-blockchains-properties-and-practice/</id>
     <link href="https://pulsegeek.com/articles/hash-functions-in-blockchains-properties-and-practice/" />
-    <updated>2025-10-01T22:54:30Z</updated>
+    <updated>2025-10-03T00:06:06Z</updated>
     <summary type="html"><![CDATA[Learn how hash functions secure blockchains, from core properties and collision risks to Merkle trees, hash pointers, mining, and transaction IDs, with practical tips and pitfalls.]]></summary>
   </entry>
   <entry>
@@ -55,7 +174,7 @@
     <title>Best AI Tools for Students: Classroom to Career</title>
     <id>https://pulsegeek.com/articles/best-ai-tools-for-students-classroom-to-career/</id>
     <link href="https://pulsegeek.com/articles/best-ai-tools-for-students-classroom-to-career/" />
-    <updated>2025-10-01T22:54:30Z</updated>
+    <updated>2025-10-03T00:06:06Z</updated>
     <summary type="html"><![CDATA[Discover the best AI tools for students, how to choose and use them ethically, and classroom workflows that build career-ready skills. Compare chatbots and assistants, protect privacy, and plan responsible adoption.]]></summary>
   </entry>
   <entry>
@@ -239,124 +358,5 @@
     <link href="https://pulsegeek.com/articles/artificial-intelligence-in-education-a-complete-guide/" />
     <updated>2025-10-01T22:54:30Z</updated>
     <summary type="html"><![CDATA[Learn what artificial intelligence in education means, where it adds value, how to reduce risks, and how to launch responsibly with governance, examples, and a practical roadmap.]]></summary>
-  </entry>
-  <entry>
-    <title>Digital Signatures in Blockchain: Verify and Authorize</title>
-    <id>https://pulsegeek.com/articles/digital-signatures-in-blockchain-verify-and-authorize/</id>
-    <link href="https://pulsegeek.com/articles/digital-signatures-in-blockchain-verify-and-authorize/" />
-    <updated>2025-10-01T23:18:12Z</updated>
-    <summary type="html"><![CDATA[Learn how digital signatures in blockchain verify identity and authorize transactions, from key generation to secure storage, signature formats, verification flows, and risk controls.]]></summary>
-  </entry>
-  <entry>
-    <title>Smart Contract Lifecycle: Plan, Test, Deploy, Maintain</title>
-    <id>https://pulsegeek.com/articles/smart-contract-lifecycle-plan-test-deploy-maintain/</id>
-    <link href="https://pulsegeek.com/articles/smart-contract-lifecycle-plan-test-deploy-maintain/" />
-    <updated>2025-10-01T23:18:12Z</updated>
-    <summary type="html"><![CDATA[Learn the smart contract lifecycle from planning and specification to secure design, development, testing, deployment, and maintenance, with pitfalls, patterns, and practical steps that reduce risk and improve on-chain reliability.]]></summary>
-  </entry>
-  <entry>
-    <title>AI in Education: Adoption, Equity, and Practical Pathways</title>
-    <id>https://pulsegeek.com/articles/ai-in-education-adoption-equity-and-practical-pathways/</id>
-    <link href="https://pulsegeek.com/articles/ai-in-education-adoption-equity-and-practical-pathways/" />
-    <updated>2025-10-01T23:18:12Z</updated>
-    <summary type="html"><![CDATA[A strategic guide to AI in education that maps adoption choices, equity safeguards, and stepwise pathways from pilots to scale, with practical examples and governance frameworks.]]></summary>
-  </entry>
-  <entry>
-    <title>Blockchain Cryptography: Core Hashes, Keys, and Proofs</title>
-    <id>https://pulsegeek.com/articles/blockchain-cryptography-core-hashes-keys-and-proofs/</id>
-    <link href="https://pulsegeek.com/articles/blockchain-cryptography-core-hashes-keys-and-proofs/" />
-    <updated>2025-10-01T23:18:12Z</updated>
-    <summary type="html"><![CDATA[Learn how blockchain cryptography works across hashes, keys, and proofs. Explore integrity, authorization, Merkle trees, zero-knowledge, and randomness to design secure, verifiable systems.]]></summary>
-  </entry>
-  <entry>
-    <title>Smart Contracts Explained: From Code to On-Chain Trust</title>
-    <id>https://pulsegeek.com/articles/smart-contracts-explained-from-code-to-on-chain-trust/</id>
-    <link href="https://pulsegeek.com/articles/smart-contracts-explained-from-code-to-on-chain-trust/" />
-    <updated>2025-10-01T23:18:12Z</updated>
-    <summary type="html"><![CDATA[Learn how smart contracts work, why they matter, and how to design, secure, and operate them from development through on-chain trust and real use cases.]]></summary>
-  </entry>
-  <entry>
-    <title>Key Questions to Ask During an AI Data Review</title>
-    <id>https://pulsegeek.com/articles/key-questions-to-ask-during-an-ai-data-review/</id>
-    <link href="https://pulsegeek.com/articles/key-questions-to-ask-during-an-ai-data-review/" />
-    <updated>2025-10-01T22:54:30Z</updated>
-    <summary type="html"><![CDATA[Use this question set to guide a thorough AI data review that safeguards consent, reduces bias, and strengthens traceability.]]></summary>
-  </entry>
-  <entry>
-    <title>What Is Continuous Compliance for AI Systems Today?</title>
-    <id>https://pulsegeek.com/articles/what-is-continuous-compliance-for-ai-systems-today/</id>
-    <link href="https://pulsegeek.com/articles/what-is-continuous-compliance-for-ai-systems-today/" />
-    <updated>2025-10-01T22:54:30Z</updated>
-    <summary type="html"><![CDATA[Learn what continuous compliance for AI systems means, how it works day to day, and how to monitor, evidence, and improve it.]]></summary>
-  </entry>
-  <entry>
-    <title>What Is Retrieval Augmented Generation Prompting? Context, Grounding, and Limits</title>
-    <id>https://pulsegeek.com/articles/what-is-retrieval-augmented-generation-prompting-context-grounding-and-limits/</id>
-    <link href="https://pulsegeek.com/articles/what-is-retrieval-augmented-generation-prompting-context-grounding-and-limits/" />
-    <updated>2025-10-01T22:54:30Z</updated>
-    <summary type="html"><![CDATA[Explore retrieval augmented generation prompting, how it grounds answers with context, where it breaks, and how to operationalize it safely.]]></summary>
-  </entry>
-  <entry>
-    <title>Top Alerts and Dashboards for Fairness Monitoring</title>
-    <id>https://pulsegeek.com/articles/top-alerts-and-dashboards-for-fairness-monitoring/</id>
-    <link href="https://pulsegeek.com/articles/top-alerts-and-dashboards-for-fairness-monitoring/" />
-    <updated>2025-10-01T22:54:30Z</updated>
-    <summary type="html"><![CDATA[Explore actionable alert patterns and dashboard designs that keep AI fairness measurable, explainable, and responsive across production systems.]]></summary>
-  </entry>
-  <entry>
-    <title>Orchestration Tools for Prompt Workflows: Features, Integrations, and Fit</title>
-    <id>https://pulsegeek.com/articles/orchestration-tools-for-prompt-workflows-features-integrations-and-fit/</id>
-    <link href="https://pulsegeek.com/articles/orchestration-tools-for-prompt-workflows-features-integrations-and-fit/" />
-    <updated>2025-10-01T22:54:30Z</updated>
-    <summary type="html"><![CDATA[Explore orchestration tools for prompt workflows, including governance, integrations, and evaluation practices to scale safe, consistent outputs.]]></summary>
-  </entry>
-  <entry>
-    <title>Implementing Data Retention and Consent Controls</title>
-    <id>https://pulsegeek.com/articles/implementing-data-retention-and-consent-controls/</id>
-    <link href="https://pulsegeek.com/articles/implementing-data-retention-and-consent-controls/" />
-    <updated>2025-10-01T22:54:30Z</updated>
-    <summary type="html"><![CDATA[Practical steps to engineer data retention schedules, capture granular consent, and audit traceability across the AI lifecycle with clear governance.]]></summary>
-  </entry>
-  <entry>
-    <title>Automatic Prompt Quality Metrics: From CoT Validity to Toxicity Screens</title>
-    <id>https://pulsegeek.com/articles/automatic-prompt-quality-metrics-from-cot-validity-to-toxicity-screens/</id>
-    <link href="https://pulsegeek.com/articles/automatic-prompt-quality-metrics-from-cot-validity-to-toxicity-screens/" />
-    <updated>2025-10-01T22:54:30Z</updated>
-    <summary type="html"><![CDATA[Learn automatic prompt quality metrics from chain-of-thought validity to toxicity screens, with examples, tradeoffs, and practical workflows.]]></summary>
-  </entry>
-  <entry>
-    <title>Incident Response Playbook for Avoiding AI Harms</title>
-    <id>https://pulsegeek.com/articles/incident-response-playbook-for-avoiding-ai-harms/</id>
-    <link href="https://pulsegeek.com/articles/incident-response-playbook-for-avoiding-ai-harms/" />
-    <updated>2025-10-01T22:54:30Z</updated>
-    <summary type="html"><![CDATA[A practical incident response playbook for AI harms covering definitions, detection, triage, containment, remediation, and governance with tools and metrics.]]></summary>
-  </entry>
-  <entry>
-    <title>How to Version and Document Prompts: Changelogs, Tests, and Readme Patterns</title>
-    <id>https://pulsegeek.com/articles/how-to-version-and-document-prompts-changelogs-tests-and-readme-patterns/</id>
-    <link href="https://pulsegeek.com/articles/how-to-version-and-document-prompts-changelogs-tests-and-readme-patterns/" />
-    <updated>2025-10-01T22:54:30Z</updated>
-    <summary type="html"><![CDATA[Learn how to version and document prompts with changelogs, tests, and READMEs. Build reliable, governed workflows that scale across teams.]]></summary>
-  </entry>
-  <entry>
-    <title>AI Risk Assessment Template and Steps That Work</title>
-    <id>https://pulsegeek.com/articles/ai-risk-assessment-template-and-steps-that-work/</id>
-    <link href="https://pulsegeek.com/articles/ai-risk-assessment-template-and-steps-that-work/" />
-    <updated>2025-10-01T22:54:30Z</updated>
-    <summary type="html"><![CDATA[Use a practical AI risk assessment template with sequenced steps, monitoring, and response to keep systems fair, reliable, and compliant.]]></summary>
-  </entry>
-  <entry>
-    <title>How to Create Reusable Prompt Libraries: Taxonomy, Metadata, and Access</title>
-    <id>https://pulsegeek.com/articles/how-to-create-reusable-prompt-libraries-taxonomy-metadata-and-access/</id>
-    <link href="https://pulsegeek.com/articles/how-to-create-reusable-prompt-libraries-taxonomy-metadata-and-access/" />
-    <updated>2025-10-01T22:54:30Z</updated>
-    <summary type="html"><![CDATA[Build reusable prompt libraries with clear taxonomy, rich metadata, and governed access to scale consistency and safety across teams.]]></summary>
-  </entry>
-  <entry>
-    <title>Prompt Evaluation Rubric Examples: Scoring Criteria, Test Sets, and A/B Methods</title>
-    <id>https://pulsegeek.com/articles/prompt-evaluation-rubric-examples-scoring-criteria-test-sets-and-a-b-methods/</id>
-    <link href="https://pulsegeek.com/articles/prompt-evaluation-rubric-examples-scoring-criteria-test-sets-and-a-b-methods/" />
-    <updated>2025-10-01T22:54:30Z</updated>
-    <summary type="html"><![CDATA[Learn practical prompt evaluation rubric examples, scoring criteria, test sets, and A/B methods with balanced human and automated review.]]></summary>
   </entry>
 </feed>
