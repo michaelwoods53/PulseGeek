@@ -6,8 +6,85 @@
     <description>Tech news, gaming, and geek culture in one pulse</description>
     <language>en-us</language>
     <generator>PulseGeek Rss Feed Generator</generator>
-    <lastBuildDate>Fri, 10 Oct 2025 06:17:13 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 12 Oct 2025 23:29:07 GMT</lastBuildDate>
     <atom:link href="https://pulsegeek.com/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>25 High-Value Uses of AI in Business You Can Start</title>
+      <link>https://pulsegeek.com/articles/25-high-value-uses-of-ai-in-business-you-can-start/</link>
+      <guid isPermaLink="true">https://pulsegeek.com/articles/25-high-value-uses-of-ai-in-business-you-can-start/</guid>
+      <pubDate>Wed, 17 Sep 2025 23:00:00 GMT</pubDate>
+      <description>Discover 25 practical uses of AI in business with clear impact, integration tips, and pitfalls to avoid. Start fast with low-risk pilots that scale across operations and functions.</description>
+    </item>
+    <item>
+      <title>AI in Finance and Accounting: 14 Workflows to Automate</title>
+      <link>https://pulsegeek.com/articles/ai-in-finance-and-accounting-14-workflows-to-automate/</link>
+      <guid isPermaLink="true">https://pulsegeek.com/articles/ai-in-finance-and-accounting-14-workflows-to-automate/</guid>
+      <pubDate>Fri, 10 Oct 2025 04:02:00 GMT</pubDate>
+      <description>Discover 14 finance and accounting workflows you can automate with AI, from invoices and expenses to reconciliations and dashboards, with controls and audit readiness built in.</description>
+    </item>
+    <item>
+      <title>Artificial Intelligence Applications for Schools Explained</title>
+      <link>https://pulsegeek.com/articles/artificial-intelligence-applications-for-schools-explained/</link>
+      <guid isPermaLink="true">https://pulsegeek.com/articles/artificial-intelligence-applications-for-schools-explained/</guid>
+      <pubDate>Wed, 17 Sep 2025 23:00:00 GMT</pubDate>
+      <description>Explore artificial intelligence applications in schools with practical examples, privacy safeguards, and governance frameworks. Learn how to pilot, evaluate, and scale responsibly while aligning tools to curriculum and student wellbeing.</description>
+    </item>
+    <item>
+      <title>Merkle Proof Explained: 8 Steps to Trust Minimalism</title>
+      <link>https://pulsegeek.com/articles/merkle-proof-explained-8-steps-to-trust-minimalism/</link>
+      <guid isPermaLink="true">https://pulsegeek.com/articles/merkle-proof-explained-8-steps-to-trust-minimalism/</guid>
+      <pubDate>Wed, 17 Sep 2025 23:00:00 GMT</pubDate>
+      <description>Learn how a Merkle proof works in eight clear steps. See leaves, paths, and roots, then verify inclusion with a compact Python check for trust-minimized validation.</description>
+    </item>
+    <item>
+      <title>What Is a Reentrancy Attack in Smart Contracts?</title>
+      <link>https://pulsegeek.com/articles/what-is-a-reentrancy-attack-in-smart-contracts/</link>
+      <guid isPermaLink="true">https://pulsegeek.com/articles/what-is-a-reentrancy-attack-in-smart-contracts/</guid>
+      <pubDate>Wed, 17 Sep 2025 23:00:00 GMT</pubDate>
+      <description>Learn how reentrancy attacks work in smart contracts, why they break invariants, and how to prevent them with patterns, guards, audits, and tooling.</description>
+    </item>
+    <item>
+      <title>AI-Based Technology in Schools: Foundations and Fit</title>
+      <link>https://pulsegeek.com/articles/ai-based-technology-in-schools-foundations-and-fit/</link>
+      <guid isPermaLink="true">https://pulsegeek.com/articles/ai-based-technology-in-schools-foundations-and-fit/</guid>
+      <pubDate>Wed, 17 Sep 2025 23:00:00 GMT</pubDate>
+      <description>Learn how to evaluate AI based technology for schools. Build fit-for-purpose use cases, align to learning goals, set privacy guardrails, and plan responsible rollout.</description>
+    </item>
+    <item>
+      <title>Mempool Mechanics: Fees, Priority, and Propagation</title>
+      <link>https://pulsegeek.com/articles/mempool-mechanics-fees-priority-and-propagation/</link>
+      <guid isPermaLink="true">https://pulsegeek.com/articles/mempool-mechanics-fees-priority-and-propagation/</guid>
+      <pubDate>Wed, 17 Sep 2025 23:00:00 GMT</pubDate>
+      <description>Learn how the mempool works across nodes, how fees set transaction priority, and how propagation, eviction, and RBF shape confirmation time and reliability.</description>
+    </item>
+    <item>
+      <title>What Is a Blockexplorer? Reading On‑Chain Data Clearly</title>
+      <link>https://pulsegeek.com/articles/what-is-a-blockexplorer-reading-on-chain-data-clearly/</link>
+      <guid isPermaLink="true">https://pulsegeek.com/articles/what-is-a-blockexplorer-reading-on-chain-data-clearly/</guid>
+      <pubDate>Wed, 17 Sep 2025 23:00:00 GMT</pubDate>
+      <description>Learn what a blockexplorer does, how to read on-chain data, and how explorers support security work like tracing funds, checking contract risks, and verifying transactions.</description>
+    </item>
+    <item>
+      <title>AI in Finance: Practical Uses, Risks, and What’s Next</title>
+      <link>https://pulsegeek.com/articles/ai-in-finance-practical-uses-risks-and-whats-next/</link>
+      <guid isPermaLink="true">https://pulsegeek.com/articles/ai-in-finance-practical-uses-risks-and-whats-next/</guid>
+      <pubDate>Fri, 10 Oct 2025 04:02:00 GMT</pubDate>
+      <description>A practical hub for AI in finance. Learn where it works, tradeoffs, governance, and how forecasting, risk, operations, and markets teams create value responsibly.</description>
+    </item>
+    <item>
+      <title>Inside Block Headers: Structure, Fields, and Purpose</title>
+      <link>https://pulsegeek.com/articles/inside-block-headers-structure-fields-and-purpose/</link>
+      <guid isPermaLink="true">https://pulsegeek.com/articles/inside-block-headers-structure-fields-and-purpose/</guid>
+      <pubDate>Wed, 17 Sep 2025 23:00:00 GMT</pubDate>
+      <description>Learn how block headers are structured, what each field does, and why they secure linking, proofs, and efficient verification across Bitcoin and Ethereum.</description>
+    </item>
+    <item>
+      <title>Smart Contract Vulnerabilities: The Common Pitfalls</title>
+      <link>https://pulsegeek.com/articles/smart-contract-vulnerabilities-the-common-pitfalls/</link>
+      <guid isPermaLink="true">https://pulsegeek.com/articles/smart-contract-vulnerabilities-the-common-pitfalls/</guid>
+      <pubDate>Wed, 17 Sep 2025 23:00:00 GMT</pubDate>
+      <description>Explore frequent smart contract vulnerabilities with clear examples, tradeoffs, and fixes. Learn auditing habits, guard patterns, and tools to reduce risk before mainnet deployment.</description>
+    </item>
     <item>
       <title>AI Policy for Schools: Templates, Guardrails, and Training</title>
       <link>https://pulsegeek.com/articles/ai-policy-for-schools-templates-guardrails-and-training/</link>
@@ -280,83 +357,6 @@
       <guid isPermaLink="true">https://pulsegeek.com/articles/risks-of-ai-in-education-bias-privacy-and-misuse/</guid>
       <pubDate>Wed, 17 Sep 2025 23:00:00 GMT</pubDate>
       <description>Learn the key risks of AI in education, from algorithmic bias and student privacy to misuse and overreliance, with practical guardrails, governance steps, and future-facing strategies to protect equity and learning outcomes.</description>
-    </item>
-    <item>
-      <title>Public Keys, Private Keys: Managing Blockchain Identity</title>
-      <link>https://pulsegeek.com/articles/public-keys-private-keys-managing-blockchain-identity/</link>
-      <guid isPermaLink="true">https://pulsegeek.com/articles/public-keys-private-keys-managing-blockchain-identity/</guid>
-      <pubDate>Wed, 17 Sep 2025 23:00:00 GMT</pubDate>
-      <description>Learn how to generate, store, and rotate keys, then sign and verify blockchain transactions with strong policies for identity safety using practical, testable steps.</description>
-    </item>
-    <item>
-      <title>Hyperledger Platforms: Frameworks, Networks, and Fit</title>
-      <link>https://pulsegeek.com/articles/hyperledger-platforms-frameworks-networks-and-fit/</link>
-      <guid isPermaLink="true">https://pulsegeek.com/articles/hyperledger-platforms-frameworks-networks-and-fit/</guid>
-      <pubDate>Wed, 17 Sep 2025 23:00:00 GMT</pubDate>
-      <description>Explore Hyperledger platforms with a focused look at frameworks, network design, privacy, and governance. Compare Fabric, Besu, Indy, Iroha, and Sawtooth to decide the right fit.</description>
-    </item>
-    <item>
-      <title>Smart Contract Languages: Choose the Right Stack</title>
-      <link>https://pulsegeek.com/articles/smart-contract-languages-choose-the-right-stack/</link>
-      <guid isPermaLink="true">https://pulsegeek.com/articles/smart-contract-languages-choose-the-right-stack/</guid>
-      <pubDate>Wed, 17 Sep 2025 23:00:00 GMT</pubDate>
-      <description>Learn how to pick smart contract languages and platforms with clear tradeoffs, safety practices, and ecosystem context. Compare EVM, Rust-based chains, Hyperledger, and Corda with practical guidance.</description>
-    </item>
-    <item>
-      <title>Top Benefits of AI in Education: From Access to Impact</title>
-      <link>https://pulsegeek.com/articles/top-benefits-of-ai-in-education-from-access-to-impact/</link>
-      <guid isPermaLink="true">https://pulsegeek.com/articles/top-benefits-of-ai-in-education-from-access-to-impact/</guid>
-      <pubDate>Wed, 17 Sep 2025 23:00:00 GMT</pubDate>
-      <description>See how AI strengthens teaching and learning with personalization, inclusion, timely feedback, and data-informed decisions, plus ethics and risks to watch as schools plan responsible adoption.</description>
-    </item>
-    <item>
-      <title>Multisignature Wallets Explained: Control and Safety</title>
-      <link>https://pulsegeek.com/articles/multisignature-wallets-explained-control-and-safety/</link>
-      <guid isPermaLink="true">https://pulsegeek.com/articles/multisignature-wallets-explained-control-and-safety/</guid>
-      <pubDate>Wed, 17 Sep 2025 23:00:00 GMT</pubDate>
-      <description>Learn how multisignature wallets work, when to use them, and how thresholds, roles, and recovery planning create stronger control without sacrificing usability or speed.</description>
-    </item>
-    <item>
-      <title>Smart Contract Testing Best Practices That Catch Bugs</title>
-      <link>https://pulsegeek.com/articles/smart-contract-testing-best-practices-that-catch-bugs/</link>
-      <guid isPermaLink="true">https://pulsegeek.com/articles/smart-contract-testing-best-practices-that-catch-bugs/</guid>
-      <pubDate>Wed, 17 Sep 2025 23:00:00 GMT</pubDate>
-      <description>Learn pragmatic smart contract testing best practices that catch bugs early, reduce risk, and mirror real transaction flows. Threat model, write precise specs, use fuzz and invariants, and test deployments.</description>
-    </item>
-    <item>
-      <title>Elliptic Curve Crypto in Blockchain: What and Why</title>
-      <link>https://pulsegeek.com/articles/elliptic-curve-crypto-in-blockchain-what-and-why/</link>
-      <guid isPermaLink="true">https://pulsegeek.com/articles/elliptic-curve-crypto-in-blockchain-what-and-why/</guid>
-      <pubDate>Wed, 17 Sep 2025 23:00:00 GMT</pubDate>
-      <description>Learn how elliptic curve cryptography powers blockchain security. See why ECC is chosen, how keys and signatures work, and what risks and tradeoffs matter now.</description>
-    </item>
-    <item>
-      <title>Developing Smart Contracts: A Practical Step‑by‑Step Path</title>
-      <link>https://pulsegeek.com/articles/developing-smart-contracts-a-practical-step-by-step-path/</link>
-      <guid isPermaLink="true">https://pulsegeek.com/articles/developing-smart-contracts-a-practical-step-by-step-path/</guid>
-      <pubDate>Wed, 17 Sep 2025 23:00:00 GMT</pubDate>
-      <description>Learn developing smart contracts from planning and modeling to writing, testing, deploying, verifying, and maintaining. Follow a practical sequence with code, tooling choices, and pitfalls to avoid.</description>
-    </item>
-    <item>
-      <title>ECC in Blockchain: Curves, Keys, and Signature Safety</title>
-      <link>https://pulsegeek.com/articles/ecc-in-blockchain-curves-keys-and-signature-safety/</link>
-      <guid isPermaLink="true">https://pulsegeek.com/articles/ecc-in-blockchain-curves-keys-and-signature-safety/</guid>
-      <pubDate>Wed, 17 Sep 2025 23:00:00 GMT</pubDate>
-      <description>Learn how elliptic curve cryptography secures blockchain addresses and signatures. Compare curves, avoid nonce leaks, and strengthen key storage with practical safeguards.</description>
-    </item>
-    <item>
-      <title>Deploy Smart Contract Steps: Network, Gas, Verifications</title>
-      <link>https://pulsegeek.com/articles/deploy-smart-contract-steps-network-gas-verifications/</link>
-      <guid isPermaLink="true">https://pulsegeek.com/articles/deploy-smart-contract-steps-network-gas-verifications/</guid>
-      <pubDate>Wed, 17 Sep 2025 23:00:00 GMT</pubDate>
-      <description>Follow a proven path to deploy smart contracts. Choose networks, set gas strategy, broadcast safely, verify on explorers, and manage addresses with confidence.</description>
-    </item>
-    <item>
-      <title>Artificial Intelligence and Education: Key Connections</title>
-      <link>https://pulsegeek.com/articles/artificial-intelligence-and-education-key-connections/</link>
-      <guid isPermaLink="true">https://pulsegeek.com/articles/artificial-intelligence-and-education-key-connections/</guid>
-      <pubDate>Tue, 16 Sep 2025 23:00:00 GMT</pubDate>
-      <description>Learn how artificial intelligence intersects with education, from core definitions and classroom uses to benefits, risks, ethics, and future directions that support equitable, practical adoption across K–12 and higher education.</description>
     </item>
   </channel>
 </rss>
