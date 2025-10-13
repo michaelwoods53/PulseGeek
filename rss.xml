@@ -6,8 +6,148 @@
     <description>Tech news, gaming, and geek culture in one pulse</description>
     <language>en-us</language>
     <generator>PulseGeek Rss Feed Generator</generator>
-    <lastBuildDate>Mon, 13 Oct 2025 00:43:24 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 13 Oct 2025 19:39:16 GMT</lastBuildDate>
     <atom:link href="https://pulsegeek.com/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AI Applications in Email Security: Patterns That Work</title>
+      <link>https://pulsegeek.com/articles/ai-applications-in-email-security-patterns-that-work/</link>
+      <guid isPermaLink="true">https://pulsegeek.com/articles/ai-applications-in-email-security-patterns-that-work/</guid>
+      <pubDate>Mon, 13 Oct 2025 14:19:00 GMT</pubDate>
+      <description>Explore proven AI applications in email security. Learn patterns for headers, URLs, content, attachments, graphs, reinforcement signals, and ensembles, with tradeoffs and real-world implementation tips.</description>
+    </item>
+    <item>
+      <title>AI Business Process Automation: Design, Pilot, Scale</title>
+      <link>https://pulsegeek.com/articles/ai-business-process-automation-design-pilot-scale/</link>
+      <guid isPermaLink="true">https://pulsegeek.com/articles/ai-business-process-automation-design-pilot-scale/</guid>
+      <pubDate>Mon, 13 Oct 2025 14:18:00 GMT</pubDate>
+      <description>Learn how to design, pilot, and scale AI business process automation with measurable impact. Use a stepwise method for use case selection, data readiness, integration, and governance.</description>
+    </item>
+    <item>
+      <title>AI in the Financial Sector: Operations at Scale</title>
+      <link>https://pulsegeek.com/articles/ai-in-the-financial-sector-operations-at-scale/</link>
+      <guid isPermaLink="true">https://pulsegeek.com/articles/ai-in-the-financial-sector-operations-at-scale/</guid>
+      <pubDate>Mon, 13 Oct 2025 14:17:00 GMT</pubDate>
+      <description>Learn how AI transforms financial sector operations with audit-ready automation, data controls, and decision frameworks to prioritize use cases, manage risks, and scale responsibly across core workflows.</description>
+    </item>
+    <item>
+      <title>AI in Retail and E‑Commerce: 15 Real-World Use Cases</title>
+      <link>https://pulsegeek.com/articles/ai-in-retail-and-e-commerce-15-real-world-use-cases/</link>
+      <guid isPermaLink="true">https://pulsegeek.com/articles/ai-in-retail-and-e-commerce-15-real-world-use-cases/</guid>
+      <pubDate>Mon, 13 Oct 2025 14:16:00 GMT</pubDate>
+      <description>Explore 15 practical AI use cases in retail and e-commerce, with examples, data inputs, and tradeoffs to guide teams from idea to rollout.</description>
+    </item>
+    <item>
+      <title>What Is the Mempool? Where Transactions Wait Their Turn</title>
+      <link>https://pulsegeek.com/articles/what-is-the-mempool-where-transactions-wait-their-turn/</link>
+      <guid isPermaLink="true">https://pulsegeek.com/articles/what-is-the-mempool-where-transactions-wait-their-turn/</guid>
+      <pubDate>Mon, 13 Oct 2025 14:14:00 GMT</pubDate>
+      <description>Learn how the mempool works, why transactions queue, and how fees, priority, and propagation shape confirmation. See how proofs and light clients verify data efficiently.</description>
+    </item>
+    <item>
+      <title>Blockchain and IoT: Devices That Verify and Cooperate</title>
+      <link>https://pulsegeek.com/articles/blockchain-and-iot-devices-that-verify-and-cooperate/</link>
+      <guid isPermaLink="true">https://pulsegeek.com/articles/blockchain-and-iot-devices-that-verify-and-cooperate/</guid>
+      <pubDate>Mon, 13 Oct 2025 14:13:00 GMT</pubDate>
+      <description>Explore blockchain and IoT through practical smart contract use cases. See how devices attest data, trigger maintenance, enable metered billing, and coordinate fleets with verifiable trust.</description>
+    </item>
+    <item>
+      <title>Intelligent Street Lighting: How It Works and Why It Matters</title>
+      <link>https://pulsegeek.com/articles/intelligent-street-lighting-how-it-works-and-why-it-matters/</link>
+      <guid isPermaLink="true">https://pulsegeek.com/articles/intelligent-street-lighting-how-it-works-and-why-it-matters/</guid>
+      <pubDate>Mon, 13 Oct 2025 14:12:00 GMT</pubDate>
+      <description>Understand intelligent street lighting from pole to cloud, including controls, networks, benefits, and operating models that scale from pilots to citywide reliability.</description>
+    </item>
+    <item>
+      <title>Phishing Defense with NLP: A Complete Build Guide</title>
+      <link>https://pulsegeek.com/articles/phishing-defense-with-nlp-a-complete-build-guide/</link>
+      <guid isPermaLink="true">https://pulsegeek.com/articles/phishing-defense-with-nlp-a-complete-build-guide/</guid>
+      <pubDate>Mon, 13 Oct 2025 09:12:00 GMT</pubDate>
+      <description>Build an NLP-driven phishing defense from principles to practice. Learn data choices, features, workflows, evaluation, and deployment patterns that reduce risk while balancing precision, recall, and operational cost.</description>
+    </item>
+    <item>
+      <title>AI Business Automation: From Manual to Autonomous</title>
+      <link>https://pulsegeek.com/articles/ai-business-automation-from-manual-to-autonomous/</link>
+      <guid isPermaLink="true">https://pulsegeek.com/articles/ai-business-automation-from-manual-to-autonomous/</guid>
+      <pubDate>Wed, 17 Sep 2025 23:00:00 GMT</pubDate>
+      <description>A practical how-to for ai business automation. Map processes, set autonomy levels, build an orchestrator, add guardrails, and measure impact to scale confidently.</description>
+    </item>
+    <item>
+      <title>AI in the Finance Department: Roles, Skills, and Wins</title>
+      <link>https://pulsegeek.com/articles/ai-in-the-finance-department-roles-skills-and-wins/</link>
+      <guid isPermaLink="true">https://pulsegeek.com/articles/ai-in-the-finance-department-roles-skills-and-wins/</guid>
+      <pubDate>Fri, 10 Oct 2025 04:02:00 GMT</pubDate>
+      <description>Learn how AI reshapes the finance department. Define practical roles, upskill critical abilities, pick the right use cases, and avoid common pitfalls while keeping controls, accuracy, and audit trails in focus.</description>
+    </item>
+    <item>
+      <title>AI Retail Strategy: Trends, Examples, and Execution Playbooks</title>
+      <link>https://pulsegeek.com/articles/ai-retail-strategy-trends-examples-execution-playbooks/</link>
+      <guid isPermaLink="true">https://pulsegeek.com/articles/ai-retail-strategy-trends-examples-execution-playbooks/</guid>
+      <pubDate>Mon, 13 Oct 2025 09:09:00 GMT</pubDate>
+      <description>Learn how AI reshapes retail strategy with core concepts, proven examples, and practical execution playbooks that connect merchandising, pricing, and operations to measurable outcomes across channels.</description>
+    </item>
+    <item>
+      <title>Cloud AI for Education: Architecture, Costs, and Control</title>
+      <link>https://pulsegeek.com/articles/cloud-ai-for-education-architecture-costs-and-control/</link>
+      <guid isPermaLink="true">https://pulsegeek.com/articles/cloud-ai-for-education-architecture-costs-and-control/</guid>
+      <pubDate>Wed, 17 Sep 2025 23:00:00 GMT</pubDate>
+      <description>Plan cloud AI for schools with a practical reference architecture, cost models, and governance controls that protect student data while scaling instruction and operations responsibly.</description>
+    </item>
+    <item>
+      <title>Track a Transaction: Block Explorer Basics in Action</title>
+      <link>https://pulsegeek.com/articles/track-a-transaction-block-explorer-basics-in-action/</link>
+      <guid isPermaLink="true">https://pulsegeek.com/articles/track-a-transaction-block-explorer-basics-in-action/</guid>
+      <pubDate>Wed, 17 Sep 2025 23:00:00 GMT</pubDate>
+      <description>Learn how to track a transaction with a block explorer, read fees and confirmations, and verify integrity using hashes, Merkle roots, and practical proof concepts.</description>
+    </item>
+    <item>
+      <title>Blockchain and Healthcare: Privacy, Trust, and Data</title>
+      <link>https://pulsegeek.com/articles/blockchain-and-healthcare-privacy-trust-and-data/</link>
+      <guid isPermaLink="true">https://pulsegeek.com/articles/blockchain-and-healthcare-privacy-trust-and-data/</guid>
+      <pubDate>Wed, 17 Sep 2025 23:00:00 GMT</pubDate>
+      <description>See practical ways blockchain and healthcare intersect to protect privacy, build trust, and move data with consent. Explore consent proofs, automated claims, and trial integrity with real tradeoffs.</description>
+    </item>
+    <item>
+      <title>AI in Cybersecurity: Models, Pipelines, and Defense</title>
+      <link>https://pulsegeek.com/articles/ai-in-cybersecurity-models-pipelines-and-defense/</link>
+      <guid isPermaLink="true">https://pulsegeek.com/articles/ai-in-cybersecurity-models-pipelines-and-defense/</guid>
+      <pubDate>Sun, 12 Oct 2025 09:12:00 GMT</pubDate>
+      <description>Explore how AI strengthens cybersecurity through models, data pipelines, and defense workflows. Learn tradeoffs, roles, and decision lenses for SOC analytics, phishing, malware, and operations.</description>
+    </item>
+    <item>
+      <title>AI Business Applications: 30 Real-World Examples</title>
+      <link>https://pulsegeek.com/articles/ai-business-applications-30-real-world-examples/</link>
+      <guid isPermaLink="true">https://pulsegeek.com/articles/ai-business-applications-30-real-world-examples/</guid>
+      <pubDate>Wed, 17 Sep 2025 23:00:00 GMT</pubDate>
+      <description>Explore 30 AI business applications with practical examples, selection criteria, and tradeoffs. Learn where AI drives value, from sales and support to finance and operations.</description>
+    </item>
+    <item>
+      <title>AI in Finance: 20 Examples You Can Implement Fast</title>
+      <link>https://pulsegeek.com/articles/ai-in-finance-20-examples-you-can-implement-fast/</link>
+      <guid isPermaLink="true">https://pulsegeek.com/articles/ai-in-finance-20-examples-you-can-implement-fast/</guid>
+      <pubDate>Fri, 10 Oct 2025 04:02:00 GMT</pubDate>
+      <description>Explore 20 practical AI in finance examples that speed invoice handling, reconciliations, forecasting, and controls. Learn where to start, risks to manage, and how to show measurable value.</description>
+    </item>
+    <item>
+      <title>AI in Retail: Practical Uses, Tools, Roadmaps, Results</title>
+      <link>https://pulsegeek.com/articles/ai-in-retail-practical-uses-tools-roadmaps-results/</link>
+      <guid isPermaLink="true">https://pulsegeek.com/articles/ai-in-retail-practical-uses-tools-roadmaps-results/</guid>
+      <pubDate>Sun, 12 Oct 2025 09:09:00 GMT</pubDate>
+      <description>See how AI in retail delivers measurable outcomes across operations and experience, with clear use cases, tools, tradeoffs, and stepwise roadmaps to pilot and scale.</description>
+    </item>
+    <item>
+      <title>Patricia Merkle Tries: Compact State with Fast Proofs</title>
+      <link>https://pulsegeek.com/articles/patricia-merkle-tries-compact-state-with-fast-proofs/</link>
+      <guid isPermaLink="true">https://pulsegeek.com/articles/patricia-merkle-tries-compact-state-with-fast-proofs/</guid>
+      <pubDate>Wed, 17 Sep 2025 23:00:00 GMT</pubDate>
+      <description>Learn how Patricia Merkle tries compress blockchain state while enabling fast proofs, what the proof path contains, and how nodes and light clients verify data efficiently with minimal bandwidth.</description>
+    </item>
+    <item>
+      <title>Blockchain for Business: Real Use Cases and Fit</title>
+      <link>https://pulsegeek.com/articles/blockchain-for-business-real-use-cases-and-fit/</link>
+      <guid isPermaLink="true">https://pulsegeek.com/articles/blockchain-for-business-real-use-cases-and-fit/</guid>
+      <pubDate>Wed, 17 Sep 2025 23:00:00 GMT</pubDate>
+      <description>Learn how blockchain for business delivers value through real use cases, fit criteria, and risk tradeoffs. Explore supply chain, healthcare, IoT, insurance, and real estate with clear steps to evaluate adoption.</description>
+    </item>
     <item>
       <title>25 High-Value Uses of AI in Business You Can Start</title>
       <link>https://pulsegeek.com/articles/25-high-value-uses-of-ai-in-business-you-can-start/</link>
@@ -47,14 +187,14 @@
       <title>AI for Operations: From Pilots to Scaled Execution</title>
       <link>https://pulsegeek.com/articles/ai-for-operations-from-pilots-to-scaled-execution/</link>
       <guid isPermaLink="true">https://pulsegeek.com/articles/ai-for-operations-from-pilots-to-scaled-execution/</guid>
-      <pubDate>Sat, 11 Oct 2025 09:06:00 GMT</pubDate>
+      <pubDate>Wed, 17 Sep 2025 23:00:00 GMT</pubDate>
       <description>Turn pilots into reliable AI operations with clear use cases, robust integration, human oversight, and measurable ROI. Learn architectures, metrics, and governance patterns to scale safely and deliver compounding efficiency.</description>
     </item>
     <item>
       <title>AI for Financial Operations: IDP, Controls, and Speed</title>
       <link>https://pulsegeek.com/articles/ai-for-financial-operations-idp-controls-and-speed/</link>
       <guid isPermaLink="true">https://pulsegeek.com/articles/ai-for-financial-operations-idp-controls-and-speed/</guid>
-      <pubDate>Sat, 11 Oct 2025 09:05:00 GMT</pubDate>
+      <pubDate>Fri, 10 Oct 2025 04:02:00 GMT</pubDate>
       <description>Learn how AI streamlines financial operations using IDP, layered controls, and resilient workflows. Get selection criteria, governance patterns, and practical steps to deliver accuracy and speed at scale.</description>
     </item>
     <item>
@@ -82,7 +222,7 @@
       <title>AI in Business: Practical Paths from Idea to Impact</title>
       <link>https://pulsegeek.com/articles/ai-in-business-practical-paths-from-idea-to-impact/</link>
       <guid isPermaLink="true">https://pulsegeek.com/articles/ai-in-business-practical-paths-from-idea-to-impact/</guid>
-      <pubDate>Fri, 10 Oct 2025 09:06:00 GMT</pubDate>
+      <pubDate>Wed, 17 Sep 2025 23:00:00 GMT</pubDate>
       <description>Learn how AI in business moves from ideas to measurable impact with clear framing, data readiness, execution patterns, governance, and scale-up strategies that reduce risk.</description>
     </item>
     <item>
@@ -217,146 +357,6 @@
       <guid isPermaLink="true">https://pulsegeek.com/articles/sha-256-in-blockchain-why-this-hash-still-matters/</guid>
       <pubDate>Wed, 17 Sep 2025 23:00:00 GMT</pubDate>
       <description>Learn how SHA-256 secures blockchains through preimage resistance, collision hardness, and hash-linked blocks. See why miners use double hashing and where alternatives like SHA-3 might fit next.</description>
-    </item>
-    <item>
-      <title>Oracle Pattern in Smart Contracts: Design and Safety</title>
-      <link>https://pulsegeek.com/articles/oracle-pattern-in-smart-contracts-design-and-safety/</link>
-      <guid isPermaLink="true">https://pulsegeek.com/articles/oracle-pattern-in-smart-contracts-design-and-safety/</guid>
-      <pubDate>Wed, 17 Sep 2025 23:00:00 GMT</pubDate>
-      <description>Learn how to implement the oracle pattern in smart contracts with secure design choices, staleness checks, and failure isolation. Compare push vs pull models and deploy a minimal Solidity oracle client safely.</description>
-    </item>
-    <item>
-      <title>AI Tools for Teachers: Planning, Feedback, and Time Back</title>
-      <link>https://pulsegeek.com/articles/ai-tools-for-teachers-planning-feedback-and-time-back/</link>
-      <guid isPermaLink="true">https://pulsegeek.com/articles/ai-tools-for-teachers-planning-feedback-and-time-back/</guid>
-      <pubDate>Wed, 17 Sep 2025 23:00:00 GMT</pubDate>
-      <description>Explore practical AI tools for teachers that speed planning, improve feedback, streamline admin, and support diverse learners with clear steps, examples, and safeguards.</description>
-    </item>
-    <item>
-      <title>How Blockchain Transactions Work: From Input to Block</title>
-      <link>https://pulsegeek.com/articles/how-blockchain-transactions-work-from-input-to-block/</link>
-      <guid isPermaLink="true">https://pulsegeek.com/articles/how-blockchain-transactions-work-from-input-to-block/</guid>
-      <pubDate>Wed, 17 Sep 2025 23:00:00 GMT</pubDate>
-      <description>Follow a practical path from inputs and signatures to hashes, mempool checks, Merkle trees, and headers. See how a blockchain transaction gets confirmed and linked into a block.</description>
-    </item>
-    <item>
-      <title>Distributed Ledger Fundamentals: Models and Benefits</title>
-      <link>https://pulsegeek.com/articles/distributed-ledger-fundamentals-models-and-benefits/</link>
-      <guid isPermaLink="true">https://pulsegeek.com/articles/distributed-ledger-fundamentals-models-and-benefits/</guid>
-      <pubDate>Wed, 17 Sep 2025 23:00:00 GMT</pubDate>
-      <description>Learn how distributed ledgers work, compare core models like account, UTXO, and DAG, and understand consensus, finality, and real-world benefits for secure smart contract design.</description>
-    </item>
-    <item>
-      <title>AI Homework Help: Ethical, Effective Study Workflows</title>
-      <link>https://pulsegeek.com/articles/ai-homework-help-ethical-effective-study-workflows/</link>
-      <guid isPermaLink="true">https://pulsegeek.com/articles/ai-homework-help-ethical-effective-study-workflows/</guid>
-      <pubDate>Wed, 17 Sep 2025 23:00:00 GMT</pubDate>
-      <description>Learn how to use AI homework help ethically and effectively. Build prompt patterns, citation habits, and feedback loops that strengthen understanding without crossing academic lines.</description>
-    </item>
-    <item>
-      <title>Hash Pointers: The Simple Link That Secures a Ledger</title>
-      <link>https://pulsegeek.com/articles/hash-pointers-the-simple-link-that-secures-a-ledger/</link>
-      <guid isPermaLink="true">https://pulsegeek.com/articles/hash-pointers-the-simple-link-that-secures-a-ledger/</guid>
-      <pubDate>Wed, 17 Sep 2025 23:00:00 GMT</pubDate>
-      <description>Learn how hash pointers anchor integrity in blockchains, prevent undetected edits, and link blocks into a tamper-evident ledger. See properties, collision risks, and practical design tradeoffs.</description>
-    </item>
-    <item>
-      <title>Build a Decentralized App: Architecture to Launch</title>
-      <link>https://pulsegeek.com/articles/build-a-decentralized-app-architecture-to-launch/</link>
-      <guid isPermaLink="true">https://pulsegeek.com/articles/build-a-decentralized-app-architecture-to-launch/</guid>
-      <pubDate>Wed, 17 Sep 2025 23:00:00 GMT</pubDate>
-      <description>Follow a practical path to plan, design, and ship a decentralized app. Learn contract patterns, oracle choices, wallet flows, testing, and secure deployment.</description>
-    </item>
-    <item>
-      <title>AI Chatbot vs Alternatives: Picking the Right Classroom Fit</title>
-      <link>https://pulsegeek.com/articles/ai-chatbot-vs-alternatives-picking-the-right-classroom-fit/</link>
-      <guid isPermaLink="true">https://pulsegeek.com/articles/ai-chatbot-vs-alternatives-picking-the-right-classroom-fit/</guid>
-      <pubDate>Wed, 17 Sep 2025 23:00:00 GMT</pubDate>
-      <description>Compare an AI chatbot with teacher tools like knowledge bases, search, tutor platforms, and rule-based bots to match classroom goals while managing cost, privacy, and equity.</description>
-    </item>
-    <item>
-      <title>Blockchain vs Database: Integrity, Speed, and Control</title>
-      <link>https://pulsegeek.com/articles/blockchain-vs-database-integrity-speed-and-control/</link>
-      <guid isPermaLink="true">https://pulsegeek.com/articles/blockchain-vs-database-integrity-speed-and-control/</guid>
-      <pubDate>Wed, 17 Sep 2025 23:00:00 GMT</pubDate>
-      <description>Compare a blockchain and a traditional database across integrity, speed, and control. Learn when tamper evidence beats mutability, how throughput differs, and what governance models fit your data.</description>
-    </item>
-    <item>
-      <title>Smart Contract Design Patterns for Resilient Systems</title>
-      <link>https://pulsegeek.com/articles/smart-contract-design-patterns-for-resilient-systems/</link>
-      <guid isPermaLink="true">https://pulsegeek.com/articles/smart-contract-design-patterns-for-resilient-systems/</guid>
-      <pubDate>Wed, 17 Sep 2025 23:00:00 GMT</pubDate>
-      <description>Learn core smart contract design patterns that improve reliability, upgradeability, and safe oracle interaction, with examples, tradeoffs, and practical checklists.</description>
-    </item>
-    <item>
-      <title>AI Assistant vs Tutor Bots: Choosing for Your Course</title>
-      <link>https://pulsegeek.com/articles/ai-assistant-vs-tutor-bots-choosing-for-your-course/</link>
-      <guid isPermaLink="true">https://pulsegeek.com/articles/ai-assistant-vs-tutor-bots-choosing-for-your-course/</guid>
-      <pubDate>Wed, 17 Sep 2025 23:00:00 GMT</pubDate>
-      <description>Compare ai assistant tools with tutor bots across pedagogy, accuracy, privacy, and cost. Learn when to choose each and how to implement them responsibly in your course.</description>
-    </item>
-    <item>
-      <title>Hash Functions in Blockchains: Properties and Practice</title>
-      <link>https://pulsegeek.com/articles/hash-functions-in-blockchains-properties-and-practice/</link>
-      <guid isPermaLink="true">https://pulsegeek.com/articles/hash-functions-in-blockchains-properties-and-practice/</guid>
-      <pubDate>Wed, 17 Sep 2025 23:00:00 GMT</pubDate>
-      <description>Learn how hash functions secure blockchains, from core properties and collision risks to Merkle trees, hash pointers, mining, and transaction IDs, with practical tips and pitfalls.</description>
-    </item>
-    <item>
-      <title>Solidity Programming Tutorials: The Best Free Resources</title>
-      <link>https://pulsegeek.com/articles/solidity-programming-tutorials-the-best-free-resources/</link>
-      <guid isPermaLink="true">https://pulsegeek.com/articles/solidity-programming-tutorials-the-best-free-resources/</guid>
-      <pubDate>Wed, 17 Sep 2025 23:00:00 GMT</pubDate>
-      <description>Learn Solidity with curated free tutorials, hands-on labs, safe code patterns, and security tips. Compare pathways, avoid common pitfalls, and practice with guided examples and exercises.</description>
-    </item>
-    <item>
-      <title>Best AI Tools for Students: Classroom to Career</title>
-      <link>https://pulsegeek.com/articles/best-ai-tools-for-students-classroom-to-career/</link>
-      <guid isPermaLink="true">https://pulsegeek.com/articles/best-ai-tools-for-students-classroom-to-career/</guid>
-      <pubDate>Wed, 17 Sep 2025 23:00:00 GMT</pubDate>
-      <description>Discover the best AI tools for students, how to choose and use them ethically, and classroom workflows that build career-ready skills. Compare chatbots and assistants, protect privacy, and plan responsible adoption.</description>
-    </item>
-    <item>
-      <title>Smart Contract Security Pitfalls: 12 Gotchas to Avoid</title>
-      <link>https://pulsegeek.com/articles/smart-contract-security-pitfalls-12-gotchas-to-avoid/</link>
-      <guid isPermaLink="true">https://pulsegeek.com/articles/smart-contract-security-pitfalls-12-gotchas-to-avoid/</guid>
-      <pubDate>Wed, 17 Sep 2025 23:00:00 GMT</pubDate>
-      <description>Avoid common smart contract pitfalls with practical defenses. Learn to prevent reentrancy, integer issues, signature misuse, fragile oracles, and key management mistakes for safer on-chain transactions.</description>
-    </item>
-    <item>
-      <title>Smart Contracts in Rust: Pros, Cons, and Ecosystems</title>
-      <link>https://pulsegeek.com/articles/smart-contracts-in-rust-pros-cons-and-ecosystems/</link>
-      <guid isPermaLink="true">https://pulsegeek.com/articles/smart-contracts-in-rust-pros-cons-and-ecosystems/</guid>
-      <pubDate>Wed, 17 Sep 2025 23:00:00 GMT</pubDate>
-      <description>Compare Rust smart contract ecosystems across Solana, CosmWasm, and ink!. Learn benefits, limitations, tooling, and when Rust is the right language for your on-chain project.</description>
-    </item>
-    <item>
-      <title>What Is the Impact of Artificial Intelligence on Education?</title>
-      <link>https://pulsegeek.com/articles/what-is-the-impact-of-artificial-intelligence-on-education/</link>
-      <guid isPermaLink="true">https://pulsegeek.com/articles/what-is-the-impact-of-artificial-intelligence-on-education/</guid>
-      <pubDate>Wed, 17 Sep 2025 23:00:00 GMT</pubDate>
-      <description>Explore how artificial intelligence changes education across teaching, assessment, and student support. See benefits, risks, ethics, and practical steps for responsible adoption.</description>
-    </item>
-    <item>
-      <title>Quantum-Resistant Crypto: Preparing for the Next Wave</title>
-      <link>https://pulsegeek.com/articles/quantum-resistant-crypto-preparing-for-the-next-wave/</link>
-      <guid isPermaLink="true">https://pulsegeek.com/articles/quantum-resistant-crypto-preparing-for-the-next-wave/</guid>
-      <pubDate>Wed, 17 Sep 2025 23:00:00 GMT</pubDate>
-      <description>Compare quantum-resistant crypto options for blockchains, from lattice and hash-based signatures to hybrid rollouts. See tradeoffs in size, verification cost, and migration paths for wallets and nodes.</description>
-    </item>
-    <item>
-      <title>R3 Corda Explained: Contracts, Flows, and Use Cases</title>
-      <link>https://pulsegeek.com/articles/r3-corda-explained-contracts-flows-and-use-cases/</link>
-      <guid isPermaLink="true">https://pulsegeek.com/articles/r3-corda-explained-contracts-flows-and-use-cases/</guid>
-      <pubDate>Wed, 17 Sep 2025 23:00:00 GMT</pubDate>
-      <description>Learn how R3 Corda models smart contracts with states, contracts, and flows, how transactions achieve consensus, and where Corda fits best across real enterprise use cases.</description>
-    </item>
-    <item>
-      <title>The Future of Artificial Intelligence in Education</title>
-      <link>https://pulsegeek.com/articles/the-future-of-artificial-intelligence-in-education/</link>
-      <guid isPermaLink="true">https://pulsegeek.com/articles/the-future-of-artificial-intelligence-in-education/</guid>
-      <pubDate>Wed, 17 Sep 2025 23:00:00 GMT</pubDate>
-      <description>Explore how AI will shape teaching, learning, and school operations. Understand benefits, risks, ethics, practical adoption steps, and scenarios that forecast the next decade of educational technology.</description>
     </item>
   </channel>
 </rss>
