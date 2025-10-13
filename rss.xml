@@ -6,7 +6,7 @@
     <description>Tech news, gaming, and geek culture in one pulse</description>
     <language>en-us</language>
     <generator>PulseGeek Rss Feed Generator</generator>
-    <lastBuildDate>Sun, 12 Oct 2025 23:29:07 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 13 Oct 2025 00:43:24 GMT</lastBuildDate>
     <atom:link href="https://pulsegeek.com/rss.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>25 High-Value Uses of AI in Business You Can Start</title>
@@ -44,6 +44,20 @@
       <description>Learn how reentrancy attacks work in smart contracts, why they break invariants, and how to prevent them with patterns, guards, audits, and tooling.</description>
     </item>
     <item>
+      <title>AI for Operations: From Pilots to Scaled Execution</title>
+      <link>https://pulsegeek.com/articles/ai-for-operations-from-pilots-to-scaled-execution/</link>
+      <guid isPermaLink="true">https://pulsegeek.com/articles/ai-for-operations-from-pilots-to-scaled-execution/</guid>
+      <pubDate>Sat, 11 Oct 2025 09:06:00 GMT</pubDate>
+      <description>Turn pilots into reliable AI operations with clear use cases, robust integration, human oversight, and measurable ROI. Learn architectures, metrics, and governance patterns to scale safely and deliver compounding efficiency.</description>
+    </item>
+    <item>
+      <title>AI for Financial Operations: IDP, Controls, and Speed</title>
+      <link>https://pulsegeek.com/articles/ai-for-financial-operations-idp-controls-and-speed/</link>
+      <guid isPermaLink="true">https://pulsegeek.com/articles/ai-for-financial-operations-idp-controls-and-speed/</guid>
+      <pubDate>Sat, 11 Oct 2025 09:05:00 GMT</pubDate>
+      <description>Learn how AI streamlines financial operations using IDP, layered controls, and resilient workflows. Get selection criteria, governance patterns, and practical steps to deliver accuracy and speed at scale.</description>
+    </item>
+    <item>
       <title>AI-Based Technology in Schools: Foundations and Fit</title>
       <link>https://pulsegeek.com/articles/ai-based-technology-in-schools-foundations-and-fit/</link>
       <guid isPermaLink="true">https://pulsegeek.com/articles/ai-based-technology-in-schools-foundations-and-fit/</guid>
@@ -63,6 +77,13 @@
       <guid isPermaLink="true">https://pulsegeek.com/articles/what-is-a-blockexplorer-reading-on-chain-data-clearly/</guid>
       <pubDate>Wed, 17 Sep 2025 23:00:00 GMT</pubDate>
       <description>Learn what a blockexplorer does, how to read on-chain data, and how explorers support security work like tracing funds, checking contract risks, and verifying transactions.</description>
+    </item>
+    <item>
+      <title>AI in Business: Practical Paths from Idea to Impact</title>
+      <link>https://pulsegeek.com/articles/ai-in-business-practical-paths-from-idea-to-impact/</link>
+      <guid isPermaLink="true">https://pulsegeek.com/articles/ai-in-business-practical-paths-from-idea-to-impact/</guid>
+      <pubDate>Fri, 10 Oct 2025 09:06:00 GMT</pubDate>
+      <description>Learn how AI in business moves from ideas to measurable impact with clear framing, data readiness, execution patterns, governance, and scale-up strategies that reduce risk.</description>
     </item>
     <item>
       <title>AI in Finance: Practical Uses, Risks, and What’s Next</title>
@@ -336,27 +357,6 @@
       <guid isPermaLink="true">https://pulsegeek.com/articles/the-future-of-artificial-intelligence-in-education/</guid>
       <pubDate>Wed, 17 Sep 2025 23:00:00 GMT</pubDate>
       <description>Explore how AI will shape teaching, learning, and school operations. Understand benefits, risks, ethics, practical adoption steps, and scenarios that forecast the next decade of educational technology.</description>
-    </item>
-    <item>
-      <title>Public-Key Cryptography in Blockchain: A Practical Path</title>
-      <link>https://pulsegeek.com/articles/public-key-cryptography-in-blockchain-a-practical-path/</link>
-      <guid isPermaLink="true">https://pulsegeek.com/articles/public-key-cryptography-in-blockchain-a-practical-path/</guid>
-      <pubDate>Wed, 17 Sep 2025 23:00:00 GMT</pubDate>
-      <description>Learn how public-key cryptography secures blockchain transactions with keys, signatures, and safe storage. Follow step-by-step guidance, code, and patterns to verify identity and authorize transfers.</description>
-    </item>
-    <item>
-      <title>Programming Solidity: Setup, Syntax, and Safe Patterns</title>
-      <link>https://pulsegeek.com/articles/programming-solidity-setup-syntax-and-safe-patterns/</link>
-      <guid isPermaLink="true">https://pulsegeek.com/articles/programming-solidity-setup-syntax-and-safe-patterns/</guid>
-      <pubDate>Wed, 17 Sep 2025 23:00:00 GMT</pubDate>
-      <description>Master programming Solidity with a practical setup guide, core syntax walkthrough, and proven safe patterns. Learn environment choices, testing, deployment, and defenses against common contract risks.</description>
-    </item>
-    <item>
-      <title>Risks of AI in Education: Bias, Privacy, and Misuse</title>
-      <link>https://pulsegeek.com/articles/risks-of-ai-in-education-bias-privacy-and-misuse/</link>
-      <guid isPermaLink="true">https://pulsegeek.com/articles/risks-of-ai-in-education-bias-privacy-and-misuse/</guid>
-      <pubDate>Wed, 17 Sep 2025 23:00:00 GMT</pubDate>
-      <description>Learn the key risks of AI in education, from algorithmic bias and student privacy to misuse and overreliance, with practical guardrails, governance steps, and future-facing strategies to protect equity and learning outcomes.</description>
     </item>
   </channel>
 </rss>

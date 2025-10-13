@@ -11,7 +11,7 @@
       "title": "Zero-Shot vs Few-Shot Prompting: Accuracy, Control, and Cost Compared",
       "content_text": "Compare zero-shot vs few-shot prompting by accuracy, control, and cost. See tradeoffs, when to choose each, and practical guidance.",
       "date_published": "2025-08-29T02:00:00.0000000Z",
-      "date_modified": "2025-10-12T23:29:07.0676349Z"
+      "date_modified": "2025-10-13T00:43:24.8111655Z"
     },
     {
       "id": "https://pulsegeek.com/articles/what-is-the-impact-of-artificial-intelligence-on-education/",
@@ -19,7 +19,7 @@
       "title": "What Is the Impact of Artificial Intelligence on Education?",
       "content_text": "Explore how artificial intelligence changes education across teaching, assessment, and student support. See benefits, risks, ethics, and practical steps for responsible adoption.",
       "date_published": "2025-09-17T23:00:00.0000000Z",
-      "date_modified": "2025-10-12T23:29:07.0661311Z"
+      "date_modified": "2025-10-13T00:43:24.8109349Z"
     },
     {
       "id": "https://pulsegeek.com/articles/what-is-retrieval-augmented-generation-prompting-context-grounding-and-limits/",
@@ -27,7 +27,7 @@
       "title": "What Is Retrieval Augmented Generation Prompting? Context, Grounding, and Limits",
       "content_text": "Explore retrieval augmented generation prompting, how it grounds answers with context, where it breaks, and how to operationalize it safely.",
       "date_published": "2025-09-03T18:00:00.0000000Z",
-      "date_modified": "2025-10-12T23:29:07.0639472Z"
+      "date_modified": "2025-10-13T00:43:24.8106763Z"
     },
     {
       "id": "https://pulsegeek.com/articles/what-is-prompt-leakage-and-how-to-prevent-it-risks-patterns-and-guardrails/",
@@ -35,7 +35,7 @@
       "title": "What Is Prompt Leakage and How to Prevent It? Risks, Patterns, and Guardrails",
       "content_text": "Learn what prompt leakage is, why it\u2019s risky, common patterns to watch, and practical guardrails to prevent it.",
       "date_published": "2025-08-22T18:01:00.0000000Z",
-      "date_modified": "2025-10-12T23:29:07.0637444Z"
+      "date_modified": "2025-10-13T00:43:24.8104713Z"
     },
     {
       "id": "https://pulsegeek.com/articles/what-is-iec-61850-and-why-it-matters-for-smart-grids/",
@@ -43,7 +43,7 @@
       "title": "What Is IEC 61850 and Why It Matters for Smart Grids?",
       "content_text": "Learn what IEC 61850 is, how it enables interoperable substation automation, and why it matters for modern, DER-rich smart grids.",
       "date_published": "2025-08-24T02:00:00.0000000Z",
-      "date_modified": "2025-10-12T23:29:07.0615065Z"
+      "date_modified": "2025-10-13T00:43:24.8102414Z"
     },
     {
       "id": "https://pulsegeek.com/articles/what-is-continuous-compliance-for-ai-systems-today/",
@@ -51,7 +51,7 @@
       "title": "What Is Continuous Compliance for AI Systems Today?",
       "content_text": "Learn what continuous compliance for AI systems means, how it works day to day, and how to monitor, evidence, and improve it.",
       "date_published": "2025-09-03T18:01:00.0000000Z",
-      "date_modified": "2025-10-12T23:29:07.0613137Z"
+      "date_modified": "2025-10-13T00:43:24.8100089Z"
     },
     {
       "id": "https://pulsegeek.com/articles/what-is-a-system-prompt-in-ai-roles-boundaries-and-best-practices/",
@@ -59,7 +59,7 @@
       "title": "What Is a System Prompt in AI? Roles, Boundaries, and Best Practices",
       "content_text": "Learn how system prompts set model behavior, define boundaries, and improve reliability, with practical patterns and safe deployment tips.",
       "date_published": "2025-08-27T02:00:00.0000000Z",
-      "date_modified": "2025-10-12T23:29:07.0578476Z"
+      "date_modified": "2025-10-13T00:43:24.8097691Z"
     },
     {
       "id": "https://pulsegeek.com/articles/what-is-a-reentrancy-attack-in-smart-contracts/",
@@ -67,7 +67,7 @@
       "title": "What Is a Reentrancy Attack in Smart Contracts?",
       "content_text": "Learn how reentrancy attacks work in smart contracts, why they break invariants, and how to prevent them with patterns, guards, audits, and tooling.",
       "date_published": "2025-09-17T23:00:00.0000000Z",
-      "date_modified": "2025-10-12T23:29:07.0576651Z"
+      "date_modified": "2025-10-13T00:43:24.8095659Z"
     },
     {
       "id": "https://pulsegeek.com/articles/what-is-a-microgrid-and-how-does-it-interact-with-the-utility-grid/",
@@ -75,7 +75,7 @@
       "title": "What Is a Microgrid and How Does It Interact with the Utility Grid?",
       "content_text": "Learn what a microgrid is, how it connects and coordinates with the utility grid, and where it adds value for reliability and resilience.",
       "date_published": "2025-08-21T18:00:00.0000000Z",
-      "date_modified": "2025-10-12T23:29:07.0574503Z"
+      "date_modified": "2025-10-13T00:43:24.8093114Z"
     },
     {
       "id": "https://pulsegeek.com/articles/what-is-a-blockexplorer-reading-on-chain-data-clearly/",
@@ -83,7 +83,7 @@
       "title": "What Is a Blockexplorer? Reading On\u2011Chain Data Clearly",
       "content_text": "Learn what a blockexplorer does, how to read on-chain data, and how explorers support security work like tracing funds, checking contract risks, and verifying transactions.",
       "date_published": "2025-09-17T23:00:00.0000000Z",
-      "date_modified": "2025-10-12T23:29:07.0570541Z"
+      "date_modified": "2025-10-13T00:43:24.8091021Z"
     },
     {
       "id": "https://pulsegeek.com/articles/what-does-permissionless-really-mean-in-web3/",
@@ -91,7 +91,7 @@
       "title": "What Does Permissionless Really Mean in Web3?",
       "content_text": "Explore what permissionless means in Web3, how open access affects safety, and which design patterns make trust-minimized contracts resilient without gatekeepers. Learn tradeoffs, examples, and practical safeguards.",
       "date_published": "2025-09-17T23:00:00.0000000Z",
-      "date_modified": "2025-10-12T23:29:07.0568224Z"
+      "date_modified": "2025-10-13T00:43:24.8088612Z"
     },
     {
       "id": "https://pulsegeek.com/articles/vehicle-to-grid-integration-standards-overview-ocpp-iso-15118-ieee-2030-5-and-grid-codes/",
@@ -99,7 +99,7 @@
       "title": "Vehicle\u2011to\u2011Grid Integration Standards Overview: OCPP, ISO 15118, IEEE 2030.5, and Grid Codes",
       "content_text": "Explore V2G standards with practical guidance on OCPP, ISO 15118, IEEE 2030.5, and grid codes for interoperable bidirectional charging.",
       "date_published": "2025-08-26T02:00:00.0000000Z",
-      "date_modified": "2025-10-12T23:29:07.0541859Z"
+      "date_modified": "2025-10-13T00:43:24.8085982Z"
     },
     {
       "id": "https://pulsegeek.com/articles/v2g-aggregator-business-models-revenue-stacks-and-regulatory-paths/",
@@ -107,7 +107,7 @@
       "title": "V2G Aggregator Business Models: Revenue Stacks and Regulatory Paths",
       "content_text": "Explore V2G aggregator business models, revenue stacks, and regulatory paths with actionable steps, standards context, and real project lessons.",
       "date_published": "2025-08-28T18:00:00.0000000Z",
-      "date_modified": "2025-10-12T23:29:07.0538748Z"
+      "date_modified": "2025-10-13T00:43:24.8082895Z"
     },
     {
       "id": "https://pulsegeek.com/articles/using-an-ai-virtual-assistant-routines-for-study-and-teaching/",
@@ -115,7 +115,7 @@
       "title": "Using an AI Virtual Assistant: Routines for Study and Teaching",
       "content_text": "Learn step by step routines to set up, prompt, and evaluate an AI virtual assistant for study sessions and teaching workflows, with templates, safeguards, and measurable outcomes.",
       "date_published": "2025-09-17T23:00:00.0000000Z",
-      "date_modified": "2025-10-12T23:29:07.0536379Z"
+      "date_modified": "2025-10-13T00:43:24.8080635Z"
     },
     {
       "id": "https://pulsegeek.com/articles/upgradeable-smart-contracts-proxies-storage-safety/",
@@ -123,7 +123,7 @@
       "title": "Upgradeable Smart Contracts: Proxies, Storage, Safety",
       "content_text": "Learn how to design upgradeable smart contracts using proxies, map storage safely, and run guarded upgrades with scripts, tests, and role checks.",
       "date_published": "2025-09-17T23:00:00.0000000Z",
-      "date_modified": "2025-10-12T23:29:07.0433756Z"
+      "date_modified": "2025-10-13T00:43:24.8078056Z"
     },
     {
       "id": "https://pulsegeek.com/articles/transaction-hash-explained-7-things-you-should-know/",
@@ -131,7 +131,7 @@
       "title": "Transaction Hash Explained: 7 Things You Should Know",
       "content_text": "Learn how a transaction hash works, why tiny input changes flip outputs, what collisions mean, how hashes link blocks, and how to verify one yourself.",
       "date_published": "2025-09-17T23:00:00.0000000Z",
-      "date_modified": "2025-10-12T23:29:07.0428145Z"
+      "date_modified": "2025-10-13T00:43:24.8075292Z"
     },
     {
       "id": "https://pulsegeek.com/articles/top-techniques-to-reduce-algorithmic-bias-in-practice/",
@@ -139,7 +139,7 @@
       "title": "Top Techniques to Reduce Algorithmic Bias in Practice",
       "content_text": "Learn practical, measurable techniques to reduce algorithmic bias, from choosing fairness metrics to data fixes, constraint-based training, and ongoing evaluation.",
       "date_published": "2025-08-22T18:02:00.0000000Z",
-      "date_modified": "2025-10-12T23:29:07.0422471Z"
+      "date_modified": "2025-10-13T00:43:24.8072328Z"
     },
     {
       "id": "https://pulsegeek.com/articles/top-model-interpretability-techniques-teams-rely-on/",
@@ -147,7 +147,7 @@
       "title": "Top Model Interpretability Techniques Teams Rely On",
       "content_text": "Explore practical interpretability techniques like SHAP, counterfactuals, and surrogate models to explain AI decisions and inform responsible deployment.",
       "date_published": "2025-08-28T18:02:00.0000000Z",
-      "date_modified": "2025-10-12T23:29:07.0420047Z"
+      "date_modified": "2025-10-13T00:43:24.8069861Z"
     },
     {
       "id": "https://pulsegeek.com/articles/top-methods-for-privacy-preserving-data-collection/",
@@ -155,7 +155,7 @@
       "title": "Top Methods for Privacy-Preserving Data Collection",
       "content_text": "Practical methods to collect data privately, including differential privacy, federated learning, synthetic data, and purpose-driven minimization with consent.",
       "date_published": "2025-08-16T18:02:00.0000000Z",
-      "date_modified": "2025-10-12T23:29:07.0417589Z"
+      "date_modified": "2025-10-13T00:43:24.8067386Z"
     },
     {
       "id": "https://pulsegeek.com/articles/top-load-flexibility-use-cases-for-c-and-i-and-residential-customers/",
@@ -163,7 +163,7 @@
       "title": "Top Load Flexibility Use Cases for C\u0026I and Residential Customers",
       "content_text": "Explore top load flexibility use cases for C\u0026I and residential customers, from HVAC and refrigeration to EVs and batteries, powered by AMI and DR.",
       "date_published": "2025-08-16T18:00:00.0000000Z",
-      "date_modified": "2025-10-12T23:29:07.0414814Z"
+      "date_modified": "2025-10-13T00:43:24.8065022Z"
     },
     {
       "id": "https://pulsegeek.com/articles/top-iec-cim-data-model-use-cases-for-utilities/",
@@ -171,7 +171,7 @@
       "title": "Top IEC CIM Data Model Use Cases for Utilities",
       "content_text": "Discover high\u2011impact IEC CIM use cases for utilities, from CGMES model exchange to ADMS integration and DER planning with IEEE 2030.5 mappings.",
       "date_published": "2025-08-22T02:00:00.0000000Z",
-      "date_modified": "2025-10-12T23:29:07.0412400Z"
+      "date_modified": "2025-10-13T00:43:24.8062804Z"
     },
     {
       "id": "https://pulsegeek.com/articles/top-benefits-of-ai-in-education-from-access-to-impact/",
@@ -179,7 +179,7 @@
       "title": "Top Benefits of AI in Education: From Access to Impact",
       "content_text": "See how AI strengthens teaching and learning with personalization, inclusion, timely feedback, and data-informed decisions, plus ethics and risks to watch as schools plan responsible adoption.",
       "date_published": "2025-09-17T23:00:00.0000000Z",
-      "date_modified": "2025-10-12T23:29:07.0407465Z"
+      "date_modified": "2025-10-13T00:43:24.8060527Z"
     },
     {
       "id": "https://pulsegeek.com/articles/top-alerts-and-dashboards-for-fairness-monitoring/",
@@ -187,7 +187,7 @@
       "title": "Top Alerts and Dashboards for Fairness Monitoring",
       "content_text": "Explore actionable alert patterns and dashboard designs that keep AI fairness measurable, explainable, and responsive across production systems.",
       "date_published": "2025-09-02T18:01:00.0000000Z",
-      "date_modified": "2025-10-12T23:29:07.0379254Z"
+      "date_modified": "2025-10-13T00:43:24.8057903Z"
     },
     {
       "id": "https://pulsegeek.com/articles/top-ai-powered-chatbots-for-learning-and-support/",
@@ -195,7 +195,7 @@
       "title": "Top AI-Powered Chatbots for Learning and Support",
       "content_text": "Explore AI-powered chatbot picks for tutoring, lesson planning, homework feedback, and classroom support. Compare strengths, privacy tradeoffs, and setup tips to match real learning goals.",
       "date_published": "2025-09-17T23:00:00.0000000Z",
-      "date_modified": "2025-10-12T23:29:07.0374557Z"
+      "date_modified": "2025-10-13T00:43:24.8055446Z"
     },
     {
       "id": "https://pulsegeek.com/articles/top-ai-governance-best-practices-for-real-programs/",
@@ -203,7 +203,7 @@
       "title": "Top AI Governance Best Practices for Real Programs",
       "content_text": "A practical list of AI governance best practices that anchor accountability, operationalize risk, and sustain monitoring across real programs.",
       "date_published": "2025-08-21T18:00:00.0000000Z",
-      "date_modified": "2025-10-12T23:29:07.0372036Z"
+      "date_modified": "2025-10-13T00:43:24.8052737Z"
     },
     {
       "id": "https://pulsegeek.com/articles/tools-for-visualizing-model-explanations-compared/",
@@ -211,7 +211,7 @@
       "title": "Tools for Visualizing Model Explanations, Compared",
       "content_text": "Compare practical tools for visualizing model explanations. Learn tradeoffs, workflows, and when to use SHAP, LIME, and interactive what-if dashboards.",
       "date_published": "2025-08-27T18:02:00.0000000Z",
-      "date_modified": "2025-10-12T23:29:07.0342995Z"
+      "date_modified": "2025-10-13T00:43:24.8050241Z"
     },
     {
       "id": "https://pulsegeek.com/articles/time-of-use-pricing-communication-via-ami-messaging-standards-and-customer-ux/",
@@ -219,7 +219,7 @@
       "title": "Time\u2011of\u2011Use Pricing Communication via AMI: Messaging, Standards, and Customer UX",
       "content_text": "How AMI delivers clear time-of-use pricing: customer messaging patterns, standards like IEEE 2030.5, and UX design linked to DR and forecasting.",
       "date_published": "2025-08-13T18:00:00.0000000Z",
-      "date_modified": "2025-10-12T23:29:07.0340963Z"
+      "date_modified": "2025-10-13T00:43:24.8047783Z"
     },
     {
       "id": "https://pulsegeek.com/articles/the-future-of-artificial-intelligence-in-education/",
@@ -227,7 +227,7 @@
       "title": "The Future of Artificial Intelligence in Education",
       "content_text": "Explore how AI will shape teaching, learning, and school operations. Understand benefits, risks, ethics, practical adoption steps, and scenarios that forecast the next decade of educational technology.",
       "date_published": "2025-09-17T23:00:00.0000000Z",
-      "date_modified": "2025-10-12T23:29:07.0338904Z"
+      "date_modified": "2025-10-13T00:43:24.8045529Z"
     },
     {
       "id": "https://pulsegeek.com/articles/synchrophasor-pmu-data-for-distribution-visibility-use-cases-and-integration-patterns/",
@@ -235,7 +235,7 @@
       "title": "Synchrophasor (PMU) Data for Distribution Visibility: Use Cases and Integration Patterns",
       "content_text": "Learn how PMU synchrophasors unlock distribution visibility, key use cases, and secure integration patterns across OT and IT systems.",
       "date_published": "2025-08-23T18:00:00.0000000Z",
-      "date_modified": "2025-10-12T23:29:07.0332014Z"
+      "date_modified": "2025-10-13T00:43:24.8042974Z"
     },
     {
       "id": "https://pulsegeek.com/articles/solidity-programming-tutorials-the-best-free-resources/",
@@ -243,7 +243,7 @@
       "title": "Solidity Programming Tutorials: The Best Free Resources",
       "content_text": "Learn Solidity with curated free tutorials, hands-on labs, safe code patterns, and security tips. Compare pathways, avoid common pitfalls, and practice with guided examples and exercises.",
       "date_published": "2025-09-17T23:00:00.0000000Z",
-      "date_modified": "2025-10-12T23:29:07.0327997Z"
+      "date_modified": "2025-10-13T00:43:24.8040714Z"
     },
     {
       "id": "https://pulsegeek.com/articles/smart-grid-interoperability-framework-architectures-models-and-standards-that-scale/",
@@ -251,7 +251,7 @@
       "title": "Smart Grid Interoperability Framework: Architectures, Models, and Standards That Scale",
       "content_text": "Design interoperable smart grids with layered architectures and standards like IEC 61850, CIM, and IEEE 2030.5. Practical models, tips, and roadmaps.",
       "date_published": "2025-08-14T02:00:00.0000000Z",
-      "date_modified": "2025-10-12T23:29:07.0323542Z"
+      "date_modified": "2025-10-13T00:43:24.8038200Z"
     },
     {
       "id": "https://pulsegeek.com/articles/smart-grid-integration-architectures-der-ami-v2g-and-interoperability-for-urban-utilities/",
@@ -259,7 +259,7 @@
       "title": "Smart Grid Integration: Architectures, DER, AMI, V2G, and Interoperability for Urban Utilities",
       "content_text": "Urban utilities guide to smart grid integration: architectures, DER, AMI, V2G, and interoperable data governance with real examples and standards.",
       "date_published": "2025-08-12T02:00:00.0000000Z",
-      "date_modified": "2025-10-12T23:29:07.0321075Z"
+      "date_modified": "2025-10-13T00:43:24.8035281Z"
     },
     {
       "id": "https://pulsegeek.com/articles/smart-grid-integration-architecture-reference-models-from-substation-to-cloud/",
@@ -267,7 +267,7 @@
       "title": "Smart Grid Integration Architecture: Reference Models from Substation to Cloud",
       "content_text": "Design interoperable smart grid integration architecture from substation to cloud with IEC 61850, CIM, and IEEE 2030.5 reference patterns.",
       "date_published": "2025-08-20T02:00:00.0000000Z",
-      "date_modified": "2025-10-12T23:29:07.0318719Z"
+      "date_modified": "2025-10-13T00:43:24.8032467Z"
     },
     {
       "id": "https://pulsegeek.com/articles/smart-contracts-in-rust-pros-cons-and-ecosystems/",
@@ -275,7 +275,7 @@
       "title": "Smart Contracts in Rust: Pros, Cons, and Ecosystems",
       "content_text": "Compare Rust smart contract ecosystems across Solana, CosmWasm, and ink!. Learn benefits, limitations, tooling, and when Rust is the right language for your on-chain project.",
       "date_published": "2025-09-17T23:00:00.0000000Z",
-      "date_modified": "2025-10-12T23:29:07.0316651Z"
+      "date_modified": "2025-10-13T00:43:24.8029955Z"
     },
     {
       "id": "https://pulsegeek.com/articles/smart-contracts-explained-from-code-to-on-chain-trust/",
@@ -283,7 +283,7 @@
       "title": "Smart Contracts Explained: From Code to On-Chain Trust",
       "content_text": "Learn how smart contracts work, why they matter, and how to design, secure, and operate them from development through on-chain trust and real use cases.",
       "date_published": "2025-09-05T23:00:00.0000000Z",
-      "date_modified": "2025-10-12T23:29:07.0310248Z"
+      "date_modified": "2025-10-13T00:43:24.8027288Z"
     },
     {
       "id": "https://pulsegeek.com/articles/smart-contract-vulnerabilities-the-common-pitfalls/",
@@ -291,7 +291,7 @@
       "title": "Smart Contract Vulnerabilities: The Common Pitfalls",
       "content_text": "Explore frequent smart contract vulnerabilities with clear examples, tradeoffs, and fixes. Learn auditing habits, guard patterns, and tools to reduce risk before mainnet deployment.",
       "date_published": "2025-09-17T23:00:00.0000000Z",
-      "date_modified": "2025-10-12T23:29:07.0307927Z"
+      "date_modified": "2025-10-13T00:43:24.8024348Z"
     },
     {
       "id": "https://pulsegeek.com/articles/smart-contract-testing-best-practices-that-catch-bugs/",
@@ -299,7 +299,7 @@
       "title": "Smart Contract Testing Best Practices That Catch Bugs",
       "content_text": "Learn pragmatic smart contract testing best practices that catch bugs early, reduce risk, and mirror real transaction flows. Threat model, write precise specs, use fuzz and invariants, and test deployments.",
       "date_published": "2025-09-17T23:00:00.0000000Z",
-      "date_modified": "2025-10-12T23:29:07.0305807Z"
+      "date_modified": "2025-10-13T00:43:24.8021743Z"
     },
     {
       "id": "https://pulsegeek.com/articles/smart-contract-security-pitfalls-12-gotchas-to-avoid/",
@@ -307,7 +307,7 @@
       "title": "Smart Contract Security Pitfalls: 12 Gotchas to Avoid",
       "content_text": "Avoid common smart contract pitfalls with practical defenses. Learn to prevent reentrancy, integer issues, signature misuse, fragile oracles, and key management mistakes for safer on-chain transactions.",
       "date_published": "2025-09-17T23:00:00.0000000Z",
-      "date_modified": "2025-10-12T23:29:07.0303657Z"
+      "date_modified": "2025-10-13T00:43:24.8019151Z"
     },
     {
       "id": "https://pulsegeek.com/articles/smart-contract-lifecycle-plan-test-deploy-maintain/",
@@ -315,7 +315,7 @@
       "title": "Smart Contract Lifecycle: Plan, Test, Deploy, Maintain",
       "content_text": "Learn the smart contract lifecycle from planning and specification to secure design, development, testing, deployment, and maintenance, with pitfalls, patterns, and practical steps that reduce risk and improve on-chain reliability.",
       "date_published": "2025-09-08T23:00:00.0000000Z",
-      "date_modified": "2025-10-12T23:29:07.0300831Z"
+      "date_modified": "2025-10-13T00:43:24.8015749Z"
     },
     {
       "id": "https://pulsegeek.com/articles/smart-contract-languages-choose-the-right-stack/",
@@ -323,7 +323,7 @@
       "title": "Smart Contract Languages: Choose the Right Stack",
       "content_text": "Learn how to pick smart contract languages and platforms with clear tradeoffs, safety practices, and ecosystem context. Compare EVM, Rust-based chains, Hyperledger, and Corda with practical guidance.",
       "date_published": "2025-09-17T23:00:00.0000000Z",
-      "date_modified": "2025-10-12T23:29:07.0298526Z"
+      "date_modified": "2025-10-13T00:43:24.8012958Z"
     },
     {
       "id": "https://pulsegeek.com/articles/smart-contract-design-patterns-for-resilient-systems/",
@@ -331,7 +331,7 @@
       "title": "Smart Contract Design Patterns for Resilient Systems",
       "content_text": "Learn core smart contract design patterns that improve reliability, upgradeability, and safe oracle interaction, with examples, tradeoffs, and practical checklists.",
       "date_published": "2025-09-17T23:00:00.0000000Z",
-      "date_modified": "2025-10-12T23:29:07.0296240Z"
+      "date_modified": "2025-10-13T00:43:24.8010354Z"
     },
     {
       "id": "https://pulsegeek.com/articles/smart-contract-auditing-basics-a-safe-start-checklist/",
@@ -339,7 +339,7 @@
       "title": "Smart Contract Auditing Basics: A Safe Start Checklist",
       "content_text": "Learn smart contract auditing basics with a practical, stepwise checklist. Scope risks, set up tooling, spot common flaws, test assumptions, and ship safer code.",
       "date_published": "2025-09-17T23:00:00.0000000Z",
-      "date_modified": "2025-10-12T23:29:07.0293811Z"
+      "date_modified": "2025-10-13T00:43:24.8007455Z"
     },
     {
       "id": "https://pulsegeek.com/articles/shap-vs-lime-choosing-the-right-explanation-method/",
@@ -347,7 +347,7 @@
       "title": "SHAP vs LIME: Choosing the Right Explanation Method",
       "content_text": "Compare SHAP and LIME across accuracy, stability, cost, and communication value. Learn when to choose each method and how to explain results.",
       "date_published": "2025-08-26T18:02:00.0000000Z",
-      "date_modified": "2025-10-12T23:29:07.0291734Z"
+      "date_modified": "2025-10-13T00:43:24.8005034Z"
     },
     {
       "id": "https://pulsegeek.com/articles/sha-256-in-blockchain-why-this-hash-still-matters/",
@@ -355,7 +355,7 @@
       "title": "SHA-256 in Blockchain: Why This Hash Still Matters",
       "content_text": "Learn how SHA-256 secures blockchains through preimage resistance, collision hardness, and hash-linked blocks. See why miners use double hashing and where alternatives like SHA-3 might fit next.",
       "date_published": "2025-09-17T23:00:00.0000000Z",
-      "date_modified": "2025-10-12T23:29:07.0289711Z"
+      "date_modified": "2025-10-13T00:43:24.8002750Z"
     },
     {
       "id": "https://pulsegeek.com/articles/setting-up-an-ai-oversight-committee-step-by-step/",
@@ -363,7 +363,7 @@
       "title": "Setting Up an AI Oversight Committee, Step by Step",
       "content_text": "Learn how to set up an AI oversight committee with clear mandate, structure, workflows, and metrics for accountable governance.",
       "date_published": "2025-08-18T18:00:00.0000000Z",
-      "date_modified": "2025-10-12T23:29:07.0287506Z"
+      "date_modified": "2025-10-13T00:43:24.8000335Z"
     },
     {
       "id": "https://pulsegeek.com/articles/security-controls-for-iec-61850-substations-a-defense-in-depth-checklist/",
@@ -371,7 +371,7 @@
       "title": "Security Controls for IEC 61850 Substations: A Defense\u2011in\u2011Depth Checklist",
       "content_text": "A practical, defense-in-depth checklist of security controls for IEC 61850 substations, spanning segmentation, identity, monitoring, and resilience.",
       "date_published": "2025-08-24T02:00:00.0000000Z",
-      "date_modified": "2025-10-12T23:29:07.0285336Z"
+      "date_modified": "2025-10-13T00:43:24.7997737Z"
     },
     {
       "id": "https://pulsegeek.com/articles/saidi-saifi-reliability-improvement-roadmap-high-impact-projects-and-metrics/",
@@ -379,7 +379,7 @@
       "title": "SAIDI/SAIFI Reliability Improvement Roadmap: High\u2011Impact Projects and Metrics",
       "content_text": "A focused roadmap to improve SAIDI and SAIFI with data governance, grid\u2011edge automation, and cybersecurity, plus metrics that drive dependable gains.",
       "date_published": "2025-08-22T18:00:00.0000000Z",
-      "date_modified": "2025-10-12T23:29:07.0254596Z"
+      "date_modified": "2025-10-13T00:43:24.7995245Z"
     },
     {
       "id": "https://pulsegeek.com/articles/risks-of-ai-in-education-bias-privacy-and-misuse/",
@@ -387,7 +387,7 @@
       "title": "Risks of AI in Education: Bias, Privacy, and Misuse",
       "content_text": "Learn the key risks of AI in education, from algorithmic bias and student privacy to misuse and overreliance, with practical guardrails, governance steps, and future-facing strategies to protect equity and learning outcomes.",
       "date_published": "2025-09-17T23:00:00.0000000Z",
-      "date_modified": "2025-10-12T23:29:07.0252694Z"
+      "date_modified": "2025-10-13T00:43:24.7992951Z"
     },
     {
       "id": "https://pulsegeek.com/articles/responsible-ai-kpis-and-monitoring-metrics-a-guide/",
@@ -395,7 +395,7 @@
       "title": "Responsible AI KPIs and Monitoring Metrics: A Guide",
       "content_text": "Define responsible AI KPIs and monitoring metrics, set fair thresholds, build dashboards, and connect alerts to governance and incident response.",
       "date_published": "2025-08-29T18:01:00.0000000Z",
-      "date_modified": "2025-10-12T23:29:07.0250497Z"
+      "date_modified": "2025-10-13T00:43:24.7990361Z"
     },
     {
       "id": "https://pulsegeek.com/articles/r3-corda-explained-contracts-flows-and-use-cases/",
@@ -403,7 +403,7 @@
       "title": "R3 Corda Explained: Contracts, Flows, and Use Cases",
       "content_text": "Learn how R3 Corda models smart contracts with states, contracts, and flows, how transactions achieve consensus, and where Corda fits best across real enterprise use cases.",
       "date_published": "2025-09-17T23:00:00.0000000Z",
-      "date_modified": "2025-10-12T23:29:07.0244041Z"
+      "date_modified": "2025-10-13T00:43:24.7987916Z"
     }
   ]
 }
