@@ -2,13 +2,69 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>PulseGeek</title>
   <id>https://pulsegeek.com/atom.xml</id>
-  <updated>2025-10-13T19:39:16Z</updated>
+  <updated>2025-10-14T14:19:00Z</updated>
   <link href="https://pulsegeek.com/atom.xml" rel="self" type="application/atom+xml" />
   <link href="https://pulsegeek.com" />
   <author>
     <name>PulseGeek</name>
   </author>
   <subtitle>Tech news, gaming, and geek culture in one pulse</subtitle>
+  <entry>
+    <title>AI Data Science for Phishing Detection: Step by Step</title>
+    <id>https://pulsegeek.com/articles/ai-data-science-for-phishing-detection-step-by-step/</id>
+    <link href="https://pulsegeek.com/articles/ai-data-science-for-phishing-detection-step-by-step/" />
+    <updated>2025-10-14T14:19:00Z</updated>
+    <summary type="html"><![CDATA[Learn how to plan, build, validate, and improve an AI data science workflow for phishing detection with clear steps, metrics, and safeguards.]]></summary>
+  </entry>
+  <entry>
+    <title>AI for Business Operations: Efficiency That Compounds</title>
+    <id>https://pulsegeek.com/articles/ai-for-business-operations-efficiency-that-compounds/</id>
+    <link href="https://pulsegeek.com/articles/ai-for-business-operations-efficiency-that-compounds/" />
+    <updated>2025-10-14T14:18:00Z</updated>
+    <summary type="html"><![CDATA[Learn how to apply AI for business operations with clear use cases, integration options, and metrics that compound efficiency while managing risk and governance across teams.]]></summary>
+  </entry>
+  <entry>
+    <title>Automate Invoice Processing with AI: From Inbox to ERP</title>
+    <id>https://pulsegeek.com/articles/automate-invoice-processing-with-ai-from-inbox-to-erp/</id>
+    <link href="https://pulsegeek.com/articles/automate-invoice-processing-with-ai-from-inbox-to-erp/" />
+    <updated>2025-10-14T14:17:00Z</updated>
+    <summary type="html"><![CDATA[Learn how to automate invoice processing with AI, from email intake to ERP posting, including data capture, validation, approvals, audit trails, and error handling.]]></summary>
+  </entry>
+  <entry>
+    <title>AI in Retail Business: Strategy to Pilot to Scale</title>
+    <id>https://pulsegeek.com/articles/ai-in-retail-business-strategy-to-pilot-to-scale/</id>
+    <link href="https://pulsegeek.com/articles/ai-in-retail-business-strategy-to-pilot-to-scale/" />
+    <updated>2025-10-14T14:16:00Z</updated>
+    <summary type="html"><![CDATA[Learn how retailers translate AI strategy into pilots and scale. Define value, choose data, pick sponsors, de-risk delivery, and govern models for durable results across merchandising, operations, and customer experience.]]></summary>
+  </entry>
+  <entry>
+    <title>Data Privacy for AI in Education: Questions Answered</title>
+    <id>https://pulsegeek.com/articles/data-privacy-for-ai-in-education-questions-answered/</id>
+    <link href="https://pulsegeek.com/articles/data-privacy-for-ai-in-education-questions-answered/" />
+    <updated>2025-10-14T14:15:00Z</updated>
+    <summary type="html"><![CDATA[Get clear answers on data privacy for AI in education. Learn what counts as student data, how to vet tools, set retention rules, and build safeguards.]]></summary>
+  </entry>
+  <entry>
+    <title>Why Merkle Proofs Matter: Lightweight Trust at Scale</title>
+    <id>https://pulsegeek.com/articles/why-merkle-proofs-matter-lightweight-trust-at-scale/</id>
+    <link href="https://pulsegeek.com/articles/why-merkle-proofs-matter-lightweight-trust-at-scale/" />
+    <updated>2025-10-14T14:14:00Z</updated>
+    <summary type="html"><![CDATA[Learn how Merkle proofs deliver compact verification for blocks and state. See how SPV clients, headers, and Patricia tries enable trust-minimized checks at network scale.]]></summary>
+  </entry>
+  <entry>
+    <title>Blockchain and Supply Chain: Traceability in Action</title>
+    <id>https://pulsegeek.com/articles/blockchain-and-supply-chain-traceability-in-action/</id>
+    <link href="https://pulsegeek.com/articles/blockchain-and-supply-chain-traceability-in-action/" />
+    <updated>2025-10-14T14:13:00Z</updated>
+    <summary type="html"><![CDATA[See how blockchain sharpens supply chain traceability with verifiable events, automated compliance, and finance tied to real movement. Practical steps, code, and tradeoffs for pilots that scale.]]></summary>
+  </entry>
+  <entry>
+    <title>Smart Street Light Control Systems: A Practical Configuration Guide</title>
+    <id>https://pulsegeek.com/articles/smart-street-light-control-systems-a-practical-configuration-guide/</id>
+    <link href="https://pulsegeek.com/articles/smart-street-light-control-systems-a-practical-configuration-guide/" />
+    <updated>2025-10-14T14:12:00Z</updated>
+    <summary type="html"><![CDATA[Learn how to plan, configure, and tune smart street light control systems. Compare sensor options, dimming profiles, and automation strategies for safe, efficient public lighting.]]></summary>
+  </entry>
   <entry>
     <title>AI Applications in Email Security: Patterns That Work</title>
     <id>https://pulsegeek.com/articles/ai-applications-in-email-security-patterns-that-work/</id>
@@ -20,14 +76,14 @@
     <title>AI Business Process Automation: Design, Pilot, Scale</title>
     <id>https://pulsegeek.com/articles/ai-business-process-automation-design-pilot-scale/</id>
     <link href="https://pulsegeek.com/articles/ai-business-process-automation-design-pilot-scale/" />
-    <updated>2025-10-13T14:18:00Z</updated>
+    <updated>2025-10-13T23:51:55Z</updated>
     <summary type="html"><![CDATA[Learn how to design, pilot, and scale AI business process automation with measurable impact. Use a stepwise method for use case selection, data readiness, integration, and governance.]]></summary>
   </entry>
   <entry>
     <title>AI in the Financial Sector: Operations at Scale</title>
     <id>https://pulsegeek.com/articles/ai-in-the-financial-sector-operations-at-scale/</id>
     <link href="https://pulsegeek.com/articles/ai-in-the-financial-sector-operations-at-scale/" />
-    <updated>2025-10-13T14:17:00Z</updated>
+    <updated>2025-10-13T23:51:55Z</updated>
     <summary type="html"><![CDATA[Learn how AI transforms financial sector operations with audit-ready automation, data controls, and decision frameworks to prioritize use cases, manage risks, and scale responsibly across core workflows.]]></summary>
   </entry>
   <entry>
@@ -41,14 +97,14 @@
     <title>What Is the Mempool? Where Transactions Wait Their Turn</title>
     <id>https://pulsegeek.com/articles/what-is-the-mempool-where-transactions-wait-their-turn/</id>
     <link href="https://pulsegeek.com/articles/what-is-the-mempool-where-transactions-wait-their-turn/" />
-    <updated>2025-10-13T14:14:00Z</updated>
+    <updated>2025-10-13T23:51:55Z</updated>
     <summary type="html"><![CDATA[Learn how the mempool works, why transactions queue, and how fees, priority, and propagation shape confirmation. See how proofs and light clients verify data efficiently.]]></summary>
   </entry>
   <entry>
     <title>Blockchain and IoT: Devices That Verify and Cooperate</title>
     <id>https://pulsegeek.com/articles/blockchain-and-iot-devices-that-verify-and-cooperate/</id>
     <link href="https://pulsegeek.com/articles/blockchain-and-iot-devices-that-verify-and-cooperate/" />
-    <updated>2025-10-13T14:13:00Z</updated>
+    <updated>2025-10-13T23:51:55Z</updated>
     <summary type="html"><![CDATA[Explore blockchain and IoT through practical smart contract use cases. See how devices attest data, trigger maintenance, enable metered billing, and coordinate fleets with verifiable trust.]]></summary>
   </entry>
   <entry>
@@ -62,28 +118,28 @@
     <title>Phishing Defense with NLP: A Complete Build Guide</title>
     <id>https://pulsegeek.com/articles/phishing-defense-with-nlp-a-complete-build-guide/</id>
     <link href="https://pulsegeek.com/articles/phishing-defense-with-nlp-a-complete-build-guide/" />
-    <updated>2025-10-13T09:12:00Z</updated>
+    <updated>2025-10-13T23:51:55Z</updated>
     <summary type="html"><![CDATA[Build an NLP-driven phishing defense from principles to practice. Learn data choices, features, workflows, evaluation, and deployment patterns that reduce risk while balancing precision, recall, and operational cost.]]></summary>
   </entry>
   <entry>
     <title>AI Business Automation: From Manual to Autonomous</title>
     <id>https://pulsegeek.com/articles/ai-business-automation-from-manual-to-autonomous/</id>
     <link href="https://pulsegeek.com/articles/ai-business-automation-from-manual-to-autonomous/" />
-    <updated>2025-10-13T19:39:16Z</updated>
+    <updated>2025-10-13T23:51:55Z</updated>
     <summary type="html"><![CDATA[A practical how-to for ai business automation. Map processes, set autonomy levels, build an orchestrator, add guardrails, and measure impact to scale confidently.]]></summary>
   </entry>
   <entry>
     <title>AI in the Finance Department: Roles, Skills, and Wins</title>
     <id>https://pulsegeek.com/articles/ai-in-the-finance-department-roles-skills-and-wins/</id>
     <link href="https://pulsegeek.com/articles/ai-in-the-finance-department-roles-skills-and-wins/" />
-    <updated>2025-10-13T19:39:16Z</updated>
+    <updated>2025-10-13T23:51:55Z</updated>
     <summary type="html"><![CDATA[Learn how AI reshapes the finance department. Define practical roles, upskill critical abilities, pick the right use cases, and avoid common pitfalls while keeping controls, accuracy, and audit trails in focus.]]></summary>
   </entry>
   <entry>
     <title>AI Retail Strategy: Trends, Examples, and Execution Playbooks</title>
     <id>https://pulsegeek.com/articles/ai-retail-strategy-trends-examples-execution-playbooks/</id>
     <link href="https://pulsegeek.com/articles/ai-retail-strategy-trends-examples-execution-playbooks/" />
-    <updated>2025-10-13T09:09:00Z</updated>
+    <updated>2025-10-13T23:51:55Z</updated>
     <summary type="html"><![CDATA[Learn how AI reshapes retail strategy with core concepts, proven examples, and practical execution playbooks that connect merchandising, pricing, and operations to measurable outcomes across channels.]]></summary>
   </entry>
   <entry>
@@ -97,14 +153,14 @@
     <title>Track a Transaction: Block Explorer Basics in Action</title>
     <id>https://pulsegeek.com/articles/track-a-transaction-block-explorer-basics-in-action/</id>
     <link href="https://pulsegeek.com/articles/track-a-transaction-block-explorer-basics-in-action/" />
-    <updated>2025-10-13T19:39:16Z</updated>
+    <updated>2025-10-13T23:51:55Z</updated>
     <summary type="html"><![CDATA[Learn how to track a transaction with a block explorer, read fees and confirmations, and verify integrity using hashes, Merkle roots, and practical proof concepts.]]></summary>
   </entry>
   <entry>
     <title>Blockchain and Healthcare: Privacy, Trust, and Data</title>
     <id>https://pulsegeek.com/articles/blockchain-and-healthcare-privacy-trust-and-data/</id>
     <link href="https://pulsegeek.com/articles/blockchain-and-healthcare-privacy-trust-and-data/" />
-    <updated>2025-10-13T19:39:16Z</updated>
+    <updated>2025-10-13T23:51:55Z</updated>
     <summary type="html"><![CDATA[See practical ways blockchain and healthcare intersect to protect privacy, build trust, and move data with consent. Explore consent proofs, automated claims, and trial integrity with real tradeoffs.]]></summary>
   </entry>
   <entry>
@@ -118,14 +174,14 @@
     <title>AI Business Applications: 30 Real-World Examples</title>
     <id>https://pulsegeek.com/articles/ai-business-applications-30-real-world-examples/</id>
     <link href="https://pulsegeek.com/articles/ai-business-applications-30-real-world-examples/" />
-    <updated>2025-10-13T19:39:16Z</updated>
+    <updated>2025-10-13T23:51:55Z</updated>
     <summary type="html"><![CDATA[Explore 30 AI business applications with practical examples, selection criteria, and tradeoffs. Learn where AI drives value, from sales and support to finance and operations.]]></summary>
   </entry>
   <entry>
     <title>AI in Finance: 20 Examples You Can Implement Fast</title>
     <id>https://pulsegeek.com/articles/ai-in-finance-20-examples-you-can-implement-fast/</id>
     <link href="https://pulsegeek.com/articles/ai-in-finance-20-examples-you-can-implement-fast/" />
-    <updated>2025-10-13T19:39:16Z</updated>
+    <updated>2025-10-13T23:51:55Z</updated>
     <summary type="html"><![CDATA[Explore 20 practical AI in finance examples that speed invoice handling, reconciliations, forecasting, and controls. Learn where to start, risks to manage, and how to show measurable value.]]></summary>
   </entry>
   <entry>
@@ -139,28 +195,28 @@
     <title>Patricia Merkle Tries: Compact State with Fast Proofs</title>
     <id>https://pulsegeek.com/articles/patricia-merkle-tries-compact-state-with-fast-proofs/</id>
     <link href="https://pulsegeek.com/articles/patricia-merkle-tries-compact-state-with-fast-proofs/" />
-    <updated>2025-10-13T19:39:16Z</updated>
+    <updated>2025-10-13T23:51:55Z</updated>
     <summary type="html"><![CDATA[Learn how Patricia Merkle tries compress blockchain state while enabling fast proofs, what the proof path contains, and how nodes and light clients verify data efficiently with minimal bandwidth.]]></summary>
   </entry>
   <entry>
     <title>Blockchain for Business: Real Use Cases and Fit</title>
     <id>https://pulsegeek.com/articles/blockchain-for-business-real-use-cases-and-fit/</id>
     <link href="https://pulsegeek.com/articles/blockchain-for-business-real-use-cases-and-fit/" />
-    <updated>2025-10-13T19:39:16Z</updated>
+    <updated>2025-10-13T23:51:55Z</updated>
     <summary type="html"><![CDATA[Learn how blockchain for business delivers value through real use cases, fit criteria, and risk tradeoffs. Explore supply chain, healthcare, IoT, insurance, and real estate with clear steps to evaluate adoption.]]></summary>
   </entry>
   <entry>
     <title>25 High-Value Uses of AI in Business You Can Start</title>
     <id>https://pulsegeek.com/articles/25-high-value-uses-of-ai-in-business-you-can-start/</id>
     <link href="https://pulsegeek.com/articles/25-high-value-uses-of-ai-in-business-you-can-start/" />
-    <updated>2025-10-13T19:39:16Z</updated>
+    <updated>2025-10-13T23:51:55Z</updated>
     <summary type="html"><![CDATA[Discover 25 practical uses of AI in business with clear impact, integration tips, and pitfalls to avoid. Start fast with low-risk pilots that scale across operations and functions.]]></summary>
   </entry>
   <entry>
     <title>AI in Finance and Accounting: 14 Workflows to Automate</title>
     <id>https://pulsegeek.com/articles/ai-in-finance-and-accounting-14-workflows-to-automate/</id>
     <link href="https://pulsegeek.com/articles/ai-in-finance-and-accounting-14-workflows-to-automate/" />
-    <updated>2025-10-13T19:39:16Z</updated>
+    <updated>2025-10-13T23:51:55Z</updated>
     <summary type="html"><![CDATA[Discover 14 finance and accounting workflows you can automate with AI, from invoices and expenses to reconciliations and dashboards, with controls and audit readiness built in.]]></summary>
   </entry>
   <entry>
@@ -174,7 +230,7 @@
     <title>Merkle Proof Explained: 8 Steps to Trust Minimalism</title>
     <id>https://pulsegeek.com/articles/merkle-proof-explained-8-steps-to-trust-minimalism/</id>
     <link href="https://pulsegeek.com/articles/merkle-proof-explained-8-steps-to-trust-minimalism/" />
-    <updated>2025-10-13T19:39:16Z</updated>
+    <updated>2025-10-13T23:51:55Z</updated>
     <summary type="html"><![CDATA[Learn how a Merkle proof works in eight clear steps. See leaves, paths, and roots, then verify inclusion with a compact Python check for trust-minimized validation.]]></summary>
   </entry>
   <entry>
@@ -188,14 +244,14 @@
     <title>AI for Operations: From Pilots to Scaled Execution</title>
     <id>https://pulsegeek.com/articles/ai-for-operations-from-pilots-to-scaled-execution/</id>
     <link href="https://pulsegeek.com/articles/ai-for-operations-from-pilots-to-scaled-execution/" />
-    <updated>2025-10-13T19:39:16Z</updated>
+    <updated>2025-10-13T23:51:55Z</updated>
     <summary type="html"><![CDATA[Turn pilots into reliable AI operations with clear use cases, robust integration, human oversight, and measurable ROI. Learn architectures, metrics, and governance patterns to scale safely and deliver compounding efficiency.]]></summary>
   </entry>
   <entry>
     <title>AI for Financial Operations: IDP, Controls, and Speed</title>
     <id>https://pulsegeek.com/articles/ai-for-financial-operations-idp-controls-and-speed/</id>
     <link href="https://pulsegeek.com/articles/ai-for-financial-operations-idp-controls-and-speed/" />
-    <updated>2025-10-13T19:39:16Z</updated>
+    <updated>2025-10-13T23:51:55Z</updated>
     <summary type="html"><![CDATA[Learn how AI streamlines financial operations using IDP, layered controls, and resilient workflows. Get selection criteria, governance patterns, and practical steps to deliver accuracy and speed at scale.]]></summary>
   </entry>
   <entry>
@@ -209,7 +265,7 @@
     <title>Mempool Mechanics: Fees, Priority, and Propagation</title>
     <id>https://pulsegeek.com/articles/mempool-mechanics-fees-priority-and-propagation/</id>
     <link href="https://pulsegeek.com/articles/mempool-mechanics-fees-priority-and-propagation/" />
-    <updated>2025-10-13T19:39:16Z</updated>
+    <updated>2025-10-13T23:51:55Z</updated>
     <summary type="html"><![CDATA[Learn how the mempool works across nodes, how fees set transaction priority, and how propagation, eviction, and RBF shape confirmation time and reliability.]]></summary>
   </entry>
   <entry>
@@ -237,7 +293,7 @@
     <title>Inside Block Headers: Structure, Fields, and Purpose</title>
     <id>https://pulsegeek.com/articles/inside-block-headers-structure-fields-and-purpose/</id>
     <link href="https://pulsegeek.com/articles/inside-block-headers-structure-fields-and-purpose/" />
-    <updated>2025-10-13T19:39:16Z</updated>
+    <updated>2025-10-13T23:51:55Z</updated>
     <summary type="html"><![CDATA[Learn how block headers are structured, what each field does, and why they secure linking, proofs, and efficient verification across Bitcoin and Ethereum.]]></summary>
   </entry>
   <entry>
@@ -258,7 +314,7 @@
     <title>How to Use a Block Explorer: Trace and Verify Steps</title>
     <id>https://pulsegeek.com/articles/how-to-use-a-block-explorer-trace-and-verify-steps/</id>
     <link href="https://pulsegeek.com/articles/how-to-use-a-block-explorer-trace-and-verify-steps/" />
-    <updated>2025-10-13T19:39:16Z</updated>
+    <updated>2025-10-13T23:51:55Z</updated>
     <summary type="html"><![CDATA[Learn how to use a block explorer to trace transactions, read block headers, verify Merkle proofs, and confirm status confidently with efficient checks.]]></summary>
   </entry>
   <entry>
@@ -279,7 +335,7 @@
     <title>Explore Block Headers: From Version to Merkle Root</title>
     <id>https://pulsegeek.com/articles/explore-block-headers-from-version-to-merkle-root/</id>
     <link href="https://pulsegeek.com/articles/explore-block-headers-from-version-to-merkle-root/" />
-    <updated>2025-10-13T19:39:16Z</updated>
+    <updated>2025-10-13T23:51:55Z</updated>
     <summary type="html"><![CDATA[Learn the block headers structure field by field, from version and previous hash to Merkle root, timestamp, target, and nonce. See how proofs anchor transactions and why light clients can verify fast.]]></summary>
   </entry>
   <entry>
@@ -293,7 +349,7 @@
     <title>Blockchain Transaction Trackers: Picking the Best Tool</title>
     <id>https://pulsegeek.com/articles/blockchain-transaction-trackers-picking-the-best-tool/</id>
     <link href="https://pulsegeek.com/articles/blockchain-transaction-trackers-picking-the-best-tool/" />
-    <updated>2025-10-13T19:39:16Z</updated>
+    <updated>2025-10-13T23:51:55Z</updated>
     <summary type="html"><![CDATA[Compare blockchain transaction trackers by data depth, proof models, UX, and privacy. Learn how Merkle and Patricia proofs back results and pick the right tool.]]></summary>
   </entry>
   <entry>
@@ -302,61 +358,5 @@
     <link href="https://pulsegeek.com/articles/blockchain-security-threat-models-tools-and-culture/" />
     <updated>2025-10-13T00:43:24Z</updated>
     <summary type="html"><![CDATA[Learn blockchain security from first principles. Map threat models, spot common vulnerabilities, run practical audits, and build a resilient engineering culture with the right tools.]]></summary>
-  </entry>
-  <entry>
-    <title>Using an AI Virtual Assistant: Routines for Study and Teaching</title>
-    <id>https://pulsegeek.com/articles/using-an-ai-virtual-assistant-routines-for-study-and-teaching/</id>
-    <link href="https://pulsegeek.com/articles/using-an-ai-virtual-assistant-routines-for-study-and-teaching/" />
-    <updated>2025-10-13T00:43:24Z</updated>
-    <summary type="html"><![CDATA[Learn step by step routines to set up, prompt, and evaluate an AI virtual assistant for study sessions and teaching workflows, with templates, safeguards, and measurable outcomes.]]></summary>
-  </entry>
-  <entry>
-    <title>Merkle Trees in Blockchains: Building Efficient Proofs</title>
-    <id>https://pulsegeek.com/articles/merkle-trees-in-blockchains-building-efficient-proofs/</id>
-    <link href="https://pulsegeek.com/articles/merkle-trees-in-blockchains-building-efficient-proofs/" />
-    <updated>2025-10-13T19:39:16Z</updated>
-    <summary type="html"><![CDATA[Learn how Merkle trees and Patricia tries enable efficient proofs, how inclusion checks work, and where headers anchor integrity for light clients and nodes.]]></summary>
-  </entry>
-  <entry>
-    <title>What Does Permissionless Really Mean in Web3?</title>
-    <id>https://pulsegeek.com/articles/what-does-permissionless-really-mean-in-web3/</id>
-    <link href="https://pulsegeek.com/articles/what-does-permissionless-really-mean-in-web3/" />
-    <updated>2025-10-13T00:43:24Z</updated>
-    <summary type="html"><![CDATA[Explore what permissionless means in Web3, how open access affects safety, and which design patterns make trust-minimized contracts resilient without gatekeepers. Learn tradeoffs, examples, and practical safeguards.]]></summary>
-  </entry>
-  <entry>
-    <title>Top AI-Powered Chatbots for Learning and Support</title>
-    <id>https://pulsegeek.com/articles/top-ai-powered-chatbots-for-learning-and-support/</id>
-    <link href="https://pulsegeek.com/articles/top-ai-powered-chatbots-for-learning-and-support/" />
-    <updated>2025-10-13T00:43:24Z</updated>
-    <summary type="html"><![CDATA[Explore AI-powered chatbot picks for tutoring, lesson planning, homework feedback, and classroom support. Compare strengths, privacy tradeoffs, and setup tips to match real learning goals.]]></summary>
-  </entry>
-  <entry>
-    <title>Transaction Hash Explained: 7 Things You Should Know</title>
-    <id>https://pulsegeek.com/articles/transaction-hash-explained-7-things-you-should-know/</id>
-    <link href="https://pulsegeek.com/articles/transaction-hash-explained-7-things-you-should-know/" />
-    <updated>2025-10-13T00:43:24Z</updated>
-    <summary type="html"><![CDATA[Learn how a transaction hash works, why tiny input changes flip outputs, what collisions mean, how hashes link blocks, and how to verify one yourself.]]></summary>
-  </entry>
-  <entry>
-    <title>Upgradeable Smart Contracts: Proxies, Storage, Safety</title>
-    <id>https://pulsegeek.com/articles/upgradeable-smart-contracts-proxies-storage-safety/</id>
-    <link href="https://pulsegeek.com/articles/upgradeable-smart-contracts-proxies-storage-safety/" />
-    <updated>2025-10-13T00:43:24Z</updated>
-    <summary type="html"><![CDATA[Learn how to design upgradeable smart contracts using proxies, map storage safely, and run guarded upgrades with scripts, tests, and role checks.]]></summary>
-  </entry>
-  <entry>
-    <title>Conversational AI in Education: Use Cases and Limits</title>
-    <id>https://pulsegeek.com/articles/conversational-ai-in-education-use-cases-and-limits/</id>
-    <link href="https://pulsegeek.com/articles/conversational-ai-in-education-use-cases-and-limits/" />
-    <updated>2025-10-13T00:43:24Z</updated>
-    <summary type="html"><![CDATA[Learn how conversational AI supports tutoring, feedback, and planning in classrooms, with practical workflows, safety guardrails, and evaluation methods that reduce risk while improving learning outcomes.]]></summary>
-  </entry>
-  <entry>
-    <title>SHA-256 in Blockchain: Why This Hash Still Matters</title>
-    <id>https://pulsegeek.com/articles/sha-256-in-blockchain-why-this-hash-still-matters/</id>
-    <link href="https://pulsegeek.com/articles/sha-256-in-blockchain-why-this-hash-still-matters/" />
-    <updated>2025-10-13T00:43:24Z</updated>
-    <summary type="html"><![CDATA[Learn how SHA-256 secures blockchains through preimage resistance, collision hardness, and hash-linked blocks. See why miners use double hashing and where alternatives like SHA-3 might fit next.]]></summary>
   </entry>
 </feed>
