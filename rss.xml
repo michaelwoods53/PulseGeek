@@ -6,7 +6,7 @@
     <description>Tech news, gaming, and geek culture in one pulse</description>
     <language>en-us</language>
     <generator>PulseGeek Rss Feed Generator</generator>
-    <lastBuildDate>Mon, 20 Oct 2025 14:18:00 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 20 Oct 2025 23:46:36 GMT</lastBuildDate>
     <atom:link href="https://pulsegeek.com/rss.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Frontier AI and Email Threats: Emerging Capabilities</title>
@@ -19,14 +19,14 @@
       <title>How AI Transforms Everyday Business Operations</title>
       <link>https://pulsegeek.com/articles/how-ai-transforms-everyday-business-operations/</link>
       <guid isPermaLink="true">https://pulsegeek.com/articles/how-ai-transforms-everyday-business-operations/</guid>
-      <pubDate>Mon, 20 Oct 2025 14:17:00 GMT</pubDate>
+      <pubDate>Wed, 17 Sep 2025 23:00:00 GMT</pubDate>
       <description>See how the use of artificial intelligence in business reshapes operations, from service and finance to supply chain, with integration patterns, risk controls, and measurable impact.</description>
     </item>
     <item>
       <title>Machine Learning in Finance: 15 Examples That Deliver</title>
       <link>https://pulsegeek.com/articles/machine-learning-in-finance-15-examples-that-deliver/</link>
       <guid isPermaLink="true">https://pulsegeek.com/articles/machine-learning-in-finance-15-examples-that-deliver/</guid>
-      <pubDate>Mon, 20 Oct 2025 14:16:00 GMT</pubDate>
+      <pubDate>Fri, 10 Oct 2025 04:02:00 GMT</pubDate>
       <description>Explore 15 practical machine learning finance examples with controls, data needs, and tradeoffs. See where ML improves accuracy, speed, and auditability across core operations.</description>
     </item>
     <item>
@@ -40,14 +40,14 @@
       <title>AI for Student Assessment: Fair, Fast, and Actionable</title>
       <link>https://pulsegeek.com/articles/ai-for-student-assessment-fair-fast-and-actionable/</link>
       <guid isPermaLink="true">https://pulsegeek.com/articles/ai-for-student-assessment-fair-fast-and-actionable/</guid>
-      <pubDate>Mon, 20 Oct 2025 14:14:00 GMT</pubDate>
+      <pubDate>Wed, 17 Sep 2025 23:00:00 GMT</pubDate>
       <description>Learn how to implement AI for student assessment that is fair, fast, and actionable. Set goals, structure evidence, build and validate models, and deliver feedback responsibly.</description>
     </item>
     <item>
       <title>VRF in Blockchains: Verifiable Randomness Explained</title>
       <link>https://pulsegeek.com/articles/vrf-in-blockchains-verifiable-randomness-explained/</link>
       <guid isPermaLink="true">https://pulsegeek.com/articles/vrf-in-blockchains-verifiable-randomness-explained/</guid>
-      <pubDate>Mon, 20 Oct 2025 14:13:00 GMT</pubDate>
+      <pubDate>Wed, 17 Sep 2025 23:00:00 GMT</pubDate>
       <description>Learn how verifiable random functions bring unbiased, tamper-evident randomness to blockchains, powering fair lotteries, secure leader election, and protocol design without trusted coordinators.</description>
     </item>
     <item>
@@ -68,14 +68,14 @@
       <title>Business Applications of AI: Where Value Comes First</title>
       <link>https://pulsegeek.com/articles/business-applications-of-ai-where-value-comes-first/</link>
       <guid isPermaLink="true">https://pulsegeek.com/articles/business-applications-of-ai-where-value-comes-first/</guid>
-      <pubDate>Sun, 19 Oct 2025 14:17:00 GMT</pubDate>
+      <pubDate>Wed, 17 Sep 2025 23:00:00 GMT</pubDate>
       <description>Learn where the business application of AI delivers measurable value, with patterns, integration paths, and metrics that translate ideas into outcomes.</description>
     </item>
     <item>
       <title>KPI Dashboard Automation with AI for CFO Teams</title>
       <link>https://pulsegeek.com/articles/kpi-dashboard-automation-with-ai-for-cfo-teams/</link>
       <guid isPermaLink="true">https://pulsegeek.com/articles/kpi-dashboard-automation-with-ai-for-cfo-teams/</guid>
-      <pubDate>Sun, 19 Oct 2025 14:16:00 GMT</pubDate>
+      <pubDate>Fri, 10 Oct 2025 04:02:00 GMT</pubDate>
       <description>Learn how CFO teams automate KPI dashboards with AI, from data mapping and governance to refresh pipelines, validation, and ongoing optimization with clear controls.</description>
     </item>
     <item>
@@ -89,14 +89,14 @@
       <title>AI and Machine Learning in Education: How They Differ</title>
       <link>https://pulsegeek.com/articles/ai-and-machine-learning-in-education-how-they-differ/</link>
       <guid isPermaLink="true">https://pulsegeek.com/articles/ai-and-machine-learning-in-education-how-they-differ/</guid>
-      <pubDate>Sun, 19 Oct 2025 14:14:00 GMT</pubDate>
+      <pubDate>Wed, 17 Sep 2025 23:00:00 GMT</pubDate>
       <description>Learn the difference between AI and machine learning in education, with practical examples for personalization, assessment, bias risks, governance, and implementation tradeoffs.</description>
     </item>
     <item>
       <title>Top Blockchain Network Types and How They Coordinate</title>
       <link>https://pulsegeek.com/articles/top-blockchain-network-types-and-how-they-coordinate/</link>
       <guid isPermaLink="true">https://pulsegeek.com/articles/top-blockchain-network-types-and-how-they-coordinate/</guid>
-      <pubDate>Sun, 19 Oct 2025 14:13:00 GMT</pubDate>
+      <pubDate>Wed, 17 Sep 2025 23:00:00 GMT</pubDate>
       <description>Explore public, permissioned, and committee-based blockchain network types. Learn how consensus, randomness beacons, and VRFs coordinate fairness for lotteries and leader election.</description>
     </item>
     <item>
@@ -216,7 +216,7 @@
       <link>https://pulsegeek.com/articles/ai-in-business-40-examples-that-deliver-results/</link>
       <guid isPermaLink="true">https://pulsegeek.com/articles/ai-in-business-40-examples-that-deliver-results/</guid>
       <pubDate>Wed, 17 Sep 2025 23:00:00 GMT</pubDate>
-      <description>Explore 40 practical AI in business examples across customer experience, marketing, finance, supply chain, and back office. Learn tradeoffs, integration tips, and how to measure results.</description>
+      <description>Explore 40 proven AI in business examples across sales, service, operations, HR, and finance. Learn impact ranges, integration tips, and governance guardrails.</description>
     </item>
     <item>
       <title>Document Automation in Finance with AI: Build It Right</title>
