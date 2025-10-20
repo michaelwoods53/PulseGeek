@@ -6,8 +6,106 @@
     <description>Tech news, gaming, and geek culture in one pulse</description>
     <language>en-us</language>
     <generator>PulseGeek Rss Feed Generator</generator>
-    <lastBuildDate>Sat, 18 Oct 2025 14:18:00 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 20 Oct 2025 14:18:00 GMT</lastBuildDate>
     <atom:link href="https://pulsegeek.com/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Frontier AI and Email Threats: Emerging Capabilities</title>
+      <link>https://pulsegeek.com/articles/frontier-ai-and-email-threats-emerging-capabilities/</link>
+      <guid isPermaLink="true">https://pulsegeek.com/articles/frontier-ai-and-email-threats-emerging-capabilities/</guid>
+      <pubDate>Mon, 20 Oct 2025 14:18:00 GMT</pubDate>
+      <description>Explore how frontier AI reshapes email threat detection with generative risks, defense frameworks, and practical signals. Learn decision lenses, examples, and limits for safer deployments.</description>
+    </item>
+    <item>
+      <title>How AI Transforms Everyday Business Operations</title>
+      <link>https://pulsegeek.com/articles/how-ai-transforms-everyday-business-operations/</link>
+      <guid isPermaLink="true">https://pulsegeek.com/articles/how-ai-transforms-everyday-business-operations/</guid>
+      <pubDate>Mon, 20 Oct 2025 14:17:00 GMT</pubDate>
+      <description>See how the use of artificial intelligence in business reshapes operations, from service and finance to supply chain, with integration patterns, risk controls, and measurable impact.</description>
+    </item>
+    <item>
+      <title>Machine Learning in Finance: 15 Examples That Deliver</title>
+      <link>https://pulsegeek.com/articles/machine-learning-in-finance-15-examples-that-deliver/</link>
+      <guid isPermaLink="true">https://pulsegeek.com/articles/machine-learning-in-finance-15-examples-that-deliver/</guid>
+      <pubDate>Mon, 20 Oct 2025 14:16:00 GMT</pubDate>
+      <description>Explore 15 practical machine learning finance examples with controls, data needs, and tradeoffs. See where ML improves accuracy, speed, and auditability across core operations.</description>
+    </item>
+    <item>
+      <title>Artificial Intelligence in Online Shopping: What Works</title>
+      <link>https://pulsegeek.com/articles/artificial-intelligence-in-online-shopping-what-works/</link>
+      <guid isPermaLink="true">https://pulsegeek.com/articles/artificial-intelligence-in-online-shopping-what-works/</guid>
+      <pubDate>Mon, 20 Oct 2025 14:15:00 GMT</pubDate>
+      <description>Learn what truly works with artificial intelligence in online shopping, from definitions and decision frameworks to scenarios, tradeoffs, and next steps retailers can act on.</description>
+    </item>
+    <item>
+      <title>AI for Student Assessment: Fair, Fast, and Actionable</title>
+      <link>https://pulsegeek.com/articles/ai-for-student-assessment-fair-fast-and-actionable/</link>
+      <guid isPermaLink="true">https://pulsegeek.com/articles/ai-for-student-assessment-fair-fast-and-actionable/</guid>
+      <pubDate>Mon, 20 Oct 2025 14:14:00 GMT</pubDate>
+      <description>Learn how to implement AI for student assessment that is fair, fast, and actionable. Set goals, structure evidence, build and validate models, and deliver feedback responsibly.</description>
+    </item>
+    <item>
+      <title>VRF in Blockchains: Verifiable Randomness Explained</title>
+      <link>https://pulsegeek.com/articles/vrf-in-blockchains-verifiable-randomness-explained/</link>
+      <guid isPermaLink="true">https://pulsegeek.com/articles/vrf-in-blockchains-verifiable-randomness-explained/</guid>
+      <pubDate>Mon, 20 Oct 2025 14:13:00 GMT</pubDate>
+      <description>Learn how verifiable random functions bring unbiased, tamper-evident randomness to blockchains, powering fair lotteries, secure leader election, and protocol design without trusted coordinators.</description>
+    </item>
+    <item>
+      <title>Intelligent Street Light Control System: Setup and Tuning</title>
+      <link>https://pulsegeek.com/articles/intelligent-street-light-control-system-setup-and-tuning/</link>
+      <guid isPermaLink="true">https://pulsegeek.com/articles/intelligent-street-light-control-system-setup-and-tuning/</guid>
+      <pubDate>Mon, 20 Oct 2025 14:12:00 GMT</pubDate>
+      <description>Step by step how to plan, configure, validate, and refine an intelligent street light control system for safer roads and lower energy use.</description>
+    </item>
+    <item>
+      <title>Email Threat Signals: AI Analytics Worth Tracking</title>
+      <link>https://pulsegeek.com/articles/email-threat-signals-ai-analytics-worth-tracking/</link>
+      <guid isPermaLink="true">https://pulsegeek.com/articles/email-threat-signals-ai-analytics-worth-tracking/</guid>
+      <pubDate>Sun, 19 Oct 2025 14:18:00 GMT</pubDate>
+      <description>Discover the email threat signals that matter for AI analytics, from authentication integrity to URLs, language intent, sender behavior, and attachments.</description>
+    </item>
+    <item>
+      <title>Business Applications of AI: Where Value Comes First</title>
+      <link>https://pulsegeek.com/articles/business-applications-of-ai-where-value-comes-first/</link>
+      <guid isPermaLink="true">https://pulsegeek.com/articles/business-applications-of-ai-where-value-comes-first/</guid>
+      <pubDate>Sun, 19 Oct 2025 14:17:00 GMT</pubDate>
+      <description>Learn where the business application of AI delivers measurable value, with patterns, integration paths, and metrics that translate ideas into outcomes.</description>
+    </item>
+    <item>
+      <title>KPI Dashboard Automation with AI for CFO Teams</title>
+      <link>https://pulsegeek.com/articles/kpi-dashboard-automation-with-ai-for-cfo-teams/</link>
+      <guid isPermaLink="true">https://pulsegeek.com/articles/kpi-dashboard-automation-with-ai-for-cfo-teams/</guid>
+      <pubDate>Sun, 19 Oct 2025 14:16:00 GMT</pubDate>
+      <description>Learn how CFO teams automate KPI dashboards with AI, from data mapping and governance to refresh pipelines, validation, and ongoing optimization with clear controls.</description>
+    </item>
+    <item>
+      <title>AI Trends in Retail: From Forecasting to Store Analytics</title>
+      <link>https://pulsegeek.com/articles/ai-trends-in-retail-from-forecasting-to-store-analytics/</link>
+      <guid isPermaLink="true">https://pulsegeek.com/articles/ai-trends-in-retail-from-forecasting-to-store-analytics/</guid>
+      <pubDate>Sun, 19 Oct 2025 14:15:00 GMT</pubDate>
+      <description>Explore seven AI trends reshaping retail, from demand forecasting and pricing to store analytics and workforce planning, with examples, tradeoffs, and practical next steps.</description>
+    </item>
+    <item>
+      <title>AI and Machine Learning in Education: How They Differ</title>
+      <link>https://pulsegeek.com/articles/ai-and-machine-learning-in-education-how-they-differ/</link>
+      <guid isPermaLink="true">https://pulsegeek.com/articles/ai-and-machine-learning-in-education-how-they-differ/</guid>
+      <pubDate>Sun, 19 Oct 2025 14:14:00 GMT</pubDate>
+      <description>Learn the difference between AI and machine learning in education, with practical examples for personalization, assessment, bias risks, governance, and implementation tradeoffs.</description>
+    </item>
+    <item>
+      <title>Top Blockchain Network Types and How They Coordinate</title>
+      <link>https://pulsegeek.com/articles/top-blockchain-network-types-and-how-they-coordinate/</link>
+      <guid isPermaLink="true">https://pulsegeek.com/articles/top-blockchain-network-types-and-how-they-coordinate/</guid>
+      <pubDate>Sun, 19 Oct 2025 14:13:00 GMT</pubDate>
+      <description>Explore public, permissioned, and committee-based blockchain network types. Learn how consensus, randomness beacons, and VRFs coordinate fairness for lotteries and leader election.</description>
+    </item>
+    <item>
+      <title>Intelligent Street Lamp: Features, Aesthetics, and Siting</title>
+      <link>https://pulsegeek.com/articles/intelligent-street-lamp-features-aesthetics-and-siting/</link>
+      <guid isPermaLink="true">https://pulsegeek.com/articles/intelligent-street-lamp-features-aesthetics-and-siting/</guid>
+      <pubDate>Sun, 19 Oct 2025 14:12:00 GMT</pubDate>
+      <description>Learn how intelligent street lamps blend features, aesthetics, and siting to improve safety and energy use while fitting local context. Get practical frameworks and examples.</description>
+    </item>
     <item>
       <title>Email Phishing Detection with ML: Practical Steps</title>
       <link>https://pulsegeek.com/articles/email-phishing-detection-with-ml-practical-steps/</link>
@@ -19,14 +117,14 @@
       <title>AI Solutions for Business: Choosing What Fits</title>
       <link>https://pulsegeek.com/articles/ai-solutions-for-business-choosing-what-fits/</link>
       <guid isPermaLink="true">https://pulsegeek.com/articles/ai-solutions-for-business-choosing-what-fits/</guid>
-      <pubDate>Sat, 18 Oct 2025 14:17:00 GMT</pubDate>
+      <pubDate>Wed, 17 Sep 2025 23:00:00 GMT</pubDate>
       <description>Compare AI solutions for business across build vs buy, integration patterns, governance, and measurement. Learn criteria, tradeoffs, and example workflows to make confident decisions.</description>
     </item>
     <item>
       <title>IDP vs RPA for Finance Document Workflows: Which Fits?</title>
       <link>https://pulsegeek.com/articles/idp-vs-rpa-for-finance-document-workflows-which-fits/</link>
       <guid isPermaLink="true">https://pulsegeek.com/articles/idp-vs-rpa-for-finance-document-workflows-which-fits/</guid>
-      <pubDate>Sat, 18 Oct 2025 14:16:00 GMT</pubDate>
+      <pubDate>Fri, 10 Oct 2025 04:02:00 GMT</pubDate>
       <description>Compare IDP and RPA for finance document workflows across accuracy, controls, cost, and scale. Learn when each approach fits and how to mix them safely.</description>
     </item>
     <item>
@@ -40,14 +138,14 @@
       <title>AI and Academic Integrity: Safeguards and Strategies</title>
       <link>https://pulsegeek.com/articles/ai-and-academic-integrity-safeguards-and-strategies/</link>
       <guid isPermaLink="true">https://pulsegeek.com/articles/ai-and-academic-integrity-safeguards-and-strategies/</guid>
-      <pubDate>Sat, 18 Oct 2025 14:14:00 GMT</pubDate>
+      <pubDate>Wed, 17 Sep 2025 23:00:00 GMT</pubDate>
       <description>Compare safeguards that protect academic integrity with AI. Learn how assessment design, proctoring models, data governance, and human review work together to deter misconduct and support fair learning.</description>
     </item>
     <item>
       <title>Randomness Beacons Explained: Fairness You Can Verify</title>
       <link>https://pulsegeek.com/articles/randomness-beacons-explained-fairness-you-can-verify/</link>
       <guid isPermaLink="true">https://pulsegeek.com/articles/randomness-beacons-explained-fairness-you-can-verify/</guid>
-      <pubDate>Sat, 18 Oct 2025 14:13:00 GMT</pubDate>
+      <pubDate>Wed, 17 Sep 2025 23:00:00 GMT</pubDate>
       <description>Learn how randomness beacons, entropy, and verifiable random functions deliver unbiased choices on blockchains for lotteries, leader election, and fair protocols.</description>
     </item>
     <item>
@@ -259,104 +357,6 @@
       <guid isPermaLink="true">https://pulsegeek.com/articles/blockchain-and-supply-chain-traceability-in-action/</guid>
       <pubDate>Wed, 17 Sep 2025 23:00:00 GMT</pubDate>
       <description>See how blockchain sharpens supply chain traceability with verifiable events, automated compliance, and finance tied to real movement. Practical steps, code, and tradeoffs for pilots that scale.</description>
-    </item>
-    <item>
-      <title>Smart Street Light Control Systems: A Practical Configuration Guide</title>
-      <link>https://pulsegeek.com/articles/smart-street-light-control-systems-a-practical-configuration-guide/</link>
-      <guid isPermaLink="true">https://pulsegeek.com/articles/smart-street-light-control-systems-a-practical-configuration-guide/</guid>
-      <pubDate>Tue, 14 Oct 2025 14:12:00 GMT</pubDate>
-      <description>Learn how to plan, configure, and tune smart street light control systems. Compare sensor options, dimming profiles, and automation strategies for safe, efficient public lighting.</description>
-    </item>
-    <item>
-      <title>AI Applications in Email Security: Patterns That Work</title>
-      <link>https://pulsegeek.com/articles/ai-applications-in-email-security-patterns-that-work/</link>
-      <guid isPermaLink="true">https://pulsegeek.com/articles/ai-applications-in-email-security-patterns-that-work/</guid>
-      <pubDate>Mon, 13 Oct 2025 14:19:00 GMT</pubDate>
-      <description>Explore proven AI applications in email security. Learn patterns for headers, URLs, content, attachments, graphs, reinforcement signals, and ensembles, with tradeoffs and real-world implementation tips.</description>
-    </item>
-    <item>
-      <title>AI Business Process Automation: Design, Pilot, Scale</title>
-      <link>https://pulsegeek.com/articles/ai-business-process-automation-design-pilot-scale/</link>
-      <guid isPermaLink="true">https://pulsegeek.com/articles/ai-business-process-automation-design-pilot-scale/</guid>
-      <pubDate>Wed, 17 Sep 2025 23:00:00 GMT</pubDate>
-      <description>Learn how to design, pilot, and scale AI business process automation with measurable impact. Use a stepwise method for use case selection, data readiness, integration, and governance.</description>
-    </item>
-    <item>
-      <title>AI in the Financial Sector: Operations at Scale</title>
-      <link>https://pulsegeek.com/articles/ai-in-the-financial-sector-operations-at-scale/</link>
-      <guid isPermaLink="true">https://pulsegeek.com/articles/ai-in-the-financial-sector-operations-at-scale/</guid>
-      <pubDate>Fri, 10 Oct 2025 04:02:00 GMT</pubDate>
-      <description>Learn how AI transforms financial sector operations with audit-ready automation, data controls, and decision frameworks to prioritize use cases, manage risks, and scale responsibly across core workflows.</description>
-    </item>
-    <item>
-      <title>AI in Retail and E‑Commerce: 15 Real-World Use Cases</title>
-      <link>https://pulsegeek.com/articles/ai-in-retail-and-e-commerce-15-real-world-use-cases/</link>
-      <guid isPermaLink="true">https://pulsegeek.com/articles/ai-in-retail-and-e-commerce-15-real-world-use-cases/</guid>
-      <pubDate>Mon, 13 Oct 2025 14:16:00 GMT</pubDate>
-      <description>Explore 15 practical AI use cases in retail and e-commerce, with examples, data inputs, and tradeoffs to guide teams from idea to rollout.</description>
-    </item>
-    <item>
-      <title>What Is the Mempool? Where Transactions Wait Their Turn</title>
-      <link>https://pulsegeek.com/articles/what-is-the-mempool-where-transactions-wait-their-turn/</link>
-      <guid isPermaLink="true">https://pulsegeek.com/articles/what-is-the-mempool-where-transactions-wait-their-turn/</guid>
-      <pubDate>Wed, 17 Sep 2025 23:00:00 GMT</pubDate>
-      <description>Learn how the mempool works, why transactions queue, and how fees, priority, and propagation shape confirmation. See how proofs and light clients verify data efficiently.</description>
-    </item>
-    <item>
-      <title>Blockchain and IoT: Devices That Verify and Cooperate</title>
-      <link>https://pulsegeek.com/articles/blockchain-and-iot-devices-that-verify-and-cooperate/</link>
-      <guid isPermaLink="true">https://pulsegeek.com/articles/blockchain-and-iot-devices-that-verify-and-cooperate/</guid>
-      <pubDate>Wed, 17 Sep 2025 23:00:00 GMT</pubDate>
-      <description>Explore blockchain and IoT through practical smart contract use cases. See how devices attest data, trigger maintenance, enable metered billing, and coordinate fleets with verifiable trust.</description>
-    </item>
-    <item>
-      <title>Intelligent Street Lighting: How It Works and Why It Matters</title>
-      <link>https://pulsegeek.com/articles/intelligent-street-lighting-how-it-works-and-why-it-matters/</link>
-      <guid isPermaLink="true">https://pulsegeek.com/articles/intelligent-street-lighting-how-it-works-and-why-it-matters/</guid>
-      <pubDate>Mon, 13 Oct 2025 14:12:00 GMT</pubDate>
-      <description>Understand intelligent street lighting from pole to cloud, including controls, networks, benefits, and operating models that scale from pilots to citywide reliability.</description>
-    </item>
-    <item>
-      <title>Phishing Defense with NLP: A Complete Build Guide</title>
-      <link>https://pulsegeek.com/articles/phishing-defense-with-nlp-a-complete-build-guide/</link>
-      <guid isPermaLink="true">https://pulsegeek.com/articles/phishing-defense-with-nlp-a-complete-build-guide/</guid>
-      <pubDate>Mon, 13 Oct 2025 09:12:00 GMT</pubDate>
-      <description>Build an NLP-driven phishing defense from principles to practice. Learn data choices, features, workflows, evaluation, and deployment patterns that reduce risk while balancing precision, recall, and operational cost.</description>
-    </item>
-    <item>
-      <title>AI Business Automation: From Manual to Autonomous</title>
-      <link>https://pulsegeek.com/articles/ai-business-automation-from-manual-to-autonomous/</link>
-      <guid isPermaLink="true">https://pulsegeek.com/articles/ai-business-automation-from-manual-to-autonomous/</guid>
-      <pubDate>Wed, 17 Sep 2025 23:00:00 GMT</pubDate>
-      <description>A practical how-to for ai business automation. Map processes, set autonomy levels, build an orchestrator, add guardrails, and measure impact to scale confidently.</description>
-    </item>
-    <item>
-      <title>AI in the Finance Department: Roles, Skills, and Wins</title>
-      <link>https://pulsegeek.com/articles/ai-in-the-finance-department-roles-skills-and-wins/</link>
-      <guid isPermaLink="true">https://pulsegeek.com/articles/ai-in-the-finance-department-roles-skills-and-wins/</guid>
-      <pubDate>Fri, 10 Oct 2025 04:02:00 GMT</pubDate>
-      <description>Learn how AI reshapes the finance department. Define practical roles, upskill critical abilities, pick the right use cases, and avoid common pitfalls while keeping controls, accuracy, and audit trails in focus.</description>
-    </item>
-    <item>
-      <title>AI Retail Strategy: Trends, Examples, and Execution Playbooks</title>
-      <link>https://pulsegeek.com/articles/ai-retail-strategy-trends-examples-execution-playbooks/</link>
-      <guid isPermaLink="true">https://pulsegeek.com/articles/ai-retail-strategy-trends-examples-execution-playbooks/</guid>
-      <pubDate>Mon, 13 Oct 2025 09:09:00 GMT</pubDate>
-      <description>Learn how AI reshapes retail strategy with core concepts, proven examples, and practical execution playbooks that connect merchandising, pricing, and operations to measurable outcomes across channels.</description>
-    </item>
-    <item>
-      <title>Cloud AI for Education: Architecture, Costs, and Control</title>
-      <link>https://pulsegeek.com/articles/cloud-ai-for-education-architecture-costs-and-control/</link>
-      <guid isPermaLink="true">https://pulsegeek.com/articles/cloud-ai-for-education-architecture-costs-and-control/</guid>
-      <pubDate>Wed, 17 Sep 2025 23:00:00 GMT</pubDate>
-      <description>Plan cloud AI for schools with a practical reference architecture, cost models, and governance controls that protect student data while scaling instruction and operations responsibly.</description>
-    </item>
-    <item>
-      <title>Track a Transaction: Block Explorer Basics in Action</title>
-      <link>https://pulsegeek.com/articles/track-a-transaction-block-explorer-basics-in-action/</link>
-      <guid isPermaLink="true">https://pulsegeek.com/articles/track-a-transaction-block-explorer-basics-in-action/</guid>
-      <pubDate>Wed, 17 Sep 2025 23:00:00 GMT</pubDate>
-      <description>Learn how to track a transaction with a block explorer, read fees and confirmations, and verify integrity using hashes, Merkle roots, and practical proof concepts.</description>
     </item>
   </channel>
 </rss>
