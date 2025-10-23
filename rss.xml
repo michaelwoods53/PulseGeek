@@ -6,8 +6,57 @@
     <description>Tech news, gaming, and geek culture in one pulse</description>
     <language>en-us</language>
     <generator>PulseGeek Rss Feed Generator</generator>
-    <lastBuildDate>Wed, 22 Oct 2025 14:18:00 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 23 Oct 2025 14:18:00 GMT</lastBuildDate>
     <atom:link href="https://pulsegeek.com/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Spear Phishing Detection: AI Features That Matter</title>
+      <link>https://pulsegeek.com/articles/spear-phishing-detection-ai-features-that-matter/</link>
+      <guid isPermaLink="true">https://pulsegeek.com/articles/spear-phishing-detection-ai-features-that-matter/</guid>
+      <pubDate>Thu, 23 Oct 2025 14:18:00 GMT</pubDate>
+      <description>Discover spear phishing detection features that matter for AI models, with concrete examples, tradeoffs, and practical signals spanning content, sender, headers, URLs, and behavior.</description>
+    </item>
+    <item>
+      <title>Implementing AI in Business: A Step-by-Step Playbook</title>
+      <link>https://pulsegeek.com/articles/implementing-ai-in-business-a-step-by-step-playbook/</link>
+      <guid isPermaLink="true">https://pulsegeek.com/articles/implementing-ai-in-business-a-step-by-step-playbook/</guid>
+      <pubDate>Thu, 23 Oct 2025 14:17:00 GMT</pubDate>
+      <description>Follow a practical playbook for implementing AI in business. Identify high-value use cases, assess data and risk, integrate solutions, run pilots, measure impact, and scale responsibly.</description>
+    </item>
+    <item>
+      <title>Vendor Invoice Matching with ML: Reduce Exceptions Fast</title>
+      <link>https://pulsegeek.com/articles/vendor-invoice-matching-with-ml-reduce-exceptions-fast/</link>
+      <guid isPermaLink="true">https://pulsegeek.com/articles/vendor-invoice-matching-with-ml-reduce-exceptions-fast/</guid>
+      <pubDate>Thu, 23 Oct 2025 14:16:00 GMT</pubDate>
+      <description>Learn how to implement machine learning for vendor invoice matching in accounting. Plan data, configure models, validate results, and reduce exceptions with controls and auditability.</description>
+    </item>
+    <item>
+      <title>Plan AI Projects in Retail Operations: Roadmaps That Work</title>
+      <link>https://pulsegeek.com/articles/plan-ai-projects-in-retail-operations-roadmaps-that-work/</link>
+      <guid isPermaLink="true">https://pulsegeek.com/articles/plan-ai-projects-in-retail-operations-roadmaps-that-work/</guid>
+      <pubDate>Thu, 23 Oct 2025 14:15:00 GMT</pubDate>
+      <description>Learn how to plan AI projects in retail operations with a proven roadmap. Scope problems, ready data, execute pilots, validate results, and scale responsibly.</description>
+    </item>
+    <item>
+      <title>The Future of AI in Learning: Adaptive, Fair, and Trusted</title>
+      <link>https://pulsegeek.com/articles/the-future-of-ai-in-learning-adaptive-fair-and-trusted/</link>
+      <guid isPermaLink="true">https://pulsegeek.com/articles/the-future-of-ai-in-learning-adaptive-fair-and-trusted/</guid>
+      <pubDate>Thu, 23 Oct 2025 14:14:00 GMT</pubDate>
+      <description>Explore the future of AI in learning with adaptive paths, fair assessment, and integrity safeguards, plus clear ties to machine learning concepts and practical rollout steps.</description>
+    </item>
+    <item>
+      <title>Mina Crypto: 9 Reasons ZK Natives Are Watching</title>
+      <link>https://pulsegeek.com/articles/mina-crypto-9-reasons-zk-natives-are-watching/</link>
+      <guid isPermaLink="true">https://pulsegeek.com/articles/mina-crypto-9-reasons-zk-natives-are-watching/</guid>
+      <pubDate>Thu, 23 Oct 2025 14:13:00 GMT</pubDate>
+      <description>Explore why ZK builders track Mina crypto. Learn how a tiny chain, recursive proofs, and private zkApps enable verifiable compute, light clients, and practical privacy tradeoffs.</description>
+    </item>
+    <item>
+      <title>Sensor Street Lamp: Choosing Motion, Ambient, and Radar</title>
+      <link>https://pulsegeek.com/articles/sensor-street-lamp-choosing-motion-ambient-and-radar/</link>
+      <guid isPermaLink="true">https://pulsegeek.com/articles/sensor-street-lamp-choosing-motion-ambient-and-radar/</guid>
+      <pubDate>Thu, 23 Oct 2025 14:12:00 GMT</pubDate>
+      <description>Learn how to choose motion, ambient light, and radar sensors for street lamps, including placement rules, tuning ranges, and control logic tradeoffs for safety and savings.</description>
+    </item>
     <item>
       <title>Open Artificial Intelligence in Email Security</title>
       <link>https://pulsegeek.com/articles/open-artificial-intelligence-in-email-security/</link>
@@ -19,14 +68,14 @@
       <title>How to Implement AI in Business: A Practical Guide</title>
       <link>https://pulsegeek.com/articles/how-to-implement-ai-in-business-a-practical-guide/</link>
       <guid isPermaLink="true">https://pulsegeek.com/articles/how-to-implement-ai-in-business-a-practical-guide/</guid>
-      <pubDate>Wed, 22 Oct 2025 14:17:00 GMT</pubDate>
+      <pubDate>Wed, 17 Sep 2025 23:00:00 GMT</pubDate>
       <description>Learn how to implement AI in business with a practical roadmap that selects the right use cases, integrates responsibly, measures outcomes, and scales value.</description>
     </item>
     <item>
       <title>Use AI for Account Reconciliation: A Practical Blueprint</title>
       <link>https://pulsegeek.com/articles/use-ai-for-account-reconciliation-a-practical-blueprint/</link>
       <guid isPermaLink="true">https://pulsegeek.com/articles/use-ai-for-account-reconciliation-a-practical-blueprint/</guid>
-      <pubDate>Wed, 22 Oct 2025 14:16:00 GMT</pubDate>
+      <pubDate>Fri, 10 Oct 2025 04:02:00 GMT</pubDate>
       <description>Learn a step-by-step method to use AI for account reconciliation, from planning and data prep to matching logic, validation, and controls, with examples and troubleshooting tips for finance teams.</description>
     </item>
     <item>
@@ -40,14 +89,14 @@
       <title>Personalized Learning with AI: Design Blueprints That Work</title>
       <link>https://pulsegeek.com/articles/personalized-learning-with-ai-design-blueprints-that-work/</link>
       <guid isPermaLink="true">https://pulsegeek.com/articles/personalized-learning-with-ai-design-blueprints-that-work/</guid>
-      <pubDate>Wed, 22 Oct 2025 14:14:00 GMT</pubDate>
+      <pubDate>Wed, 17 Sep 2025 23:00:00 GMT</pubDate>
       <description>Learn a practical blueprint for personalized learning with AI. Define outcomes and signals, build adaptive paths, design fair assessments, and measure impact while safeguarding privacy and academic integrity.</description>
     </item>
     <item>
       <title>Zero-Knowledge Proofs: Privacy and Proof Without Sharing</title>
       <link>https://pulsegeek.com/articles/zero-knowledge-proofs-privacy-and-proof-without-sharing/</link>
       <guid isPermaLink="true">https://pulsegeek.com/articles/zero-knowledge-proofs-privacy-and-proof-without-sharing/</guid>
-      <pubDate>Wed, 22 Oct 2025 14:13:00 GMT</pubDate>
+      <pubDate>Wed, 17 Sep 2025 23:00:00 GMT</pubDate>
       <description>Learn how zero knowledge proofs deliver privacy and compression by proving facts without revealing data, and see where SNARKs, STARKs, and rollups fit. Practical guidance, choices, and pitfalls for builders.</description>
     </item>
     <item>
@@ -68,14 +117,14 @@
       <title>How Do You Measure AI Impact in Operations?</title>
       <link>https://pulsegeek.com/articles/how-do-you-measure-ai-impact-in-operations/</link>
       <guid isPermaLink="true">https://pulsegeek.com/articles/how-do-you-measure-ai-impact-in-operations/</guid>
-      <pubDate>Tue, 21 Oct 2025 14:17:00 GMT</pubDate>
+      <pubDate>Wed, 17 Sep 2025 23:00:00 GMT</pubDate>
       <description>Learn how to measure AI impact in operations using baselines, counterfactuals, quality metrics, and ROI models. Get practical methods for attribution, risk tracking, and scaling effects.</description>
     </item>
     <item>
       <title>Policy and Control Checks Automated by AI in Finance</title>
       <link>https://pulsegeek.com/articles/policy-and-control-checks-automated-by-ai-in-finance/</link>
       <guid isPermaLink="true">https://pulsegeek.com/articles/policy-and-control-checks-automated-by-ai-in-finance/</guid>
-      <pubDate>Tue, 21 Oct 2025 14:16:00 GMT</pubDate>
+      <pubDate>Fri, 10 Oct 2025 04:02:00 GMT</pubDate>
       <description>Learn how AI automates finance policy and control checks with auditable rules, real-time validation, and risk scoring while preserving compliance and speed.</description>
     </item>
     <item>
@@ -89,14 +138,14 @@
       <title>Human-AI Collaboration in Learning: Where Each Excels</title>
       <link>https://pulsegeek.com/articles/human-ai-collaboration-in-learning-where-each-excels/</link>
       <guid isPermaLink="true">https://pulsegeek.com/articles/human-ai-collaboration-in-learning-where-each-excels/</guid>
-      <pubDate>Tue, 21 Oct 2025 14:14:00 GMT</pubDate>
+      <pubDate>Wed, 17 Sep 2025 23:00:00 GMT</pubDate>
       <description>See where human educators and AI each excel in learning, with concrete workflows for personalization, fair assessment, feedback quality, and academic integrity.</description>
     </item>
     <item>
       <title>What Is a Distributed Ledger? Shared Records at Scale</title>
       <link>https://pulsegeek.com/articles/what-is-a-distributed-ledger-shared-records-at-scale/</link>
       <guid isPermaLink="true">https://pulsegeek.com/articles/what-is-a-distributed-ledger-shared-records-at-scale/</guid>
-      <pubDate>Tue, 21 Oct 2025 14:13:00 GMT</pubDate>
+      <pubDate>Wed, 17 Sep 2025 23:00:00 GMT</pubDate>
       <description>Learn how distributed ledgers maintain shared records at scale. Explore data structures, consensus, and the role of randomness for lotteries, leader election, and protocol fairness.</description>
     </item>
     <item>
@@ -308,55 +357,6 @@
       <guid isPermaLink="true">https://pulsegeek.com/articles/detecting-malicious-attachments-with-deep-learning/</guid>
       <pubDate>Thu, 16 Oct 2025 14:19:00 GMT</pubDate>
       <description>Learn how deep learning analyzes email attachments safely, from byte-level models to evaluation benchmarks, with tradeoffs for speed, accuracy, and deployment.</description>
-    </item>
-    <item>
-      <title>AI in Business: 40 Examples That Deliver Results</title>
-      <link>https://pulsegeek.com/articles/ai-in-business-40-examples-that-deliver-results/</link>
-      <guid isPermaLink="true">https://pulsegeek.com/articles/ai-in-business-40-examples-that-deliver-results/</guid>
-      <pubDate>Wed, 17 Sep 2025 23:00:00 GMT</pubDate>
-      <description>Explore 40 proven AI in business examples across sales, service, operations, HR, and finance. Learn impact ranges, integration tips, and governance guardrails.</description>
-    </item>
-    <item>
-      <title>Document Automation in Finance with AI: Build It Right</title>
-      <link>https://pulsegeek.com/articles/document-automation-in-finance-with-ai-build-it-right/</link>
-      <guid isPermaLink="true">https://pulsegeek.com/articles/document-automation-in-finance-with-ai-build-it-right/</guid>
-      <pubDate>Fri, 10 Oct 2025 04:02:00 GMT</pubDate>
-      <description>Learn how to design, deploy, and validate AI-driven document automation for finance with controls, auditable workflows, and measurable accuracy improvements across invoices, expenses, and reconciliations.</description>
-    </item>
-    <item>
-      <title>AI in Retail Examples: 20 Initiatives Delivering ROI</title>
-      <link>https://pulsegeek.com/articles/ai-in-retail-examples-20-initiatives-delivering-roi/</link>
-      <guid isPermaLink="true">https://pulsegeek.com/articles/ai-in-retail-examples-20-initiatives-delivering-roi/</guid>
-      <pubDate>Thu, 16 Oct 2025 14:16:00 GMT</pubDate>
-      <description>See 20 practical AI in retail examples delivering measurable ROI. Learn where to start, what data matters, and pitfalls to avoid across merchandising and operations.</description>
-    </item>
-    <item>
-      <title>Entropy Sources in Blockchain: Gathering True Random</title>
-      <link>https://pulsegeek.com/articles/entropy-sources-in-blockchain-gathering-true-random/</link>
-      <guid isPermaLink="true">https://pulsegeek.com/articles/entropy-sources-in-blockchain-gathering-true-random/</guid>
-      <pubDate>Wed, 17 Sep 2025 23:00:00 GMT</pubDate>
-      <description>Learn how to gather, mix, and verify entropy sources in blockchain systems using VRFs, beacons, and commit reveal to secure lotteries, leader selection, and fair protocol outcomes.</description>
-    </item>
-    <item>
-      <title>Smart Contracts in Insurance: Models and Trade‑offs</title>
-      <link>https://pulsegeek.com/articles/smart-contracts-in-insurance-models-and-trade-offs/</link>
-      <guid isPermaLink="true">https://pulsegeek.com/articles/smart-contracts-in-insurance-models-and-trade-offs/</guid>
-      <pubDate>Wed, 17 Sep 2025 23:00:00 GMT</pubDate>
-      <description>Compare smart contract models for insurance, from parametric payouts to automated escrow. Learn data, oracle, privacy, and governance trade-offs to design safe, compliant deployments.</description>
-    </item>
-    <item>
-      <title>Automatic Smart Street Light: Design and Field Tips</title>
-      <link>https://pulsegeek.com/articles/automatic-smart-street-light-design-and-field-tips/</link>
-      <guid isPermaLink="true">https://pulsegeek.com/articles/automatic-smart-street-light-design-and-field-tips/</guid>
-      <pubDate>Thu, 16 Oct 2025 14:12:00 GMT</pubDate>
-      <description>Learn how to design automatic smart street lights that balance safety, savings, and maintainability with clear frameworks, examples, and field-ready decision criteria.</description>
-    </item>
-    <item>
-      <title>Build a Phishing URL Classification Model in Steps</title>
-      <link>https://pulsegeek.com/articles/build-a-phishing-url-classification-model-in-steps/</link>
-      <guid isPermaLink="true">https://pulsegeek.com/articles/build-a-phishing-url-classification-model-in-steps/</guid>
-      <pubDate>Wed, 15 Oct 2025 14:19:00 GMT</pubDate>
-      <description>Follow a practical workflow to design, train, and deploy a phishing URL classification model, with features, metrics, validation, and safe troubleshooting guidance.</description>
     </item>
   </channel>
 </rss>
