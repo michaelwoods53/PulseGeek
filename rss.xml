@@ -6,8 +6,50 @@
     <description>Tech news, gaming, and geek culture in one pulse</description>
     <language>en-us</language>
     <generator>PulseGeek Rss Feed Generator</generator>
-    <lastBuildDate>Thu, 23 Oct 2025 14:18:00 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 24 Oct 2025 14:17:00 GMT</lastBuildDate>
     <atom:link href="https://pulsegeek.com/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Text Classification Techniques for Phishing Emails</title>
+      <link>https://pulsegeek.com/articles/text-classification-techniques-for-phishing-emails/</link>
+      <guid isPermaLink="true">https://pulsegeek.com/articles/text-classification-techniques-for-phishing-emails/</guid>
+      <pubDate>Fri, 24 Oct 2025 14:17:00 GMT</pubDate>
+      <description>Explore eleven proven text classification techniques for phishing emails, with examples, tradeoffs, and practical guidance for reliable detection.</description>
+    </item>
+    <item>
+      <title>Integrating AI into Business Systems Without Disruption</title>
+      <link>https://pulsegeek.com/articles/integrating-ai-into-business-systems-without-disruption/</link>
+      <guid isPermaLink="true">https://pulsegeek.com/articles/integrating-ai-into-business-systems-without-disruption/</guid>
+      <pubDate>Fri, 24 Oct 2025 14:16:00 GMT</pubDate>
+      <description>Follow a stepwise path for integrating AI into business systems without downtime. Scope seams, define data contracts, build safe APIs, and scale with canaries and measurable ROI.</description>
+    </item>
+    <item>
+      <title>What Is Intelligent Document Processing for Finance?</title>
+      <link>https://pulsegeek.com/articles/what-is-intelligent-document-processing-for-finance/</link>
+      <guid isPermaLink="true">https://pulsegeek.com/articles/what-is-intelligent-document-processing-for-finance/</guid>
+      <pubDate>Fri, 24 Oct 2025 14:15:00 GMT</pubDate>
+      <description>Learn how intelligent document processing streamlines finance workflows by extracting, validating, and routing invoices, receipts, and statements with controls that satisfy audit, risk, and data quality needs.</description>
+    </item>
+    <item>
+      <title>Retail AI Software Comparison: Platforms and Fit</title>
+      <link>https://pulsegeek.com/articles/retail-ai-software-comparison-platforms-and-fit/</link>
+      <guid isPermaLink="true">https://pulsegeek.com/articles/retail-ai-software-comparison-platforms-and-fit/</guid>
+      <pubDate>Fri, 24 Oct 2025 14:14:00 GMT</pubDate>
+      <description>Compare retail AI software types with clear criteria, tradeoffs, and scenarios. Learn where platforms, point solutions, or cloud services best fit and why.</description>
+    </item>
+    <item>
+      <title>Mina Protocol: A Tiny Blockchain with Big ZK Ideas</title>
+      <link>https://pulsegeek.com/articles/mina-protocol-a-tiny-blockchain-with-big-zk-ideas/</link>
+      <guid isPermaLink="true">https://pulsegeek.com/articles/mina-protocol-a-tiny-blockchain-with-big-zk-ideas/</guid>
+      <pubDate>Fri, 24 Oct 2025 14:13:00 GMT</pubDate>
+      <description>Learn how Mina Protocol keeps the chain light with recursive proofs, enabling privacy and compression through zero-knowledge while preserving decentralization and practical verification on everyday devices.</description>
+    </item>
+    <item>
+      <title>Smart LED Street Lighting: 9 Options Cities Evaluate</title>
+      <link>https://pulsegeek.com/articles/smart-led-street-lighting-9-options-cities-evaluate/</link>
+      <guid isPermaLink="true">https://pulsegeek.com/articles/smart-led-street-lighting-9-options-cities-evaluate/</guid>
+      <pubDate>Fri, 24 Oct 2025 14:12:00 GMT</pubDate>
+      <description>Explore nine smart LED street lighting options cities compare, with examples, tradeoffs, and configuration tips to balance safety, savings, and maintainability.</description>
+    </item>
     <item>
       <title>Spear Phishing Detection: AI Features That Matter</title>
       <link>https://pulsegeek.com/articles/spear-phishing-detection-ai-features-that-matter/</link>
@@ -19,14 +61,14 @@
       <title>Implementing AI in Business: A Step-by-Step Playbook</title>
       <link>https://pulsegeek.com/articles/implementing-ai-in-business-a-step-by-step-playbook/</link>
       <guid isPermaLink="true">https://pulsegeek.com/articles/implementing-ai-in-business-a-step-by-step-playbook/</guid>
-      <pubDate>Thu, 23 Oct 2025 14:17:00 GMT</pubDate>
+      <pubDate>Wed, 17 Sep 2025 23:00:00 GMT</pubDate>
       <description>Follow a practical playbook for implementing AI in business. Identify high-value use cases, assess data and risk, integrate solutions, run pilots, measure impact, and scale responsibly.</description>
     </item>
     <item>
       <title>Vendor Invoice Matching with ML: Reduce Exceptions Fast</title>
       <link>https://pulsegeek.com/articles/vendor-invoice-matching-with-ml-reduce-exceptions-fast/</link>
       <guid isPermaLink="true">https://pulsegeek.com/articles/vendor-invoice-matching-with-ml-reduce-exceptions-fast/</guid>
-      <pubDate>Thu, 23 Oct 2025 14:16:00 GMT</pubDate>
+      <pubDate>Fri, 10 Oct 2025 04:02:00 GMT</pubDate>
       <description>Learn how to implement machine learning for vendor invoice matching in accounting. Plan data, configure models, validate results, and reduce exceptions with controls and auditability.</description>
     </item>
     <item>
@@ -40,14 +82,14 @@
       <title>The Future of AI in Learning: Adaptive, Fair, and Trusted</title>
       <link>https://pulsegeek.com/articles/the-future-of-ai-in-learning-adaptive-fair-and-trusted/</link>
       <guid isPermaLink="true">https://pulsegeek.com/articles/the-future-of-ai-in-learning-adaptive-fair-and-trusted/</guid>
-      <pubDate>Thu, 23 Oct 2025 14:14:00 GMT</pubDate>
+      <pubDate>Wed, 17 Sep 2025 23:00:00 GMT</pubDate>
       <description>Explore the future of AI in learning with adaptive paths, fair assessment, and integrity safeguards, plus clear ties to machine learning concepts and practical rollout steps.</description>
     </item>
     <item>
       <title>Mina Crypto: 9 Reasons ZK Natives Are Watching</title>
       <link>https://pulsegeek.com/articles/mina-crypto-9-reasons-zk-natives-are-watching/</link>
       <guid isPermaLink="true">https://pulsegeek.com/articles/mina-crypto-9-reasons-zk-natives-are-watching/</guid>
-      <pubDate>Thu, 23 Oct 2025 14:13:00 GMT</pubDate>
+      <pubDate>Wed, 17 Sep 2025 23:00:00 GMT</pubDate>
       <description>Explore why ZK builders track Mina crypto. Learn how a tiny chain, recursive proofs, and private zkApps enable verifiable compute, light clients, and practical privacy tradeoffs.</description>
     </item>
     <item>
@@ -315,48 +357,6 @@
       <guid isPermaLink="true">https://pulsegeek.com/articles/ai-platforms-for-business-capabilities-and-tradeoffs/</guid>
       <pubDate>Wed, 17 Sep 2025 23:00:00 GMT</pubDate>
       <description>Compare AI platforms for business across integration, data control, security, cost, and governance. Learn selection criteria, deployment paths, and tradeoffs that shape impact and risk.</description>
-    </item>
-    <item>
-      <title>Expense Report Automation Using AI: Accuracy and Control</title>
-      <link>https://pulsegeek.com/articles/expense-report-automation-using-ai-accuracy-and-control/</link>
-      <guid isPermaLink="true">https://pulsegeek.com/articles/expense-report-automation-using-ai-accuracy-and-control/</guid>
-      <pubDate>Fri, 10 Oct 2025 04:02:00 GMT</pubDate>
-      <description>Learn how to automate expense reports with AI, from data capture to policy checks and approvals, while preserving accuracy, audit trails, and finance controls with measurable results.</description>
-    </item>
-    <item>
-      <title>AI in the Retail Industry: What’s Changing and Why Now</title>
-      <link>https://pulsegeek.com/articles/ai-in-the-retail-industry-whats-changing-and-why-now/</link>
-      <guid isPermaLink="true">https://pulsegeek.com/articles/ai-in-the-retail-industry-whats-changing-and-why-now/</guid>
-      <pubDate>Fri, 17 Oct 2025 14:15:00 GMT</pubDate>
-      <description>Learn how AI is reshaping the retail industry, from demand sensing to personalization. Understand strategic tradeoffs, governance, and value paths retailers can trust right now.</description>
-    </item>
-    <item>
-      <title>Adaptive Learning with AI: Build Paths That Evolve</title>
-      <link>https://pulsegeek.com/articles/adaptive-learning-with-ai-build-paths-that-evolve/</link>
-      <guid isPermaLink="true">https://pulsegeek.com/articles/adaptive-learning-with-ai-build-paths-that-evolve/</guid>
-      <pubDate>Wed, 17 Sep 2025 23:00:00 GMT</pubDate>
-      <description>Learn how to design adaptive learning with AI through concrete steps. Map goals, select signals, set mastery thresholds, orchestrate content, and monitor fairness with transparent rules and human oversight.</description>
-    </item>
-    <item>
-      <title>On-Chain Randomness Security: Oracles, VRFs, and Risks</title>
-      <link>https://pulsegeek.com/articles/on-chain-randomness-security-oracles-vrfs-and-risks/</link>
-      <guid isPermaLink="true">https://pulsegeek.com/articles/on-chain-randomness-security-oracles-vrfs-and-risks/</guid>
-      <pubDate>Wed, 17 Sep 2025 23:00:00 GMT</pubDate>
-      <description>Compare oracle feeds, VRFs, and in-protocol randomness for secure lotteries and leader election. See attack surfaces, bias risks, and practical mitigations that protect on-chain fairness.</description>
-    </item>
-    <item>
-      <title>Automatic Street Lighting System: Build, Test, Optimize</title>
-      <link>https://pulsegeek.com/articles/automatic-street-lighting-system-build-test-optimize/</link>
-      <guid isPermaLink="true">https://pulsegeek.com/articles/automatic-street-lighting-system-build-test-optimize/</guid>
-      <pubDate>Fri, 17 Oct 2025 14:12:00 GMT</pubDate>
-      <description>Learn how to plan, configure, and validate an automatic street lighting system with sensors, schedules, and tuning. Follow clear steps, tests, and fixes to balance savings and safety.</description>
-    </item>
-    <item>
-      <title>Detecting Malicious Attachments with Deep Learning</title>
-      <link>https://pulsegeek.com/articles/detecting-malicious-attachments-with-deep-learning/</link>
-      <guid isPermaLink="true">https://pulsegeek.com/articles/detecting-malicious-attachments-with-deep-learning/</guid>
-      <pubDate>Thu, 16 Oct 2025 14:19:00 GMT</pubDate>
-      <description>Learn how deep learning analyzes email attachments safely, from byte-level models to evaluation benchmarks, with tradeoffs for speed, accuracy, and deployment.</description>
     </item>
   </channel>
 </rss>
