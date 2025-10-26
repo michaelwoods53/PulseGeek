@@ -6,52 +6,52 @@
   "description": "Tech news, gaming, and geek culture in one pulse",
   "items": [
     {
-      "id": "https://pulsegeek.com/articles/what-is-nlp-for-email-security-a-practical-primer/",
-      "url": "https://pulsegeek.com/articles/what-is-nlp-for-email-security-a-practical-primer/",
-      "title": "What Is NLP for Email Security? A Practical Primer",
-      "content_text": "Learn how NLP improves email security with content and URL analysis, evaluation methods, and practical implementation patterns. Compare fit, limits, and validation tips.",
-      "date_published": "2025-10-25T14:17:00.0000000Z",
-      "date_modified": "2025-10-25T14:17:00.0000000Z"
+      "id": "https://pulsegeek.com/articles/ai-cybersecurity-from-soc-signals-to-smart-defense/",
+      "url": "https://pulsegeek.com/articles/ai-cybersecurity-from-soc-signals-to-smart-defense/",
+      "title": "AI Cybersecurity: From SOC Signals to Smart Defense",
+      "content_text": "Learn how AI strengthens cybersecurity across SOC workflows, from signal design and modeling choices to deployment guardrails, evaluation, and real-world response patterns for resilient defense.",
+      "date_published": "2025-10-26T14:17:00.0000000Z",
+      "date_modified": "2025-10-26T14:17:00.0000000Z"
     },
     {
-      "id": "https://pulsegeek.com/articles/using-ai-for-business-start-small-measure-expand/",
-      "url": "https://pulsegeek.com/articles/using-ai-for-business-start-small-measure-expand/",
-      "title": "Using AI for Business: Start Small, Measure, Expand",
-      "content_text": "Learn how to use AI for business with a stepwise playbook. Pick one use case, set a baseline, pilot safely, measure outcomes, and scale what works.",
-      "date_published": "2025-10-25T14:16:00.0000000Z",
-      "date_modified": "2025-10-25T14:16:00.0000000Z"
+      "id": "https://pulsegeek.com/articles/where-artificial-intelligence-is-used-in-business-today/",
+      "url": "https://pulsegeek.com/articles/where-artificial-intelligence-is-used-in-business-today/",
+      "title": "Where Artificial Intelligence Is Used in Business Today",
+      "content_text": "Explore where artificial intelligence is used in business today, from marketing and sales to operations, finance, and risk. See integration patterns, guardrails, and governance for measurable impact.",
+      "date_published": "2025-10-26T14:16:00.0000000Z",
+      "date_modified": "2025-10-26T14:16:00.0000000Z"
     },
     {
-      "id": "https://pulsegeek.com/articles/ai-financial-forecasting-and-fpa-methods-controls-roi/",
-      "url": "https://pulsegeek.com/articles/ai-financial-forecasting-and-fpa-methods-controls-roi/",
-      "title": "AI Financial Forecasting \u0026 FP\u0026A: Methods, Controls, ROI",
-      "content_text": "A practitioner guide to AI financial forecasting for FP\u0026A. Learn methods, controls, workflows, pitfalls, and how to size ROI with data-driven decisions and governance.",
-      "date_published": "2025-10-25T14:15:00.0000000Z",
-      "date_modified": "2025-10-25T14:15:00.0000000Z"
+      "id": "https://pulsegeek.com/articles/ai-financial-reporting-15-ways-to-speed-close-with-trust/",
+      "url": "https://pulsegeek.com/articles/ai-financial-reporting-15-ways-to-speed-close-with-trust/",
+      "title": "AI Financial Reporting: 15 Ways to Speed Close with Trust",
+      "content_text": "Discover 15 practical AI techniques for financial reporting that accelerate close, improve accuracy, tighten controls, and enhance audit readiness while preserving transparency.",
+      "date_published": "2025-10-26T14:15:00.0000000Z",
+      "date_modified": "2025-10-26T14:15:00.0000000Z"
     },
     {
-      "id": "https://pulsegeek.com/articles/retailers-using-ai-whos-leading-and-what-they-do/",
-      "url": "https://pulsegeek.com/articles/retailers-using-ai-whos-leading-and-what-they-do/",
-      "title": "Retailers Using AI: Who\u2019s Leading and What They Do",
-      "content_text": "See how leading retailers use AI across pricing, forecasting, personalization, and store operations, with concrete examples, patterns to copy, and practical tradeoffs.",
-      "date_published": "2025-10-25T14:14:00.0000000Z",
-      "date_modified": "2025-10-25T14:14:00.0000000Z"
+      "id": "https://pulsegeek.com/articles/the-use-of-ai-in-retail-core-functions-and-outcomes/",
+      "url": "https://pulsegeek.com/articles/the-use-of-ai-in-retail-core-functions-and-outcomes/",
+      "title": "The Use of AI in Retail: Core Functions and Outcomes",
+      "content_text": "Understand how AI reshapes retail across demand planning, pricing, content, and service. Learn core functions, decision lenses, and tangible outcomes with practical tradeoffs operators and merchants can use to prioritize investments.",
+      "date_published": "2025-10-26T14:14:00.0000000Z",
+      "date_modified": "2025-10-26T14:14:00.0000000Z"
     },
     {
-      "id": "https://pulsegeek.com/articles/plonk-zk-proof-from-arithmetization-to-verification/",
-      "url": "https://pulsegeek.com/articles/plonk-zk-proof-from-arithmetization-to-verification/",
-      "title": "PLONK ZK Proof: From Arithmetization to Verification",
-      "content_text": "Learn how a PLONK zk proof is built end to end. Map logic to circuits, encode constraints as polynomials, and walk through proving and verification steps with practical tips.",
-      "date_published": "2025-10-25T14:13:00.0000000Z",
-      "date_modified": "2025-10-25T14:13:00.0000000Z"
+      "id": "https://pulsegeek.com/articles/zk-rollups-8-designs-compressing-blockchain-traffic/",
+      "url": "https://pulsegeek.com/articles/zk-rollups-8-designs-compressing-blockchain-traffic/",
+      "title": "ZK Rollups: 8 Designs Compressing Blockchain Traffic",
+      "content_text": "Explore eight zk rollup designs that compress on-chain traffic, cut gas, and preserve security. Learn how proofs, data availability, and zkEVM choices shape performance and developer experience.",
+      "date_published": "2025-10-26T14:13:00.0000000Z",
+      "date_modified": "2025-10-26T14:13:00.0000000Z"
     },
     {
-      "id": "https://pulsegeek.com/articles/smart-street-light-control-methods-modes-and-triggers/",
-      "url": "https://pulsegeek.com/articles/smart-street-light-control-methods-modes-and-triggers/",
-      "title": "Smart Street Light Control: Methods, Modes, and Triggers",
-      "content_text": "Learn smart street light control methods, operating modes, and sensor triggers with decision lenses, scenarios, and tradeoffs that balance safety, savings, and maintainability.",
-      "date_published": "2025-10-25T14:12:00.0000000Z",
-      "date_modified": "2025-10-25T14:12:00.0000000Z"
+      "id": "https://pulsegeek.com/articles/smart-street-light-sensors-types-accuracy-and-placement/",
+      "url": "https://pulsegeek.com/articles/smart-street-light-sensors-types-accuracy-and-placement/",
+      "title": "Smart Street Light Sensors: Types, Accuracy, and Placement",
+      "content_text": "Learn which smart street light sensors to use, how accurate they are, and where to mount them for reliable detection, energy savings, and safe visibility.",
+      "date_published": "2025-10-26T14:12:00.0000000Z",
+      "date_modified": "2025-10-26T14:12:00.0000000Z"
     },
     {
       "id": "https://pulsegeek.com/articles/zero-knowledge-proofs-privacy-and-proof-without-sharing/",
@@ -59,31 +59,23 @@
       "title": "Zero-Knowledge Proofs: Privacy and Proof Without Sharing",
       "content_text": "Learn how zero knowledge proofs deliver privacy and compression by proving facts without revealing data, and see where SNARKs, STARKs, and rollups fit. Practical guidance, choices, and pitfalls for builders.",
       "date_published": "2025-09-17T23:00:00.0000000Z",
-      "date_modified": "2025-10-24T19:46:24.5671826Z"
+      "date_modified": "2025-10-25T19:47:43.4631875Z"
     },
     {
-      "id": "https://pulsegeek.com/articles/what-is-intelligent-document-processing-for-finance/",
-      "url": "https://pulsegeek.com/articles/what-is-intelligent-document-processing-for-finance/",
-      "title": "What Is Intelligent Document Processing for Finance?",
-      "content_text": "Learn how intelligent document processing streamlines finance workflows by extracting, validating, and routing invoices, receipts, and statements with controls that satisfy audit, risk, and data quality needs.",
-      "date_published": "2025-10-10T04:02:00.0000000Z",
-      "date_modified": "2025-10-24T19:46:24.5659223Z"
+      "id": "https://pulsegeek.com/articles/using-ai-for-business-start-small-measure-expand/",
+      "url": "https://pulsegeek.com/articles/using-ai-for-business-start-small-measure-expand/",
+      "title": "Using AI for Business: Start Small, Measure, Expand",
+      "content_text": "Learn how to use AI for business with a stepwise playbook. Pick one use case, set a baseline, pilot safely, measure outcomes, and scale what works.",
+      "date_published": "2025-09-17T23:00:00.0000000Z",
+      "date_modified": "2025-10-25T19:47:43.4565123Z"
     },
     {
-      "id": "https://pulsegeek.com/articles/vendor-invoice-matching-with-ml-reduce-exceptions-fast/",
-      "url": "https://pulsegeek.com/articles/vendor-invoice-matching-with-ml-reduce-exceptions-fast/",
-      "title": "Vendor Invoice Matching with ML: Reduce Exceptions Fast",
-      "content_text": "Learn how to implement machine learning for vendor invoice matching in accounting. Plan data, configure models, validate results, and reduce exceptions with controls and auditability.",
-      "date_published": "2025-10-10T04:02:00.0000000Z",
-      "date_modified": "2025-10-24T19:46:24.5638486Z"
-    },
-    {
-      "id": "https://pulsegeek.com/articles/use-ai-for-account-reconciliation-a-practical-blueprint/",
-      "url": "https://pulsegeek.com/articles/use-ai-for-account-reconciliation-a-practical-blueprint/",
-      "title": "Use AI for Account Reconciliation: A Practical Blueprint",
-      "content_text": "Learn a step-by-step method to use AI for account reconciliation, from planning and data prep to matching logic, validation, and controls, with examples and troubleshooting tips for finance teams.",
-      "date_published": "2025-10-10T04:02:00.0000000Z",
-      "date_modified": "2025-10-24T19:46:24.5629113Z"
+      "id": "https://pulsegeek.com/articles/text-classification-techniques-for-phishing-emails/",
+      "url": "https://pulsegeek.com/articles/text-classification-techniques-for-phishing-emails/",
+      "title": "Text Classification Techniques for Phishing Emails",
+      "content_text": "Explore eleven proven text classification techniques for phishing emails, with examples, tradeoffs, and practical guidance for reliable detection.",
+      "date_published": "2025-10-24T14:17:00.0000000Z",
+      "date_modified": "2025-10-25T19:47:43.4522623Z"
     },
     {
       "id": "https://pulsegeek.com/articles/spear-phishing-detection-ai-features-that-matter/",
@@ -91,7 +83,7 @@
       "title": "Spear Phishing Detection: AI Features That Matter",
       "content_text": "Discover spear phishing detection features that matter for AI models, with concrete examples, tradeoffs, and practical signals spanning content, sender, headers, URLs, and behavior.",
       "date_published": "2025-10-23T14:18:00.0000000Z",
-      "date_modified": "2025-10-24T19:46:24.5560204Z"
+      "date_modified": "2025-10-25T19:47:43.4518070Z"
     },
     {
       "id": "https://pulsegeek.com/articles/smart-street-light-control-systems-a-practical-configuration-guide/",
@@ -99,7 +91,15 @@
       "title": "Smart Street Light Control Systems: A Practical Configuration Guide",
       "content_text": "Learn how to plan, configure, and tune smart street light control systems. Compare sensor options, dimming profiles, and automation strategies for safe, efficient public lighting.",
       "date_published": "2025-10-14T14:12:00.0000000Z",
-      "date_modified": "2025-10-24T19:46:24.5555460Z"
+      "date_modified": "2025-10-25T19:47:43.4512675Z"
+    },
+    {
+      "id": "https://pulsegeek.com/articles/smart-led-street-lighting-9-options-cities-evaluate/",
+      "url": "https://pulsegeek.com/articles/smart-led-street-lighting-9-options-cities-evaluate/",
+      "title": "Smart LED Street Lighting: 9 Options Cities Evaluate",
+      "content_text": "Explore nine smart LED street lighting options cities compare, with examples, tradeoffs, and configuration tips to balance safety, savings, and maintainability.",
+      "date_published": "2025-10-24T14:12:00.0000000Z",
+      "date_modified": "2025-10-25T19:47:43.4470648Z"
     },
     {
       "id": "https://pulsegeek.com/articles/sensor-street-lamp-choosing-motion-ambient-and-radar/",
@@ -107,15 +107,23 @@
       "title": "Sensor Street Lamp: Choosing Motion, Ambient, and Radar",
       "content_text": "Learn how to choose motion, ambient light, and radar sensors for street lamps, including placement rules, tuning ranges, and control logic tradeoffs for safety and savings.",
       "date_published": "2025-10-23T14:12:00.0000000Z",
-      "date_modified": "2025-10-24T19:46:24.5473466Z"
+      "date_modified": "2025-10-25T19:47:43.4429022Z"
     },
     {
-      "id": "https://pulsegeek.com/articles/policy-and-control-checks-automated-by-ai-in-finance/",
-      "url": "https://pulsegeek.com/articles/policy-and-control-checks-automated-by-ai-in-finance/",
-      "title": "Policy and Control Checks Automated by AI in Finance",
-      "content_text": "Learn how AI automates finance policy and control checks with auditable rules, real-time validation, and risk scoring while preserving compliance and speed.",
-      "date_published": "2025-10-10T04:02:00.0000000Z",
-      "date_modified": "2025-10-24T19:46:24.5141633Z"
+      "id": "https://pulsegeek.com/articles/retail-ai-software-comparison-platforms-and-fit/",
+      "url": "https://pulsegeek.com/articles/retail-ai-software-comparison-platforms-and-fit/",
+      "title": "Retail AI Software Comparison: Platforms and Fit",
+      "content_text": "Compare retail AI software types with clear criteria, tradeoffs, and scenarios. Learn where platforms, point solutions, or cloud services best fit and why.",
+      "date_published": "2025-10-24T14:14:00.0000000Z",
+      "date_modified": "2025-10-25T19:47:43.4154633Z"
+    },
+    {
+      "id": "https://pulsegeek.com/articles/plonk-zk-proof-from-arithmetization-to-verification/",
+      "url": "https://pulsegeek.com/articles/plonk-zk-proof-from-arithmetization-to-verification/",
+      "title": "PLONK ZK Proof: From Arithmetization to Verification",
+      "content_text": "Learn how a PLONK zk proof is built end to end. Map logic to circuits, encode constraints as polynomials, and walk through proving and verification steps with practical tips.",
+      "date_published": "2025-09-17T23:00:00.0000000Z",
+      "date_modified": "2025-10-25T19:47:43.4117949Z"
     },
     {
       "id": "https://pulsegeek.com/articles/plan-ai-projects-in-retail-operations-roadmaps-that-work/",
@@ -123,7 +131,7 @@
       "title": "Plan AI Projects in Retail Operations: Roadmaps That Work",
       "content_text": "Learn how to plan AI projects in retail operations with a proven roadmap. Scope problems, ready data, execute pilots, validate results, and scale responsibly.",
       "date_published": "2025-10-23T14:15:00.0000000Z",
-      "date_modified": "2025-10-24T19:46:24.5138669Z"
+      "date_modified": "2025-10-25T19:47:43.4115813Z"
     },
     {
       "id": "https://pulsegeek.com/articles/phishing-defense-with-nlp-a-complete-build-guide/",
@@ -131,7 +139,7 @@
       "title": "Phishing Defense with NLP: A Complete Build Guide",
       "content_text": "Build an NLP-driven phishing defense from principles to practice. Learn data choices, features, workflows, evaluation, and deployment patterns that reduce risk while balancing precision, recall, and operational cost.",
       "date_published": "2025-10-13T09:12:00.0000000Z",
-      "date_modified": "2025-10-24T19:46:24.5135717Z"
+      "date_modified": "2025-10-25T19:47:43.4113391Z"
     },
     {
       "id": "https://pulsegeek.com/articles/open-artificial-intelligence-in-email-security/",
@@ -139,7 +147,7 @@
       "title": "Open Artificial Intelligence in Email Security",
       "content_text": "Learn how open artificial intelligence advances email security using transparent models, evaluable features, and interoperable tooling, with tradeoffs around data privacy, robustness, and governance in production.",
       "date_published": "2025-10-22T14:18:00.0000000Z",
-      "date_modified": "2025-10-24T19:46:24.5117781Z"
+      "date_modified": "2025-10-25T19:47:43.4098337Z"
     },
     {
       "id": "https://pulsegeek.com/articles/nlp-essentials-for-security-language-meets-signals/",
@@ -147,7 +155,7 @@
       "title": "NLP Essentials for Security: Language Meets Signals",
       "content_text": "Learn how natural language processing connects text understanding with email and network signals to improve phishing detection, triage, and response in practical security workflows.",
       "date_published": "2025-10-21T14:18:00.0000000Z",
-      "date_modified": "2025-10-24T19:46:24.5110288Z"
+      "date_modified": "2025-10-25T19:47:43.4091999Z"
     },
     {
       "id": "https://pulsegeek.com/articles/mina-protocol-a-tiny-blockchain-with-big-zk-ideas/",
@@ -155,7 +163,7 @@
       "title": "Mina Protocol: A Tiny Blockchain with Big ZK Ideas",
       "content_text": "Learn how Mina Protocol keeps the chain light with recursive proofs, enabling privacy and compression through zero-knowledge while preserving decentralization and practical verification on everyday devices.",
       "date_published": "2025-09-17T23:00:00.0000000Z",
-      "date_modified": "2025-10-24T19:46:24.5097351Z"
+      "date_modified": "2025-10-25T19:47:43.4081254Z"
     },
     {
       "id": "https://pulsegeek.com/articles/mina-crypto-9-reasons-zk-natives-are-watching/",
@@ -163,23 +171,7 @@
       "title": "Mina Crypto: 9 Reasons ZK Natives Are Watching",
       "content_text": "Explore why ZK builders track Mina crypto. Learn how a tiny chain, recursive proofs, and private zkApps enable verifiable compute, light clients, and practical privacy tradeoffs.",
       "date_published": "2025-09-17T23:00:00.0000000Z",
-      "date_modified": "2025-10-24T19:46:24.5094935Z"
-    },
-    {
-      "id": "https://pulsegeek.com/articles/machine-learning-in-finance-15-examples-that-deliver/",
-      "url": "https://pulsegeek.com/articles/machine-learning-in-finance-15-examples-that-deliver/",
-      "title": "Machine Learning in Finance: 15 Examples That Deliver",
-      "content_text": "Explore 15 practical machine learning finance examples with controls, data needs, and tradeoffs. See where ML improves accuracy, speed, and auditability across core operations.",
-      "date_published": "2025-10-10T04:02:00.0000000Z",
-      "date_modified": "2025-10-24T19:46:24.5080941Z"
-    },
-    {
-      "id": "https://pulsegeek.com/articles/kpi-dashboard-automation-with-ai-for-cfo-teams/",
-      "url": "https://pulsegeek.com/articles/kpi-dashboard-automation-with-ai-for-cfo-teams/",
-      "title": "KPI Dashboard Automation with AI for CFO Teams",
-      "content_text": "Learn how CFO teams automate KPI dashboards with AI, from data mapping and governance to refresh pipelines, validation, and ongoing optimization with clear controls.",
-      "date_published": "2025-10-10T04:02:00.0000000Z",
-      "date_modified": "2025-10-24T19:46:24.5077593Z"
+      "date_modified": "2025-10-25T19:47:43.4079210Z"
     },
     {
       "id": "https://pulsegeek.com/articles/intelligent-wireless-street-lighting-systems-key-choices/",
@@ -187,7 +179,7 @@
       "title": "Intelligent Wireless Street Lighting Systems: Key Choices",
       "content_text": "Learn how intelligent wireless street lighting systems work, key design tradeoffs, sensor choices, and control strategies to balance savings, safety, and maintainability.",
       "date_published": "2025-10-22T14:12:00.0000000Z",
-      "date_modified": "2025-10-24T19:46:24.5068031Z"
+      "date_modified": "2025-10-25T19:47:43.4058472Z"
     },
     {
       "id": "https://pulsegeek.com/articles/intelligent-street-lighting-system-core-features-mapped/",
@@ -195,7 +187,7 @@
       "title": "Intelligent Street Lighting System: Core Features Mapped",
       "content_text": "Understand core features of an intelligent street lighting system, from sensors and dimming to control logic and data. Learn tradeoffs, decision criteria, and examples for safe, efficient roads.",
       "date_published": "2025-10-21T14:12:00.0000000Z",
-      "date_modified": "2025-10-24T19:46:24.5064756Z"
+      "date_modified": "2025-10-25T19:47:43.4056289Z"
     },
     {
       "id": "https://pulsegeek.com/articles/intelligent-street-light-control-system-setup-and-tuning/",
@@ -203,7 +195,7 @@
       "title": "Intelligent Street Light Control System: Setup and Tuning",
       "content_text": "Step by step how to plan, configure, validate, and refine an intelligent street light control system for safer roads and lower energy use.",
       "date_published": "2025-10-20T14:12:00.0000000Z",
-      "date_modified": "2025-10-24T19:46:24.5057100Z"
+      "date_modified": "2025-10-25T19:47:43.4051884Z"
     },
     {
       "id": "https://pulsegeek.com/articles/intelligent-street-lamp-features-aesthetics-and-siting/",
@@ -211,7 +203,7 @@
       "title": "Intelligent Street Lamp: Features, Aesthetics, and Siting",
       "content_text": "Learn how intelligent street lamps blend features, aesthetics, and siting to improve safety and energy use while fitting local context. Get practical frameworks and examples.",
       "date_published": "2025-10-19T14:12:00.0000000Z",
-      "date_modified": "2025-10-24T19:46:24.5054762Z"
+      "date_modified": "2025-10-25T19:47:43.4049437Z"
     },
     {
       "id": "https://pulsegeek.com/articles/integrating-ai-into-business-systems-without-disruption/",
@@ -219,7 +211,7 @@
       "title": "Integrating AI into Business Systems Without Disruption",
       "content_text": "Follow a stepwise path for integrating AI into business systems without downtime. Scope seams, define data contracts, build safe APIs, and scale with canaries and measurable ROI.",
       "date_published": "2025-09-17T23:00:00.0000000Z",
-      "date_modified": "2025-10-24T19:46:24.5049845Z"
+      "date_modified": "2025-10-25T19:47:43.4045022Z"
     },
     {
       "id": "https://pulsegeek.com/articles/implementing-ai-in-business-a-step-by-step-playbook/",
@@ -227,15 +219,7 @@
       "title": "Implementing AI in Business: A Step-by-Step Playbook",
       "content_text": "Follow a practical playbook for implementing AI in business. Identify high-value use cases, assess data and risk, integrate solutions, run pilots, measure impact, and scale responsibly.",
       "date_published": "2025-09-17T23:00:00.0000000Z",
-      "date_modified": "2025-10-24T19:46:24.5036670Z"
-    },
-    {
-      "id": "https://pulsegeek.com/articles/idp-vs-rpa-for-finance-document-workflows-which-fits/",
-      "url": "https://pulsegeek.com/articles/idp-vs-rpa-for-finance-document-workflows-which-fits/",
-      "title": "IDP vs RPA for Finance Document Workflows: Which Fits?",
-      "content_text": "Compare IDP and RPA for finance document workflows across accuracy, controls, cost, and scale. Learn when each approach fits and how to mix them safely.",
-      "date_published": "2025-10-10T04:02:00.0000000Z",
-      "date_modified": "2025-10-24T19:46:24.5030442Z"
+      "date_modified": "2025-10-25T19:47:43.4036375Z"
     },
     {
       "id": "https://pulsegeek.com/articles/how-to-set-dimming-schedules-for-smart-street-lights/",
@@ -243,7 +227,7 @@
       "title": "How to Set Dimming Schedules for Smart Street Lights",
       "content_text": "Learn how to plan, configure, and verify dimming schedules for smart street lights with practical steps, safe ranges, and fixes for common issues.",
       "date_published": "2025-10-18T14:12:00.0000000Z",
-      "date_modified": "2025-10-24T19:46:24.5012185Z"
+      "date_modified": "2025-10-25T19:47:43.4009478Z"
     },
     {
       "id": "https://pulsegeek.com/articles/how-to-implement-ai-in-business-a-practical-guide/",
@@ -251,7 +235,7 @@
       "title": "How to Implement AI in Business: A Practical Guide",
       "content_text": "Learn how to implement AI in business with a practical roadmap that selects the right use cases, integrates responsibly, measures outcomes, and scales value.",
       "date_published": "2025-09-17T23:00:00.0000000Z",
-      "date_modified": "2025-10-24T19:46:24.4996219Z"
+      "date_modified": "2025-10-25T19:47:43.3991465Z"
     },
     {
       "id": "https://pulsegeek.com/articles/how-is-ai-used-in-retail-merchandising-a-practical-guide/",
@@ -259,7 +243,7 @@
       "title": "How Is AI Used in Retail Merchandising? A Practical Guide",
       "content_text": "Learn how to apply AI in retail merchandising with clear steps, setup tips, validation methods, and fixes. Plan your use cases, prepare data, run experiments, and measure results responsibly.",
       "date_published": "2025-10-22T14:15:00.0000000Z",
-      "date_modified": "2025-10-24T19:46:24.4977689Z"
+      "date_modified": "2025-10-25T19:47:43.3972911Z"
     },
     {
       "id": "https://pulsegeek.com/articles/how-do-you-measure-ai-impact-in-operations/",
@@ -267,7 +251,7 @@
       "title": "How Do You Measure AI Impact in Operations?",
       "content_text": "Learn how to measure AI impact in operations using baselines, counterfactuals, quality metrics, and ROI models. Get practical methods for attribution, risk tracking, and scaling effects.",
       "date_published": "2025-09-17T23:00:00.0000000Z",
-      "date_modified": "2025-10-24T19:46:24.4973395Z"
+      "date_modified": "2025-10-25T19:47:43.3968578Z"
     },
     {
       "id": "https://pulsegeek.com/articles/how-ai-transforms-everyday-business-operations/",
@@ -275,7 +259,7 @@
       "title": "How AI Transforms Everyday Business Operations",
       "content_text": "See how the use of artificial intelligence in business reshapes operations, from service and finance to supply chain, with integration patterns, risk controls, and measurable impact.",
       "date_published": "2025-09-17T23:00:00.0000000Z",
-      "date_modified": "2025-10-24T19:46:24.4968812Z"
+      "date_modified": "2025-10-25T19:47:43.3963978Z"
     },
     {
       "id": "https://pulsegeek.com/articles/generative-ai-in-retail-12-ways-to-reimagine-merchandising/",
@@ -283,7 +267,7 @@
       "title": "Generative AI in Retail: 12 Ways to Reimagine Merchandising",
       "content_text": "Discover 12 practical ways generative AI reshapes retail merchandising, from product content and imagery to localization, assortment ideas, and governance workflows, with realistic examples and tradeoffs to guide adoption.",
       "date_published": "2025-10-21T14:15:00.0000000Z",
-      "date_modified": "2025-10-24T19:46:24.4957937Z"
+      "date_modified": "2025-10-25T19:47:43.3953064Z"
     },
     {
       "id": "https://pulsegeek.com/articles/frontier-ai-and-email-threats-emerging-capabilities/",
@@ -291,15 +275,7 @@
       "title": "Frontier AI and Email Threats: Emerging Capabilities",
       "content_text": "Explore how frontier AI reshapes email threat detection with generative risks, defense frameworks, and practical signals. Learn decision lenses, examples, and limits for safer deployments.",
       "date_published": "2025-10-20T14:18:00.0000000Z",
-      "date_modified": "2025-10-24T19:46:24.4953385Z"
-    },
-    {
-      "id": "https://pulsegeek.com/articles/expense-report-automation-using-ai-accuracy-and-control/",
-      "url": "https://pulsegeek.com/articles/expense-report-automation-using-ai-accuracy-and-control/",
-      "title": "Expense Report Automation Using AI: Accuracy and Control",
-      "content_text": "Learn how to automate expense reports with AI, from data capture to policy checks and approvals, while preserving accuracy, audit trails, and finance controls with measurable results.",
-      "date_published": "2025-10-10T04:02:00.0000000Z",
-      "date_modified": "2025-10-24T19:46:24.4942470Z"
+      "date_modified": "2025-10-25T19:47:43.3948157Z"
     },
     {
       "id": "https://pulsegeek.com/articles/email-threat-signals-ai-analytics-worth-tracking/",
@@ -307,7 +283,7 @@
       "title": "Email Threat Signals: AI Analytics Worth Tracking",
       "content_text": "Discover the email threat signals that matter for AI analytics, from authentication integrity to URLs, language intent, sender behavior, and attachments.",
       "date_published": "2025-10-19T14:18:00.0000000Z",
-      "date_modified": "2025-10-24T19:46:24.4934221Z"
+      "date_modified": "2025-10-25T19:47:43.3928929Z"
     },
     {
       "id": "https://pulsegeek.com/articles/email-phishing-detection-with-ml-practical-steps/",
@@ -315,15 +291,7 @@
       "title": "Email Phishing Detection with ML: Practical Steps",
       "content_text": "Follow a clear path to build email phishing detection with machine learning. Plan data, engineer features, train, validate, and troubleshoot for reliable results.",
       "date_published": "2025-10-18T14:18:00.0000000Z",
-      "date_modified": "2025-10-24T19:46:24.4931887Z"
-    },
-    {
-      "id": "https://pulsegeek.com/articles/document-automation-in-finance-with-ai-build-it-right/",
-      "url": "https://pulsegeek.com/articles/document-automation-in-finance-with-ai-build-it-right/",
-      "title": "Document Automation in Finance with AI: Build It Right",
-      "content_text": "Learn how to design, deploy, and validate AI-driven document automation for finance with controls, auditable workflows, and measurable accuracy improvements across invoices, expenses, and reconciliations.",
-      "date_published": "2025-10-10T04:02:00.0000000Z",
-      "date_modified": "2025-10-24T19:46:24.4925240Z"
+      "date_modified": "2025-10-25T19:47:43.3926625Z"
     },
     {
       "id": "https://pulsegeek.com/articles/developing-phishing-classifiers-with-ai-best-practices/",
@@ -331,7 +299,7 @@
       "title": "Developing Phishing Classifiers with AI: Best Practices",
       "content_text": "Learn how to plan, build, validate, and optimize AI phishing classifiers with clear steps, evaluation methods, defenses against evasion, and reproducible tooling.",
       "date_published": "2025-10-17T14:18:00.0000000Z",
-      "date_modified": "2025-10-24T19:46:24.4916024Z"
+      "date_modified": "2025-10-25T19:47:43.3909429Z"
     },
     {
       "id": "https://pulsegeek.com/articles/detecting-malicious-attachments-with-deep-learning/",
@@ -339,15 +307,7 @@
       "title": "Detecting Malicious Attachments with Deep Learning",
       "content_text": "Learn how deep learning analyzes email attachments safely, from byte-level models to evaluation benchmarks, with tradeoffs for speed, accuracy, and deployment.",
       "date_published": "2025-10-16T14:19:00.0000000Z",
-      "date_modified": "2025-10-24T19:46:24.4913592Z"
-    },
-    {
-      "id": "https://pulsegeek.com/articles/conversational-ai-in-finance-assistants-that-actually-help/",
-      "url": "https://pulsegeek.com/articles/conversational-ai-in-finance-assistants-that-actually-help/",
-      "title": "Conversational AI in Finance: Assistants That Actually Help",
-      "content_text": "Learn how conversational AI streamlines finance work with safe approvals, reconciliations, and document queries, while preserving controls, audit trails, and data integrity across ERP and reporting workflows.",
-      "date_published": "2025-10-10T04:02:00.0000000Z",
-      "date_modified": "2025-10-24T19:46:24.4898929Z"
+      "date_modified": "2025-10-25T19:47:43.3906499Z"
     },
     {
       "id": "https://pulsegeek.com/articles/business-applications-of-ai-where-value-comes-first/",
@@ -355,7 +315,7 @@
       "title": "Business Applications of AI: Where Value Comes First",
       "content_text": "Learn where the business application of AI delivers measurable value, with patterns, integration paths, and metrics that translate ideas into outcomes.",
       "date_published": "2025-09-17T23:00:00.0000000Z",
-      "date_modified": "2025-10-24T19:46:24.4883794Z"
+      "date_modified": "2025-10-25T19:47:43.3876159Z"
     },
     {
       "id": "https://pulsegeek.com/articles/build-a-phishing-url-classification-model-in-steps/",
@@ -363,7 +323,7 @@
       "title": "Build a Phishing URL Classification Model in Steps",
       "content_text": "Follow a practical workflow to design, train, and deploy a phishing URL classification model, with features, metrics, validation, and safe troubleshooting guidance.",
       "date_published": "2025-10-15T14:19:00.0000000Z",
-      "date_modified": "2025-10-24T19:46:24.4881512Z"
+      "date_modified": "2025-10-25T19:47:43.3873455Z"
     },
     {
       "id": "https://pulsegeek.com/articles/blockchain-cryptography-core-hashes-keys-and-proofs/",
@@ -371,7 +331,7 @@
       "title": "Blockchain Cryptography: Core Hashes, Keys, and Proofs",
       "content_text": "Learn how blockchain cryptography works across hashes, keys, and proofs. Explore integrity, authorization, Merkle trees, zero-knowledge, and randomness to design secure, verifiable systems.",
       "date_published": "2025-09-06T23:00:00.0000000Z",
-      "date_modified": "2025-10-24T19:46:24.4858645Z"
+      "date_modified": "2025-10-25T19:47:43.3845913Z"
     },
     {
       "id": "https://pulsegeek.com/articles/automatic-street-lighting-system-build-test-optimize/",
@@ -379,7 +339,7 @@
       "title": "Automatic Street Lighting System: Build, Test, Optimize",
       "content_text": "Learn how to plan, configure, and validate an automatic street lighting system with sensors, schedules, and tuning. Follow clear steps, tests, and fixes to balance savings and safety.",
       "date_published": "2025-10-17T14:12:00.0000000Z",
-      "date_modified": "2025-10-24T19:46:24.4841393Z"
+      "date_modified": "2025-10-25T19:47:43.3823519Z"
     },
     {
       "id": "https://pulsegeek.com/articles/automatic-smart-street-light-design-and-field-tips/",
@@ -387,7 +347,7 @@
       "title": "Automatic Smart Street Light: Design and Field Tips",
       "content_text": "Learn how to design automatic smart street lights that balance safety, savings, and maintainability with clear frameworks, examples, and field-ready decision criteria.",
       "date_published": "2025-10-16T14:12:00.0000000Z",
-      "date_modified": "2025-10-24T19:46:24.4839075Z"
+      "date_modified": "2025-10-25T19:47:43.3820707Z"
     },
     {
       "id": "https://pulsegeek.com/articles/automated-street-lighting-strategies-for-always-right-light/",
@@ -395,15 +355,55 @@
       "title": "Automated Street Lighting: Strategies for Always-Right Light",
       "content_text": "Learn how automated street lighting works, compare control strategies, and apply decision lenses for safe visibility, energy savings, and regulatory compliance in real streets.",
       "date_published": "2025-10-15T14:12:00.0000000Z",
-      "date_modified": "2025-10-24T19:46:24.4835185Z"
+      "date_modified": "2025-10-25T19:47:43.3816006Z"
     },
     {
-      "id": "https://pulsegeek.com/articles/automate-invoice-processing-with-ai-from-inbox-to-erp/",
-      "url": "https://pulsegeek.com/articles/automate-invoice-processing-with-ai-from-inbox-to-erp/",
-      "title": "Automate Invoice Processing with AI: From Inbox to ERP",
-      "content_text": "Learn how to automate invoice processing with AI, from email intake to ERP posting, including data capture, validation, approvals, audit trails, and error handling.",
-      "date_published": "2025-10-10T04:02:00.0000000Z",
-      "date_modified": "2025-10-24T19:46:24.4833132Z"
+      "id": "https://pulsegeek.com/articles/artificial-intelligence-in-online-shopping-what-works/",
+      "url": "https://pulsegeek.com/articles/artificial-intelligence-in-online-shopping-what-works/",
+      "title": "Artificial Intelligence in Online Shopping: What Works",
+      "content_text": "Learn what truly works with artificial intelligence in online shopping, from definitions and decision frameworks to scenarios, tradeoffs, and next steps retailers can act on.",
+      "date_published": "2025-10-20T14:15:00.0000000Z",
+      "date_modified": "2025-10-25T19:47:43.3810339Z"
+    },
+    {
+      "id": "https://pulsegeek.com/articles/ai-trends-in-retail-from-forecasting-to-store-analytics/",
+      "url": "https://pulsegeek.com/articles/ai-trends-in-retail-from-forecasting-to-store-analytics/",
+      "title": "AI Trends in Retail: From Forecasting to Store Analytics",
+      "content_text": "Explore seven AI trends reshaping retail, from demand forecasting and pricing to store analytics and workforce planning, with examples, tradeoffs, and practical next steps.",
+      "date_published": "2025-10-19T14:15:00.0000000Z",
+      "date_modified": "2025-10-25T19:47:43.3794824Z"
+    },
+    {
+      "id": "https://pulsegeek.com/articles/ai-solutions-for-business-choosing-what-fits/",
+      "url": "https://pulsegeek.com/articles/ai-solutions-for-business-choosing-what-fits/",
+      "title": "AI Solutions for Business: Choosing What Fits",
+      "content_text": "Compare AI solutions for business across build vs buy, integration patterns, governance, and measurement. Learn criteria, tradeoffs, and example workflows to make confident decisions.",
+      "date_published": "2025-09-17T23:00:00.0000000Z",
+      "date_modified": "2025-10-25T19:47:43.3789341Z"
+    },
+    {
+      "id": "https://pulsegeek.com/articles/ai-retail-strategy-trends-examples-execution-playbooks/",
+      "url": "https://pulsegeek.com/articles/ai-retail-strategy-trends-examples-execution-playbooks/",
+      "title": "AI Retail Strategy: Trends, Examples, and Execution Playbooks",
+      "content_text": "Learn how AI reshapes retail strategy with core concepts, proven examples, and practical execution playbooks that connect merchandising, pricing, and operations to measurable outcomes across channels.",
+      "date_published": "2025-10-13T09:09:00.0000000Z",
+      "date_modified": "2025-10-25T19:47:43.3783996Z"
+    },
+    {
+      "id": "https://pulsegeek.com/articles/ai-platforms-for-business-capabilities-and-tradeoffs/",
+      "url": "https://pulsegeek.com/articles/ai-platforms-for-business-capabilities-and-tradeoffs/",
+      "title": "AI Platforms for Business: Capabilities and Tradeoffs",
+      "content_text": "Compare AI platforms for business across integration, data control, security, cost, and governance. Learn selection criteria, deployment paths, and tradeoffs that shape impact and risk.",
+      "date_published": "2025-09-17T23:00:00.0000000Z",
+      "date_modified": "2025-10-25T19:47:43.3778423Z"
+    },
+    {
+      "id": "https://pulsegeek.com/articles/ai-in-the-retail-market-growth-drivers-segments-outlook/",
+      "url": "https://pulsegeek.com/articles/ai-in-the-retail-market-growth-drivers-segments-outlook/",
+      "title": "AI in the Retail Market: Growth Drivers, Segments, Outlook",
+      "content_text": "Understand the AI in retail market with clear growth drivers, key segments, and outlook. Learn decision lenses, practical scenarios, and risks to guide strategy for merchandising and operations leaders.",
+      "date_published": "2025-10-18T14:15:00.0000000Z",
+      "date_modified": "2025-10-25T19:47:43.3772914Z"
     }
   ]
 }
