@@ -2,13 +2,48 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>PulseGeek</title>
   <id>https://pulsegeek.com/atom.xml</id>
-  <updated>2025-10-28T14:17:00Z</updated>
+  <updated>2025-10-29T14:16:00Z</updated>
   <link href="https://pulsegeek.com/atom.xml" rel="self" type="application/atom+xml" />
   <link href="https://pulsegeek.com" />
   <author>
     <name>PulseGeek</name>
   </author>
   <subtitle>Tech news, gaming, and geek culture in one pulse</subtitle>
+  <entry>
+    <title>AI Data Security Tactics: Protecting Models and Signals</title>
+    <id>https://pulsegeek.com/articles/ai-data-security-tactics-protecting-models-and-signals/</id>
+    <link href="https://pulsegeek.com/articles/ai-data-security-tactics-protecting-models-and-signals/" />
+    <updated>2025-10-29T14:16:00Z</updated>
+    <summary type="html"><![CDATA[Practical AI data security tactics to protect training signals, model artifacts, and SOC analytics. Learn controls for privacy, integrity, governance, and resilient operations.]]></summary>
+  </entry>
+  <entry>
+    <title>AI Business Services: What SMBs Can Outsource First</title>
+    <id>https://pulsegeek.com/articles/ai-business-services-what-smbs-can-outsource-first/</id>
+    <link href="https://pulsegeek.com/articles/ai-business-services-what-smbs-can-outsource-first/" />
+    <updated>2025-10-29T14:15:00Z</updated>
+    <summary type="html"><![CDATA[Discover nine AI business services SMBs can outsource first. See concrete examples, selection tips, and tradeoffs to cut cost while protecting quality.]]></summary>
+  </entry>
+  <entry>
+    <title>AI in FP&amp;A: 12 High-Impact Opportunities to Pursue</title>
+    <id>https://pulsegeek.com/articles/ai-in-fpa-12-high-impact-opportunities-to-pursue/</id>
+    <link href="https://pulsegeek.com/articles/ai-in-fpa-12-high-impact-opportunities-to-pursue/" />
+    <updated>2025-10-29T14:14:00Z</updated>
+    <summary type="html"><![CDATA[Explore twelve practical AI opportunities for FP&A that raise forecast accuracy, speed decisions, and strengthen controls. Learn where to start, what to measure, and tradeoffs to consider.]]></summary>
+  </entry>
+  <entry>
+    <title>AI Convenience Store: Speed, Selection, and Trust</title>
+    <id>https://pulsegeek.com/articles/ai-convenience-store-speed-selection-and-trust/</id>
+    <link href="https://pulsegeek.com/articles/ai-convenience-store-speed-selection-and-trust/" />
+    <updated>2025-10-29T14:13:00Z</updated>
+    <summary type="html"><![CDATA[Learn how AI convenience stores balance rapid checkout, curated selection, and shopper trust using data, sensors, and design choices that reduce friction and increase confidence.]]></summary>
+  </entry>
+  <entry>
+    <title>Street Light Automation System: From Pilot to Rollout</title>
+    <id>https://pulsegeek.com/articles/street-light-automation-system-from-pilot-to-rollout/</id>
+    <link href="https://pulsegeek.com/articles/street-light-automation-system-from-pilot-to-rollout/" />
+    <updated>2025-10-29T14:12:00Z</updated>
+    <summary type="html"><![CDATA[Plan, configure, and scale a street light automation system from a small pilot to citywide rollout with steps, checks, and fixes.]]></summary>
+  </entry>
   <entry>
     <title>AI Checkpoints for Security Teams: Readiness and Risk</title>
     <id>https://pulsegeek.com/articles/ai-checkpoints-for-security-teams-readiness-and-risk/</id>
@@ -20,14 +55,14 @@
     <title>AI Applications for Small Business: 28 Quick Wins</title>
     <id>https://pulsegeek.com/articles/ai-applications-for-small-business-28-quick-wins/</id>
     <link href="https://pulsegeek.com/articles/ai-applications-for-small-business-28-quick-wins/" />
-    <updated>2025-10-28T14:16:00Z</updated>
+    <updated>2025-10-29T03:51:20Z</updated>
     <summary type="html"><![CDATA[Discover 28 practical AI applications for small business, from lead routing and pricing to service quality and cash flow. Learn tradeoffs, setup tips, and fast validation steps.]]></summary>
   </entry>
   <entry>
     <title>AI in Financial Services: Capabilities Across the Value Chain</title>
     <id>https://pulsegeek.com/articles/ai-in-financial-services-capabilities-across-the-value-chain/</id>
     <link href="https://pulsegeek.com/articles/ai-in-financial-services-capabilities-across-the-value-chain/" />
-    <updated>2025-10-28T14:15:00Z</updated>
+    <updated>2025-10-29T03:51:20Z</updated>
     <summary type="html"><![CDATA[Explore how AI reshapes financial services from onboarding to risk, forecasting, and reporting. Learn decision frameworks, examples, and tradeoffs to deploy capabilities with control and measurable value.]]></summary>
   </entry>
   <entry>
@@ -41,7 +76,7 @@
     <title>ZK-STARKs vs SNARKs: Security, Speed, and Setups</title>
     <id>https://pulsegeek.com/articles/zk-starks-vs-snarks-security-speed-and-setups/</id>
     <link href="https://pulsegeek.com/articles/zk-starks-vs-snarks-security-speed-and-setups/" />
-    <updated>2025-10-28T14:13:00Z</updated>
+    <updated>2025-10-29T03:51:20Z</updated>
     <summary type="html"><![CDATA[Compare ZK-STARKs and SNARKs across security assumptions, proving speed, verification costs, proof sizes, and trusted setups to choose the best fit for privacy and scaling.]]></summary>
   </entry>
   <entry>
@@ -62,14 +97,14 @@
     <title>SMB AI Playbook: Affordable Wins That Drive Growth</title>
     <id>https://pulsegeek.com/articles/smb-ai-playbook-affordable-wins-that-drive-growth/</id>
     <link href="https://pulsegeek.com/articles/smb-ai-playbook-affordable-wins-that-drive-growth/" />
-    <updated>2025-10-27T14:16:00Z</updated>
+    <updated>2025-10-29T03:51:20Z</updated>
     <summary type="html"><![CDATA[A practical guide to AI for small business. Prioritize quick wins, choose budget tools, prepare data, avoid pitfalls, and roll out a roadmap that compounds growth across marketing, sales, and operations.]]></summary>
   </entry>
   <entry>
     <title>AI in Corporate Finance: Capital Decisions with Confidence</title>
     <id>https://pulsegeek.com/articles/ai-in-corporate-finance-capital-decisions-with-confidence/</id>
     <link href="https://pulsegeek.com/articles/ai-in-corporate-finance-capital-decisions-with-confidence/" />
-    <updated>2025-10-27T14:15:00Z</updated>
+    <updated>2025-10-29T03:51:20Z</updated>
     <summary type="html"><![CDATA[Learn how AI helps corporate finance teams make capital allocation decisions with clarity, quantify risk, and align investments to strategy using explainable methods, guardrails, and practical scoring frameworks.]]></summary>
   </entry>
   <entry>
@@ -83,7 +118,7 @@
     <title>ZK-SNARKs Explained: Proving More with Less Data</title>
     <id>https://pulsegeek.com/articles/zk-snarks-explained-proving-more-with-less-data/</id>
     <link href="https://pulsegeek.com/articles/zk-snarks-explained-proving-more-with-less-data/" />
-    <updated>2025-10-27T14:13:00Z</updated>
+    <updated>2025-10-29T03:51:20Z</updated>
     <summary type="html"><![CDATA[Learn how ZK-SNARKs let you prove statements without revealing inputs, compress many computations into tiny proofs, and verify quickly. See privacy, scalability, and setup tradeoffs explained with clear steps and a toy example.]]></summary>
   </entry>
   <entry>
@@ -97,7 +132,7 @@
     <title>AI Cybersecurity: From SOC Signals to Smart Defense</title>
     <id>https://pulsegeek.com/articles/ai-cybersecurity-from-soc-signals-to-smart-defense/</id>
     <link href="https://pulsegeek.com/articles/ai-cybersecurity-from-soc-signals-to-smart-defense/" />
-    <updated>2025-10-26T14:17:00Z</updated>
+    <updated>2025-10-29T03:51:20Z</updated>
     <summary type="html"><![CDATA[Learn how AI strengthens cybersecurity across SOC workflows, from signal design and modeling choices to deployment guardrails, evaluation, and real-world response patterns for resilient defense.]]></summary>
   </entry>
   <entry>
@@ -111,28 +146,28 @@
     <title>AI Financial Reporting: 15 Ways to Speed Close with Trust</title>
     <id>https://pulsegeek.com/articles/ai-financial-reporting-15-ways-to-speed-close-with-trust/</id>
     <link href="https://pulsegeek.com/articles/ai-financial-reporting-15-ways-to-speed-close-with-trust/" />
-    <updated>2025-10-27T03:27:21Z</updated>
+    <updated>2025-10-29T03:51:20Z</updated>
     <summary type="html"><![CDATA[Discover 15 practical AI techniques for financial reporting that accelerate close, improve accuracy, tighten controls, and enhance audit readiness while preserving transparency.]]></summary>
   </entry>
   <entry>
     <title>The Use of AI in Retail: Core Functions and Outcomes</title>
     <id>https://pulsegeek.com/articles/the-use-of-ai-in-retail-core-functions-and-outcomes/</id>
     <link href="https://pulsegeek.com/articles/the-use-of-ai-in-retail-core-functions-and-outcomes/" />
-    <updated>2025-10-26T14:14:00Z</updated>
+    <updated>2025-10-29T03:51:20Z</updated>
     <summary type="html"><![CDATA[Understand how AI reshapes retail across demand planning, pricing, content, and service. Learn core functions, decision lenses, and tangible outcomes with practical tradeoffs operators and merchants can use to prioritize investments.]]></summary>
   </entry>
   <entry>
     <title>ZK Rollups: 8 Designs Compressing Blockchain Traffic</title>
     <id>https://pulsegeek.com/articles/zk-rollups-8-designs-compressing-blockchain-traffic/</id>
     <link href="https://pulsegeek.com/articles/zk-rollups-8-designs-compressing-blockchain-traffic/" />
-    <updated>2025-10-27T03:27:21Z</updated>
+    <updated>2025-10-29T03:51:20Z</updated>
     <summary type="html"><![CDATA[Explore eight zk rollup designs that compress on-chain traffic, cut gas, and preserve security. Learn how proofs, data availability, and zkEVM choices shape performance and developer experience.]]></summary>
   </entry>
   <entry>
     <title>Smart Street Light Sensors: Types, Accuracy, and Placement</title>
     <id>https://pulsegeek.com/articles/smart-street-light-sensors-types-accuracy-and-placement/</id>
     <link href="https://pulsegeek.com/articles/smart-street-light-sensors-types-accuracy-and-placement/" />
-    <updated>2025-10-26T14:12:00Z</updated>
+    <updated>2025-10-29T03:51:20Z</updated>
     <summary type="html"><![CDATA[Learn which smart street light sensors to use, how accurate they are, and where to mount them for reliable detection, energy savings, and safe visibility.]]></summary>
   </entry>
   <entry>
@@ -153,28 +188,28 @@
     <title>AI Financial Forecasting &amp; FP&amp;A: Methods, Controls, ROI</title>
     <id>https://pulsegeek.com/articles/ai-financial-forecasting-and-fpa-methods-controls-roi/</id>
     <link href="https://pulsegeek.com/articles/ai-financial-forecasting-and-fpa-methods-controls-roi/" />
-    <updated>2025-10-27T03:27:21Z</updated>
+    <updated>2025-10-29T03:51:20Z</updated>
     <summary type="html"><![CDATA[A practitioner guide to AI financial forecasting for FP&A. Learn methods, controls, workflows, pitfalls, and how to size ROI with data-driven decisions and governance.]]></summary>
   </entry>
   <entry>
     <title>Retailers Using AI: Who’s Leading and What They Do</title>
     <id>https://pulsegeek.com/articles/retailers-using-ai-whos-leading-and-what-they-do/</id>
     <link href="https://pulsegeek.com/articles/retailers-using-ai-whos-leading-and-what-they-do/" />
-    <updated>2025-10-27T03:27:21Z</updated>
+    <updated>2025-10-29T03:51:20Z</updated>
     <summary type="html"><![CDATA[See how leading retailers use AI across pricing, forecasting, personalization, and store operations, with concrete examples, patterns to copy, and practical tradeoffs.]]></summary>
   </entry>
   <entry>
     <title>PLONK ZK Proof: From Arithmetization to Verification</title>
     <id>https://pulsegeek.com/articles/plonk-zk-proof-from-arithmetization-to-verification/</id>
     <link href="https://pulsegeek.com/articles/plonk-zk-proof-from-arithmetization-to-verification/" />
-    <updated>2025-10-27T03:27:21Z</updated>
+    <updated>2025-10-29T03:51:20Z</updated>
     <summary type="html"><![CDATA[Learn how a PLONK zk proof is built end to end. Map logic to circuits, encode constraints as polynomials, and walk through proving and verification steps with practical tips.]]></summary>
   </entry>
   <entry>
     <title>Smart Street Light Control: Methods, Modes, and Triggers</title>
     <id>https://pulsegeek.com/articles/smart-street-light-control-methods-modes-and-triggers/</id>
     <link href="https://pulsegeek.com/articles/smart-street-light-control-methods-modes-and-triggers/" />
-    <updated>2025-10-27T03:27:21Z</updated>
+    <updated>2025-10-29T03:51:20Z</updated>
     <summary type="html"><![CDATA[Learn smart street light control methods, operating modes, and sensor triggers with decision lenses, scenarios, and tradeoffs that balance safety, savings, and maintainability.]]></summary>
   </entry>
   <entry>
@@ -202,21 +237,21 @@
     <title>Retail AI Software Comparison: Platforms and Fit</title>
     <id>https://pulsegeek.com/articles/retail-ai-software-comparison-platforms-and-fit/</id>
     <link href="https://pulsegeek.com/articles/retail-ai-software-comparison-platforms-and-fit/" />
-    <updated>2025-10-27T03:27:21Z</updated>
+    <updated>2025-10-29T03:51:20Z</updated>
     <summary type="html"><![CDATA[Compare retail AI software types with clear criteria, tradeoffs, and scenarios. Learn where platforms, point solutions, or cloud services best fit and why.]]></summary>
   </entry>
   <entry>
     <title>Mina Protocol: A Tiny Blockchain with Big ZK Ideas</title>
     <id>https://pulsegeek.com/articles/mina-protocol-a-tiny-blockchain-with-big-zk-ideas/</id>
     <link href="https://pulsegeek.com/articles/mina-protocol-a-tiny-blockchain-with-big-zk-ideas/" />
-    <updated>2025-10-27T03:27:21Z</updated>
+    <updated>2025-10-29T03:51:20Z</updated>
     <summary type="html"><![CDATA[Learn how Mina Protocol keeps the chain light with recursive proofs, enabling privacy and compression through zero-knowledge while preserving decentralization and practical verification on everyday devices.]]></summary>
   </entry>
   <entry>
     <title>Smart LED Street Lighting: 9 Options Cities Evaluate</title>
     <id>https://pulsegeek.com/articles/smart-led-street-lighting-9-options-cities-evaluate/</id>
     <link href="https://pulsegeek.com/articles/smart-led-street-lighting-9-options-cities-evaluate/" />
-    <updated>2025-10-27T03:27:21Z</updated>
+    <updated>2025-10-29T03:51:20Z</updated>
     <summary type="html"><![CDATA[Explore nine smart LED street lighting options cities compare, with examples, tradeoffs, and configuration tips to balance safety, savings, and maintainability.]]></summary>
   </entry>
   <entry>
@@ -244,7 +279,7 @@
     <title>Plan AI Projects in Retail Operations: Roadmaps That Work</title>
     <id>https://pulsegeek.com/articles/plan-ai-projects-in-retail-operations-roadmaps-that-work/</id>
     <link href="https://pulsegeek.com/articles/plan-ai-projects-in-retail-operations-roadmaps-that-work/" />
-    <updated>2025-10-27T03:27:21Z</updated>
+    <updated>2025-10-29T03:51:20Z</updated>
     <summary type="html"><![CDATA[Learn how to plan AI projects in retail operations with a proven roadmap. Scope problems, ready data, execute pilots, validate results, and scale responsibly.]]></summary>
   </entry>
   <entry>
@@ -258,14 +293,14 @@
     <title>Mina Crypto: 9 Reasons ZK Natives Are Watching</title>
     <id>https://pulsegeek.com/articles/mina-crypto-9-reasons-zk-natives-are-watching/</id>
     <link href="https://pulsegeek.com/articles/mina-crypto-9-reasons-zk-natives-are-watching/" />
-    <updated>2025-10-27T03:27:21Z</updated>
+    <updated>2025-10-29T03:51:20Z</updated>
     <summary type="html"><![CDATA[Explore why ZK builders track Mina crypto. Learn how a tiny chain, recursive proofs, and private zkApps enable verifiable compute, light clients, and practical privacy tradeoffs.]]></summary>
   </entry>
   <entry>
     <title>Sensor Street Lamp: Choosing Motion, Ambient, and Radar</title>
     <id>https://pulsegeek.com/articles/sensor-street-lamp-choosing-motion-ambient-and-radar/</id>
     <link href="https://pulsegeek.com/articles/sensor-street-lamp-choosing-motion-ambient-and-radar/" />
-    <updated>2025-10-27T03:27:21Z</updated>
+    <updated>2025-10-29T03:51:20Z</updated>
     <summary type="html"><![CDATA[Learn how to choose motion, ambient light, and radar sensors for street lamps, including placement rules, tuning ranges, and control logic tradeoffs for safety and savings.]]></summary>
   </entry>
   <entry>
@@ -293,7 +328,7 @@
     <title>How Is AI Used in Retail Merchandising? A Practical Guide</title>
     <id>https://pulsegeek.com/articles/how-is-ai-used-in-retail-merchandising-a-practical-guide/</id>
     <link href="https://pulsegeek.com/articles/how-is-ai-used-in-retail-merchandising-a-practical-guide/" />
-    <updated>2025-10-27T03:27:21Z</updated>
+    <updated>2025-10-29T03:51:20Z</updated>
     <summary type="html"><![CDATA[Learn how to apply AI in retail merchandising with clear steps, setup tips, validation methods, and fixes. Plan your use cases, prepare data, run experiments, and measure results responsibly.]]></summary>
   </entry>
   <entry>
@@ -307,14 +342,14 @@
     <title>Zero-Knowledge Proofs: Privacy and Proof Without Sharing</title>
     <id>https://pulsegeek.com/articles/zero-knowledge-proofs-privacy-and-proof-without-sharing/</id>
     <link href="https://pulsegeek.com/articles/zero-knowledge-proofs-privacy-and-proof-without-sharing/" />
-    <updated>2025-10-27T03:27:21Z</updated>
+    <updated>2025-10-29T03:51:20Z</updated>
     <summary type="html"><![CDATA[Learn how zero knowledge proofs deliver privacy and compression by proving facts without revealing data, and see where SNARKs, STARKs, and rollups fit. Practical guidance, choices, and pitfalls for builders.]]></summary>
   </entry>
   <entry>
     <title>Intelligent Wireless Street Lighting Systems: Key Choices</title>
     <id>https://pulsegeek.com/articles/intelligent-wireless-street-lighting-systems-key-choices/</id>
     <link href="https://pulsegeek.com/articles/intelligent-wireless-street-lighting-systems-key-choices/" />
-    <updated>2025-10-27T03:27:21Z</updated>
+    <updated>2025-10-29T03:51:20Z</updated>
     <summary type="html"><![CDATA[Learn how intelligent wireless street lighting systems work, key design tradeoffs, sensor choices, and control strategies to balance savings, safety, and maintainability.]]></summary>
   </entry>
   <entry>
@@ -323,40 +358,5 @@
     <link href="https://pulsegeek.com/articles/nlp-essentials-for-security-language-meets-signals/" />
     <updated>2025-10-25T19:47:43Z</updated>
     <summary type="html"><![CDATA[Learn how natural language processing connects text understanding with email and network signals to improve phishing detection, triage, and response in practical security workflows.]]></summary>
-  </entry>
-  <entry>
-    <title>How Do You Measure AI Impact in Operations?</title>
-    <id>https://pulsegeek.com/articles/how-do-you-measure-ai-impact-in-operations/</id>
-    <link href="https://pulsegeek.com/articles/how-do-you-measure-ai-impact-in-operations/" />
-    <updated>2025-10-27T03:27:21Z</updated>
-    <summary type="html"><![CDATA[Learn how to measure AI impact in operations using baselines, counterfactuals, quality metrics, and ROI models. Get practical methods for attribution, risk tracking, and scaling effects.]]></summary>
-  </entry>
-  <entry>
-    <title>Policy and Control Checks Automated by AI in Finance</title>
-    <id>https://pulsegeek.com/articles/policy-and-control-checks-automated-by-ai-in-finance/</id>
-    <link href="https://pulsegeek.com/articles/policy-and-control-checks-automated-by-ai-in-finance/" />
-    <updated>2025-10-24T19:46:24Z</updated>
-    <summary type="html"><![CDATA[Learn how AI automates finance policy and control checks with auditable rules, real-time validation, and risk scoring while preserving compliance and speed.]]></summary>
-  </entry>
-  <entry>
-    <title>Generative AI in Retail: 12 Ways to Reimagine Merchandising</title>
-    <id>https://pulsegeek.com/articles/generative-ai-in-retail-12-ways-to-reimagine-merchandising/</id>
-    <link href="https://pulsegeek.com/articles/generative-ai-in-retail-12-ways-to-reimagine-merchandising/" />
-    <updated>2025-10-27T03:27:21Z</updated>
-    <summary type="html"><![CDATA[Discover 12 practical ways generative AI reshapes retail merchandising, from product content and imagery to localization, assortment ideas, and governance workflows, with realistic examples and tradeoffs to guide adoption.]]></summary>
-  </entry>
-  <entry>
-    <title>Human-AI Collaboration in Learning: Where Each Excels</title>
-    <id>https://pulsegeek.com/articles/human-ai-collaboration-in-learning-where-each-excels/</id>
-    <link href="https://pulsegeek.com/articles/human-ai-collaboration-in-learning-where-each-excels/" />
-    <updated>2025-10-27T03:27:21Z</updated>
-    <summary type="html"><![CDATA[See where human educators and AI each excel in learning, with concrete workflows for personalization, fair assessment, feedback quality, and academic integrity.]]></summary>
-  </entry>
-  <entry>
-    <title>What Is a Distributed Ledger? Shared Records at Scale</title>
-    <id>https://pulsegeek.com/articles/what-is-a-distributed-ledger-shared-records-at-scale/</id>
-    <link href="https://pulsegeek.com/articles/what-is-a-distributed-ledger-shared-records-at-scale/" />
-    <updated>2025-10-22T16:18:09Z</updated>
-    <summary type="html"><![CDATA[Learn how distributed ledgers maintain shared records at scale. Explore data structures, consensus, and the role of randomness for lotteries, leader election, and protocol fairness.]]></summary>
   </entry>
 </feed>

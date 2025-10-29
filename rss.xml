@@ -6,8 +6,43 @@
     <description>Tech news, gaming, and geek culture in one pulse</description>
     <language>en-us</language>
     <generator>PulseGeek Rss Feed Generator</generator>
-    <lastBuildDate>Tue, 28 Oct 2025 14:17:00 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 29 Oct 2025 14:16:00 GMT</lastBuildDate>
     <atom:link href="https://pulsegeek.com/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AI Data Security Tactics: Protecting Models and Signals</title>
+      <link>https://pulsegeek.com/articles/ai-data-security-tactics-protecting-models-and-signals/</link>
+      <guid isPermaLink="true">https://pulsegeek.com/articles/ai-data-security-tactics-protecting-models-and-signals/</guid>
+      <pubDate>Wed, 29 Oct 2025 14:16:00 GMT</pubDate>
+      <description>Practical AI data security tactics to protect training signals, model artifacts, and SOC analytics. Learn controls for privacy, integrity, governance, and resilient operations.</description>
+    </item>
+    <item>
+      <title>AI Business Services: What SMBs Can Outsource First</title>
+      <link>https://pulsegeek.com/articles/ai-business-services-what-smbs-can-outsource-first/</link>
+      <guid isPermaLink="true">https://pulsegeek.com/articles/ai-business-services-what-smbs-can-outsource-first/</guid>
+      <pubDate>Wed, 29 Oct 2025 14:15:00 GMT</pubDate>
+      <description>Discover nine AI business services SMBs can outsource first. See concrete examples, selection tips, and tradeoffs to cut cost while protecting quality.</description>
+    </item>
+    <item>
+      <title>AI in FP&amp;A: 12 High-Impact Opportunities to Pursue</title>
+      <link>https://pulsegeek.com/articles/ai-in-fpa-12-high-impact-opportunities-to-pursue/</link>
+      <guid isPermaLink="true">https://pulsegeek.com/articles/ai-in-fpa-12-high-impact-opportunities-to-pursue/</guid>
+      <pubDate>Wed, 29 Oct 2025 14:14:00 GMT</pubDate>
+      <description>Explore twelve practical AI opportunities for FP&amp;A that raise forecast accuracy, speed decisions, and strengthen controls. Learn where to start, what to measure, and tradeoffs to consider.</description>
+    </item>
+    <item>
+      <title>AI Convenience Store: Speed, Selection, and Trust</title>
+      <link>https://pulsegeek.com/articles/ai-convenience-store-speed-selection-and-trust/</link>
+      <guid isPermaLink="true">https://pulsegeek.com/articles/ai-convenience-store-speed-selection-and-trust/</guid>
+      <pubDate>Wed, 29 Oct 2025 14:13:00 GMT</pubDate>
+      <description>Learn how AI convenience stores balance rapid checkout, curated selection, and shopper trust using data, sensors, and design choices that reduce friction and increase confidence.</description>
+    </item>
+    <item>
+      <title>Street Light Automation System: From Pilot to Rollout</title>
+      <link>https://pulsegeek.com/articles/street-light-automation-system-from-pilot-to-rollout/</link>
+      <guid isPermaLink="true">https://pulsegeek.com/articles/street-light-automation-system-from-pilot-to-rollout/</guid>
+      <pubDate>Wed, 29 Oct 2025 14:12:00 GMT</pubDate>
+      <description>Plan, configure, and scale a street light automation system from a small pilot to citywide rollout with steps, checks, and fixes.</description>
+    </item>
     <item>
       <title>AI Checkpoints for Security Teams: Readiness and Risk</title>
       <link>https://pulsegeek.com/articles/ai-checkpoints-for-security-teams-readiness-and-risk/</link>
@@ -19,14 +54,14 @@
       <title>AI Applications for Small Business: 28 Quick Wins</title>
       <link>https://pulsegeek.com/articles/ai-applications-for-small-business-28-quick-wins/</link>
       <guid isPermaLink="true">https://pulsegeek.com/articles/ai-applications-for-small-business-28-quick-wins/</guid>
-      <pubDate>Tue, 28 Oct 2025 14:16:00 GMT</pubDate>
+      <pubDate>Wed, 17 Sep 2025 23:00:00 GMT</pubDate>
       <description>Discover 28 practical AI applications for small business, from lead routing and pricing to service quality and cash flow. Learn tradeoffs, setup tips, and fast validation steps.</description>
     </item>
     <item>
       <title>AI in Financial Services: Capabilities Across the Value Chain</title>
       <link>https://pulsegeek.com/articles/ai-in-financial-services-capabilities-across-the-value-chain/</link>
       <guid isPermaLink="true">https://pulsegeek.com/articles/ai-in-financial-services-capabilities-across-the-value-chain/</guid>
-      <pubDate>Tue, 28 Oct 2025 14:15:00 GMT</pubDate>
+      <pubDate>Fri, 10 Oct 2025 04:02:00 GMT</pubDate>
       <description>Explore how AI reshapes financial services from onboarding to risk, forecasting, and reporting. Learn decision frameworks, examples, and tradeoffs to deploy capabilities with control and measurable value.</description>
     </item>
     <item>
@@ -40,7 +75,7 @@
       <title>ZK-STARKs vs SNARKs: Security, Speed, and Setups</title>
       <link>https://pulsegeek.com/articles/zk-starks-vs-snarks-security-speed-and-setups/</link>
       <guid isPermaLink="true">https://pulsegeek.com/articles/zk-starks-vs-snarks-security-speed-and-setups/</guid>
-      <pubDate>Tue, 28 Oct 2025 14:13:00 GMT</pubDate>
+      <pubDate>Wed, 17 Sep 2025 23:00:00 GMT</pubDate>
       <description>Compare ZK-STARKs and SNARKs across security assumptions, proving speed, verification costs, proof sizes, and trusted setups to choose the best fit for privacy and scaling.</description>
     </item>
     <item>
@@ -61,14 +96,14 @@
       <title>SMB AI Playbook: Affordable Wins That Drive Growth</title>
       <link>https://pulsegeek.com/articles/smb-ai-playbook-affordable-wins-that-drive-growth/</link>
       <guid isPermaLink="true">https://pulsegeek.com/articles/smb-ai-playbook-affordable-wins-that-drive-growth/</guid>
-      <pubDate>Mon, 27 Oct 2025 14:16:00 GMT</pubDate>
+      <pubDate>Wed, 17 Sep 2025 23:00:00 GMT</pubDate>
       <description>A practical guide to AI for small business. Prioritize quick wins, choose budget tools, prepare data, avoid pitfalls, and roll out a roadmap that compounds growth across marketing, sales, and operations.</description>
     </item>
     <item>
       <title>AI in Corporate Finance: Capital Decisions with Confidence</title>
       <link>https://pulsegeek.com/articles/ai-in-corporate-finance-capital-decisions-with-confidence/</link>
       <guid isPermaLink="true">https://pulsegeek.com/articles/ai-in-corporate-finance-capital-decisions-with-confidence/</guid>
-      <pubDate>Mon, 27 Oct 2025 14:15:00 GMT</pubDate>
+      <pubDate>Fri, 10 Oct 2025 04:02:00 GMT</pubDate>
       <description>Learn how AI helps corporate finance teams make capital allocation decisions with clarity, quantify risk, and align investments to strategy using explainable methods, guardrails, and practical scoring frameworks.</description>
     </item>
     <item>
@@ -82,7 +117,7 @@
       <title>ZK-SNARKs Explained: Proving More with Less Data</title>
       <link>https://pulsegeek.com/articles/zk-snarks-explained-proving-more-with-less-data/</link>
       <guid isPermaLink="true">https://pulsegeek.com/articles/zk-snarks-explained-proving-more-with-less-data/</guid>
-      <pubDate>Mon, 27 Oct 2025 14:13:00 GMT</pubDate>
+      <pubDate>Wed, 17 Sep 2025 23:00:00 GMT</pubDate>
       <description>Learn how ZK-SNARKs let you prove statements without revealing inputs, compress many computations into tiny proofs, and verify quickly. See privacy, scalability, and setup tradeoffs explained with clear steps and a toy example.</description>
     </item>
     <item>
@@ -322,41 +357,6 @@
       <guid isPermaLink="true">https://pulsegeek.com/articles/nlp-essentials-for-security-language-meets-signals/</guid>
       <pubDate>Tue, 21 Oct 2025 14:18:00 GMT</pubDate>
       <description>Learn how natural language processing connects text understanding with email and network signals to improve phishing detection, triage, and response in practical security workflows.</description>
-    </item>
-    <item>
-      <title>How Do You Measure AI Impact in Operations?</title>
-      <link>https://pulsegeek.com/articles/how-do-you-measure-ai-impact-in-operations/</link>
-      <guid isPermaLink="true">https://pulsegeek.com/articles/how-do-you-measure-ai-impact-in-operations/</guid>
-      <pubDate>Wed, 17 Sep 2025 23:00:00 GMT</pubDate>
-      <description>Learn how to measure AI impact in operations using baselines, counterfactuals, quality metrics, and ROI models. Get practical methods for attribution, risk tracking, and scaling effects.</description>
-    </item>
-    <item>
-      <title>Policy and Control Checks Automated by AI in Finance</title>
-      <link>https://pulsegeek.com/articles/policy-and-control-checks-automated-by-ai-in-finance/</link>
-      <guid isPermaLink="true">https://pulsegeek.com/articles/policy-and-control-checks-automated-by-ai-in-finance/</guid>
-      <pubDate>Fri, 10 Oct 2025 04:02:00 GMT</pubDate>
-      <description>Learn how AI automates finance policy and control checks with auditable rules, real-time validation, and risk scoring while preserving compliance and speed.</description>
-    </item>
-    <item>
-      <title>Generative AI in Retail: 12 Ways to Reimagine Merchandising</title>
-      <link>https://pulsegeek.com/articles/generative-ai-in-retail-12-ways-to-reimagine-merchandising/</link>
-      <guid isPermaLink="true">https://pulsegeek.com/articles/generative-ai-in-retail-12-ways-to-reimagine-merchandising/</guid>
-      <pubDate>Tue, 21 Oct 2025 14:15:00 GMT</pubDate>
-      <description>Discover 12 practical ways generative AI reshapes retail merchandising, from product content and imagery to localization, assortment ideas, and governance workflows, with realistic examples and tradeoffs to guide adoption.</description>
-    </item>
-    <item>
-      <title>Human-AI Collaboration in Learning: Where Each Excels</title>
-      <link>https://pulsegeek.com/articles/human-ai-collaboration-in-learning-where-each-excels/</link>
-      <guid isPermaLink="true">https://pulsegeek.com/articles/human-ai-collaboration-in-learning-where-each-excels/</guid>
-      <pubDate>Wed, 17 Sep 2025 23:00:00 GMT</pubDate>
-      <description>See where human educators and AI each excel in learning, with concrete workflows for personalization, fair assessment, feedback quality, and academic integrity.</description>
-    </item>
-    <item>
-      <title>What Is a Distributed Ledger? Shared Records at Scale</title>
-      <link>https://pulsegeek.com/articles/what-is-a-distributed-ledger-shared-records-at-scale/</link>
-      <guid isPermaLink="true">https://pulsegeek.com/articles/what-is-a-distributed-ledger-shared-records-at-scale/</guid>
-      <pubDate>Wed, 17 Sep 2025 23:00:00 GMT</pubDate>
-      <description>Learn how distributed ledgers maintain shared records at scale. Explore data structures, consensus, and the role of randomness for lotteries, leader election, and protocol fairness.</description>
     </item>
   </channel>
 </rss>
