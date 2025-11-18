@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://pulsegeek.com/</loc>
-    <lastmod>2025-11-02T15:07:19Z</lastmod>
+    <lastmod>2025-11-10T21:40:14Z</lastmod>
   </url>
   <url>
     <loc>https://pulsegeek.com/articles/10-smart-contract-use-cases-shaping-digital-trust/</loc>
@@ -10,11 +10,11 @@
   </url>
   <url>
     <loc>https://pulsegeek.com/articles/10-smart-street-lamps-worth-studying-for-urban-upgrades/</loc>
-    <lastmod>2025-11-03T10:12:00Z</lastmod>
+    <lastmod>2025-11-10T21:40:14Z</lastmod>
   </url>
   <url>
     <loc>https://pulsegeek.com/articles/12-advantages-of-a-smart-street-light-system-explained/</loc>
-    <lastmod>2025-11-04T10:12:00Z</lastmod>
+    <lastmod>2025-11-10T21:40:14Z</lastmod>
   </url>
   <url>
     <loc>https://pulsegeek.com/articles/25-high-value-uses-of-ai-in-business-you-can-start/</loc>
@@ -22,7 +22,7 @@
   </url>
   <url>
     <loc>https://pulsegeek.com/articles/7-smart-city-lighting-solutions-cities-compare-in-2025/</loc>
-    <lastmod>2025-11-05T10:12:00Z</lastmod>
+    <lastmod>2025-11-10T21:40:14Z</lastmod>
   </url>
   <url>
     <loc>https://pulsegeek.com/articles/adaptive-learning-with-ai-build-paths-that-evolve/</loc>
@@ -30,7 +30,7 @@
   </url>
   <url>
     <loc>https://pulsegeek.com/articles/adaptive-street-lighting-when-where-and-how-to-use-it/</loc>
-    <lastmod>2025-11-06T10:12:00Z</lastmod>
+    <lastmod>2025-11-10T21:40:14Z</lastmod>
   </url>
   <url>
     <loc>https://pulsegeek.com/articles/advanced-metering-infrastructure-deployment-plan-architecture-rollout-and-change-management/</loc>
@@ -49,8 +49,12 @@
     <lastmod>2025-10-26T22:27:21Z</lastmod>
   </url>
   <url>
+    <loc>https://pulsegeek.com/articles/ai-and-ml-in-business-35-practical-proved-use-cases/</loc>
+    <lastmod>2025-11-11T10:15:00Z</lastmod>
+  </url>
+  <url>
     <loc>https://pulsegeek.com/articles/ai-applications-for-small-business-28-quick-wins/</loc>
-    <lastmod>2025-11-07T15:49:46Z</lastmod>
+    <lastmod>2025-11-10T21:40:14Z</lastmod>
   </url>
   <url>
     <loc>https://pulsegeek.com/articles/ai-applications-in-email-security-patterns-that-work/</loc>
@@ -70,7 +74,11 @@
   </url>
   <url>
     <loc>https://pulsegeek.com/articles/ai-basics-for-security-foundation-and-boundaries/</loc>
-    <lastmod>2025-11-07T15:49:46Z</lastmod>
+    <lastmod>2025-11-10T21:40:14Z</lastmod>
+  </url>
+  <url>
+    <loc>https://pulsegeek.com/articles/ai-business-analytics-from-hunches-to-confidence/</loc>
+    <lastmod>2025-11-12T10:15:00Z</lastmod>
   </url>
   <url>
     <loc>https://pulsegeek.com/articles/ai-business-applications-30-real-world-examples/</loc>
@@ -86,7 +94,7 @@
   </url>
   <url>
     <loc>https://pulsegeek.com/articles/ai-business-services-what-smbs-can-outsource-first/</loc>
-    <lastmod>2025-11-07T15:49:46Z</lastmod>
+    <lastmod>2025-11-10T21:40:14Z</lastmod>
   </url>
   <url>
     <loc>https://pulsegeek.com/articles/ai-chatbot-vs-alternatives-picking-the-right-classroom-fit/</loc>
@@ -94,15 +102,19 @@
   </url>
   <url>
     <loc>https://pulsegeek.com/articles/ai-checkpoints-for-security-teams-readiness-and-risk/</loc>
-    <lastmod>2025-11-07T15:49:46Z</lastmod>
+    <lastmod>2025-11-10T21:40:14Z</lastmod>
   </url>
   <url>
     <loc>https://pulsegeek.com/articles/ai-convenience-store-speed-selection-and-trust/</loc>
-    <lastmod>2025-11-07T15:49:46Z</lastmod>
+    <lastmod>2025-11-10T21:40:14Z</lastmod>
   </url>
   <url>
     <loc>https://pulsegeek.com/articles/ai-cybersecurity-from-soc-signals-to-smart-defense/</loc>
-    <lastmod>2025-11-07T15:49:46Z</lastmod>
+    <lastmod>2025-11-10T21:40:14Z</lastmod>
+  </url>
+  <url>
+    <loc>https://pulsegeek.com/articles/ai-data-management-for-security-models-checklists/</loc>
+    <lastmod>2025-11-11T10:16:00Z</lastmod>
   </url>
   <url>
     <loc>https://pulsegeek.com/articles/ai-data-science-for-phishing-detection-step-by-step/</loc>
@@ -110,11 +122,19 @@
   </url>
   <url>
     <loc>https://pulsegeek.com/articles/ai-data-security-tactics-protecting-models-and-signals/</loc>
-    <lastmod>2025-11-07T15:49:46Z</lastmod>
+    <lastmod>2025-11-10T21:40:14Z</lastmod>
+  </url>
+  <url>
+    <loc>https://pulsegeek.com/articles/ai-driven-business-intelligence-what-changes-and-why/</loc>
+    <lastmod>2025-11-15T10:15:00Z</lastmod>
   </url>
   <url>
     <loc>https://pulsegeek.com/articles/ai-driven-soc-analytics-techniques-you-can-apply-now/</loc>
-    <lastmod>2025-11-07T15:49:46Z</lastmod>
+    <lastmod>2025-11-10T21:40:14Z</lastmod>
+  </url>
+  <url>
+    <loc>https://pulsegeek.com/articles/ai-engine-design-for-security-pipelines-principles/</loc>
+    <lastmod>2025-11-12T10:16:00Z</lastmod>
   </url>
   <url>
     <loc>https://pulsegeek.com/articles/ai-ethics-and-fairness-practical-paths-to-responsible-ai/</loc>
@@ -122,19 +142,23 @@
   </url>
   <url>
     <loc>https://pulsegeek.com/articles/ai-financial-forecasting-and-fpa-methods-controls-roi/</loc>
-    <lastmod>2025-11-07T15:49:46Z</lastmod>
+    <lastmod>2025-11-10T21:40:14Z</lastmod>
   </url>
   <url>
     <loc>https://pulsegeek.com/articles/ai-financial-reporting-15-ways-to-speed-close-with-trust/</loc>
-    <lastmod>2025-11-07T15:49:46Z</lastmod>
+    <lastmod>2025-11-10T21:40:14Z</lastmod>
+  </url>
+  <url>
+    <loc>https://pulsegeek.com/articles/ai-for-analytics-from-descriptive-to-predictive/</loc>
+    <lastmod>2025-11-13T10:15:00Z</lastmod>
   </url>
   <url>
     <loc>https://pulsegeek.com/articles/ai-for-business-development-open-more-right-doors/</loc>
-    <lastmod>2025-11-07T15:49:46Z</lastmod>
+    <lastmod>2025-11-10T21:40:14Z</lastmod>
   </url>
   <url>
     <loc>https://pulsegeek.com/articles/ai-for-business-growth-a-roadmap-to-compounding-roi/</loc>
-    <lastmod>2025-11-07T15:49:46Z</lastmod>
+    <lastmod>2025-11-10T21:40:14Z</lastmod>
   </url>
   <url>
     <loc>https://pulsegeek.com/articles/ai-for-business-operations-efficiency-that-compounds/</loc>
@@ -142,7 +166,7 @@
   </url>
   <url>
     <loc>https://pulsegeek.com/articles/ai-for-entrepreneurs-leverage-focus-and-momentum/</loc>
-    <lastmod>2025-11-07T15:49:46Z</lastmod>
+    <lastmod>2025-11-10T21:40:14Z</lastmod>
   </url>
   <url>
     <loc>https://pulsegeek.com/articles/ai-for-financial-operations-idp-controls-and-speed/</loc>
@@ -153,24 +177,32 @@
     <lastmod>2025-11-02T15:07:19Z</lastmod>
   </url>
   <url>
+    <loc>https://pulsegeek.com/articles/ai-for-power-bi-bring-predictions-into-every-report/</loc>
+    <lastmod>2025-11-14T10:15:00Z</lastmod>
+  </url>
+  <url>
     <loc>https://pulsegeek.com/articles/ai-for-risk-management-from-fraud-flags-to-mrm-controls/</loc>
-    <lastmod>2025-11-10T10:14:00Z</lastmod>
+    <lastmod>2025-11-10T21:40:14Z</lastmod>
   </url>
   <url>
     <loc>https://pulsegeek.com/articles/ai-for-shopping-conversational-journeys-and-smart-checkout/</loc>
-    <lastmod>2025-11-07T15:49:46Z</lastmod>
+    <lastmod>2025-11-10T21:40:14Z</lastmod>
   </url>
   <url>
     <loc>https://pulsegeek.com/articles/ai-for-small-business-marketing-tactics-that-convert/</loc>
-    <lastmod>2025-11-07T15:49:46Z</lastmod>
+    <lastmod>2025-11-10T21:40:14Z</lastmod>
   </url>
   <url>
     <loc>https://pulsegeek.com/articles/ai-for-smes-scale-capabilities-without-headcount/</loc>
-    <lastmod>2025-11-07T15:49:46Z</lastmod>
+    <lastmod>2025-11-10T21:40:14Z</lastmod>
   </url>
   <url>
     <loc>https://pulsegeek.com/articles/ai-for-student-assessment-fair-fast-and-actionable/</loc>
     <lastmod>2025-11-02T15:07:19Z</lastmod>
+  </url>
+  <url>
+    <loc>https://pulsegeek.com/articles/ai-fraud-detection-vs-rule-based-what-performs-better/</loc>
+    <lastmod>2025-11-11T10:14:00Z</lastmod>
   </url>
   <url>
     <loc>https://pulsegeek.com/articles/ai-governance-framework-components-a-working-guide/</loc>
@@ -181,12 +213,16 @@
     <lastmod>2025-11-02T15:07:19Z</lastmod>
   </url>
   <url>
+    <loc>https://pulsegeek.com/articles/ai-in-banking-and-finance-capabilities-and-constraints/</loc>
+    <lastmod>2025-11-12T10:14:00Z</lastmod>
+  </url>
+  <url>
     <loc>https://pulsegeek.com/articles/ai-in-business-40-examples-that-deliver-results/</loc>
     <lastmod>2025-10-26T22:27:21Z</lastmod>
   </url>
   <url>
     <loc>https://pulsegeek.com/articles/ai-in-business-practical-paths-from-idea-to-impact/</loc>
-    <lastmod>2025-11-02T15:07:19Z</lastmod>
+    <lastmod>2025-11-10T21:40:14Z</lastmod>
   </url>
   <url>
     <loc>https://pulsegeek.com/articles/ai-in-business-processes-mapping-value-to-workflow/</loc>
@@ -194,15 +230,15 @@
   </url>
   <url>
     <loc>https://pulsegeek.com/articles/ai-in-corporate-finance-capital-decisions-with-confidence/</loc>
-    <lastmod>2025-11-07T15:49:46Z</lastmod>
+    <lastmod>2025-11-10T21:40:14Z</lastmod>
   </url>
   <url>
     <loc>https://pulsegeek.com/articles/ai-in-cyber-security-threat-models-and-tuning/</loc>
-    <lastmod>2025-11-07T15:49:46Z</lastmod>
+    <lastmod>2025-11-10T21:40:14Z</lastmod>
   </url>
   <url>
     <loc>https://pulsegeek.com/articles/ai-in-cybersecurity-models-pipelines-and-defense/</loc>
-    <lastmod>2025-11-02T15:07:19Z</lastmod>
+    <lastmod>2025-11-10T21:40:14Z</lastmod>
   </url>
   <url>
     <loc>https://pulsegeek.com/articles/ai-in-education-adoption-equity-and-practical-pathways/</loc>
@@ -217,16 +253,24 @@
     <lastmod>2025-11-02T15:07:19Z</lastmod>
   </url>
   <url>
+    <loc>https://pulsegeek.com/articles/ai-in-finance-and-investing-signals-risk-and-returns/</loc>
+    <lastmod>2025-11-13T10:14:00Z</lastmod>
+  </url>
+  <url>
     <loc>https://pulsegeek.com/articles/ai-in-finance-practical-uses-risks-and-whats-next/</loc>
-    <lastmod>2025-11-07T15:49:46Z</lastmod>
+    <lastmod>2025-11-10T21:40:14Z</lastmod>
   </url>
   <url>
     <loc>https://pulsegeek.com/articles/ai-in-financial-services-capabilities-across-the-value-chain/</loc>
-    <lastmod>2025-11-07T15:49:46Z</lastmod>
+    <lastmod>2025-11-10T21:40:14Z</lastmod>
   </url>
   <url>
     <loc>https://pulsegeek.com/articles/ai-in-fpa-12-high-impact-opportunities-to-pursue/</loc>
-    <lastmod>2025-11-07T15:49:46Z</lastmod>
+    <lastmod>2025-11-10T21:40:14Z</lastmod>
+  </url>
+  <url>
+    <loc>https://pulsegeek.com/articles/ai-in-retail-and-cpg-shared-data-shared-advantage/</loc>
+    <lastmod>2025-11-15T10:13:00Z</lastmod>
   </url>
   <url>
     <loc>https://pulsegeek.com/articles/ai-in-retail-and-e-commerce-15-real-world-use-cases/</loc>
@@ -250,11 +294,11 @@
   </url>
   <url>
     <loc>https://pulsegeek.com/articles/ai-in-shopping-guided-discovery-and-confidence-cues/</loc>
-    <lastmod>2025-11-07T15:49:46Z</lastmod>
+    <lastmod>2025-11-10T21:40:14Z</lastmod>
   </url>
   <url>
     <loc>https://pulsegeek.com/articles/ai-in-small-business-from-idea-to-everyday-work/</loc>
-    <lastmod>2025-11-07T15:49:46Z</lastmod>
+    <lastmod>2025-11-10T21:40:14Z</lastmod>
   </url>
   <url>
     <loc>https://pulsegeek.com/articles/ai-in-the-finance-department-roles-skills-and-wins/</loc>
@@ -277,12 +321,20 @@
     <lastmod>2025-11-02T15:07:19Z</lastmod>
   </url>
   <url>
+    <loc>https://pulsegeek.com/articles/ai-loan-companies-whos-innovating-and-how-they-win/</loc>
+    <lastmod>2025-11-14T10:14:00Z</lastmod>
+  </url>
+  <url>
+    <loc>https://pulsegeek.com/articles/ai-ml-in-retail-data-pipelines-models-and-outcomes/</loc>
+    <lastmod>2025-11-14T10:13:00Z</lastmod>
+  </url>
+  <url>
     <loc>https://pulsegeek.com/articles/ai-model-monitoring-tools-compared-for-real-use/</loc>
     <lastmod>2025-11-02T15:07:19Z</lastmod>
   </url>
   <url>
     <loc>https://pulsegeek.com/articles/ai-network-security-tools-and-patterns-to-know/</loc>
-    <lastmod>2025-11-07T15:49:46Z</lastmod>
+    <lastmod>2025-11-10T21:40:14Z</lastmod>
   </url>
   <url>
     <loc>https://pulsegeek.com/articles/ai-platforms-for-business-capabilities-and-tradeoffs/</loc>
@@ -290,11 +342,35 @@
   </url>
   <url>
     <loc>https://pulsegeek.com/articles/ai-plus-bi-architecting-insight-that-scales-and-learns/</loc>
-    <lastmod>2025-11-10T10:15:00Z</lastmod>
+    <lastmod>2025-11-10T21:40:14Z</lastmod>
   </url>
   <url>
     <loc>https://pulsegeek.com/articles/ai-policy-for-schools-templates-guardrails-and-training/</loc>
     <lastmod>2025-11-02T15:07:19Z</lastmod>
+  </url>
+  <url>
+    <loc>https://pulsegeek.com/articles/ai-powered-business-intelligence-20-smart-features/</loc>
+    <lastmod>2025-11-16T10:15:00Z</lastmod>
+  </url>
+  <url>
+    <loc>https://pulsegeek.com/articles/ai-predictive-analytics-for-retail-from-data-to-action/</loc>
+    <lastmod>2025-11-16T10:13:00Z</lastmod>
+  </url>
+  <url>
+    <loc>https://pulsegeek.com/articles/ai-programming-language-choices-for-security-teams/</loc>
+    <lastmod>2025-11-13T10:16:00Z</lastmod>
+  </url>
+  <url>
+    <loc>https://pulsegeek.com/articles/ai-programming-languages-for-cyber-detection-compare/</loc>
+    <lastmod>2025-11-14T10:16:00Z</lastmod>
+  </url>
+  <url>
+    <loc>https://pulsegeek.com/articles/ai-programming-with-python-for-security-workflows/</loc>
+    <lastmod>2025-11-15T10:16:00Z</lastmod>
+  </url>
+  <url>
+    <loc>https://pulsegeek.com/articles/ai-retail-solutions-choose-the-right-stack-for-scale/</loc>
+    <lastmod>2025-11-17T10:13:00Z</lastmod>
   </url>
   <url>
     <loc>https://pulsegeek.com/articles/ai-retail-strategy-trends-examples-execution-playbooks/</loc>
@@ -306,11 +382,15 @@
   </url>
   <url>
     <loc>https://pulsegeek.com/articles/ai-software-for-small-business-compare-smart-picks/</loc>
-    <lastmod>2025-11-07T15:49:46Z</lastmod>
+    <lastmod>2025-11-10T21:40:14Z</lastmod>
   </url>
   <url>
     <loc>https://pulsegeek.com/articles/ai-solutions-for-business-choosing-what-fits/</loc>
     <lastmod>2025-11-02T15:07:19Z</lastmod>
+  </url>
+  <url>
+    <loc>https://pulsegeek.com/articles/ai-system-architecture-for-detection-workflows/</loc>
+    <lastmod>2025-11-16T10:16:00Z</lastmod>
   </url>
   <url>
     <loc>https://pulsegeek.com/articles/ai-tools-for-teachers-planning-feedback-and-time-back/</loc>
@@ -321,20 +401,36 @@
     <lastmod>2025-11-02T15:07:19Z</lastmod>
   </url>
   <url>
+    <loc>https://pulsegeek.com/articles/ais-role-in-detection-pipelines-nuance-and-limits/</loc>
+    <lastmod>2025-11-17T10:16:00Z</lastmod>
+  </url>
+  <url>
     <loc>https://pulsegeek.com/articles/amazon-ai-grocery-store-inventory-vision-checkout/</loc>
-    <lastmod>2025-11-07T15:49:46Z</lastmod>
+    <lastmod>2025-11-10T21:40:14Z</lastmod>
   </url>
   <url>
     <loc>https://pulsegeek.com/articles/amazon-ai-store-lessons-from-frictionless-shopping/</loc>
-    <lastmod>2025-11-07T15:49:46Z</lastmod>
+    <lastmod>2025-11-10T21:40:14Z</lastmod>
   </url>
   <url>
     <loc>https://pulsegeek.com/articles/amazon-go-ai-tech-behind-just-walk-out-experiences/</loc>
-    <lastmod>2025-11-07T15:49:46Z</lastmod>
+    <lastmod>2025-11-10T21:40:14Z</lastmod>
   </url>
   <url>
     <loc>https://pulsegeek.com/articles/amazon-store-ai-whats-transferable-to-your-roadmap/</loc>
-    <lastmod>2025-11-03T10:13:00Z</lastmod>
+    <lastmod>2025-11-10T21:40:14Z</lastmod>
+  </url>
+  <url>
+    <loc>https://pulsegeek.com/articles/aml-transaction-monitoring-with-ai-speed-and-precision/</loc>
+    <lastmod>2025-11-15T10:14:00Z</lastmod>
+  </url>
+  <url>
+    <loc>https://pulsegeek.com/articles/analytics-ai-building-smarter-pipelines-and-models/</loc>
+    <lastmod>2025-11-17T10:15:00Z</lastmod>
+  </url>
+  <url>
+    <loc>https://pulsegeek.com/articles/anomaly-detection-in-finance-with-ai-methods-that-scale/</loc>
+    <lastmod>2025-11-16T10:14:00Z</lastmod>
   </url>
   <url>
     <loc>https://pulsegeek.com/articles/applying-demographic-parity-and-equalized-odds-clearly/</loc>
@@ -362,11 +458,19 @@
   </url>
   <url>
     <loc>https://pulsegeek.com/articles/artificial-intelligence-in-security-core-concepts/</loc>
-    <lastmod>2025-11-07T15:49:46Z</lastmod>
+    <lastmod>2025-11-10T21:40:14Z</lastmod>
   </url>
   <url>
     <loc>https://pulsegeek.com/articles/artificial-intelligence-online-shopping-what-shoppers-see/</loc>
-    <lastmod>2025-11-04T10:13:00Z</lastmod>
+    <lastmod>2025-11-10T21:40:14Z</lastmod>
+  </url>
+  <url>
+    <loc>https://pulsegeek.com/articles/artificial-intelligence-with-power-bi-a-hands-on-guide/</loc>
+    <lastmod>2025-11-18T10:15:00Z</lastmod>
+  </url>
+  <url>
+    <loc>https://pulsegeek.com/articles/assortment-optimization-with-ai-for-retailers-tactics/</loc>
+    <lastmod>2025-11-18T10:13:00Z</lastmod>
   </url>
   <url>
     <loc>https://pulsegeek.com/articles/automate-invoice-processing-with-ai-from-inbox-to-erp/</loc>
@@ -390,11 +494,11 @@
   </url>
   <url>
     <loc>https://pulsegeek.com/articles/benefits-of-smart-street-lighting-savings-safety-service/</loc>
-    <lastmod>2025-11-07T10:12:00Z</lastmod>
+    <lastmod>2025-11-10T21:40:14Z</lastmod>
   </url>
   <url>
     <loc>https://pulsegeek.com/articles/best-ai-for-small-business-tools-that-punch-above/</loc>
-    <lastmod>2025-11-07T15:49:46Z</lastmod>
+    <lastmod>2025-11-10T21:40:14Z</lastmod>
   </url>
   <url>
     <loc>https://pulsegeek.com/articles/best-ai-tools-for-students-classroom-to-career/</loc>
@@ -466,7 +570,7 @@
   </url>
   <url>
     <loc>https://pulsegeek.com/articles/build-a-machine-learning-intrusion-detection-pipeline/</loc>
-    <lastmod>2025-11-03T10:16:00Z</lastmod>
+    <lastmod>2025-11-10T21:40:14Z</lastmod>
   </url>
   <url>
     <loc>https://pulsegeek.com/articles/build-a-phishing-url-classification-model-in-steps/</loc>
@@ -474,7 +578,7 @@
   </url>
   <url>
     <loc>https://pulsegeek.com/articles/build-ai-forecasting-models-for-fpa-a-technical-guide/</loc>
-    <lastmod>2025-11-07T15:49:46Z</lastmod>
+    <lastmod>2025-11-10T21:40:14Z</lastmod>
   </url>
   <url>
     <loc>https://pulsegeek.com/articles/business-applications-of-ai-where-value-comes-first/</loc>
@@ -490,7 +594,7 @@
   </url>
   <url>
     <loc>https://pulsegeek.com/articles/choosing-an-ai-system-for-intrusion-detection/</loc>
-    <lastmod>2025-11-04T10:16:00Z</lastmod>
+    <lastmod>2025-11-10T21:40:14Z</lastmod>
   </url>
   <url>
     <loc>https://pulsegeek.com/articles/cloud-ai-for-education-architecture-costs-and-control/</loc>
@@ -501,12 +605,16 @@
     <lastmod>2025-11-02T15:07:19Z</lastmod>
   </url>
   <url>
+    <loc>https://pulsegeek.com/articles/confusion-matrix-for-security-classifiers-explained/</loc>
+    <lastmod>2025-11-18T10:16:00Z</lastmod>
+  </url>
+  <url>
     <loc>https://pulsegeek.com/articles/connected-street-lighting-from-single-poles-to-networks/</loc>
     <lastmod>2025-11-08T10:12:00Z</lastmod>
   </url>
   <url>
     <loc>https://pulsegeek.com/articles/conversational-ai-for-retail-design-train-and-measure/</loc>
-    <lastmod>2025-11-05T10:13:00Z</lastmod>
+    <lastmod>2025-11-10T21:40:14Z</lastmod>
   </url>
   <url>
     <loc>https://pulsegeek.com/articles/conversational-ai-in-education-use-cases-and-limits/</loc>
@@ -518,7 +626,7 @@
   </url>
   <url>
     <loc>https://pulsegeek.com/articles/conversational-ai-in-retail-journeys-that-convert/</loc>
-    <lastmod>2025-11-06T10:13:00Z</lastmod>
+    <lastmod>2025-11-10T21:40:14Z</lastmod>
   </url>
   <url>
     <loc>https://pulsegeek.com/articles/data-governance-for-utility-ot-it-convergence-models-security-and-interoperability/</loc>
@@ -534,7 +642,7 @@
   </url>
   <url>
     <loc>https://pulsegeek.com/articles/deep-learning-for-network-anomalies-a-hands-on-guide/</loc>
-    <lastmod>2025-11-05T10:16:00Z</lastmod>
+    <lastmod>2025-11-10T21:40:14Z</lastmod>
   </url>
   <url>
     <loc>https://pulsegeek.com/articles/deploy-smart-contract-steps-network-gas-verifications/</loc>
@@ -543,6 +651,10 @@
   <url>
     <loc>https://pulsegeek.com/articles/derms-vs-adms-functions-overlaps-and-when-you-need-each/</loc>
     <lastmod>2025-10-22T11:18:09Z</lastmod>
+  </url>
+  <url>
+    <loc>https://pulsegeek.com/articles/detect-fraud-with-ml-in-banking-a-field-guide/</loc>
+    <lastmod>2025-11-17T10:14:00Z</lastmod>
   </url>
   <url>
     <loc>https://pulsegeek.com/articles/detecting-malicious-attachments-with-deep-learning/</loc>
@@ -606,7 +718,7 @@
   </url>
   <url>
     <loc>https://pulsegeek.com/articles/explainable-ai-in-finance-transparency-without-tradeoffs/</loc>
-    <lastmod>2025-11-07T15:49:46Z</lastmod>
+    <lastmod>2025-11-10T21:40:14Z</lastmod>
   </url>
   <url>
     <loc>https://pulsegeek.com/articles/explaining-ai-decisions-to-stakeholders-with-clarity/</loc>
@@ -626,7 +738,11 @@
   </url>
   <url>
     <loc>https://pulsegeek.com/articles/finance-ai-explained-data-models-and-value-realization/</loc>
-    <lastmod>2025-11-07T15:49:46Z</lastmod>
+    <lastmod>2025-11-10T21:40:14Z</lastmod>
+  </url>
+  <url>
+    <loc>https://pulsegeek.com/articles/fraud-risk-modeling-with-ai-features-models-and-mrm/</loc>
+    <lastmod>2025-11-18T10:14:00Z</lastmod>
   </url>
   <url>
     <loc>https://pulsegeek.com/articles/frontier-ai-and-email-threats-emerging-capabilities/</loc>
@@ -638,7 +754,7 @@
   </url>
   <url>
     <loc>https://pulsegeek.com/articles/generative-ai-in-finance-use-cases-limits-and-guardrails/</loc>
-    <lastmod>2025-11-07T15:49:46Z</lastmod>
+    <lastmod>2025-11-10T21:40:14Z</lastmod>
   </url>
   <url>
     <loc>https://pulsegeek.com/articles/generative-ai-in-retail-12-ways-to-reimagine-merchandising/</loc>
@@ -646,7 +762,7 @@
   </url>
   <url>
     <loc>https://pulsegeek.com/articles/google-shopping-ai-capabilities-use-cases-adoption/</loc>
-    <lastmod>2025-11-07T10:13:00Z</lastmod>
+    <lastmod>2025-11-10T21:40:14Z</lastmod>
   </url>
   <url>
     <loc>https://pulsegeek.com/articles/grid-edge-analytics-for-outage-management-top-techniques-and-tools/</loc>
@@ -666,7 +782,7 @@
   </url>
   <url>
     <loc>https://pulsegeek.com/articles/how-ai-is-used-in-cyber-security-practical-paths/</loc>
-    <lastmod>2025-11-06T10:16:00Z</lastmod>
+    <lastmod>2025-11-10T21:40:14Z</lastmod>
   </url>
   <url>
     <loc>https://pulsegeek.com/articles/how-ai-transforms-everyday-business-operations/</loc>
@@ -770,11 +886,11 @@
   </url>
   <url>
     <loc>https://pulsegeek.com/articles/how-to-use-ai-for-network-anomaly-detection/</loc>
-    <lastmod>2025-11-07T10:16:00Z</lastmod>
+    <lastmod>2025-11-10T21:40:14Z</lastmod>
   </url>
   <url>
     <loc>https://pulsegeek.com/articles/how-to-use-ai-for-small-business-start-and-succeed/</loc>
-    <lastmod>2025-11-07T15:49:46Z</lastmod>
+    <lastmod>2025-11-10T21:40:14Z</lastmod>
   </url>
   <url>
     <loc>https://pulsegeek.com/articles/how-to-use-ai-in-the-classroom-a-practical-roadmap/</loc>
@@ -830,7 +946,7 @@
   </url>
   <url>
     <loc>https://pulsegeek.com/articles/improve-forecast-accuracy-with-ai-techniques-that-work/</loc>
-    <lastmod>2025-11-07T15:49:46Z</lastmod>
+    <lastmod>2025-11-10T21:40:14Z</lastmod>
   </url>
   <url>
     <loc>https://pulsegeek.com/articles/incident-response-playbook-for-avoiding-ai-harms/</loc>
@@ -862,7 +978,11 @@
   </url>
   <url>
     <loc>https://pulsegeek.com/articles/intelligent-street-lighting-how-it-works-and-why-it-matters/</loc>
-    <lastmod>2025-11-02T15:07:19Z</lastmod>
+    <lastmod>2025-11-10T21:40:14Z</lastmod>
+  </url>
+  <url>
+    <loc>https://pulsegeek.com/articles/intelligent-street-lighting-how-it-works-from-pole-to-cloud/</loc>
+    <lastmod>2025-11-11T10:12:00Z</lastmod>
   </url>
   <url>
     <loc>https://pulsegeek.com/articles/intelligent-street-lighting-system-core-features-mapped/</loc>
@@ -886,7 +1006,7 @@
   </url>
   <url>
     <loc>https://pulsegeek.com/articles/machine-learning-finance-applications-20-real-use-cases/</loc>
-    <lastmod>2025-11-07T15:49:46Z</lastmod>
+    <lastmod>2025-11-10T21:40:14Z</lastmod>
   </url>
   <url>
     <loc>https://pulsegeek.com/articles/machine-learning-in-finance-15-examples-that-deliver/</loc>
@@ -894,7 +1014,11 @@
   </url>
   <url>
     <loc>https://pulsegeek.com/articles/machine-learning-in-finance-core-concepts-and-use-cases/</loc>
-    <lastmod>2025-11-07T15:49:46Z</lastmod>
+    <lastmod>2025-11-10T21:40:14Z</lastmod>
+  </url>
+  <url>
+    <loc>https://pulsegeek.com/articles/machine-learning-in-retail-forecasts-stock-and-assortment/</loc>
+    <lastmod>2025-11-13T10:13:00Z</lastmod>
   </url>
   <url>
     <loc>https://pulsegeek.com/articles/mempool-mechanics-fees-priority-and-propagation/</loc>
@@ -1061,6 +1185,14 @@
     <lastmod>2025-11-02T15:07:19Z</lastmod>
   </url>
   <url>
+    <loc>https://pulsegeek.com/articles/retail-conversational-ai-platforms-and-key-tradeoffs/</loc>
+    <lastmod>2025-11-11T10:13:00Z</lastmod>
+  </url>
+  <url>
+    <loc>https://pulsegeek.com/articles/retail-voice-ai-design-conversational-commerce-that-helps/</loc>
+    <lastmod>2025-11-12T10:13:00Z</lastmod>
+  </url>
+  <url>
     <loc>https://pulsegeek.com/articles/retailers-using-ai-whos-leading-and-what-they-do/</loc>
     <lastmod>2025-10-28T22:51:20Z</lastmod>
   </url>
@@ -1074,7 +1206,7 @@
   </url>
   <url>
     <loc>https://pulsegeek.com/articles/scenario-planning-with-ai-for-budgeting-step-by-step/</loc>
-    <lastmod>2025-11-07T15:49:46Z</lastmod>
+    <lastmod>2025-11-10T21:40:14Z</lastmod>
   </url>
   <url>
     <loc>https://pulsegeek.com/articles/security-ai-explained-signals-models-and-workflows/</loc>
@@ -1099,6 +1231,18 @@
   <url>
     <loc>https://pulsegeek.com/articles/shap-vs-lime-choosing-the-right-explanation-method/</loc>
     <lastmod>2025-11-02T15:07:19Z</lastmod>
+  </url>
+  <url>
+    <loc>https://pulsegeek.com/articles/smart-city-lighting-where-it-fits-and-how-it-scales/</loc>
+    <lastmod>2025-11-12T10:12:00Z</lastmod>
+  </url>
+  <url>
+    <loc>https://pulsegeek.com/articles/smart-city-street-lighting-capabilities-and-use-cases/</loc>
+    <lastmod>2025-11-13T10:12:00Z</lastmod>
+  </url>
+  <url>
+    <loc>https://pulsegeek.com/articles/smart-city-street-lights-sensors-types-and-placement/</loc>
+    <lastmod>2025-11-14T10:12:00Z</lastmod>
   </url>
   <url>
     <loc>https://pulsegeek.com/articles/smart-contract-auditing-basics-a-safe-start-checklist/</loc>
@@ -1161,6 +1305,14 @@
     <lastmod>2025-11-02T15:07:19Z</lastmod>
   </url>
   <url>
+    <loc>https://pulsegeek.com/articles/smart-public-lighting-policy-design-and-equity-considerations/</loc>
+    <lastmod>2025-11-15T10:12:00Z</lastmod>
+  </url>
+  <url>
+    <loc>https://pulsegeek.com/articles/smart-street-lamp-components-capabilities-and-uses/</loc>
+    <lastmod>2025-11-16T10:12:00Z</lastmod>
+  </url>
+  <url>
     <loc>https://pulsegeek.com/articles/smart-street-light-control-methods-modes-and-triggers/</loc>
     <lastmod>2025-11-02T15:07:19Z</lastmod>
   </url>
@@ -1178,15 +1330,19 @@
   </url>
   <url>
     <loc>https://pulsegeek.com/articles/smart-street-lighting-citywide-benefits-safety-and-design/</loc>
-    <lastmod>2025-11-07T15:49:46Z</lastmod>
+    <lastmod>2025-11-10T21:40:14Z</lastmod>
   </url>
   <url>
     <loc>https://pulsegeek.com/articles/smart-street-lighting-solution-what-to-include-and-why/</loc>
     <lastmod>2025-11-02T15:07:19Z</lastmod>
   </url>
   <url>
+    <loc>https://pulsegeek.com/articles/smart-urban-lighting-design-patterns-for-safer-streets/</loc>
+    <lastmod>2025-11-17T10:12:00Z</lastmod>
+  </url>
+  <url>
     <loc>https://pulsegeek.com/articles/smb-ai-playbook-affordable-wins-that-drive-growth/</loc>
-    <lastmod>2025-11-07T15:49:46Z</lastmod>
+    <lastmod>2025-11-10T21:40:14Z</lastmod>
   </url>
   <url>
     <loc>https://pulsegeek.com/articles/solidity-programming-tutorials-the-best-free-resources/</loc>
@@ -1198,7 +1354,7 @@
   </url>
   <url>
     <loc>https://pulsegeek.com/articles/start-an-ai-business-validate-build-and-launch/</loc>
-    <lastmod>2025-11-08T10:15:00Z</lastmod>
+    <lastmod>2025-11-10T21:40:14Z</lastmod>
   </url>
   <url>
     <loc>https://pulsegeek.com/articles/street-light-automation-system-from-pilot-to-rollout/</loc>
@@ -1238,7 +1394,7 @@
   </url>
   <url>
     <loc>https://pulsegeek.com/articles/top-ai-applications-in-finance-teams-today/</loc>
-    <lastmod>2025-11-07T15:49:46Z</lastmod>
+    <lastmod>2025-11-10T21:40:14Z</lastmod>
   </url>
   <url>
     <loc>https://pulsegeek.com/articles/top-ai-governance-best-practices-for-real-programs/</loc>
@@ -1302,7 +1458,7 @@
   </url>
   <url>
     <loc>https://pulsegeek.com/articles/using-ai-in-finance-a-step-by-step-adoption-playbook/</loc>
-    <lastmod>2025-11-08T10:14:00Z</lastmod>
+    <lastmod>2025-11-10T21:40:14Z</lastmod>
   </url>
   <url>
     <loc>https://pulsegeek.com/articles/using-an-ai-virtual-assistant-routines-for-study-and-teaching/</loc>
@@ -1354,7 +1510,7 @@
   </url>
   <url>
     <loc>https://pulsegeek.com/articles/what-is-ai-financial-forecasting-definitions-and-examples/</loc>
-    <lastmod>2025-11-09T10:14:00Z</lastmod>
+    <lastmod>2025-11-10T21:40:14Z</lastmod>
   </url>
   <url>
     <loc>https://pulsegeek.com/articles/what-is-ai-in-cybersecurity-a-clear-practical-view/</loc>
@@ -1375,6 +1531,10 @@
   <url>
     <loc>https://pulsegeek.com/articles/what-is-intelligent-document-processing-for-finance/</loc>
     <lastmod>2025-10-24T14:46:24Z</lastmod>
+  </url>
+  <url>
+    <loc>https://pulsegeek.com/articles/what-is-intelligent-street-lighting-a-clear-quick-answer/</loc>
+    <lastmod>2025-11-18T10:12:00Z</lastmod>
   </url>
   <url>
     <loc>https://pulsegeek.com/articles/what-is-nlp-for-email-security-a-practical-primer/</loc>
@@ -1402,7 +1562,7 @@
   </url>
   <url>
     <loc>https://pulsegeek.com/articles/which-ai-software-is-best-for-small-business-today/</loc>
-    <lastmod>2025-11-09T10:15:00Z</lastmod>
+    <lastmod>2025-11-10T21:40:14Z</lastmod>
   </url>
   <url>
     <loc>https://pulsegeek.com/articles/why-merkle-proofs-matter-lightweight-trust-at-scale/</loc>
@@ -1434,7 +1594,7 @@
   </url>
   <url>
     <loc>https://pulsegeek.com/authors/</loc>
-    <lastmod>2025-10-26T22:27:21Z</lastmod>
+    <lastmod>2025-11-10T21:40:14Z</lastmod>
   </url>
   <url>
     <loc>https://pulsegeek.com/authors/aisha-ren-park/</loc>
@@ -1554,7 +1714,7 @@
   </url>
   <url>
     <loc>https://pulsegeek.com/glossary/ai-adoption-roadmap/</loc>
-    <lastmod>2025-11-07T15:49:46Z</lastmod>
+    <lastmod>2025-11-10T21:40:14Z</lastmod>
   </url>
   <url>
     <loc>https://pulsegeek.com/glossary/ai-bots/</loc>
@@ -1582,7 +1742,7 @@
   </url>
   <url>
     <loc>https://pulsegeek.com/glossary/ai-readiness/</loc>
-    <lastmod>2025-11-02T15:07:19Z</lastmod>
+    <lastmod>2025-11-10T21:40:14Z</lastmod>
   </url>
   <url>
     <loc>https://pulsegeek.com/glossary/ai-strategy/</loc>
@@ -1598,7 +1758,7 @@
   </url>
   <url>
     <loc>https://pulsegeek.com/glossary/alignment/</loc>
-    <lastmod>2025-11-07T15:49:46Z</lastmod>
+    <lastmod>2025-11-10T21:40:14Z</lastmod>
   </url>
   <url>
     <loc>https://pulsegeek.com/glossary/alternative-data/</loc>
@@ -1622,7 +1782,7 @@
   </url>
   <url>
     <loc>https://pulsegeek.com/glossary/anomaly-detection/</loc>
-    <lastmod>2025-11-07T15:49:46Z</lastmod>
+    <lastmod>2025-11-10T21:40:14Z</lastmod>
   </url>
   <url>
     <loc>https://pulsegeek.com/glossary/anti-aliasing/</loc>
@@ -1646,7 +1806,7 @@
   </url>
   <url>
     <loc>https://pulsegeek.com/glossary/anti-money-laundering/</loc>
-    <lastmod>2025-10-22T11:18:09Z</lastmod>
+    <lastmod>2025-11-10T21:40:14Z</lastmod>
   </url>
   <url>
     <loc>https://pulsegeek.com/glossary/any-percent-speedrun/</loc>
@@ -1666,7 +1826,7 @@
   </url>
   <url>
     <loc>https://pulsegeek.com/glossary/api/</loc>
-    <lastmod>2025-11-07T15:49:46Z</lastmod>
+    <lastmod>2025-11-10T21:40:14Z</lastmod>
   </url>
   <url>
     <loc>https://pulsegeek.com/glossary/appeal-process/</loc>
@@ -1690,7 +1850,7 @@
   </url>
   <url>
     <loc>https://pulsegeek.com/glossary/artificial-intelligence/</loc>
-    <lastmod>2025-11-07T15:49:46Z</lastmod>
+    <lastmod>2025-11-10T21:40:14Z</lastmod>
   </url>
   <url>
     <loc>https://pulsegeek.com/glossary/assessment-analytics/</loc>
@@ -1726,7 +1886,7 @@
   </url>
   <url>
     <loc>https://pulsegeek.com/glossary/audit-trail/</loc>
-    <lastmod>2025-11-07T15:49:46Z</lastmod>
+    <lastmod>2025-11-10T21:40:14Z</lastmod>
   </url>
   <url>
     <loc>https://pulsegeek.com/glossary/autoencoder/</loc>
@@ -1742,11 +1902,11 @@
   </url>
   <url>
     <loc>https://pulsegeek.com/glossary/backhaul/</loc>
-    <lastmod>2025-11-07T15:49:46Z</lastmod>
+    <lastmod>2025-11-10T21:40:14Z</lastmod>
   </url>
   <url>
     <loc>https://pulsegeek.com/glossary/backtesting/</loc>
-    <lastmod>2025-11-07T15:49:46Z</lastmod>
+    <lastmod>2025-11-10T21:40:14Z</lastmod>
   </url>
   <url>
     <loc>https://pulsegeek.com/glossary/backup-strat/</loc>
@@ -1790,7 +1950,7 @@
   </url>
   <url>
     <loc>https://pulsegeek.com/glossary/bit-depth/</loc>
-    <lastmod>2025-11-07T15:49:47Z</lastmod>
+    <lastmod>2025-11-10T21:40:14Z</lastmod>
   </url>
   <url>
     <loc>https://pulsegeek.com/glossary/bitrate/</loc>
@@ -1846,7 +2006,7 @@
   </url>
   <url>
     <loc>https://pulsegeek.com/glossary/bus/</loc>
-    <lastmod>2025-11-07T15:49:47Z</lastmod>
+    <lastmod>2025-11-10T21:40:14Z</lastmod>
   </url>
   <url>
     <loc>https://pulsegeek.com/glossary/business-case/</loc>
@@ -1854,7 +2014,7 @@
   </url>
   <url>
     <loc>https://pulsegeek.com/glossary/business-intelligence/</loc>
-    <lastmod>2025-10-22T11:18:09Z</lastmod>
+    <lastmod>2025-11-10T21:40:14Z</lastmod>
   </url>
   <url>
     <loc>https://pulsegeek.com/glossary/cake/</loc>
@@ -1894,7 +2054,7 @@
   </url>
   <url>
     <loc>https://pulsegeek.com/glossary/central-management-system/</loc>
-    <lastmod>2025-11-07T15:49:47Z</lastmod>
+    <lastmod>2025-11-10T21:40:14Z</lastmod>
   </url>
   <url>
     <loc>https://pulsegeek.com/glossary/chain-of-thought-prompting/</loc>
@@ -1902,11 +2062,11 @@
   </url>
   <url>
     <loc>https://pulsegeek.com/glossary/change-management/</loc>
-    <lastmod>2025-11-07T15:49:47Z</lastmod>
+    <lastmod>2025-11-10T21:40:14Z</lastmod>
   </url>
   <url>
     <loc>https://pulsegeek.com/glossary/changelog/</loc>
-    <lastmod>2025-11-07T15:49:47Z</lastmod>
+    <lastmod>2025-11-10T21:40:14Z</lastmod>
   </url>
   <url>
     <loc>https://pulsegeek.com/glossary/character-controller/</loc>
@@ -1914,7 +2074,7 @@
   </url>
   <url>
     <loc>https://pulsegeek.com/glossary/chatbot/</loc>
-    <lastmod>2025-10-29T23:19:56Z</lastmod>
+    <lastmod>2025-11-10T21:40:14Z</lastmod>
   </url>
   <url>
     <loc>https://pulsegeek.com/glossary/chd-format/</loc>
@@ -1942,11 +2102,11 @@
   </url>
   <url>
     <loc>https://pulsegeek.com/glossary/classification-model/</loc>
-    <lastmod>2025-11-07T15:49:47Z</lastmod>
+    <lastmod>2025-11-10T21:40:14Z</lastmod>
   </url>
   <url>
     <loc>https://pulsegeek.com/glossary/classification/</loc>
-    <lastmod>2025-11-02T15:07:19Z</lastmod>
+    <lastmod>2025-11-10T21:40:14Z</lastmod>
   </url>
   <url>
     <loc>https://pulsegeek.com/glossary/classroom-ai-policy/</loc>
@@ -2002,7 +2162,7 @@
   </url>
   <url>
     <loc>https://pulsegeek.com/glossary/compliance/</loc>
-    <lastmod>2025-11-07T15:49:47Z</lastmod>
+    <lastmod>2025-11-10T21:40:14Z</lastmod>
   </url>
   <url>
     <loc>https://pulsegeek.com/glossary/compression/</loc>
@@ -2010,7 +2170,7 @@
   </url>
   <url>
     <loc>https://pulsegeek.com/glossary/computer-vision-checkout/</loc>
-    <lastmod>2025-11-02T15:07:19Z</lastmod>
+    <lastmod>2025-11-10T21:40:14Z</lastmod>
   </url>
   <url>
     <loc>https://pulsegeek.com/glossary/computer-vision-heatmap/</loc>
@@ -2018,7 +2178,7 @@
   </url>
   <url>
     <loc>https://pulsegeek.com/glossary/computer-vision/</loc>
-    <lastmod>2025-11-07T15:49:47Z</lastmod>
+    <lastmod>2025-11-10T21:40:14Z</lastmod>
   </url>
   <url>
     <loc>https://pulsegeek.com/glossary/conditional-dialogue/</loc>
@@ -2026,7 +2186,7 @@
   </url>
   <url>
     <loc>https://pulsegeek.com/glossary/confidence-interval/</loc>
-    <lastmod>2025-11-02T15:07:19Z</lastmod>
+    <lastmod>2025-11-10T21:40:14Z</lastmod>
   </url>
   <url>
     <loc>https://pulsegeek.com/glossary/conflict-resolution/</loc>
@@ -2034,7 +2194,7 @@
   </url>
   <url>
     <loc>https://pulsegeek.com/glossary/confusion-matrix/</loc>
-    <lastmod>2025-10-22T11:18:09Z</lastmod>
+    <lastmod>2025-11-10T21:40:14Z</lastmod>
   </url>
   <url>
     <loc>https://pulsegeek.com/glossary/constraint-satisfaction-problem/</loc>
@@ -2066,11 +2226,11 @@
   </url>
   <url>
     <loc>https://pulsegeek.com/glossary/control-framework/</loc>
-    <lastmod>2025-11-02T15:07:19Z</lastmod>
+    <lastmod>2025-11-10T21:40:14Z</lastmod>
   </url>
   <url>
     <loc>https://pulsegeek.com/glossary/controller-node/</loc>
-    <lastmod>2025-10-22T11:18:09Z</lastmod>
+    <lastmod>2025-11-10T21:40:14Z</lastmod>
   </url>
   <url>
     <loc>https://pulsegeek.com/glossary/controller-polling-rate/</loc>
@@ -2078,7 +2238,7 @@
   </url>
   <url>
     <loc>https://pulsegeek.com/glossary/conversational-ai/</loc>
-    <lastmod>2025-11-07T15:49:47Z</lastmod>
+    <lastmod>2025-11-10T21:40:14Z</lastmod>
   </url>
   <url>
     <loc>https://pulsegeek.com/glossary/convolution-reverb/</loc>
@@ -2098,11 +2258,11 @@
   </url>
   <url>
     <loc>https://pulsegeek.com/glossary/cost-of-ownership/</loc>
-    <lastmod>2025-11-07T15:49:47Z</lastmod>
+    <lastmod>2025-11-10T21:40:14Z</lastmod>
   </url>
   <url>
     <loc>https://pulsegeek.com/glossary/cover/</loc>
-    <lastmod>2025-11-07T15:49:47Z</lastmod>
+    <lastmod>2025-11-10T21:40:14Z</lastmod>
   </url>
   <url>
     <loc>https://pulsegeek.com/glossary/crafting-economy/</loc>
@@ -2142,15 +2302,15 @@
   </url>
   <url>
     <loc>https://pulsegeek.com/glossary/customer-experience/</loc>
-    <lastmod>2025-11-07T15:49:47Z</lastmod>
+    <lastmod>2025-11-10T21:40:14Z</lastmod>
   </url>
   <url>
     <loc>https://pulsegeek.com/glossary/data-drift/</loc>
-    <lastmod>2025-11-07T15:49:47Z</lastmod>
+    <lastmod>2025-11-10T21:40:14Z</lastmod>
   </url>
   <url>
     <loc>https://pulsegeek.com/glossary/data-governance/</loc>
-    <lastmod>2025-11-07T15:49:47Z</lastmod>
+    <lastmod>2025-11-10T21:40:14Z</lastmod>
   </url>
   <url>
     <loc>https://pulsegeek.com/glossary/data-lake/</loc>
@@ -2158,15 +2318,15 @@
   </url>
   <url>
     <loc>https://pulsegeek.com/glossary/data-leakage-ml/</loc>
-    <lastmod>2025-11-02T15:07:19Z</lastmod>
+    <lastmod>2025-11-10T21:40:14Z</lastmod>
   </url>
   <url>
     <loc>https://pulsegeek.com/glossary/data-lineage/</loc>
-    <lastmod>2025-11-07T15:49:47Z</lastmod>
+    <lastmod>2025-11-10T21:40:14Z</lastmod>
   </url>
   <url>
     <loc>https://pulsegeek.com/glossary/data-minimization/</loc>
-    <lastmod>2025-11-02T15:07:19Z</lastmod>
+    <lastmod>2025-11-10T21:40:14Z</lastmod>
   </url>
   <url>
     <loc>https://pulsegeek.com/glossary/data-oriented-design/</loc>
@@ -2178,15 +2338,15 @@
   </url>
   <url>
     <loc>https://pulsegeek.com/glossary/data-privacy/</loc>
-    <lastmod>2025-11-07T15:49:47Z</lastmod>
+    <lastmod>2025-11-10T21:40:14Z</lastmod>
   </url>
   <url>
     <loc>https://pulsegeek.com/glossary/data-quality/</loc>
-    <lastmod>2025-11-07T15:49:47Z</lastmod>
+    <lastmod>2025-11-10T21:40:14Z</lastmod>
   </url>
   <url>
     <loc>https://pulsegeek.com/glossary/data-readiness/</loc>
-    <lastmod>2025-11-07T15:49:47Z</lastmod>
+    <lastmod>2025-11-10T21:40:14Z</lastmod>
   </url>
   <url>
     <loc>https://pulsegeek.com/glossary/data-warehouse/</loc>
@@ -2202,7 +2362,7 @@
   </url>
   <url>
     <loc>https://pulsegeek.com/glossary/decay/</loc>
-    <lastmod>2025-11-07T15:49:47Z</lastmod>
+    <lastmod>2025-11-10T21:40:14Z</lastmod>
   </url>
   <url>
     <loc>https://pulsegeek.com/glossary/decentralized-application-dapp/</loc>
@@ -2218,7 +2378,7 @@
   </url>
   <url>
     <loc>https://pulsegeek.com/glossary/deep-learning/</loc>
-    <lastmod>2025-11-07T15:49:47Z</lastmod>
+    <lastmod>2025-11-10T21:40:14Z</lastmod>
   </url>
   <url>
     <loc>https://pulsegeek.com/glossary/deferred-rendering/</loc>
@@ -2254,7 +2414,7 @@
   </url>
   <url>
     <loc>https://pulsegeek.com/glossary/dependency/</loc>
-    <lastmod>2025-11-07T15:49:47Z</lastmod>
+    <lastmod>2025-11-10T21:40:14Z</lastmod>
   </url>
   <url>
     <loc>https://pulsegeek.com/glossary/depth-of-field/</loc>
@@ -2282,7 +2442,7 @@
   </url>
   <url>
     <loc>https://pulsegeek.com/glossary/differential-privacy/</loc>
-    <lastmod>2025-10-29T23:19:56Z</lastmod>
+    <lastmod>2025-11-10T21:40:14Z</lastmod>
   </url>
   <url>
     <loc>https://pulsegeek.com/glossary/difficulty-curve/</loc>
@@ -2326,7 +2486,7 @@
   </url>
   <url>
     <loc>https://pulsegeek.com/glossary/distribution/</loc>
-    <lastmod>2025-11-07T15:49:47Z</lastmod>
+    <lastmod>2025-11-10T21:40:14Z</lastmod>
   </url>
   <url>
     <loc>https://pulsegeek.com/glossary/dll-injection/</loc>
@@ -2334,7 +2494,7 @@
   </url>
   <url>
     <loc>https://pulsegeek.com/glossary/dns/</loc>
-    <lastmod>2025-11-07T15:49:47Z</lastmod>
+    <lastmod>2025-11-10T21:40:14Z</lastmod>
   </url>
   <url>
     <loc>https://pulsegeek.com/glossary/document-intelligence/</loc>
@@ -2362,7 +2522,7 @@
   </url>
   <url>
     <loc>https://pulsegeek.com/glossary/durability/</loc>
-    <lastmod>2025-11-07T15:49:47Z</lastmod>
+    <lastmod>2025-11-10T21:40:14Z</lastmod>
   </url>
   <url>
     <loc>https://pulsegeek.com/glossary/dynamic-analysis/</loc>
@@ -2414,7 +2574,7 @@
   </url>
   <url>
     <loc>https://pulsegeek.com/glossary/embedding/</loc>
-    <lastmod>2025-11-07T15:49:47Z</lastmod>
+    <lastmod>2025-11-10T21:40:14Z</lastmod>
   </url>
   <url>
     <loc>https://pulsegeek.com/glossary/embeddings/</loc>
@@ -2430,7 +2590,7 @@
   </url>
   <url>
     <loc>https://pulsegeek.com/glossary/emulator-core/</loc>
-    <lastmod>2025-11-07T15:49:47Z</lastmod>
+    <lastmod>2025-11-10T21:40:14Z</lastmod>
   </url>
   <url>
     <loc>https://pulsegeek.com/glossary/emulator/</loc>
@@ -2446,7 +2606,7 @@
   </url>
   <url>
     <loc>https://pulsegeek.com/glossary/energy-savings/</loc>
-    <lastmod>2025-11-07T15:49:47Z</lastmod>
+    <lastmod>2025-11-10T21:40:14Z</lastmod>
   </url>
   <url>
     <loc>https://pulsegeek.com/glossary/engagement-pacing/</loc>
@@ -2462,7 +2622,7 @@
   </url>
   <url>
     <loc>https://pulsegeek.com/glossary/entity-linking/</loc>
-    <lastmod>2025-10-24T14:46:24Z</lastmod>
+    <lastmod>2025-11-10T21:40:14Z</lastmod>
   </url>
   <url>
     <loc>https://pulsegeek.com/glossary/entity-recognition/</loc>
@@ -2470,11 +2630,11 @@
   </url>
   <url>
     <loc>https://pulsegeek.com/glossary/entity-resolution/</loc>
-    <lastmod>2025-10-24T14:46:24Z</lastmod>
+    <lastmod>2025-11-10T21:40:14Z</lastmod>
   </url>
   <url>
     <loc>https://pulsegeek.com/glossary/entropy/</loc>
-    <lastmod>2025-11-07T15:49:47Z</lastmod>
+    <lastmod>2025-11-10T21:40:14Z</lastmod>
   </url>
   <url>
     <loc>https://pulsegeek.com/glossary/environmental-storytelling/</loc>
@@ -2502,11 +2662,11 @@
   </url>
   <url>
     <loc>https://pulsegeek.com/glossary/etl-elt/</loc>
-    <lastmod>2025-11-07T15:49:47Z</lastmod>
+    <lastmod>2025-11-10T21:40:14Z</lastmod>
   </url>
   <url>
     <loc>https://pulsegeek.com/glossary/etl/</loc>
-    <lastmod>2025-11-07T15:49:47Z</lastmod>
+    <lastmod>2025-11-10T21:40:14Z</lastmod>
   </url>
   <url>
     <loc>https://pulsegeek.com/glossary/euclidean-distance/</loc>
@@ -2530,7 +2690,7 @@
   </url>
   <url>
     <loc>https://pulsegeek.com/glossary/event/</loc>
-    <lastmod>2025-11-07T15:49:47Z</lastmod>
+    <lastmod>2025-11-10T21:40:14Z</lastmod>
   </url>
   <url>
     <loc>https://pulsegeek.com/glossary/exitlag/</loc>
@@ -2542,7 +2702,7 @@
   </url>
   <url>
     <loc>https://pulsegeek.com/glossary/explainability/</loc>
-    <lastmod>2025-11-07T15:49:47Z</lastmod>
+    <lastmod>2025-11-10T21:40:14Z</lastmod>
   </url>
   <url>
     <loc>https://pulsegeek.com/glossary/explainable-ai/</loc>
@@ -2570,19 +2730,19 @@
   </url>
   <url>
     <loc>https://pulsegeek.com/glossary/fairness/</loc>
-    <lastmod>2025-11-07T15:49:47Z</lastmod>
+    <lastmod>2025-11-10T21:40:14Z</lastmod>
   </url>
   <url>
     <loc>https://pulsegeek.com/glossary/false-negative/</loc>
-    <lastmod>2025-11-02T15:07:19Z</lastmod>
+    <lastmod>2025-11-10T21:40:14Z</lastmod>
   </url>
   <url>
     <loc>https://pulsegeek.com/glossary/false-positive-rate/</loc>
-    <lastmod>2025-11-02T15:07:19Z</lastmod>
+    <lastmod>2025-11-10T21:40:14Z</lastmod>
   </url>
   <url>
     <loc>https://pulsegeek.com/glossary/false-positive/</loc>
-    <lastmod>2025-11-07T15:49:47Z</lastmod>
+    <lastmod>2025-11-10T21:40:14Z</lastmod>
   </url>
   <url>
     <loc>https://pulsegeek.com/glossary/fast-approximate-anti-aliasing/</loc>
@@ -2594,15 +2754,15 @@
   </url>
   <url>
     <loc>https://pulsegeek.com/glossary/fault-detection/</loc>
-    <lastmod>2025-11-07T15:49:47Z</lastmod>
+    <lastmod>2025-11-10T21:40:14Z</lastmod>
   </url>
   <url>
     <loc>https://pulsegeek.com/glossary/feature-engineering/</loc>
-    <lastmod>2025-11-07T15:49:47Z</lastmod>
+    <lastmod>2025-11-10T21:40:14Z</lastmod>
   </url>
   <url>
     <loc>https://pulsegeek.com/glossary/feature-store/</loc>
-    <lastmod>2025-10-28T22:51:20Z</lastmod>
+    <lastmod>2025-11-10T21:40:14Z</lastmod>
   </url>
   <url>
     <loc>https://pulsegeek.com/glossary/federated-learning/</loc>
@@ -2626,7 +2786,7 @@
   </url>
   <url>
     <loc>https://pulsegeek.com/glossary/financial-forecasting/</loc>
-    <lastmod>2025-11-07T15:49:47Z</lastmod>
+    <lastmod>2025-11-10T21:40:14Z</lastmod>
   </url>
   <url>
     <loc>https://pulsegeek.com/glossary/financing-model/</loc>
@@ -2638,7 +2798,7 @@
   </url>
   <url>
     <loc>https://pulsegeek.com/glossary/firmware/</loc>
-    <lastmod>2025-11-07T15:49:47Z</lastmod>
+    <lastmod>2025-11-10T21:40:14Z</lastmod>
   </url>
   <url>
     <loc>https://pulsegeek.com/glossary/floor-chance/</loc>
@@ -2654,11 +2814,11 @@
   </url>
   <url>
     <loc>https://pulsegeek.com/glossary/foot-traffic/</loc>
-    <lastmod>2025-11-07T15:49:47Z</lastmod>
+    <lastmod>2025-11-10T21:40:14Z</lastmod>
   </url>
   <url>
     <loc>https://pulsegeek.com/glossary/forecast-accuracy/</loc>
-    <lastmod>2025-11-07T15:49:47Z</lastmod>
+    <lastmod>2025-11-10T21:40:14Z</lastmod>
   </url>
   <url>
     <loc>https://pulsegeek.com/glossary/foreshadowing/</loc>
@@ -2674,7 +2834,7 @@
   </url>
   <url>
     <loc>https://pulsegeek.com/glossary/fpna/</loc>
-    <lastmod>2025-11-07T15:49:47Z</lastmod>
+    <lastmod>2025-11-10T21:40:14Z</lastmod>
   </url>
   <url>
     <loc>https://pulsegeek.com/glossary/fq-codel/</loc>
@@ -2710,7 +2870,7 @@
   </url>
   <url>
     <loc>https://pulsegeek.com/glossary/fraud-detection/</loc>
-    <lastmod>2025-11-07T15:49:47Z</lastmod>
+    <lastmod>2025-11-10T21:40:14Z</lastmod>
   </url>
   <url>
     <loc>https://pulsegeek.com/glossary/freesync/</loc>
@@ -2746,7 +2906,7 @@
   </url>
   <url>
     <loc>https://pulsegeek.com/glossary/gain-staging/</loc>
-    <lastmod>2025-11-07T15:49:47Z</lastmod>
+    <lastmod>2025-11-10T21:40:14Z</lastmod>
   </url>
   <url>
     <loc>https://pulsegeek.com/glossary/game-audio-middleware/</loc>
@@ -2762,11 +2922,11 @@
   </url>
   <url>
     <loc>https://pulsegeek.com/glossary/gateway/</loc>
-    <lastmod>2025-11-07T15:49:47Z</lastmod>
+    <lastmod>2025-11-10T21:40:14Z</lastmod>
   </url>
   <url>
     <loc>https://pulsegeek.com/glossary/generative-ai/</loc>
-    <lastmod>2025-11-07T15:49:47Z</lastmod>
+    <lastmod>2025-11-10T21:40:14Z</lastmod>
   </url>
   <url>
     <loc>https://pulsegeek.com/glossary/generator-configuration/</loc>
@@ -2802,7 +2962,7 @@
   </url>
   <url>
     <loc>https://pulsegeek.com/glossary/governance/</loc>
-    <lastmod>2025-11-07T15:49:47Z</lastmod>
+    <lastmod>2025-11-10T21:40:14Z</lastmod>
   </url>
   <url>
     <loc>https://pulsegeek.com/glossary/gpu-drivers/</loc>
@@ -2822,7 +2982,7 @@
   </url>
   <url>
     <loc>https://pulsegeek.com/glossary/guardrails/</loc>
-    <lastmod>2025-11-07T15:49:47Z</lastmod>
+    <lastmod>2025-11-10T21:40:14Z</lastmod>
   </url>
   <url>
     <loc>https://pulsegeek.com/glossary/h-264/</loc>
@@ -2846,7 +3006,7 @@
   </url>
   <url>
     <loc>https://pulsegeek.com/glossary/hash/</loc>
-    <lastmod>2025-11-07T15:49:47Z</lastmod>
+    <lastmod>2025-11-10T21:40:14Z</lastmod>
   </url>
   <url>
     <loc>https://pulsegeek.com/glossary/hdr/</loc>
@@ -2958,11 +3118,11 @@
   </url>
   <url>
     <loc>https://pulsegeek.com/glossary/intelligent-street-lighting/</loc>
-    <lastmod>2025-11-07T15:49:47Z</lastmod>
+    <lastmod>2025-11-10T21:40:14Z</lastmod>
   </url>
   <url>
     <loc>https://pulsegeek.com/glossary/interactive-fiction/</loc>
-    <lastmod>2025-11-07T15:49:47Z</lastmod>
+    <lastmod>2025-11-10T21:40:14Z</lastmod>
   </url>
   <url>
     <loc>https://pulsegeek.com/glossary/interactive-music/</loc>
@@ -2982,7 +3142,7 @@
   </url>
   <url>
     <loc>https://pulsegeek.com/glossary/intrusion-detection-system/</loc>
-    <lastmod>2025-11-07T15:49:47Z</lastmod>
+    <lastmod>2025-11-10T21:40:14Z</lastmod>
   </url>
   <url>
     <loc>https://pulsegeek.com/glossary/inventory-optimization/</loc>
@@ -3002,7 +3162,7 @@
   </url>
   <url>
     <loc>https://pulsegeek.com/glossary/iteration/</loc>
-    <lastmod>2025-11-07T15:49:47Z</lastmod>
+    <lastmod>2025-11-10T21:40:14Z</lastmod>
   </url>
   <url>
     <loc>https://pulsegeek.com/glossary/iterative-deepening-a-star/</loc>
@@ -3034,11 +3194,11 @@
   </url>
   <url>
     <loc>https://pulsegeek.com/glossary/key-performance-indicator/</loc>
-    <lastmod>2025-11-07T15:49:47Z</lastmod>
+    <lastmod>2025-11-10T21:40:14Z</lastmod>
   </url>
   <url>
     <loc>https://pulsegeek.com/glossary/keys/</loc>
-    <lastmod>2025-11-07T15:49:47Z</lastmod>
+    <lastmod>2025-11-10T21:40:14Z</lastmod>
   </url>
   <url>
     <loc>https://pulsegeek.com/glossary/kinematic-body/</loc>
@@ -3046,11 +3206,11 @@
   </url>
   <url>
     <loc>https://pulsegeek.com/glossary/know-your-customer/</loc>
-    <lastmod>2025-10-28T22:51:20Z</lastmod>
+    <lastmod>2025-11-10T21:40:14Z</lastmod>
   </url>
   <url>
     <loc>https://pulsegeek.com/glossary/knowledge-graph/</loc>
-    <lastmod>2025-10-22T11:18:09Z</lastmod>
+    <lastmod>2025-11-10T21:40:14Z</lastmod>
   </url>
   <url>
     <loc>https://pulsegeek.com/glossary/kpi-dashboard/</loc>
@@ -3058,7 +3218,7 @@
   </url>
   <url>
     <loc>https://pulsegeek.com/glossary/kpi/</loc>
-    <lastmod>2025-11-07T15:49:47Z</lastmod>
+    <lastmod>2025-11-10T21:40:14Z</lastmod>
   </url>
   <url>
     <loc>https://pulsegeek.com/glossary/l-system/</loc>
@@ -3074,15 +3234,15 @@
   </url>
   <url>
     <loc>https://pulsegeek.com/glossary/lane-structure/</loc>
-    <lastmod>2025-11-07T15:49:47Z</lastmod>
+    <lastmod>2025-11-10T21:40:14Z</lastmod>
   </url>
   <url>
     <loc>https://pulsegeek.com/glossary/large-language-model/</loc>
-    <lastmod>2025-11-07T15:49:47Z</lastmod>
+    <lastmod>2025-11-10T21:40:14Z</lastmod>
   </url>
   <url>
     <loc>https://pulsegeek.com/glossary/latency/</loc>
-    <lastmod>2025-11-07T15:49:47Z</lastmod>
+    <lastmod>2025-11-10T21:40:14Z</lastmod>
   </url>
   <url>
     <loc>https://pulsegeek.com/glossary/lead-scoring/</loc>
@@ -3098,11 +3258,11 @@
   </url>
   <url>
     <loc>https://pulsegeek.com/glossary/led-luminaire/</loc>
-    <lastmod>2025-11-07T15:49:47Z</lastmod>
+    <lastmod>2025-11-10T21:40:14Z</lastmod>
   </url>
   <url>
     <loc>https://pulsegeek.com/glossary/level-flow/</loc>
-    <lastmod>2025-11-07T15:49:47Z</lastmod>
+    <lastmod>2025-11-10T21:40:14Z</lastmod>
   </url>
   <url>
     <loc>https://pulsegeek.com/glossary/level-of-detail/</loc>
@@ -3174,7 +3334,7 @@
   </url>
   <url>
     <loc>https://pulsegeek.com/glossary/machine-learning/</loc>
-    <lastmod>2025-11-07T15:49:47Z</lastmod>
+    <lastmod>2025-11-10T21:40:14Z</lastmod>
   </url>
   <url>
     <loc>https://pulsegeek.com/glossary/malware-classification/</loc>
@@ -3182,7 +3342,7 @@
   </url>
   <url>
     <loc>https://pulsegeek.com/glossary/malware/</loc>
-    <lastmod>2025-11-02T15:07:19Z</lastmod>
+    <lastmod>2025-11-10T21:40:14Z</lastmod>
   </url>
   <url>
     <loc>https://pulsegeek.com/glossary/manhattan-distance/</loc>
@@ -3234,7 +3394,7 @@
   </url>
   <url>
     <loc>https://pulsegeek.com/glossary/metrics/</loc>
-    <lastmod>2025-11-07T15:49:47Z</lastmod>
+    <lastmod>2025-11-10T21:40:14Z</lastmod>
   </url>
   <url>
     <loc>https://pulsegeek.com/glossary/mipmapping/</loc>
@@ -3242,7 +3402,7 @@
   </url>
   <url>
     <loc>https://pulsegeek.com/glossary/mixer/</loc>
-    <lastmod>2025-11-07T15:49:47Z</lastmod>
+    <lastmod>2025-11-10T21:40:14Z</lastmod>
   </url>
   <url>
     <loc>https://pulsegeek.com/glossary/mlops/</loc>
@@ -3254,7 +3414,7 @@
   </url>
   <url>
     <loc>https://pulsegeek.com/glossary/mod-manager/</loc>
-    <lastmod>2025-11-07T15:49:47Z</lastmod>
+    <lastmod>2025-11-10T21:40:14Z</lastmod>
   </url>
   <url>
     <loc>https://pulsegeek.com/glossary/mod/</loc>
@@ -3270,11 +3430,11 @@
   </url>
   <url>
     <loc>https://pulsegeek.com/glossary/model-drift/</loc>
-    <lastmod>2025-11-07T15:49:47Z</lastmod>
+    <lastmod>2025-11-10T21:40:14Z</lastmod>
   </url>
   <url>
     <loc>https://pulsegeek.com/glossary/model-governance/</loc>
-    <lastmod>2025-11-02T15:07:19Z</lastmod>
+    <lastmod>2025-11-10T21:40:14Z</lastmod>
   </url>
   <url>
     <loc>https://pulsegeek.com/glossary/model-interpretability/</loc>
@@ -3286,11 +3446,11 @@
   </url>
   <url>
     <loc>https://pulsegeek.com/glossary/model-risk-management/</loc>
-    <lastmod>2025-11-02T15:07:19Z</lastmod>
+    <lastmod>2025-11-10T21:40:14Z</lastmod>
   </url>
   <url>
     <loc>https://pulsegeek.com/glossary/model-training/</loc>
-    <lastmod>2025-11-07T15:49:47Z</lastmod>
+    <lastmod>2025-11-10T21:40:14Z</lastmod>
   </url>
   <url>
     <loc>https://pulsegeek.com/glossary/money-supply/</loc>
@@ -3298,7 +3458,7 @@
   </url>
   <url>
     <loc>https://pulsegeek.com/glossary/monitoring/</loc>
-    <lastmod>2025-11-07T15:49:47Z</lastmod>
+    <lastmod>2025-11-10T21:40:14Z</lastmod>
   </url>
   <url>
     <loc>https://pulsegeek.com/glossary/motion-blur/</loc>
@@ -3338,7 +3498,7 @@
   </url>
   <url>
     <loc>https://pulsegeek.com/glossary/natural-language-processing/</loc>
-    <lastmod>2025-11-07T15:49:47Z</lastmod>
+    <lastmod>2025-11-10T21:40:14Z</lastmod>
   </url>
   <url>
     <loc>https://pulsegeek.com/glossary/navigation-corridor/</loc>
@@ -3358,7 +3518,7 @@
   </url>
   <url>
     <loc>https://pulsegeek.com/glossary/negative-prompting/</loc>
-    <lastmod>2025-11-07T15:49:47Z</lastmod>
+    <lastmod>2025-11-10T21:40:14Z</lastmod>
   </url>
   <url>
     <loc>https://pulsegeek.com/glossary/netcode/</loc>
@@ -3378,7 +3538,7 @@
   </url>
   <url>
     <loc>https://pulsegeek.com/glossary/network-latency/</loc>
-    <lastmod>2025-11-07T15:49:47Z</lastmod>
+    <lastmod>2025-11-10T21:40:14Z</lastmod>
   </url>
   <url>
     <loc>https://pulsegeek.com/glossary/network-operations-center/</loc>
@@ -3418,7 +3578,7 @@
   </url>
   <url>
     <loc>https://pulsegeek.com/glossary/occlusion/</loc>
-    <lastmod>2025-11-07T15:49:47Z</lastmod>
+    <lastmod>2025-11-10T21:40:14Z</lastmod>
   </url>
   <url>
     <loc>https://pulsegeek.com/glossary/occupancy-sensor/</loc>
@@ -3434,15 +3594,15 @@
   </url>
   <url>
     <loc>https://pulsegeek.com/glossary/okr/</loc>
-    <lastmod>2025-10-22T11:18:09Z</lastmod>
+    <lastmod>2025-11-10T21:40:14Z</lastmod>
   </url>
   <url>
     <loc>https://pulsegeek.com/glossary/on-shelf-availability/</loc>
-    <lastmod>2025-11-02T15:07:19Z</lastmod>
+    <lastmod>2025-11-10T21:40:14Z</lastmod>
   </url>
   <url>
     <loc>https://pulsegeek.com/glossary/onboarding/</loc>
-    <lastmod>2025-11-07T15:49:47Z</lastmod>
+    <lastmod>2025-11-10T21:40:14Z</lastmod>
   </url>
   <url>
     <loc>https://pulsegeek.com/glossary/one-class-svm/</loc>
@@ -3474,7 +3634,7 @@
   </url>
   <url>
     <loc>https://pulsegeek.com/glossary/optical-character-recognition/</loc>
-    <lastmod>2025-10-26T22:27:21Z</lastmod>
+    <lastmod>2025-11-10T21:40:14Z</lastmod>
   </url>
   <url>
     <loc>https://pulsegeek.com/glossary/oracle/</loc>
@@ -3494,7 +3654,7 @@
   </url>
   <url>
     <loc>https://pulsegeek.com/glossary/pacing/</loc>
-    <lastmod>2025-11-07T15:49:47Z</lastmod>
+    <lastmod>2025-11-10T21:40:14Z</lastmod>
   </url>
   <url>
     <loc>https://pulsegeek.com/glossary/packaging/</loc>
@@ -3510,7 +3670,7 @@
   </url>
   <url>
     <loc>https://pulsegeek.com/glossary/pathfinding/</loc>
-    <lastmod>2025-11-07T15:49:47Z</lastmod>
+    <lastmod>2025-11-10T21:40:14Z</lastmod>
   </url>
   <url>
     <loc>https://pulsegeek.com/glossary/patricia-trie/</loc>
@@ -3546,7 +3706,7 @@
   </url>
   <url>
     <loc>https://pulsegeek.com/glossary/personalization/</loc>
-    <lastmod>2025-11-07T15:49:47Z</lastmod>
+    <lastmod>2025-11-10T21:40:14Z</lastmod>
   </url>
   <url>
     <loc>https://pulsegeek.com/glossary/personalized-learning/</loc>
@@ -3558,11 +3718,11 @@
   </url>
   <url>
     <loc>https://pulsegeek.com/glossary/phishing/</loc>
-    <lastmod>2025-11-07T15:49:47Z</lastmod>
+    <lastmod>2025-11-10T21:40:14Z</lastmod>
   </url>
   <url>
     <loc>https://pulsegeek.com/glossary/photocell/</loc>
-    <lastmod>2025-11-07T15:49:47Z</lastmod>
+    <lastmod>2025-11-10T21:40:14Z</lastmod>
   </url>
   <url>
     <loc>https://pulsegeek.com/glossary/photometric-distribution/</loc>
@@ -3598,7 +3758,7 @@
   </url>
   <url>
     <loc>https://pulsegeek.com/glossary/planogram/</loc>
-    <lastmod>2025-11-02T15:07:19Z</lastmod>
+    <lastmod>2025-11-10T21:40:14Z</lastmod>
   </url>
   <url>
     <loc>https://pulsegeek.com/glossary/playbook-automation/</loc>
@@ -3622,7 +3782,7 @@
   </url>
   <url>
     <loc>https://pulsegeek.com/glossary/portfolio-risk/</loc>
-    <lastmod>2025-10-22T11:18:09Z</lastmod>
+    <lastmod>2025-11-10T21:40:14Z</lastmod>
   </url>
   <url>
     <loc>https://pulsegeek.com/glossary/post-processing/</loc>
@@ -3630,7 +3790,7 @@
   </url>
   <url>
     <loc>https://pulsegeek.com/glossary/power-bi/</loc>
-    <lastmod>2025-10-22T11:18:09Z</lastmod>
+    <lastmod>2025-11-10T21:40:14Z</lastmod>
   </url>
   <url>
     <loc>https://pulsegeek.com/glossary/power-creep/</loc>
@@ -3642,7 +3802,7 @@
   </url>
   <url>
     <loc>https://pulsegeek.com/glossary/precision-and-recall/</loc>
-    <lastmod>2025-11-07T15:49:47Z</lastmod>
+    <lastmod>2025-11-10T21:40:14Z</lastmod>
   </url>
   <url>
     <loc>https://pulsegeek.com/glossary/precision-recall-curve/</loc>
@@ -3650,7 +3810,7 @@
   </url>
   <url>
     <loc>https://pulsegeek.com/glossary/prediction-accuracy/</loc>
-    <lastmod>2025-11-07T15:49:47Z</lastmod>
+    <lastmod>2025-11-10T21:40:14Z</lastmod>
   </url>
   <url>
     <loc>https://pulsegeek.com/glossary/predictive-analytics/</loc>
@@ -3678,7 +3838,7 @@
   </url>
   <url>
     <loc>https://pulsegeek.com/glossary/privacy-by-design/</loc>
-    <lastmod>2025-11-02T10:16:00Z</lastmod>
+    <lastmod>2025-11-10T21:40:14Z</lastmod>
   </url>
   <url>
     <loc>https://pulsegeek.com/glossary/procedural-generation/</loc>
@@ -3698,7 +3858,7 @@
   </url>
   <url>
     <loc>https://pulsegeek.com/glossary/profiling/</loc>
-    <lastmod>2025-11-07T15:49:47Z</lastmod>
+    <lastmod>2025-11-10T21:40:14Z</lastmod>
   </url>
   <url>
     <loc>https://pulsegeek.com/glossary/progression-curve/</loc>
@@ -3718,7 +3878,7 @@
   </url>
   <url>
     <loc>https://pulsegeek.com/glossary/prompt-evaluation-rubric/</loc>
-    <lastmod>2025-11-07T15:49:47Z</lastmod>
+    <lastmod>2025-11-10T21:40:14Z</lastmod>
   </url>
   <url>
     <loc>https://pulsegeek.com/glossary/prompt-leakage/</loc>
@@ -3762,7 +3922,7 @@
   </url>
   <url>
     <loc>https://pulsegeek.com/glossary/queue-detection/</loc>
-    <lastmod>2025-10-22T11:18:09Z</lastmod>
+    <lastmod>2025-11-10T21:40:14Z</lastmod>
   </url>
   <url>
     <loc>https://pulsegeek.com/glossary/random-number-generation/</loc>
@@ -3778,7 +3938,7 @@
   </url>
   <url>
     <loc>https://pulsegeek.com/glossary/rarity/</loc>
-    <lastmod>2025-11-07T15:49:47Z</lastmod>
+    <lastmod>2025-11-10T21:40:14Z</lastmod>
   </url>
   <url>
     <loc>https://pulsegeek.com/glossary/rate-limiting/</loc>
@@ -3798,7 +3958,7 @@
   </url>
   <url>
     <loc>https://pulsegeek.com/glossary/readability/</loc>
-    <lastmod>2025-11-02T10:16:00Z</lastmod>
+    <lastmod>2025-11-10T21:40:14Z</lastmod>
   </url>
   <url>
     <loc>https://pulsegeek.com/glossary/readme/</loc>
@@ -3806,7 +3966,7 @@
   </url>
   <url>
     <loc>https://pulsegeek.com/glossary/real-time-attack/</loc>
-    <lastmod>2025-11-07T15:49:47Z</lastmod>
+    <lastmod>2025-11-10T21:40:14Z</lastmod>
   </url>
   <url>
     <loc>https://pulsegeek.com/glossary/real-time-parameter-control/</loc>
@@ -3826,7 +3986,7 @@
   </url>
   <url>
     <loc>https://pulsegeek.com/glossary/reconciliation/</loc>
-    <lastmod>2025-11-07T15:49:47Z</lastmod>
+    <lastmod>2025-11-10T21:40:14Z</lastmod>
   </url>
   <url>
     <loc>https://pulsegeek.com/glossary/reentrancy/</loc>
@@ -3834,7 +3994,7 @@
   </url>
   <url>
     <loc>https://pulsegeek.com/glossary/regression/</loc>
-    <lastmod>2025-11-07T15:49:47Z</lastmod>
+    <lastmod>2025-11-10T21:40:14Z</lastmod>
   </url>
   <url>
     <loc>https://pulsegeek.com/glossary/rendering-pipeline/</loc>
@@ -3846,7 +4006,7 @@
   </url>
   <url>
     <loc>https://pulsegeek.com/glossary/replenishment/</loc>
-    <lastmod>2025-11-07T15:49:47Z</lastmod>
+    <lastmod>2025-11-10T21:40:14Z</lastmod>
   </url>
   <url>
     <loc>https://pulsegeek.com/glossary/resolution-scaling/</loc>
@@ -3862,7 +4022,7 @@
   </url>
   <url>
     <loc>https://pulsegeek.com/glossary/retail-kpis/</loc>
-    <lastmod>2025-11-07T15:49:47Z</lastmod>
+    <lastmod>2025-11-10T21:40:14Z</lastmod>
   </url>
   <url>
     <loc>https://pulsegeek.com/glossary/retail-media/</loc>
@@ -3878,7 +4038,7 @@
   </url>
   <url>
     <loc>https://pulsegeek.com/glossary/retraining/</loc>
-    <lastmod>2025-11-07T15:49:47Z</lastmod>
+    <lastmod>2025-11-10T21:40:14Z</lastmod>
   </url>
   <url>
     <loc>https://pulsegeek.com/glossary/retrieval-augmented-generation/</loc>
@@ -3886,11 +4046,11 @@
   </url>
   <url>
     <loc>https://pulsegeek.com/glossary/return-on-investment-roi/</loc>
-    <lastmod>2025-11-07T15:49:47Z</lastmod>
+    <lastmod>2025-11-10T21:40:14Z</lastmod>
   </url>
   <url>
     <loc>https://pulsegeek.com/glossary/return-on-investment/</loc>
-    <lastmod>2025-11-07T15:49:47Z</lastmod>
+    <lastmod>2025-11-10T21:40:14Z</lastmod>
   </url>
   <url>
     <loc>https://pulsegeek.com/glossary/reverb/</loc>
@@ -3902,7 +4062,7 @@
   </url>
   <url>
     <loc>https://pulsegeek.com/glossary/risk-management/</loc>
-    <lastmod>2025-11-07T15:49:47Z</lastmod>
+    <lastmod>2025-11-10T21:40:14Z</lastmod>
   </url>
   <url>
     <loc>https://pulsegeek.com/glossary/risk-reward/</loc>
@@ -3910,7 +4070,7 @@
   </url>
   <url>
     <loc>https://pulsegeek.com/glossary/risk-scoring/</loc>
-    <lastmod>2025-11-07T15:49:47Z</lastmod>
+    <lastmod>2025-11-10T21:40:14Z</lastmod>
   </url>
   <url>
     <loc>https://pulsegeek.com/glossary/rng/</loc>
@@ -3922,15 +4082,15 @@
   </url>
   <url>
     <loc>https://pulsegeek.com/glossary/roc-auc/</loc>
-    <lastmod>2025-11-07T15:49:47Z</lastmod>
+    <lastmod>2025-11-10T21:40:14Z</lastmod>
   </url>
   <url>
     <loc>https://pulsegeek.com/glossary/roc-curve/</loc>
-    <lastmod>2025-11-07T15:49:47Z</lastmod>
+    <lastmod>2025-11-10T21:40:14Z</lastmod>
   </url>
   <url>
     <loc>https://pulsegeek.com/glossary/roi/</loc>
-    <lastmod>2025-11-07T15:49:47Z</lastmod>
+    <lastmod>2025-11-10T21:40:14Z</lastmod>
   </url>
   <url>
     <loc>https://pulsegeek.com/glossary/rollback/</loc>
@@ -3986,11 +4146,11 @@
   </url>
   <url>
     <loc>https://pulsegeek.com/glossary/scarcity/</loc>
-    <lastmod>2025-11-07T15:49:47Z</lastmod>
+    <lastmod>2025-11-10T21:40:14Z</lastmod>
   </url>
   <url>
     <loc>https://pulsegeek.com/glossary/scenario-planning/</loc>
-    <lastmod>2025-11-07T15:49:47Z</lastmod>
+    <lastmod>2025-11-10T21:40:14Z</lastmod>
   </url>
   <url>
     <loc>https://pulsegeek.com/glossary/scoring-matrix/</loc>
@@ -4018,15 +4178,15 @@
   </url>
   <url>
     <loc>https://pulsegeek.com/glossary/security-information-and-event-management/</loc>
-    <lastmod>2025-11-07T15:49:47Z</lastmod>
+    <lastmod>2025-11-10T21:40:14Z</lastmod>
   </url>
   <url>
     <loc>https://pulsegeek.com/glossary/security-operations-center/</loc>
-    <lastmod>2025-11-07T15:49:47Z</lastmod>
+    <lastmod>2025-11-10T21:40:14Z</lastmod>
   </url>
   <url>
     <loc>https://pulsegeek.com/glossary/security/</loc>
-    <lastmod>2025-11-07T15:49:47Z</lastmod>
+    <lastmod>2025-11-10T21:40:14Z</lastmod>
   </url>
   <url>
     <loc>https://pulsegeek.com/glossary/seed/</loc>
@@ -4038,7 +4198,7 @@
   </url>
   <url>
     <loc>https://pulsegeek.com/glossary/segmentation/</loc>
-    <lastmod>2025-11-02T15:07:19Z</lastmod>
+    <lastmod>2025-11-10T21:40:14Z</lastmod>
   </url>
   <url>
     <loc>https://pulsegeek.com/glossary/semantic-versioning/</loc>
@@ -4054,7 +4214,7 @@
   </url>
   <url>
     <loc>https://pulsegeek.com/glossary/separation/</loc>
-    <lastmod>2025-11-07T15:49:47Z</lastmod>
+    <lastmod>2025-11-10T21:40:14Z</lastmod>
   </url>
   <url>
     <loc>https://pulsegeek.com/glossary/sequence-break/</loc>
@@ -4098,7 +4258,7 @@
   </url>
   <url>
     <loc>https://pulsegeek.com/glossary/shap-shapley-additive-explanations/</loc>
-    <lastmod>2025-11-07T15:49:47Z</lastmod>
+    <lastmod>2025-11-10T21:40:14Z</lastmod>
   </url>
   <url>
     <loc>https://pulsegeek.com/glossary/sharpening/</loc>
@@ -4118,7 +4278,7 @@
   </url>
   <url>
     <loc>https://pulsegeek.com/glossary/signposting/</loc>
-    <lastmod>2025-11-07T15:49:47Z</lastmod>
+    <lastmod>2025-11-10T21:40:14Z</lastmod>
   </url>
   <url>
     <loc>https://pulsegeek.com/glossary/simplex-noise/</loc>
@@ -4130,7 +4290,7 @@
   </url>
   <url>
     <loc>https://pulsegeek.com/glossary/sku/</loc>
-    <lastmod>2025-11-07T15:49:47Z</lastmod>
+    <lastmod>2025-11-10T21:40:14Z</lastmod>
   </url>
   <url>
     <loc>https://pulsegeek.com/glossary/smart-contract/</loc>
@@ -4202,7 +4362,7 @@
   </url>
   <url>
     <loc>https://pulsegeek.com/glossary/split/</loc>
-    <lastmod>2025-11-07T15:49:47Z</lastmod>
+    <lastmod>2025-11-10T21:40:14Z</lastmod>
   </url>
   <url>
     <loc>https://pulsegeek.com/glossary/splits-io/</loc>
@@ -4270,7 +4430,7 @@
   </url>
   <url>
     <loc>https://pulsegeek.com/glossary/supervised-learning/</loc>
-    <lastmod>2025-11-07T15:49:47Z</lastmod>
+    <lastmod>2025-11-10T21:40:14Z</lastmod>
   </url>
   <url>
     <loc>https://pulsegeek.com/glossary/supply-chain-visibility/</loc>
@@ -4302,7 +4462,7 @@
   </url>
   <url>
     <loc>https://pulsegeek.com/glossary/telemetry/</loc>
-    <lastmod>2025-11-07T15:49:47Z</lastmod>
+    <lastmod>2025-11-10T21:40:14Z</lastmod>
   </url>
   <url>
     <loc>https://pulsegeek.com/glossary/temporal-anti-aliasing/</loc>
@@ -4370,7 +4530,7 @@
   </url>
   <url>
     <loc>https://pulsegeek.com/glossary/time-to-value/</loc>
-    <lastmod>2025-11-07T15:49:47Z</lastmod>
+    <lastmod>2025-11-10T21:40:14Z</lastmod>
   </url>
   <url>
     <loc>https://pulsegeek.com/glossary/token-economy/</loc>
@@ -4386,7 +4546,7 @@
   </url>
   <url>
     <loc>https://pulsegeek.com/glossary/total-cost-of-ownership/</loc>
-    <lastmod>2025-11-07T15:49:47Z</lastmod>
+    <lastmod>2025-11-10T21:40:14Z</lastmod>
   </url>
   <url>
     <loc>https://pulsegeek.com/glossary/traceroute/</loc>
@@ -4394,7 +4554,7 @@
   </url>
   <url>
     <loc>https://pulsegeek.com/glossary/training-data/</loc>
-    <lastmod>2025-11-07T15:49:47Z</lastmod>
+    <lastmod>2025-11-10T21:40:14Z</lastmod>
   </url>
   <url>
     <loc>https://pulsegeek.com/glossary/transaction-tax/</loc>
@@ -4414,11 +4574,11 @@
   </url>
   <url>
     <loc>https://pulsegeek.com/glossary/transparency/</loc>
-    <lastmod>2025-11-07T15:49:47Z</lastmod>
+    <lastmod>2025-11-10T21:40:14Z</lastmod>
   </url>
   <url>
     <loc>https://pulsegeek.com/glossary/true-positive-rate/</loc>
-    <lastmod>2025-11-07T15:49:47Z</lastmod>
+    <lastmod>2025-11-10T21:40:14Z</lastmod>
   </url>
   <url>
     <loc>https://pulsegeek.com/glossary/trusted-computing/</loc>
@@ -4478,7 +4638,7 @@
   </url>
   <url>
     <loc>https://pulsegeek.com/glossary/use-case/</loc>
-    <lastmod>2025-11-07T15:49:47Z</lastmod>
+    <lastmod>2025-11-10T21:40:14Z</lastmod>
   </url>
   <url>
     <loc>https://pulsegeek.com/glossary/user-datagram-protocol/</loc>
@@ -4514,7 +4674,7 @@
   </url>
   <url>
     <loc>https://pulsegeek.com/glossary/variance/</loc>
-    <lastmod>2025-11-07T15:49:47Z</lastmod>
+    <lastmod>2025-11-10T21:40:14Z</lastmod>
   </url>
   <url>
     <loc>https://pulsegeek.com/glossary/vbr/</loc>
@@ -4538,7 +4698,7 @@
   </url>
   <url>
     <loc>https://pulsegeek.com/glossary/verification/</loc>
-    <lastmod>2025-11-07T15:49:47Z</lastmod>
+    <lastmod>2025-11-10T21:40:14Z</lastmod>
   </url>
   <url>
     <loc>https://pulsegeek.com/glossary/version-differences/</loc>
