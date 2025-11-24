@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>PulseGeek</title>
   <id>https://pulsegeek.com/atom.xml</id>
-  <updated>2025-11-18T16:16:00Z</updated>
+  <updated>2025-11-23T22:25:00Z</updated>
   <link href="https://pulsegeek.com/atom.xml" rel="self" type="application/atom+xml" />
   <link href="https://pulsegeek.com" />
   <author>
@@ -10,353 +10,353 @@
   </author>
   <subtitle>Tech news, gaming, and geek culture in one pulse</subtitle>
   <entry>
-    <title>Confusion Matrix for Security Classifiers Explained</title>
-    <id>https://pulsegeek.com/articles/confusion-matrix-for-security-classifiers-explained/</id>
-    <link href="https://pulsegeek.com/articles/confusion-matrix-for-security-classifiers-explained/" />
-    <updated>2025-11-18T16:16:00Z</updated>
-    <summary type="html"><![CDATA[Learn how to read a confusion matrix for security classifiers, compare metrics like precision and recall, and interpret errors to improve intrusion and malware detection decisions.]]></summary>
+    <title>What Is Good Precision–Recall for Malware Classifiers?</title>
+    <id>https://pulsegeek.com/articles/what-is-good-precision-recall-for-malware-classifiers/</id>
+    <link href="https://pulsegeek.com/articles/what-is-good-precision-recall-for-malware-classifiers/" />
+    <updated>2025-11-23T22:25:00Z</updated>
+    <summary type="html"><![CDATA[Learn what counts as good precision and recall for malware classifiers, how to balance alert cost vs missed threats, and how to validate with threshold sweeps and PR curves.]]></summary>
   </entry>
   <entry>
-    <title>Artificial Intelligence with Power BI: A Hands-On Guide</title>
-    <id>https://pulsegeek.com/articles/artificial-intelligence-with-power-bi-a-hands-on-guide/</id>
-    <link href="https://pulsegeek.com/articles/artificial-intelligence-with-power-bi-a-hands-on-guide/" />
-    <updated>2025-11-18T16:15:00Z</updated>
-    <summary type="html"><![CDATA[Learn how to add AI to Power BI step by step. Plan architecture, prepare data, build AutoML and DAX-based signals, then govern and monitor deployment in production reports.]]></summary>
+    <title>Machine Learning in Business Intelligence Explained</title>
+    <id>https://pulsegeek.com/articles/machine-learning-in-business-intelligence-explained/</id>
+    <link href="https://pulsegeek.com/articles/machine-learning-in-business-intelligence-explained/" />
+    <updated>2025-11-23T22:24:00Z</updated>
+    <summary type="html"><![CDATA[Learn how machine learning elevates business intelligence with models, data pipelines, and dashboard patterns that predict, explain, and act. See architecture, governance, and examples for safer enterprise adoption.]]></summary>
   </entry>
   <entry>
-    <title>Fraud Risk Modeling with AI: Features, Models, and MRM</title>
-    <id>https://pulsegeek.com/articles/fraud-risk-modeling-with-ai-features-models-and-mrm/</id>
-    <link href="https://pulsegeek.com/articles/fraud-risk-modeling-with-ai-features-models-and-mrm/" />
-    <updated>2025-11-18T16:14:00Z</updated>
-    <summary type="html"><![CDATA[Learn how to plan, build, and validate AI-driven fraud risk models in financial services with features, algorithms, MRM controls, and practical troubleshooting.]]></summary>
+    <title>Use of AI in Banking and Finance: A Practical How-To</title>
+    <id>https://pulsegeek.com/articles/use-of-ai-in-banking-and-finance-a-practical-how-to/</id>
+    <link href="https://pulsegeek.com/articles/use-of-ai-in-banking-and-finance-a-practical-how-to/" />
+    <updated>2025-11-23T22:23:00Z</updated>
+    <summary type="html"><![CDATA[Follow a structured path to plan, deploy, and govern AI in banking and finance, from data readiness and model baselines to validation, monitoring, and risk controls with practical steps and troubleshooting tips.]]></summary>
   </entry>
   <entry>
-    <title>Assortment Optimization with AI for Retailers: Tactics</title>
-    <id>https://pulsegeek.com/articles/assortment-optimization-with-ai-for-retailers-tactics/</id>
-    <link href="https://pulsegeek.com/articles/assortment-optimization-with-ai-for-retailers-tactics/" />
-    <updated>2025-11-18T16:13:00Z</updated>
-    <summary type="html"><![CDATA[Follow a practical, step by step path to build AI driven assortment optimization for retail, from planning and data setup to deployment, validation, and ongoing tuning.]]></summary>
+    <title>Machine Learning Retail Solutions: Vendors and Value</title>
+    <id>https://pulsegeek.com/articles/machine-learning-retail-solutions-vendors-and-value/</id>
+    <link href="https://pulsegeek.com/articles/machine-learning-retail-solutions-vendors-and-value/" />
+    <updated>2025-11-23T22:22:00Z</updated>
+    <summary type="html"><![CDATA[Compare machine learning retail solutions across cloud suites, vertical platforms, and open source. See evaluation criteria, tradeoffs, and scenario fit to pick vendors that deliver measurable value.]]></summary>
   </entry>
   <entry>
-    <title>What Is Intelligent Street Lighting? A Clear, Quick Answer</title>
-    <id>https://pulsegeek.com/articles/what-is-intelligent-street-lighting-a-clear-quick-answer/</id>
-    <link href="https://pulsegeek.com/articles/what-is-intelligent-street-lighting-a-clear-quick-answer/" />
-    <updated>2025-11-18T16:12:00Z</updated>
-    <summary type="html"><![CDATA[Learn what intelligent street lighting is, how it works from pole to cloud, when it fits, implementation steps, and practical alternatives that support safer, energy efficient streets.]]></summary>
+    <title>IoT Street Light: Connectivity, Power, and Deployability</title>
+    <id>https://pulsegeek.com/articles/iot-street-light-connectivity-power-and-deployability/</id>
+    <link href="https://pulsegeek.com/articles/iot-street-light-connectivity-power-and-deployability/" />
+    <updated>2025-11-23T22:21:00Z</updated>
+    <summary type="html"><![CDATA[Learn how IoT street lights balance connectivity choices, power budgets, and deployability tradeoffs to deliver reliable control, data, and savings in varied environments.]]></summary>
   </entry>
   <entry>
-    <title>AI’s Role in Detection Pipelines: Nuance and Limits</title>
-    <id>https://pulsegeek.com/articles/ais-role-in-detection-pipelines-nuance-and-limits/</id>
-    <link href="https://pulsegeek.com/articles/ais-role-in-detection-pipelines-nuance-and-limits/" />
-    <updated>2025-11-17T16:16:00Z</updated>
-    <summary type="html"><![CDATA[Understand where AI excels and where it falls short in detection pipelines. Learn definitions, decision lenses, and practical tradeoffs to design dependable security workflows.]]></summary>
+    <title>DAT Files and Auditing with CLRMamePro Alternatives</title>
+    <id>https://pulsegeek.com/articles/dat-files-and-auditing-with-clrmamepro-alternatives/</id>
+    <link href="https://pulsegeek.com/articles/dat-files-and-auditing-with-clrmamepro-alternatives/" />
+    <updated>2025-11-23T22:20:00Z</updated>
+    <summary type="html"><![CDATA[Learn how to use DAT files with RomVault, RomCenter, and hash workflows to audit ROM and BIOS sets. Compare merge modes, update routines, and safe verification choices for stable emulation.]]></summary>
   </entry>
   <entry>
-    <title>Analytics AI: Building Smarter Pipelines and Models</title>
-    <id>https://pulsegeek.com/articles/analytics-ai-building-smarter-pipelines-and-models/</id>
-    <link href="https://pulsegeek.com/articles/analytics-ai-building-smarter-pipelines-and-models/" />
-    <updated>2025-11-17T16:15:00Z</updated>
-    <summary type="html"><![CDATA[Learn how analytics AI upgrades data pipelines, feature stores, and models into reliable dashboards and decisions. See architecture choices, tools, patterns, and governance guardrails.]]></summary>
+    <title>Audio Pipeline Basics for Game Engines</title>
+    <id>https://pulsegeek.com/articles/audio-pipeline-basics-for-game-engines/</id>
+    <link href="https://pulsegeek.com/articles/audio-pipeline-basics-for-game-engines/" />
+    <updated>2025-11-23T22:19:00Z</updated>
+    <summary type="html"><![CDATA[Learn core audio pipeline concepts for game engines, from import and compression to mixing, streaming, and latency. Choose formats, set budgets, and avoid pitfalls with practical decision frameworks.]]></summary>
   </entry>
   <entry>
-    <title>Detect Fraud with ML in Banking: A Field Guide</title>
-    <id>https://pulsegeek.com/articles/detect-fraud-with-ml-in-banking-a-field-guide/</id>
-    <link href="https://pulsegeek.com/articles/detect-fraud-with-ml-in-banking-a-field-guide/" />
-    <updated>2025-11-17T16:14:00Z</updated>
-    <summary type="html"><![CDATA[Step-by-step guide to detect fraud in banking with machine learning. Plan data, build features, train models, validate, and tune thresholds with governance and monitoring in mind.]]></summary>
+    <title>Quest Reward Economy Balancing: Value that Motivates</title>
+    <id>https://pulsegeek.com/articles/quest-reward-economy-balancing-value-that-motivates/</id>
+    <link href="https://pulsegeek.com/articles/quest-reward-economy-balancing-value-that-motivates/" />
+    <updated>2025-11-23T22:18:00Z</updated>
+    <summary type="html"><![CDATA[Learn how to balance quest rewards with clear value models, pacing, and scarcity so players feel motivated without inflation, grind, or exploits skewing your game economy.]]></summary>
   </entry>
   <entry>
-    <title>AI Retail Solutions: Choose the Right Stack for Scale</title>
-    <id>https://pulsegeek.com/articles/ai-retail-solutions-choose-the-right-stack-for-scale/</id>
-    <link href="https://pulsegeek.com/articles/ai-retail-solutions-choose-the-right-stack-for-scale/" />
-    <updated>2025-11-17T16:13:00Z</updated>
-    <summary type="html"><![CDATA[Compare build, buy, and hybrid AI retail solutions across accuracy, cost, speed, and governance. Learn how to weigh data maturity, integration paths, and long‑term scale to pick the right stack.]]></summary>
+    <title>Best Bitrate for Cloud Gaming at 1080p: Practical Picks</title>
+    <id>https://pulsegeek.com/articles/best-bitrate-for-cloud-gaming-at-1080p-practical-picks/</id>
+    <link href="https://pulsegeek.com/articles/best-bitrate-for-cloud-gaming-at-1080p-practical-picks/" />
+    <updated>2025-11-23T22:17:00Z</updated>
+    <summary type="html"><![CDATA[Learn how to pick the best 1080p cloud gaming bitrate with codec choices, network checks, and validation steps. Includes preset ranges, ffmpeg examples, and troubleshooting for motion, latency, and device limits.]]></summary>
   </entry>
   <entry>
-    <title>Smart Urban Lighting: Design Patterns for Safer Streets</title>
-    <id>https://pulsegeek.com/articles/smart-urban-lighting-design-patterns-for-safer-streets/</id>
-    <link href="https://pulsegeek.com/articles/smart-urban-lighting-design-patterns-for-safer-streets/" />
-    <updated>2025-11-17T16:12:00Z</updated>
-    <summary type="html"><![CDATA[Understand smart urban lighting design patterns that improve safety, reduce energy, and guide movement. Learn definitions, selection frameworks, examples, and limits to inform city and campus upgrades with confidence.]]></summary>
+    <title>Benchmarking Economy Health Across Titles</title>
+    <id>https://pulsegeek.com/articles/benchmarking-economy-health-across-titles/</id>
+    <link href="https://pulsegeek.com/articles/benchmarking-economy-health-across-titles/" />
+    <updated>2025-11-23T22:16:00Z</updated>
+    <summary type="html"><![CDATA[Compare methods to benchmark economy health across different game titles, with metrics, tradeoffs, and scenario guidance to pick the right approach.]]></summary>
   </entry>
   <entry>
-    <title>AI System Architecture for Detection Workflows</title>
-    <id>https://pulsegeek.com/articles/ai-system-architecture-for-detection-workflows/</id>
-    <link href="https://pulsegeek.com/articles/ai-system-architecture-for-detection-workflows/" />
-    <updated>2025-11-16T16:16:00Z</updated>
-    <summary type="html"><![CDATA[Learn how to design AI system architecture for detection workflows. See components, data flows, model gating, and governance that improve speed, accuracy, and resilience.]]></summary>
+    <title>Branch Coverage Checklists for Interactive Scripts</title>
+    <id>https://pulsegeek.com/articles/branch-coverage-checklists-for-interactive-scripts/</id>
+    <link href="https://pulsegeek.com/articles/branch-coverage-checklists-for-interactive-scripts/" />
+    <updated>2025-11-22T22:25:00Z</updated>
+    <summary type="html"><![CDATA[Use practical checklists to measure branch coverage in interactive scripts, tag choices with IDs, set thresholds, and catch unreachable content while preserving agency and pacing.]]></summary>
   </entry>
   <entry>
-    <title>AI-Powered Business Intelligence: 20 Smart Features</title>
-    <id>https://pulsegeek.com/articles/ai-powered-business-intelligence-20-smart-features/</id>
-    <link href="https://pulsegeek.com/articles/ai-powered-business-intelligence-20-smart-features/" />
-    <updated>2025-11-16T16:15:00Z</updated>
-    <summary type="html"><![CDATA[Explore 20 AI-powered business intelligence features that elevate dashboards, decisions, and data workflows, with tradeoffs, guardrails, and examples to guide practical adoption in real organizations.]]></summary>
+    <title>Python for AI in Cyber Pipelines: Start to Finish</title>
+    <id>https://pulsegeek.com/articles/python-for-ai-in-cyber-pipelines-start-to-finish/</id>
+    <link href="https://pulsegeek.com/articles/python-for-ai-in-cyber-pipelines-start-to-finish/" />
+    <updated>2025-11-22T22:24:00Z</updated>
+    <summary type="html"><![CDATA[Build a Python-based AI detection pipeline for security data, from planning and setup to modeling, validation, and tuning. Includes ROC AUC, confusion matrix, and troubleshooting.]]></summary>
   </entry>
   <entry>
-    <title>Anomaly Detection in Finance with AI: Methods That Scale</title>
-    <id>https://pulsegeek.com/articles/anomaly-detection-in-finance-with-ai-methods-that-scale/</id>
-    <link href="https://pulsegeek.com/articles/anomaly-detection-in-finance-with-ai-methods-that-scale/" />
-    <updated>2025-11-16T16:14:00Z</updated>
-    <summary type="html"><![CDATA[Learn a step by step path to implement AI anomaly detection in finance with sound data prep, model choices, metrics, and controls that scale across teams.]]></summary>
+    <title>How to Use AI in BI Tools: Steps That Actually Work</title>
+    <id>https://pulsegeek.com/articles/how-to-use-ai-in-bi-tools-steps-that-actually-work/</id>
+    <link href="https://pulsegeek.com/articles/how-to-use-ai-in-bi-tools-steps-that-actually-work/" />
+    <updated>2025-11-22T22:23:00Z</updated>
+    <summary type="html"><![CDATA[Learn practical steps for how to use AI in BI tools. See architecture choices, data prep, model options, dashboard integration, and governance that scales responsibly.]]></summary>
   </entry>
   <entry>
-    <title>AI Predictive Analytics for Retail: From Data to Action</title>
-    <id>https://pulsegeek.com/articles/ai-predictive-analytics-for-retail-from-data-to-action/</id>
-    <link href="https://pulsegeek.com/articles/ai-predictive-analytics-for-retail-from-data-to-action/" />
-    <updated>2025-11-16T16:13:00Z</updated>
-    <summary type="html"><![CDATA[Learn how to plan, build, and validate AI predictive analytics for retail. Follow clear steps to turn data into demand forecasts, smarter replenishment, and measurable in‑stock improvements.]]></summary>
+    <title>Top Applications of AI in Finance for Risk Teams</title>
+    <id>https://pulsegeek.com/articles/top-applications-of-ai-in-finance-for-risk-teams/</id>
+    <link href="https://pulsegeek.com/articles/top-applications-of-ai-in-finance-for-risk-teams/" />
+    <updated>2025-11-22T22:22:00Z</updated>
+    <summary type="html"><![CDATA[Explore practical applications of AI in finance for risk teams, from fraud detection to AML, underwriting, anomalies, and MRM controls. Learn tradeoffs, examples, and next steps.]]></summary>
   </entry>
   <entry>
-    <title>Smart Street Lamp: Components, Capabilities, and Uses</title>
-    <id>https://pulsegeek.com/articles/smart-street-lamp-components-capabilities-and-uses/</id>
-    <link href="https://pulsegeek.com/articles/smart-street-lamp-components-capabilities-and-uses/" />
-    <updated>2025-11-16T16:12:00Z</updated>
-    <summary type="html"><![CDATA[Learn how a smart street lamp works, from LED heads and sensors to controls and networking, plus capabilities, tradeoffs, and practical urban uses.]]></summary>
+    <title>Machine Learning in the Retail Industry: Where It Fits</title>
+    <id>https://pulsegeek.com/articles/machine-learning-in-the-retail-industry-where-it-fits/</id>
+    <link href="https://pulsegeek.com/articles/machine-learning-in-the-retail-industry-where-it-fits/" />
+    <updated>2025-11-22T22:21:00Z</updated>
+    <summary type="html"><![CDATA[Learn where machine learning fits in retail operations, from demand planning and replenishment to planograms and assortments, with clear decision criteria, practical scenarios, and limits that help teams prioritize value.]]></summary>
   </entry>
   <entry>
-    <title>AI Programming with Python for Security Workflows</title>
-    <id>https://pulsegeek.com/articles/ai-programming-with-python-for-security-workflows/</id>
-    <link href="https://pulsegeek.com/articles/ai-programming-with-python-for-security-workflows/" />
-    <updated>2025-11-15T16:16:00Z</updated>
-    <summary type="html"><![CDATA[Build a practical Python workflow for AI-driven security detection. Plan data, set up tools, train models, validate with ROC AUC and confusion matrices, and troubleshoot edge cases for reliable outcomes.]]></summary>
+    <title>IoT Solar Street Light: Power Budgets and Link Budgets</title>
+    <id>https://pulsegeek.com/articles/iot-solar-street-light-power-budgets-and-link-budgets/</id>
+    <link href="https://pulsegeek.com/articles/iot-solar-street-light-power-budgets-and-link-budgets/" />
+    <updated>2025-11-22T22:20:00Z</updated>
+    <summary type="html"><![CDATA[Learn how to size power budgets and calculate link budgets for IoT solar street lights, with practical ranges, tradeoffs, and a simple energy model.]]></summary>
   </entry>
   <entry>
-    <title>AI-Driven Business Intelligence: What Changes and Why</title>
-    <id>https://pulsegeek.com/articles/ai-driven-business-intelligence-what-changes-and-why/</id>
-    <link href="https://pulsegeek.com/articles/ai-driven-business-intelligence-what-changes-and-why/" />
-    <updated>2025-11-15T16:15:00Z</updated>
-    <summary type="html"><![CDATA[Learn how AI-driven business intelligence reshapes analytics with augmented workflows, smarter dashboards, and a robust architecture for governance, monitoring, and value measurement across decisions, forecasts, and operations.]]></summary>
+    <title>Cue Sheets and Multi‑Track Audio: The Essentials</title>
+    <id>https://pulsegeek.com/articles/cue-sheets-and-multi-track-audio-the-essentials/</id>
+    <link href="https://pulsegeek.com/articles/cue-sheets-and-multi-track-audio-the-essentials/" />
+    <updated>2025-11-22T22:19:00Z</updated>
+    <summary type="html"><![CDATA[Learn what cue sheets are, how multi-track audio works in disc images, and when to use CUE, BIN, and CHD for accurate emulation with clean metadata.]]></summary>
   </entry>
   <entry>
-    <title>AML Transaction Monitoring with AI: Speed and Precision</title>
-    <id>https://pulsegeek.com/articles/aml-transaction-monitoring-with-ai-speed-and-precision/</id>
-    <link href="https://pulsegeek.com/articles/aml-transaction-monitoring-with-ai-speed-and-precision/" />
-    <updated>2025-11-15T16:14:00Z</updated>
-    <summary type="html"><![CDATA[Learn how AI elevates AML transaction monitoring with faster detection, fewer false positives, and stronger investigations while meeting regulatory expectations and model risk controls.]]></summary>
+    <title>Atlas vs Array Textures in Engines: Choose Wisely</title>
+    <id>https://pulsegeek.com/articles/atlas-vs-array-textures-in-engines-choose-wisely/</id>
+    <link href="https://pulsegeek.com/articles/atlas-vs-array-textures-in-engines-choose-wisely/" />
+    <updated>2025-11-22T22:18:00Z</updated>
+    <summary type="html"><![CDATA[Compare atlas and array textures in Unity, Unreal, and Godot. Learn batching impacts, filtering artifacts, memory behavior, and when each approach fits your game.]]></summary>
   </entry>
   <entry>
-    <title>AI in Retail and CPG: Shared Data, Shared Advantage</title>
-    <id>https://pulsegeek.com/articles/ai-in-retail-and-cpg-shared-data-shared-advantage/</id>
-    <link href="https://pulsegeek.com/articles/ai-in-retail-and-cpg-shared-data-shared-advantage/" />
-    <updated>2025-11-15T16:13:00Z</updated>
-    <summary type="html"><![CDATA[Learn how AI ties retail and CPG partners through shared data, common metrics, and governance to improve forecasts, replenishment, and assortments while respecting privacy and control.]]></summary>
+    <title>Procedural NPC Backstory Generator: Design Principles</title>
+    <id>https://pulsegeek.com/articles/procedural-npc-backstory-generator-design-principles/</id>
+    <link href="https://pulsegeek.com/articles/procedural-npc-backstory-generator-design-principles/" />
+    <updated>2025-11-22T22:17:00Z</updated>
+    <summary type="html"><![CDATA[Design a procedural NPC backstory generator step by step. Plan schemas, prepare data, implement rules, validate outputs, then troubleshoot biases and pacing for believable variation across genres.]]></summary>
   </entry>
   <entry>
-    <title>Smart Public Lighting: Policy, Design, and Equity Considerations</title>
-    <id>https://pulsegeek.com/articles/smart-public-lighting-policy-design-and-equity-considerations/</id>
-    <link href="https://pulsegeek.com/articles/smart-public-lighting-policy-design-and-equity-considerations/" />
-    <updated>2025-11-15T16:12:00Z</updated>
-    <summary type="html"><![CDATA[Learn how smart public lighting policy, human-centered design, and equity guardrails shape safer, energy-efficient streets while protecting privacy and access for every neighborhood.]]></summary>
+    <title>Avoid Macroblocking in Fast Scenes: Pro Tuning Steps</title>
+    <id>https://pulsegeek.com/articles/avoid-macroblocking-in-fast-scenes-pro-tuning-steps/</id>
+    <link href="https://pulsegeek.com/articles/avoid-macroblocking-in-fast-scenes-pro-tuning-steps/" />
+    <updated>2025-11-22T22:16:00Z</updated>
+    <summary type="html"><![CDATA[Stop macroblocking during rapid motion with codec choices, bitrate ladders, frame pacing, and encoder tuning. Follow stepwise settings, test patterns, and validation checks to keep detail stable under pressure.]]></summary>
   </entry>
   <entry>
-    <title>AI Programming Languages for Cyber Detection: Compare</title>
-    <id>https://pulsegeek.com/articles/ai-programming-languages-for-cyber-detection-compare/</id>
-    <link href="https://pulsegeek.com/articles/ai-programming-languages-for-cyber-detection-compare/" />
-    <updated>2025-11-14T16:16:00Z</updated>
-    <summary type="html"><![CDATA[Compare Python, Go, and Rust for AI-driven cyber detection. Weigh speed, safety, libraries, deployment, and data workflows to match your team and threat model.]]></summary>
+    <title>Anomaly Detection for Market Exploits: Key Signals</title>
+    <id>https://pulsegeek.com/articles/anomaly-detection-for-market-exploits-key-signals/</id>
+    <link href="https://pulsegeek.com/articles/anomaly-detection-for-market-exploits-key-signals/" />
+    <updated>2025-11-21T22:25:00Z</updated>
+    <summary type="html"><![CDATA[Learn the key signals for anomaly detection that reveal market exploits, from volume bursts to circular trades, with examples, tradeoffs, and practical monitoring tips.]]></summary>
   </entry>
   <entry>
-    <title>AI for Power BI: Bring Predictions Into Every Report</title>
-    <id>https://pulsegeek.com/articles/ai-for-power-bi-bring-predictions-into-every-report/</id>
-    <link href="https://pulsegeek.com/articles/ai-for-power-bi-bring-predictions-into-every-report/" />
-    <updated>2025-11-14T16:15:00Z</updated>
-    <summary type="html"><![CDATA[Learn practical ways to add predictions to Power BI using built-in AI, custom models, and M or DAX patterns. See architecture, deployment, and design tips for trustworthy dashboards.]]></summary>
+    <title>Best Practices for Conditional Dialogue Design</title>
+    <id>https://pulsegeek.com/articles/best-practices-for-conditional-dialogue-design/</id>
+    <link href="https://pulsegeek.com/articles/best-practices-for-conditional-dialogue-design/" />
+    <updated>2025-11-21T22:24:00Z</updated>
+    <summary type="html"><![CDATA[Master conditional dialogue design with practical patterns, testing tactics, and tooling tips that keep choices readable, reactive, and maintainable across quests and scenes.]]></summary>
   </entry>
   <entry>
-    <title>AI Loan Companies: Who’s Innovating and How They Win</title>
-    <id>https://pulsegeek.com/articles/ai-loan-companies-whos-innovating-and-how-they-win/</id>
-    <link href="https://pulsegeek.com/articles/ai-loan-companies-whos-innovating-and-how-they-win/" />
-    <updated>2025-11-14T16:14:00Z</updated>
-    <summary type="html"><![CDATA[Explore six ways AI loan companies innovate across underwriting, fraud, pricing, collections, and governance, with examples, tradeoffs, and controls that keep decisions fast, fair, and compliant.]]></summary>
+    <title>Intro to AI for Cybersecurity Pipelines: Key Steps</title>
+    <id>https://pulsegeek.com/articles/intro-to-ai-for-cybersecurity-pipelines-key-steps/</id>
+    <link href="https://pulsegeek.com/articles/intro-to-ai-for-cybersecurity-pipelines-key-steps/" />
+    <updated>2025-11-21T22:23:00Z</updated>
+    <summary type="html"><![CDATA[Learn how AI supports cybersecurity pipelines with clear definitions, decision frameworks, examples, and practical tradeoffs to guide model choice and evaluation.]]></summary>
   </entry>
   <entry>
-    <title>AI + ML in Retail: Data Pipelines, Models, and Outcomes</title>
-    <id>https://pulsegeek.com/articles/ai-ml-in-retail-data-pipelines-models-and-outcomes/</id>
-    <link href="https://pulsegeek.com/articles/ai-ml-in-retail-data-pipelines-models-and-outcomes/" />
-    <updated>2025-11-14T16:13:00Z</updated>
-    <summary type="html"><![CDATA[Learn how AI and ML improve retail outcomes by building the right data pipelines, selecting fit-for-purpose models, and translating predictions into decisions.]]></summary>
+    <title>Business Intelligence Using Machine Learning: A How-To</title>
+    <id>https://pulsegeek.com/articles/business-intelligence-using-machine-learning-a-how-to/</id>
+    <link href="https://pulsegeek.com/articles/business-intelligence-using-machine-learning-a-how-to/" />
+    <updated>2025-11-21T22:22:00Z</updated>
+    <summary type="html"><![CDATA[Learn how to deliver BI with machine learning step by step, from scoping value and feature pipelines to deploying predictions into dashboards and alerts with governance.]]></summary>
   </entry>
   <entry>
-    <title>Smart City Street Lights Sensors: Types and Placement</title>
-    <id>https://pulsegeek.com/articles/smart-city-street-lights-sensors-types-and-placement/</id>
-    <link href="https://pulsegeek.com/articles/smart-city-street-lights-sensors-types-and-placement/" />
-    <updated>2025-11-14T16:12:00Z</updated>
-    <summary type="html"><![CDATA[Learn sensor types used in smart city street lights, how they work, optimal placement, and tradeoffs that balance safety, privacy, and maintenance.]]></summary>
+    <title>Model Risk Management for AI in Banks: What It Is</title>
+    <id>https://pulsegeek.com/articles/model-risk-management-for-ai-in-banks-what-it-is/</id>
+    <link href="https://pulsegeek.com/articles/model-risk-management-for-ai-in-banks-what-it-is/" />
+    <updated>2025-11-21T22:21:00Z</updated>
+    <summary type="html"><![CDATA[Learn what model risk management for AI in banks means, how it differs from traditional MRM, and how to implement controls for inventory, validation, monitoring, and governance with practical steps and tradeoffs.]]></summary>
   </entry>
   <entry>
-    <title>AI Programming Language Choices for Security Teams</title>
-    <id>https://pulsegeek.com/articles/ai-programming-language-choices-for-security-teams/</id>
-    <link href="https://pulsegeek.com/articles/ai-programming-language-choices-for-security-teams/" />
-    <updated>2025-11-13T16:16:00Z</updated>
-    <summary type="html"><![CDATA[Compare Python, Go, and Rust for security AI work. Learn criteria, tradeoffs, and scenarios to pick the right language for detection pipelines and tooling.]]></summary>
+    <title>Machine Learning for Retail Stores: Store‑Level Wins</title>
+    <id>https://pulsegeek.com/articles/machine-learning-for-retail-stores-store-level-wins/</id>
+    <link href="https://pulsegeek.com/articles/machine-learning-for-retail-stores-store-level-wins/" />
+    <updated>2025-11-21T22:20:00Z</updated>
+    <summary type="html"><![CDATA[Learn how machine learning boosts store-level results with demand sensing, replenishment, planograms, and localized pricing. Get frameworks, examples, and pitfalls to steer retail adoption.]]></summary>
   </entry>
   <entry>
-    <title>AI for Analytics: From Descriptive to Predictive</title>
-    <id>https://pulsegeek.com/articles/ai-for-analytics-from-descriptive-to-predictive/</id>
-    <link href="https://pulsegeek.com/articles/ai-for-analytics-from-descriptive-to-predictive/" />
-    <updated>2025-11-13T16:15:00Z</updated>
-    <summary type="html"><![CDATA[Learn how AI elevates analytics from descriptive reports to predictive insight. Explore data architecture, practical tools, and dashboard patterns with examples, tradeoffs, and governance guidance for reliable decision support.]]></summary>
+    <title>Intelligent Solar Street Light Networking: Off‑Grid Options</title>
+    <id>https://pulsegeek.com/articles/intelligent-solar-street-light-networking-off-grid-options/</id>
+    <link href="https://pulsegeek.com/articles/intelligent-solar-street-light-networking-off-grid-options/" />
+    <updated>2025-11-21T22:19:00Z</updated>
+    <summary type="html"><![CDATA[Understand off‑grid networking for intelligent solar street lights. Compare mesh and LPWAN choices, power budgets, and resilience tradeoffs for reliable control.]]></summary>
   </entry>
   <entry>
-    <title>AI in Finance and Investing: Signals, Risk, and Returns</title>
-    <id>https://pulsegeek.com/articles/ai-in-finance-and-investing-signals-risk-and-returns/</id>
-    <link href="https://pulsegeek.com/articles/ai-in-finance-and-investing-signals-risk-and-returns/" />
-    <updated>2025-11-13T16:14:00Z</updated>
-    <summary type="html"><![CDATA[Understand how AI interprets financial signals, manages risk, and targets returns with clear frameworks, examples, and limitations to guide finance and investing decisions responsibly.]]></summary>
+    <title>CHD vs ISO for Emulation Storage: Pros and Cons</title>
+    <id>https://pulsegeek.com/articles/chd-vs-iso-for-emulation-storage-pros-and-cons/</id>
+    <link href="https://pulsegeek.com/articles/chd-vs-iso-for-emulation-storage-pros-and-cons/" />
+    <updated>2025-11-21T22:18:00Z</updated>
+    <summary type="html"><![CDATA[Compare CHD and ISO for emulator libraries with clear guidance on compression, compatibility, integrity, performance, and longevity. Learn when to choose each and how to plan future-proof storage.]]></summary>
   </entry>
   <entry>
-    <title>Machine Learning in Retail: Forecasts, Stock, and Assortment</title>
-    <id>https://pulsegeek.com/articles/machine-learning-in-retail-forecasts-stock-and-assortment/</id>
-    <link href="https://pulsegeek.com/articles/machine-learning-in-retail-forecasts-stock-and-assortment/" />
-    <updated>2025-11-13T16:13:00Z</updated>
-    <summary type="html"><![CDATA[Learn how machine learning strengthens retail forecasts, inventory planning, replenishment, planograms, and assortments, with practical guardrails, workflows, edge cases, and links to deeper guides for fast operational wins.]]></summary>
+    <title>Asset Bundles vs Pak Files: Packaging Tradeoffs</title>
+    <id>https://pulsegeek.com/articles/asset-bundles-vs-pak-files-packaging-tradeoffs/</id>
+    <link href="https://pulsegeek.com/articles/asset-bundles-vs-pak-files-packaging-tradeoffs/" />
+    <updated>2025-11-21T22:17:00Z</updated>
+    <summary type="html"><![CDATA[Compare asset bundles and pak files for game engines. Learn performance, patching, security, and workflow tradeoffs with examples and selection criteria.]]></summary>
   </entry>
   <entry>
-    <title>Smart City Street Lighting: Capabilities and Use Cases</title>
-    <id>https://pulsegeek.com/articles/smart-city-street-lighting-capabilities-and-use-cases/</id>
-    <link href="https://pulsegeek.com/articles/smart-city-street-lighting-capabilities-and-use-cases/" />
-    <updated>2025-11-13T16:12:00Z</updated>
-    <summary type="html"><![CDATA[Learn what smart city street lighting can do, how capabilities map to real use cases, and the decisions that guide upgrades from pilots to citywide deployment.]]></summary>
+    <title>Loot Drop Rates Calculation Guide: Numbers to Feel</title>
+    <id>https://pulsegeek.com/articles/loot-drop-rates-calculation-guide-numbers-to-feel/</id>
+    <link href="https://pulsegeek.com/articles/loot-drop-rates-calculation-guide-numbers-to-feel/" />
+    <updated>2025-11-21T22:16:00Z</updated>
+    <summary type="html"><![CDATA[Learn how to calculate loot drop rates with weights, pity timers, and guarantees. Build tables, simulate outcomes, validate fairness, and tune numbers to feel rewarding without breaking progression.]]></summary>
   </entry>
   <entry>
-    <title>AI Engine Design for Security Pipelines: Principles</title>
-    <id>https://pulsegeek.com/articles/ai-engine-design-for-security-pipelines-principles/</id>
-    <link href="https://pulsegeek.com/articles/ai-engine-design-for-security-pipelines-principles/" />
-    <updated>2025-11-12T16:16:00Z</updated>
-    <summary type="html"><![CDATA[Learn core principles for AI engine design in security pipelines, from modular architecture to evaluation and risk controls, with practical tradeoffs and examples.]]></summary>
+    <title>AV1 vs H.265 for Game Streaming: Which Fits You?</title>
+    <id>https://pulsegeek.com/articles/av1-vs-h-265-for-game-streaming-which-fits-you/</id>
+    <link href="https://pulsegeek.com/articles/av1-vs-h-265-for-game-streaming-which-fits-you/" />
+    <updated>2025-11-20T22:25:00Z</updated>
+    <summary type="html"><![CDATA[Compare AV1 and H.265 for game streaming across latency, quality, hardware support, and bandwidth. Learn when each codec wins, with ffmpeg tips and scenario-based advice.]]></summary>
   </entry>
   <entry>
-    <title>AI Business Analytics: From Hunches to Confidence</title>
-    <id>https://pulsegeek.com/articles/ai-business-analytics-from-hunches-to-confidence/</id>
-    <link href="https://pulsegeek.com/articles/ai-business-analytics-from-hunches-to-confidence/" />
-    <updated>2025-11-12T16:15:00Z</updated>
-    <summary type="html"><![CDATA[Learn how AI business analytics upgrades dashboards and reporting with predictive models, explainability, and guardrails. See architecture patterns, tool choices, and a small code example that feeds practical decisions.]]></summary>
+    <title>A/B Testing Reward Changes Without Inflation</title>
+    <id>https://pulsegeek.com/articles/ab-testing-reward-changes-without-inflation/</id>
+    <link href="https://pulsegeek.com/articles/ab-testing-reward-changes-without-inflation/" />
+    <updated>2025-11-20T22:24:00Z</updated>
+    <summary type="html"><![CDATA[Learn how to A/B test reward changes without fueling inflation. Plan holdouts, pick robust KPIs, run CUPED or pretrend checks, and validate results safely with guardrails.]]></summary>
   </entry>
   <entry>
-    <title>AI in Banking and Finance: Capabilities and Constraints</title>
-    <id>https://pulsegeek.com/articles/ai-in-banking-and-finance-capabilities-and-constraints/</id>
-    <link href="https://pulsegeek.com/articles/ai-in-banking-and-finance-capabilities-and-constraints/" />
-    <updated>2025-11-12T16:14:00Z</updated>
-    <summary type="html"><![CDATA[Learn what AI can and cannot do in banking and finance, with clear definitions, decision frameworks, practical scenarios, and risk-aware tradeoffs for teams building reliable solutions.]]></summary>
+    <title>Balance Choice Depth vs Scope Creep Without Compromise</title>
+    <id>https://pulsegeek.com/articles/balance-choice-depth-vs-scope-creep-without-compromise/</id>
+    <link href="https://pulsegeek.com/articles/balance-choice-depth-vs-scope-creep-without-compromise/" />
+    <updated>2025-11-20T22:23:00Z</updated>
+    <summary type="html"><![CDATA[Learn practical methods to balance choice depth with production limits. Set budgets, define gating rules, and validate coverage so branching stories stay rich without runaway scope.]]></summary>
   </entry>
   <entry>
-    <title>Retail Voice AI: Design Conversational Commerce that Helps</title>
-    <id>https://pulsegeek.com/articles/retail-voice-ai-design-conversational-commerce-that-helps/</id>
-    <link href="https://pulsegeek.com/articles/retail-voice-ai-design-conversational-commerce-that-helps/" />
-    <updated>2025-11-12T16:13:00Z</updated>
-    <summary type="html"><![CDATA[Learn how retail voice AI improves shopper journeys, from intent capture to guided dialogs, with design lenses, examples, and tradeoffs that balance accuracy, privacy, and conversion.]]></summary>
+    <title>How to Evaluate Phishing Detection Models</title>
+    <id>https://pulsegeek.com/articles/how-to-evaluate-phishing-detection-models/</id>
+    <link href="https://pulsegeek.com/articles/how-to-evaluate-phishing-detection-models/" />
+    <updated>2025-11-20T22:22:00Z</updated>
+    <summary type="html"><![CDATA[Learn practical steps to evaluate phishing detection models with robust metrics, threshold tuning, and error analysis so teams ship reliable classifiers that hold up in production.]]></summary>
   </entry>
   <entry>
-    <title>Smart City Lighting: Where It Fits and How It Scales</title>
-    <id>https://pulsegeek.com/articles/smart-city-lighting-where-it-fits-and-how-it-scales/</id>
-    <link href="https://pulsegeek.com/articles/smart-city-lighting-where-it-fits-and-how-it-scales/" />
-    <updated>2025-11-12T16:12:00Z</updated>
-    <summary type="html"><![CDATA[Learn where smart city lighting fits in urban programs, how it scales from pilots to districts, and the governance, networking, and data choices that shape outcomes.]]></summary>
+    <title>Business Intelligence Using AI: A Practical Guide</title>
+    <id>https://pulsegeek.com/articles/business-intelligence-using-ai-a-practical-guide/</id>
+    <link href="https://pulsegeek.com/articles/business-intelligence-using-ai-a-practical-guide/" />
+    <updated>2025-11-20T22:21:00Z</updated>
+    <summary type="html"><![CDATA[Learn how to plan, build, and govern business intelligence using AI. Follow phased steps for data pipelines, model integration, dashboards, and measurement with practical tips and pitfalls.]]></summary>
   </entry>
   <entry>
-    <title>AI Data Management for Security Models: Checklists</title>
-    <id>https://pulsegeek.com/articles/ai-data-management-for-security-models-checklists/</id>
-    <link href="https://pulsegeek.com/articles/ai-data-management-for-security-models-checklists/" />
-    <updated>2025-11-11T16:16:00Z</updated>
-    <summary type="html"><![CDATA[Practical checklists for AI data management in security models, covering inventory, versioning, quality validation, privacy governance, and class balance with leakage-safe workflows.]]></summary>
+    <title>Machine Learning in the Finance Industry: 18 Use Cases</title>
+    <id>https://pulsegeek.com/articles/machine-learning-in-the-finance-industry-18-use-cases/</id>
+    <link href="https://pulsegeek.com/articles/machine-learning-in-the-finance-industry-18-use-cases/" />
+    <updated>2025-11-20T22:20:00Z</updated>
+    <summary type="html"><![CDATA[Explore 18 practical machine learning use cases in finance, from credit risk and fraud to AML and liquidity. Learn methods, examples, tradeoffs, and governance tips for secure, scalable deployment.]]></summary>
   </entry>
   <entry>
-    <title>AI and ML in Business: 35 Practical, Proved Use Cases</title>
-    <id>https://pulsegeek.com/articles/ai-and-ml-in-business-35-practical-proved-use-cases/</id>
-    <link href="https://pulsegeek.com/articles/ai-and-ml-in-business-35-practical-proved-use-cases/" />
-    <updated>2025-11-11T16:15:00Z</updated>
-    <summary type="html"><![CDATA[Explore 35 practical AI and ML use cases that deliver measurable business value across sales, marketing, finance, operations, and customer service with risk-aware guidance.]]></summary>
+    <title>Inventory Planning with Machine Learning for Retail</title>
+    <id>https://pulsegeek.com/articles/inventory-planning-with-machine-learning-for-retail/</id>
+    <link href="https://pulsegeek.com/articles/inventory-planning-with-machine-learning-for-retail/" />
+    <updated>2025-11-20T22:19:00Z</updated>
+    <summary type="html"><![CDATA[Learn a step by step method to build, test, and apply machine learning for retail inventory planning, from data design to validation and tuning.]]></summary>
   </entry>
   <entry>
-    <title>AI Fraud Detection vs Rule-Based: What Performs Better?</title>
-    <id>https://pulsegeek.com/articles/ai-fraud-detection-vs-rule-based-what-performs-better/</id>
-    <link href="https://pulsegeek.com/articles/ai-fraud-detection-vs-rule-based-what-performs-better/" />
-    <updated>2025-11-11T16:14:00Z</updated>
-    <summary type="html"><![CDATA[Compare AI fraud detection with rule-based systems using accuracy, latency, cost, explainability, and governance. Learn tradeoffs, where each fits, and how to phase adoption with risk controls that satisfy auditors and operations.]]></summary>
+    <title>Connected Street Lighting Network Design: Start to Finish</title>
+    <id>https://pulsegeek.com/articles/connected-street-lighting-network-design-start-to-finish/</id>
+    <link href="https://pulsegeek.com/articles/connected-street-lighting-network-design-start-to-finish/" />
+    <updated>2025-11-20T22:18:00Z</updated>
+    <summary type="html"><![CDATA[Design a connected street lighting network end to end, from planning and site surveys to protocol choices, rollout steps, validation, and tuning. Get checklists, tests, and fixes that reduce risk and speed deployment.]]></summary>
   </entry>
   <entry>
-    <title>Retail Conversational AI: Platforms and Key Tradeoffs</title>
-    <id>https://pulsegeek.com/articles/retail-conversational-ai-platforms-and-key-tradeoffs/</id>
-    <link href="https://pulsegeek.com/articles/retail-conversational-ai-platforms-and-key-tradeoffs/" />
-    <updated>2025-11-11T16:13:00Z</updated>
-    <summary type="html"><![CDATA[Compare retail conversational AI platforms across suites, composable toolkits, and open source. Learn evaluation criteria, tradeoffs, and best-fit scenarios to guide confident platform selection.]]></summary>
+    <title>BIOS vs Firmware in Emulation: The Real Differences</title>
+    <id>https://pulsegeek.com/articles/bios-vs-firmware-in-emulation-the-real-differences/</id>
+    <link href="https://pulsegeek.com/articles/bios-vs-firmware-in-emulation-the-real-differences/" />
+    <updated>2025-11-20T22:17:00Z</updated>
+    <summary type="html"><![CDATA[Understand how BIOS and firmware differ in emulation, what each file enables, and how to manage legality, compatibility, and verification for stable, accurate play.]]></summary>
   </entry>
   <entry>
-    <title>Intelligent Street Lighting: How It Works From Pole to Cloud</title>
-    <id>https://pulsegeek.com/articles/intelligent-street-lighting-how-it-works-from-pole-to-cloud/</id>
-    <link href="https://pulsegeek.com/articles/intelligent-street-lighting-how-it-works-from-pole-to-cloud/" />
-    <updated>2025-11-11T16:12:00Z</updated>
-    <summary type="html"><![CDATA[Learn how intelligent street lighting works from pole to cloud with planning steps, device setup, network choices, validation checks, and fixes for common issues.]]></summary>
+    <title>Game Asset Pipeline Explained: From DCC to Runtime</title>
+    <id>https://pulsegeek.com/articles/game-asset-pipeline-explained-from-dcc-to-runtime/</id>
+    <link href="https://pulsegeek.com/articles/game-asset-pipeline-explained-from-dcc-to-runtime/" />
+    <updated>2025-11-20T22:16:00Z</updated>
+    <summary type="html"><![CDATA[Learn how game assets move from DCC tools into engines, through import, compression, cooking, and packaging, then to runtime loading and streaming with practical tradeoffs and workflow tips.]]></summary>
   </entry>
   <entry>
-    <title>End-to-End Intrusion Detection Pipeline with AI</title>
-    <id>https://pulsegeek.com/articles/end-to-end-intrusion-detection-pipeline-with-ai/</id>
-    <link href="https://pulsegeek.com/articles/end-to-end-intrusion-detection-pipeline-with-ai/" />
-    <updated>2025-11-10T16:16:00Z</updated>
-    <summary type="html"><![CDATA[Design a practical intrusion detection pipeline with AI, from data intake and feature engineering to model evaluation using confusion matrices and ROC AUC, plus deployment patterns and safeguards.]]></summary>
+    <title>How to Avoid Boring Fetch Quests: Patterns that Engage</title>
+    <id>https://pulsegeek.com/articles/how-to-avoid-boring-fetch-quests-patterns-that-engage/</id>
+    <link href="https://pulsegeek.com/articles/how-to-avoid-boring-fetch-quests-patterns-that-engage/" />
+    <updated>2025-11-19T22:25:00Z</updated>
+    <summary type="html"><![CDATA[Tired of dull fetch quests? Learn concrete patterns, constraints, and reward tuning to transform errands into engaging missions, with validation tips and practical examples.]]></summary>
   </entry>
   <entry>
-    <title>AI + BI: Architecting Insight That Scales and Learns</title>
-    <id>https://pulsegeek.com/articles/ai-plus-bi-architecting-insight-that-scales-and-learns/</id>
-    <link href="https://pulsegeek.com/articles/ai-plus-bi-architecting-insight-that-scales-and-learns/" />
-    <updated>2025-11-11T03:40:14Z</updated>
-    <summary type="html"><![CDATA[Design AI with BI to move from static reports to evolving insight. Learn architecture, feature pipelines, model governance, and dashboard patterns that scale across teams.]]></summary>
+    <title>Cloud Gaming Bitrate vs Quality: Find the Sweet Spot</title>
+    <id>https://pulsegeek.com/articles/cloud-gaming-bitrate-vs-quality-find-the-sweet-spot/</id>
+    <link href="https://pulsegeek.com/articles/cloud-gaming-bitrate-vs-quality-find-the-sweet-spot/" />
+    <updated>2025-11-19T22:24:00Z</updated>
+    <summary type="html"><![CDATA[Learn how to balance bitrate, resolution, and codec settings for cloud gaming. Find stable, low-latency quality with practical rules, decision tables, and tested workflows.]]></summary>
   </entry>
   <entry>
-    <title>AI for Risk Management: From Fraud Flags to MRM Controls</title>
-    <id>https://pulsegeek.com/articles/ai-for-risk-management-from-fraud-flags-to-mrm-controls/</id>
-    <link href="https://pulsegeek.com/articles/ai-for-risk-management-from-fraud-flags-to-mrm-controls/" />
-    <updated>2025-11-11T03:40:14Z</updated>
-    <summary type="html"><![CDATA[A practitioner guide to AI in financial risk management covering fraud detection, AML, anomaly detection, monitoring workflows, and model risk management controls you can operationalize.]]></summary>
+    <title>Analytics and KPIs for Game Economies: Full Guide</title>
+    <id>https://pulsegeek.com/articles/analytics-and-kpis-for-game-economies-full-guide/</id>
+    <link href="https://pulsegeek.com/articles/analytics-and-kpis-for-game-economies-full-guide/" />
+    <updated>2025-11-19T22:23:00Z</updated>
+    <summary type="html"><![CDATA[Learn the essential analytics and KPIs for game economy health. Build dashboards, pick robust metrics, and avoid inflation and exploits with practical methods.]]></summary>
   </entry>
   <entry>
-    <title>Retail AI Companies: The Innovators to Watch This Year</title>
-    <id>https://pulsegeek.com/articles/retail-ai-companies-the-innovators-to-watch-this-year/</id>
-    <link href="https://pulsegeek.com/articles/retail-ai-companies-the-innovators-to-watch-this-year/" />
-    <updated>2025-11-10T16:13:00Z</updated>
-    <summary type="html"><![CDATA[Explore seven types of retail AI innovators shaping search, checkout, personalization, pricing, and operations. Learn fit, examples, and tradeoffs to guide your roadmap this year.]]></summary>
+    <title>Branching Narrative Design: Systems, States, Consequence</title>
+    <id>https://pulsegeek.com/articles/branching-narrative-design-systems-states-consequence/</id>
+    <link href="https://pulsegeek.com/articles/branching-narrative-design-systems-states-consequence/" />
+    <updated>2025-11-19T22:22:00Z</updated>
+    <summary type="html"><![CDATA[Learn how branching narrative design uses systems, states, and consequences to shape choices, track variables, and manage flow without dead ends.]]></summary>
   </entry>
   <entry>
-    <title>Intelligent Street Lighting Advantages: The Top 10 to Track</title>
-    <id>https://pulsegeek.com/articles/intelligent-street-lighting-advantages-the-top-10-to-track/</id>
-    <link href="https://pulsegeek.com/articles/intelligent-street-lighting-advantages-the-top-10-to-track/" />
-    <updated>2025-11-10T16:12:00Z</updated>
-    <summary type="html"><![CDATA[Explore ten intelligent street lighting advantages with examples, tradeoffs, and selection tips. Learn where smart controls improve safety, cut energy, and support citywide operations.]]></summary>
+    <title>CS AI Concepts for Security: From Search to Learning</title>
+    <id>https://pulsegeek.com/articles/cs-ai-concepts-for-security-from-search-to-learning/</id>
+    <link href="https://pulsegeek.com/articles/cs-ai-concepts-for-security-from-search-to-learning/" />
+    <updated>2025-11-19T22:21:00Z</updated>
+    <summary type="html"><![CDATA[Explore core AI concepts in computer science for security, from search and inference to learning. Learn decision lenses, examples, and tradeoffs that guide model choice for detection pipelines.]]></summary>
   </entry>
   <entry>
-    <title>What Is AI in Cybersecurity? A Clear, Practical View</title>
-    <id>https://pulsegeek.com/articles/what-is-ai-in-cybersecurity-a-clear-practical-view/</id>
-    <link href="https://pulsegeek.com/articles/what-is-ai-in-cybersecurity-a-clear-practical-view/" />
-    <updated>2025-11-09T16:16:00Z</updated>
-    <summary type="html"><![CDATA[Learn how AI supports cybersecurity with detection, triage, and response. See tradeoffs, when to apply models, a small scoring example, and validation tips for SOC operations.]]></summary>
+    <title>Business Analytics and Artificial Intelligence: Synergy</title>
+    <id>https://pulsegeek.com/articles/business-analytics-and-artificial-intelligence-synergy/</id>
+    <link href="https://pulsegeek.com/articles/business-analytics-and-artificial-intelligence-synergy/" />
+    <updated>2025-11-19T22:20:00Z</updated>
+    <summary type="html"><![CDATA[Learn how business analytics and artificial intelligence reinforce each other with data architectures, tool choices, and dashboard examples that uncover patterns, forecast outcomes, and reduce decision latency.]]></summary>
   </entry>
   <entry>
-    <title>Which AI Software Is Best for Small Business Today?</title>
-    <id>https://pulsegeek.com/articles/which-ai-software-is-best-for-small-business-today/</id>
-    <link href="https://pulsegeek.com/articles/which-ai-software-is-best-for-small-business-today/" />
-    <updated>2025-11-11T03:40:14Z</updated>
-    <summary type="html"><![CDATA[See how small businesses can compare AI software by use case, cost, data risk, and speed to value. Learn a simple framework, practical picks, and a phased rollout that avoids waste.]]></summary>
+    <title>Machine Learning in Financial Services: Where It Delivers</title>
+    <id>https://pulsegeek.com/articles/machine-learning-in-financial-services-where-it-delivers/</id>
+    <link href="https://pulsegeek.com/articles/machine-learning-in-financial-services-where-it-delivers/" />
+    <updated>2025-11-19T22:19:00Z</updated>
+    <summary type="html"><![CDATA[Learn where machine learning delivers in financial services, with clear definitions, decision frameworks, scenarios, and risks to manage performance, cost, and oversight across fraud, AML, credit, and operations.]]></summary>
   </entry>
   <entry>
-    <title>What Is AI Financial Forecasting? Definitions and Examples</title>
-    <id>https://pulsegeek.com/articles/what-is-ai-financial-forecasting-definitions-and-examples/</id>
-    <link href="https://pulsegeek.com/articles/what-is-ai-financial-forecasting-definitions-and-examples/" />
-    <updated>2025-11-11T03:40:14Z</updated>
-    <summary type="html"><![CDATA[Learn how AI financial forecasting works, where it delivers value, pitfalls to avoid, and a practical validation workflow with examples and guardrails.]]></summary>
+    <title>How to Forecast Retail Demand with AI: Step by Step</title>
+    <id>https://pulsegeek.com/articles/how-to-forecast-retail-demand-with-ai-step-by-step/</id>
+    <link href="https://pulsegeek.com/articles/how-to-forecast-retail-demand-with-ai-step-by-step/" />
+    <updated>2025-11-19T22:18:00Z</updated>
+    <summary type="html"><![CDATA[A practical, step by step how-to for forecasting retail demand with AI. Plan data, engineer features, train models, validate accuracy, and troubleshoot bias to drive better replenishment and assortment decisions.]]></summary>
   </entry>
   <entry>
-    <title>Online Shopping AI: Personalization That Feels Natural</title>
-    <id>https://pulsegeek.com/articles/online-shopping-ai-personalization-that-feels-natural/</id>
-    <link href="https://pulsegeek.com/articles/online-shopping-ai-personalization-that-feels-natural/" />
-    <updated>2025-11-09T16:13:00Z</updated>
-    <summary type="html"><![CDATA[Learn how online shopping AI delivers personalization that feels natural, balancing relevance with privacy, cold-start tactics, and measurement frameworks that avoid creepiness while improving conversions and lifetime value.]]></summary>
+    <title>5G Smart Street Lights: Low Latency and High Possibility</title>
+    <id>https://pulsegeek.com/articles/5g-smart-street-lights-low-latency-and-high-possibility/</id>
+    <link href="https://pulsegeek.com/articles/5g-smart-street-lights-low-latency-and-high-possibility/" />
+    <updated>2025-11-19T22:17:00Z</updated>
+    <summary type="html"><![CDATA[Compare 5G smart street lights to Zigbee, LoRaWAN, Wi‑Fi, and NB‑IoT. See tradeoffs for latency, coverage, power, cost, and reliability to pick the right fit.]]></summary>
   </entry>
   <entry>
-    <title>How Smart Street Lighting Improves Safety: Evidence and Tactics</title>
-    <id>https://pulsegeek.com/articles/how-smart-street-lighting-improves-safety-evidence-and-tactics/</id>
-    <link href="https://pulsegeek.com/articles/how-smart-street-lighting-improves-safety-evidence-and-tactics/" />
-    <updated>2025-11-09T16:12:00Z</updated>
-    <summary type="html"><![CDATA[Learn how smart street lighting improves safety through better visibility, data driven dimming, and faster maintenance, with practical tactics and validation methods cities can apply.]]></summary>
+    <title>Emulation Knowledge Base: Core Concepts and Tuning</title>
+    <id>https://pulsegeek.com/articles/emulation-knowledge-base-core-concepts-and-tuning/</id>
+    <link href="https://pulsegeek.com/articles/emulation-knowledge-base-core-concepts-and-tuning/" />
+    <updated>2025-11-19T22:16:00Z</updated>
+    <summary type="html"><![CDATA[Build a practical emulation foundation with core concepts, legal basics, latency tuning, shader choices, and performance fixes. Get a roadmap linking deeper guides for accuracy, responsiveness, and visual fidelity.]]></summary>
   </entry>
 </feed>
