@@ -6,357 +6,357 @@
     <description>Tech news, gaming, and geek culture in one pulse</description>
     <language>en-us</language>
     <generator>PulseGeek Rss Feed Generator</generator>
-    <lastBuildDate>Sun, 23 Nov 2025 22:25:00 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 29 Nov 2025 22:25:00 GMT</lastBuildDate>
     <atom:link href="https://pulsegeek.com/rss.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>What Is Good Precision–Recall for Malware Classifiers?</title>
-      <link>https://pulsegeek.com/articles/what-is-good-precision-recall-for-malware-classifiers/</link>
-      <guid isPermaLink="true">https://pulsegeek.com/articles/what-is-good-precision-recall-for-malware-classifiers/</guid>
-      <pubDate>Sun, 23 Nov 2025 22:25:00 GMT</pubDate>
-      <description>Learn what counts as good precision and recall for malware classifiers, how to balance alert cost vs missed threats, and how to validate with threshold sweeps and PR curves.</description>
+      <title>LOD Setup Best Practices: Detail Where It Matters</title>
+      <link>https://pulsegeek.com/articles/lod-setup-best-practices-detail-where-it-matters/</link>
+      <guid isPermaLink="true">https://pulsegeek.com/articles/lod-setup-best-practices-detail-where-it-matters/</guid>
+      <pubDate>Sat, 29 Nov 2025 22:25:00 GMT</pubDate>
+      <description>Learn practical LOD setup best practices for game assets, including screen-size metrics, crossfade transitions, impostors, and animation simplification to balance performance and visual quality.</description>
     </item>
     <item>
-      <title>Machine Learning in Business Intelligence Explained</title>
-      <link>https://pulsegeek.com/articles/machine-learning-in-business-intelligence-explained/</link>
-      <guid isPermaLink="true">https://pulsegeek.com/articles/machine-learning-in-business-intelligence-explained/</guid>
-      <pubDate>Sun, 23 Nov 2025 22:24:00 GMT</pubDate>
-      <description>Learn how machine learning elevates business intelligence with models, data pipelines, and dashboard patterns that predict, explain, and act. See architecture, governance, and examples for safer enterprise adoption.</description>
+      <title>Adaptive Difficulty with Procedural Systems: Calibrate Play</title>
+      <link>https://pulsegeek.com/articles/adaptive-difficulty-with-procedural-systems-calibrate-play/</link>
+      <guid isPermaLink="true">https://pulsegeek.com/articles/adaptive-difficulty-with-procedural-systems-calibrate-play/</guid>
+      <pubDate>Sat, 29 Nov 2025 22:24:00 GMT</pubDate>
+      <description>Learn a rigorous, step by step method to design adaptive difficulty in procedural games using clear signals, guardrails, and validation loops.</description>
     </item>
     <item>
-      <title>Use of AI in Banking and Finance: A Practical How-To</title>
-      <link>https://pulsegeek.com/articles/use-of-ai-in-banking-and-finance-a-practical-how-to/</link>
-      <guid isPermaLink="true">https://pulsegeek.com/articles/use-of-ai-in-banking-and-finance-a-practical-how-to/</guid>
-      <pubDate>Sun, 23 Nov 2025 22:23:00 GMT</pubDate>
-      <description>Follow a structured path to plan, deploy, and govern AI in banking and finance, from data readiness and model baselines to validation, monitoring, and risk controls with practical steps and troubleshooting tips.</description>
+      <title>HDR Streaming for Cloud Gamers: Key Considerations</title>
+      <link>https://pulsegeek.com/articles/hdr-streaming-for-cloud-gamers-key-considerations/</link>
+      <guid isPermaLink="true">https://pulsegeek.com/articles/hdr-streaming-for-cloud-gamers-key-considerations/</guid>
+      <pubDate>Sat, 29 Nov 2025 22:23:00 GMT</pubDate>
+      <description>Master HDR streaming for cloud gaming with practical guidance on tone mapping, bitrate, latency, codecs, color volume, and display setup to keep highlights crisp and controls responsive.</description>
     </item>
     <item>
-      <title>Machine Learning Retail Solutions: Vendors and Value</title>
-      <link>https://pulsegeek.com/articles/machine-learning-retail-solutions-vendors-and-value/</link>
-      <guid isPermaLink="true">https://pulsegeek.com/articles/machine-learning-retail-solutions-vendors-and-value/</guid>
-      <pubDate>Sun, 23 Nov 2025 22:22:00 GMT</pubDate>
-      <description>Compare machine learning retail solutions across cloud suites, vertical platforms, and open source. See evaluation criteria, tradeoffs, and scenario fit to pick vendors that deliver measurable value.</description>
+      <title>Measure Money Velocity in Virtual Worlds</title>
+      <link>https://pulsegeek.com/articles/measure-money-velocity-in-virtual-worlds/</link>
+      <guid isPermaLink="true">https://pulsegeek.com/articles/measure-money-velocity-in-virtual-worlds/</guid>
+      <pubDate>Sat, 29 Nov 2025 22:22:00 GMT</pubDate>
+      <description>Learn how to calculate money velocity in virtual worlds with clean data, time windows, and supply definitions. Includes formulas, validation checks, a compact script, and troubleshooting tips.</description>
     </item>
     <item>
-      <title>IoT Street Light: Connectivity, Power, and Deployability</title>
-      <link>https://pulsegeek.com/articles/iot-street-light-connectivity-power-and-deployability/</link>
-      <guid isPermaLink="true">https://pulsegeek.com/articles/iot-street-light-connectivity-power-and-deployability/</guid>
-      <pubDate>Sun, 23 Nov 2025 22:21:00 GMT</pubDate>
-      <description>Learn how IoT street lights balance connectivity choices, power budgets, and deployability tradeoffs to deliver reliable control, data, and savings in varied environments.</description>
+      <title>How to Build Dialogue Trees for Games Step by Step</title>
+      <link>https://pulsegeek.com/articles/how-to-build-dialogue-trees-for-games-step-by-step/</link>
+      <guid isPermaLink="true">https://pulsegeek.com/articles/how-to-build-dialogue-trees-for-games-step-by-step/</guid>
+      <pubDate>Sat, 29 Nov 2025 22:21:00 GMT</pubDate>
+      <description>Learn a clear, practical process to plan, script, and test dialogue trees for games with states, variables, and tools like Ink or Twine. Includes validation steps and troubleshooting tips.</description>
     </item>
     <item>
-      <title>DAT Files and Auditing with CLRMamePro Alternatives</title>
-      <link>https://pulsegeek.com/articles/dat-files-and-auditing-with-clrmamepro-alternatives/</link>
-      <guid isPermaLink="true">https://pulsegeek.com/articles/dat-files-and-auditing-with-clrmamepro-alternatives/</guid>
-      <pubDate>Sun, 23 Nov 2025 22:20:00 GMT</pubDate>
-      <description>Learn how to use DAT files with RomVault, RomCenter, and hash workflows to audit ROM and BIOS sets. Compare merge modes, update routines, and safe verification choices for stable emulation.</description>
+      <title>Computer Vision for Binary Analysis: Visual Signals</title>
+      <link>https://pulsegeek.com/articles/computer-vision-for-binary-analysis-visual-signals/</link>
+      <guid isPermaLink="true">https://pulsegeek.com/articles/computer-vision-for-binary-analysis-visual-signals/</guid>
+      <pubDate>Sat, 29 Nov 2025 22:20:00 GMT</pubDate>
+      <description>Learn how visual signals from binaries enable computer vision models to spot malware traits, segment code regions, and prioritize triage. Compare encodings, choose features, and avoid common pitfalls.</description>
     </item>
     <item>
-      <title>Audio Pipeline Basics for Game Engines</title>
-      <link>https://pulsegeek.com/articles/audio-pipeline-basics-for-game-engines/</link>
-      <guid isPermaLink="true">https://pulsegeek.com/articles/audio-pipeline-basics-for-game-engines/</guid>
-      <pubDate>Sun, 23 Nov 2025 22:19:00 GMT</pubDate>
-      <description>Learn core audio pipeline concepts for game engines, from import and compression to mixing, streaming, and latency. Choose formats, set budgets, and avoid pitfalls with practical decision frameworks.</description>
+      <title>AI Technology Companies: From Chips to Applications</title>
+      <link>https://pulsegeek.com/articles/ai-technology-companies-from-chips-to-applications/</link>
+      <guid isPermaLink="true">https://pulsegeek.com/articles/ai-technology-companies-from-chips-to-applications/</guid>
+      <pubDate>Sat, 29 Nov 2025 22:19:00 GMT</pubDate>
+      <description>Explore AI technology companies across chips, infrastructure, models, and applications. See choices, examples, tradeoffs, and how to align spend with outcomes.</description>
     </item>
     <item>
-      <title>Quest Reward Economy Balancing: Value that Motivates</title>
-      <link>https://pulsegeek.com/articles/quest-reward-economy-balancing-value-that-motivates/</link>
-      <guid isPermaLink="true">https://pulsegeek.com/articles/quest-reward-economy-balancing-value-that-motivates/</guid>
-      <pubDate>Sun, 23 Nov 2025 22:18:00 GMT</pubDate>
-      <description>Learn how to balance quest rewards with clear value models, pacing, and scarcity so players feel motivated without inflation, grind, or exploits skewing your game economy.</description>
+      <title>AI in Financial Markets: Signals, Liquidity, and Risk</title>
+      <link>https://pulsegeek.com/articles/ai-in-financial-markets-signals-liquidity-and-risk/</link>
+      <guid isPermaLink="true">https://pulsegeek.com/articles/ai-in-financial-markets-signals-liquidity-and-risk/</guid>
+      <pubDate>Sat, 29 Nov 2025 22:18:00 GMT</pubDate>
+      <description>Understand how AI extracts signals, maps liquidity, and manages risk in financial markets with clear frameworks, examples, and practical tradeoffs grounded in data workflows and controls.</description>
     </item>
     <item>
-      <title>Best Bitrate for Cloud Gaming at 1080p: Practical Picks</title>
-      <link>https://pulsegeek.com/articles/best-bitrate-for-cloud-gaming-at-1080p-practical-picks/</link>
-      <guid isPermaLink="true">https://pulsegeek.com/articles/best-bitrate-for-cloud-gaming-at-1080p-practical-picks/</guid>
-      <pubDate>Sun, 23 Nov 2025 22:17:00 GMT</pubDate>
-      <description>Learn how to pick the best 1080p cloud gaming bitrate with codec choices, network checks, and validation steps. Includes preset ranges, ffmpeg examples, and troubleshooting for motion, latency, and device limits.</description>
+      <title>Retail Computer Vision: Heatmaps, Loss Prevention, Insight</title>
+      <link>https://pulsegeek.com/articles/retail-computer-vision-heatmaps-loss-prevention-insight/</link>
+      <guid isPermaLink="true">https://pulsegeek.com/articles/retail-computer-vision-heatmaps-loss-prevention-insight/</guid>
+      <pubDate>Sat, 29 Nov 2025 22:17:00 GMT</pubDate>
+      <description>Learn how retail computer vision powers heatmaps, loss prevention, and store insight. See patterns, tradeoffs, and workflows to move from pixels to actions.</description>
     </item>
     <item>
-      <title>Benchmarking Economy Health Across Titles</title>
-      <link>https://pulsegeek.com/articles/benchmarking-economy-health-across-titles/</link>
-      <guid isPermaLink="true">https://pulsegeek.com/articles/benchmarking-economy-health-across-titles/</guid>
-      <pubDate>Sun, 23 Nov 2025 22:16:00 GMT</pubDate>
-      <description>Compare methods to benchmark economy health across different game titles, with metrics, tradeoffs, and scenario guidance to pick the right approach.</description>
+      <title>Smart Pole Street Lighting: Integrating Light, Sensors, Power</title>
+      <link>https://pulsegeek.com/articles/smart-pole-street-lighting-integrating-light-sensors-power/</link>
+      <guid isPermaLink="true">https://pulsegeek.com/articles/smart-pole-street-lighting-integrating-light-sensors-power/</guid>
+      <pubDate>Sat, 29 Nov 2025 22:16:00 GMT</pubDate>
+      <description>Learn how smart pole street lighting integrates luminaires, sensors, networking, and power to improve safety, efficiency, and data quality with clear frameworks and tradeoffs.</description>
     </item>
     <item>
-      <title>Branch Coverage Checklists for Interactive Scripts</title>
-      <link>https://pulsegeek.com/articles/branch-coverage-checklists-for-interactive-scripts/</link>
-      <guid isPermaLink="true">https://pulsegeek.com/articles/branch-coverage-checklists-for-interactive-scripts/</guid>
-      <pubDate>Sat, 22 Nov 2025 22:25:00 GMT</pubDate>
-      <description>Use practical checklists to measure branch coverage in interactive scripts, tag choices with IDs, set thresholds, and catch unreachable content while preserving agency and pacing.</description>
+      <title>How to Organize ROMs and BIOS Files Efficiently</title>
+      <link>https://pulsegeek.com/articles/how-to-organize-roms-and-bios-files-efficiently/</link>
+      <guid isPermaLink="true">https://pulsegeek.com/articles/how-to-organize-roms-and-bios-files-efficiently/</guid>
+      <pubDate>Fri, 28 Nov 2025 22:25:00 GMT</pubDate>
+      <description>Learn a fast, lawful system to organize ROMs and BIOS files with clear folder structure, naming, and verification so emulators find what they need every time.</description>
     </item>
     <item>
-      <title>Python for AI in Cyber Pipelines: Start to Finish</title>
-      <link>https://pulsegeek.com/articles/python-for-ai-in-cyber-pipelines-start-to-finish/</link>
-      <guid isPermaLink="true">https://pulsegeek.com/articles/python-for-ai-in-cyber-pipelines-start-to-finish/</guid>
-      <pubDate>Sat, 22 Nov 2025 22:24:00 GMT</pubDate>
-      <description>Build a Python-based AI detection pipeline for security data, from planning and setup to modeling, validation, and tuning. Includes ROC AUC, confusion matrix, and troubleshooting.</description>
+      <title>Lightmap UV Unwrapping for Static Lighting</title>
+      <link>https://pulsegeek.com/articles/lightmap-uv-unwrapping-for-static-lighting/</link>
+      <guid isPermaLink="true">https://pulsegeek.com/articles/lightmap-uv-unwrapping-for-static-lighting/</guid>
+      <pubDate>Fri, 28 Nov 2025 22:24:00 GMT</pubDate>
+      <description>Learn how to unwrap lightmap UVs for clean static lighting in game engines. Plan scale, margins, and seams, then execute in Blender or DCC and validate for overlaps, bleeding, and leaks.</description>
     </item>
     <item>
-      <title>How to Use AI in BI Tools: Steps That Actually Work</title>
-      <link>https://pulsegeek.com/articles/how-to-use-ai-in-bi-tools-steps-that-actually-work/</link>
-      <guid isPermaLink="true">https://pulsegeek.com/articles/how-to-use-ai-in-bi-tools-steps-that-actually-work/</guid>
-      <pubDate>Sat, 22 Nov 2025 22:23:00 GMT</pubDate>
-      <description>Learn practical steps for how to use AI in BI tools. See architecture choices, data prep, model options, dashboard integration, and governance that scales responsibly.</description>
+      <title>Tilemap-Based Level Generation: Grids with Personality</title>
+      <link>https://pulsegeek.com/articles/tilemap-based-level-generation-grids-with-personality/</link>
+      <guid isPermaLink="true">https://pulsegeek.com/articles/tilemap-based-level-generation-grids-with-personality/</guid>
+      <pubDate>Fri, 28 Nov 2025 22:23:00 GMT</pubDate>
+      <description>Learn how tilemap based level generation works, from adjacency rules and constraints to noise and graph overlays, with practical tradeoffs for playability and performance.</description>
     </item>
     <item>
-      <title>Top Applications of AI in Finance for Risk Teams</title>
-      <link>https://pulsegeek.com/articles/top-applications-of-ai-in-finance-for-risk-teams/</link>
-      <guid isPermaLink="true">https://pulsegeek.com/articles/top-applications-of-ai-in-finance-for-risk-teams/</guid>
-      <pubDate>Sat, 22 Nov 2025 22:22:00 GMT</pubDate>
-      <description>Explore practical applications of AI in finance for risk teams, from fraud detection to AML, underwriting, anomalies, and MRM controls. Learn tradeoffs, examples, and next steps.</description>
+      <title>GPU Encoder vs Software Encoder for Streaming Games</title>
+      <link>https://pulsegeek.com/articles/gpu-encoder-vs-software-encoder-for-streaming-games/</link>
+      <guid isPermaLink="true">https://pulsegeek.com/articles/gpu-encoder-vs-software-encoder-for-streaming-games/</guid>
+      <pubDate>Fri, 28 Nov 2025 22:22:00 GMT</pubDate>
+      <description>Compare GPU and software encoders for game streaming across latency, quality, bitrate, and hardware load. See when NVENC, AMF, or x264 fits, plus tuning tips for stable play.</description>
     </item>
     <item>
-      <title>Machine Learning in the Retail Industry: Where It Fits</title>
-      <link>https://pulsegeek.com/articles/machine-learning-in-the-retail-industry-where-it-fits/</link>
-      <guid isPermaLink="true">https://pulsegeek.com/articles/machine-learning-in-the-retail-industry-where-it-fits/</guid>
-      <pubDate>Sat, 22 Nov 2025 22:21:00 GMT</pubDate>
-      <description>Learn where machine learning fits in retail operations, from demand planning and replenishment to planograms and assortments, with clear decision criteria, practical scenarios, and limits that help teams prioritize value.</description>
+      <title>Forecasting Item Prices in Games: Methods That Help</title>
+      <link>https://pulsegeek.com/articles/forecasting-item-prices-in-games-methods-that-help/</link>
+      <guid isPermaLink="true">https://pulsegeek.com/articles/forecasting-item-prices-in-games-methods-that-help/</guid>
+      <pubDate>Fri, 28 Nov 2025 22:21:00 GMT</pubDate>
+      <description>Learn a stepwise process to forecast item prices in games using baselines, time series models, and validation tactics, with guardrails for shocks, exploits, and live ops decisions.</description>
     </item>
     <item>
-      <title>IoT Solar Street Light: Power Budgets and Link Budgets</title>
-      <link>https://pulsegeek.com/articles/iot-solar-street-light-power-budgets-and-link-budgets/</link>
-      <guid isPermaLink="true">https://pulsegeek.com/articles/iot-solar-street-light-power-budgets-and-link-budgets/</guid>
-      <pubDate>Sat, 22 Nov 2025 22:20:00 GMT</pubDate>
-      <description>Learn how to size power budgets and calculate link budgets for IoT solar street lights, with practical ranges, tradeoffs, and a simple energy model.</description>
+      <title>Dialogue Tree Tools Comparison for Narrative Design</title>
+      <link>https://pulsegeek.com/articles/dialogue-tree-tools-comparison-for-narrative-design/</link>
+      <guid isPermaLink="true">https://pulsegeek.com/articles/dialogue-tree-tools-comparison-for-narrative-design/</guid>
+      <pubDate>Fri, 28 Nov 2025 22:20:00 GMT</pubDate>
+      <description>Compare dialogue tree tools for narrative design with clear criteria, tradeoffs, and scenarios. Learn how branching depth, testing, and pipelines shape tool fit for your game.</description>
     </item>
     <item>
-      <title>Cue Sheets and Multi‑Track Audio: The Essentials</title>
-      <link>https://pulsegeek.com/articles/cue-sheets-and-multi-track-audio-the-essentials/</link>
-      <guid isPermaLink="true">https://pulsegeek.com/articles/cue-sheets-and-multi-track-audio-the-essentials/</guid>
-      <pubDate>Sat, 22 Nov 2025 22:19:00 GMT</pubDate>
-      <description>Learn what cue sheets are, how multi-track audio works in disc images, and when to use CUE, BIN, and CHD for accurate emulation with clean metadata.</description>
+      <title>Artificial General Intelligence: Security Implications</title>
+      <link>https://pulsegeek.com/articles/artificial-general-intelligence-security-implications/</link>
+      <guid isPermaLink="true">https://pulsegeek.com/articles/artificial-general-intelligence-security-implications/</guid>
+      <pubDate>Fri, 28 Nov 2025 22:19:00 GMT</pubDate>
+      <description>Explore how artificial general intelligence could reshape cybersecurity risks and defenses, from autonomy and misuse to safeguards, governance, and practical decision lenses for security leaders evaluating real systems today.</description>
     </item>
     <item>
-      <title>Atlas vs Array Textures in Engines: Choose Wisely</title>
-      <link>https://pulsegeek.com/articles/atlas-vs-array-textures-in-engines-choose-wisely/</link>
-      <guid isPermaLink="true">https://pulsegeek.com/articles/atlas-vs-array-textures-in-engines-choose-wisely/</guid>
-      <pubDate>Sat, 22 Nov 2025 22:18:00 GMT</pubDate>
-      <description>Compare atlas and array textures in Unity, Unreal, and Godot. Learn batching impacts, filtering artifacts, memory behavior, and when each approach fits your game.</description>
+      <title>AI Tech Companies: New Entrants Shaping the Future</title>
+      <link>https://pulsegeek.com/articles/ai-tech-companies-new-entrants-shaping-the-future/</link>
+      <guid isPermaLink="true">https://pulsegeek.com/articles/ai-tech-companies-new-entrants-shaping-the-future/</guid>
+      <pubDate>Fri, 28 Nov 2025 22:18:00 GMT</pubDate>
+      <description>See seven emerging types of AI tech companies, with examples, tradeoffs, and buying signals to evaluate fit. Learn how new entrants change stacks, costs, and governance.</description>
     </item>
     <item>
-      <title>Procedural NPC Backstory Generator: Design Principles</title>
-      <link>https://pulsegeek.com/articles/procedural-npc-backstory-generator-design-principles/</link>
-      <guid isPermaLink="true">https://pulsegeek.com/articles/procedural-npc-backstory-generator-design-principles/</guid>
-      <pubDate>Sat, 22 Nov 2025 22:17:00 GMT</pubDate>
-      <description>Design a procedural NPC backstory generator step by step. Plan schemas, prepare data, implement rules, validate outputs, then troubleshoot biases and pacing for believable variation across genres.</description>
+      <title>AI in Financial Institutions: Operating Model Shifts</title>
+      <link>https://pulsegeek.com/articles/ai-in-financial-institutions-operating-model-shifts/</link>
+      <guid isPermaLink="true">https://pulsegeek.com/articles/ai-in-financial-institutions-operating-model-shifts/</guid>
+      <pubDate>Fri, 28 Nov 2025 22:17:00 GMT</pubDate>
+      <description>Learn how AI reshapes financial institutions through new operating models, data supply chains, risk controls, and governance. See decision lenses, scenarios, and tradeoffs that align innovation with safety and measurable outcomes.</description>
     </item>
     <item>
-      <title>Avoid Macroblocking in Fast Scenes: Pro Tuning Steps</title>
-      <link>https://pulsegeek.com/articles/avoid-macroblocking-in-fast-scenes-pro-tuning-steps/</link>
-      <guid isPermaLink="true">https://pulsegeek.com/articles/avoid-macroblocking-in-fast-scenes-pro-tuning-steps/</guid>
-      <pubDate>Sat, 22 Nov 2025 22:16:00 GMT</pubDate>
-      <description>Stop macroblocking during rapid motion with codec choices, bitrate ladders, frame pacing, and encoder tuning. Follow stepwise settings, test patterns, and validation checks to keep detail stable under pressure.</description>
+      <title>Use of AI in the Retail Industry: From Plan to Payoff</title>
+      <link>https://pulsegeek.com/articles/use-of-ai-in-the-retail-industry-from-plan-to-payoff/</link>
+      <guid isPermaLink="true">https://pulsegeek.com/articles/use-of-ai-in-the-retail-industry-from-plan-to-payoff/</guid>
+      <pubDate>Fri, 28 Nov 2025 22:16:00 GMT</pubDate>
+      <description>Learn how retailers apply AI across forecasting, replenishment, planograms, and assortments, with decision frameworks, examples, and tradeoffs that connect planning choices to measurable payoff.</description>
     </item>
     <item>
-      <title>Anomaly Detection for Market Exploits: Key Signals</title>
-      <link>https://pulsegeek.com/articles/anomaly-detection-for-market-exploits-key-signals/</link>
-      <guid isPermaLink="true">https://pulsegeek.com/articles/anomaly-detection-for-market-exploits-key-signals/</guid>
-      <pubDate>Fri, 21 Nov 2025 22:25:00 GMT</pubDate>
-      <description>Learn the key signals for anomaly detection that reveal market exploits, from volume bursts to circular trades, with examples, tradeoffs, and practical monitoring tips.</description>
+      <title>Smart Pole Street Lighting Layout: Spacing and Sightlines</title>
+      <link>https://pulsegeek.com/articles/smart-pole-street-lighting-layout-spacing-and-sightlines/</link>
+      <guid isPermaLink="true">https://pulsegeek.com/articles/smart-pole-street-lighting-layout-spacing-and-sightlines/</guid>
+      <pubDate>Thu, 27 Nov 2025 22:25:00 GMT</pubDate>
+      <description>Design a smart pole street lighting layout with proven spacing, mounting height, and sightline methods. Follow step by step planning, field checks, code-aided spacing, and verification.</description>
     </item>
     <item>
-      <title>Best Practices for Conditional Dialogue Design</title>
-      <link>https://pulsegeek.com/articles/best-practices-for-conditional-dialogue-design/</link>
-      <guid isPermaLink="true">https://pulsegeek.com/articles/best-practices-for-conditional-dialogue-design/</guid>
-      <pubDate>Fri, 21 Nov 2025 22:24:00 GMT</pubDate>
-      <description>Master conditional dialogue design with practical patterns, testing tactics, and tooling tips that keep choices readable, reactive, and maintainable across quests and scenes.</description>
+      <title>How to Dump BIOS from Your Console Safely</title>
+      <link>https://pulsegeek.com/articles/how-to-dump-bios-from-your-console-safely/</link>
+      <guid isPermaLink="true">https://pulsegeek.com/articles/how-to-dump-bios-from-your-console-safely/</guid>
+      <pubDate>Thu, 27 Nov 2025 22:24:00 GMT</pubDate>
+      <description>Learn a lawful, step by step method to dump your console BIOS safely, verify integrity, and avoid corruption. Follow clear tools, backups, and checks to protect hardware and data.</description>
     </item>
     <item>
-      <title>Intro to AI for Cybersecurity Pipelines: Key Steps</title>
-      <link>https://pulsegeek.com/articles/intro-to-ai-for-cybersecurity-pipelines-key-steps/</link>
-      <guid isPermaLink="true">https://pulsegeek.com/articles/intro-to-ai-for-cybersecurity-pipelines-key-steps/</guid>
-      <pubDate>Fri, 21 Nov 2025 22:23:00 GMT</pubDate>
-      <description>Learn how AI supports cybersecurity pipelines with clear definitions, decision frameworks, examples, and practical tradeoffs to guide model choice and evaluation.</description>
+      <title>Import Settings for Textures and Models: A Setup Guide</title>
+      <link>https://pulsegeek.com/articles/import-settings-for-textures-and-models-a-setup-guide/</link>
+      <guid isPermaLink="true">https://pulsegeek.com/articles/import-settings-for-textures-and-models-a-setup-guide/</guid>
+      <pubDate>Thu, 27 Nov 2025 22:23:00 GMT</pubDate>
+      <description>Configure import settings for textures and 3D models in Unity, Unreal, and Godot. Follow a practical plan, apply presets, validate results, and fix common pitfalls for clean, performant assets.</description>
     </item>
     <item>
-      <title>Business Intelligence Using Machine Learning: A How-To</title>
-      <link>https://pulsegeek.com/articles/business-intelligence-using-machine-learning-a-how-to/</link>
-      <guid isPermaLink="true">https://pulsegeek.com/articles/business-intelligence-using-machine-learning-a-how-to/</guid>
-      <pubDate>Fri, 21 Nov 2025 22:22:00 GMT</pubDate>
-      <description>Learn how to deliver BI with machine learning step by step, from scoping value and feature pipelines to deploying predictions into dashboards and alerts with governance.</description>
+      <title>Terrain Stitching and Chunking: Seamless Streaming</title>
+      <link>https://pulsegeek.com/articles/terrain-stitching-and-chunking-seamless-streaming/</link>
+      <guid isPermaLink="true">https://pulsegeek.com/articles/terrain-stitching-and-chunking-seamless-streaming/</guid>
+      <pubDate>Thu, 27 Nov 2025 22:22:00 GMT</pubDate>
+      <description>Learn how to stitch terrain tiles and stream chunks seamlessly with LOD, skirts, and async IO. Step by step planning through validation with profiling and fallback strategies.</description>
     </item>
     <item>
-      <title>Model Risk Management for AI in Banks: What It Is</title>
-      <link>https://pulsegeek.com/articles/model-risk-management-for-ai-in-banks-what-it-is/</link>
-      <guid isPermaLink="true">https://pulsegeek.com/articles/model-risk-management-for-ai-in-banks-what-it-is/</guid>
-      <pubDate>Fri, 21 Nov 2025 22:21:00 GMT</pubDate>
-      <description>Learn what model risk management for AI in banks means, how it differs from traditional MRM, and how to implement controls for inventory, validation, monitoring, and governance with practical steps and tradeoffs.</description>
+      <title>Frame Pacing vs Bitrate Spikes: Keep Motion Stable</title>
+      <link>https://pulsegeek.com/articles/frame-pacing-vs-bitrate-spikes-keep-motion-stable/</link>
+      <guid isPermaLink="true">https://pulsegeek.com/articles/frame-pacing-vs-bitrate-spikes-keep-motion-stable/</guid>
+      <pubDate>Thu, 27 Nov 2025 22:21:00 GMT</pubDate>
+      <description>Learn how frame pacing interacts with bitrate spikes in cloud gaming. Diagnose visual stutter versus compression artifacts, choose encoder settings wisely, and keep motion stable across variable networks.</description>
     </item>
     <item>
-      <title>Machine Learning for Retail Stores: Store‑Level Wins</title>
-      <link>https://pulsegeek.com/articles/machine-learning-for-retail-stores-store-level-wins/</link>
-      <guid isPermaLink="true">https://pulsegeek.com/articles/machine-learning-for-retail-stores-store-level-wins/</guid>
-      <pubDate>Fri, 21 Nov 2025 22:20:00 GMT</pubDate>
-      <description>Learn how machine learning boosts store-level results with demand sensing, replenishment, planograms, and localized pricing. Get frameworks, examples, and pitfalls to steer retail adoption.</description>
+      <title>Elasticity of Demand for Cosmetic Items Explained</title>
+      <link>https://pulsegeek.com/articles/elasticity-of-demand-for-cosmetic-items-explained/</link>
+      <guid isPermaLink="true">https://pulsegeek.com/articles/elasticity-of-demand-for-cosmetic-items-explained/</guid>
+      <pubDate>Thu, 27 Nov 2025 22:20:00 GMT</pubDate>
+      <description>Learn how to measure and interpret elasticity of demand for cosmetic items in game economies, with frameworks, examples, and tradeoffs to guide pricing and event design.</description>
     </item>
     <item>
-      <title>Intelligent Solar Street Light Networking: Off‑Grid Options</title>
-      <link>https://pulsegeek.com/articles/intelligent-solar-street-light-networking-off-grid-options/</link>
-      <guid isPermaLink="true">https://pulsegeek.com/articles/intelligent-solar-street-light-networking-off-grid-options/</guid>
-      <pubDate>Fri, 21 Nov 2025 22:19:00 GMT</pubDate>
-      <description>Understand off‑grid networking for intelligent solar street lights. Compare mesh and LPWAN choices, power budgets, and resilience tradeoffs for reliable control.</description>
+      <title>Dialogue Node Systems for Choice-Heavy Games</title>
+      <link>https://pulsegeek.com/articles/dialogue-node-systems-for-choice-heavy-games/</link>
+      <guid isPermaLink="true">https://pulsegeek.com/articles/dialogue-node-systems-for-choice-heavy-games/</guid>
+      <pubDate>Thu, 27 Nov 2025 22:19:00 GMT</pubDate>
+      <description>Learn how dialogue node systems structure choices, track state, and manage consequences in narrative-heavy games with practical frameworks, examples, and pitfalls to avoid.</description>
     </item>
     <item>
-      <title>CHD vs ISO for Emulation Storage: Pros and Cons</title>
-      <link>https://pulsegeek.com/articles/chd-vs-iso-for-emulation-storage-pros-and-cons/</link>
-      <guid isPermaLink="true">https://pulsegeek.com/articles/chd-vs-iso-for-emulation-storage-pros-and-cons/</guid>
-      <pubDate>Fri, 21 Nov 2025 22:18:00 GMT</pubDate>
-      <description>Compare CHD and ISO for emulator libraries with clear guidance on compression, compatibility, integrity, performance, and longevity. Learn when to choose each and how to plan future-proof storage.</description>
+      <title>AI GPU Considerations for Security-Scale Models</title>
+      <link>https://pulsegeek.com/articles/ai-gpu-considerations-for-security-scale-models/</link>
+      <guid isPermaLink="true">https://pulsegeek.com/articles/ai-gpu-considerations-for-security-scale-models/</guid>
+      <pubDate>Thu, 27 Nov 2025 22:18:00 GMT</pubDate>
+      <description>Plan GPU choices for security-scale AI models with clear sizing rules, throughput targets, memory math, and tradeoffs across precision, batching, and latency.</description>
     </item>
     <item>
-      <title>Asset Bundles vs Pak Files: Packaging Tradeoffs</title>
-      <link>https://pulsegeek.com/articles/asset-bundles-vs-pak-files-packaging-tradeoffs/</link>
-      <guid isPermaLink="true">https://pulsegeek.com/articles/asset-bundles-vs-pak-files-packaging-tradeoffs/</guid>
-      <pubDate>Fri, 21 Nov 2025 22:17:00 GMT</pubDate>
-      <description>Compare asset bundles and pak files for game engines. Learn performance, patching, security, and workflow tradeoffs with examples and selection criteria.</description>
+      <title>Companies Using AI: Cross-Industry Moves That Matter</title>
+      <link>https://pulsegeek.com/articles/companies-using-ai-cross-industry-moves-that-matter/</link>
+      <guid isPermaLink="true">https://pulsegeek.com/articles/companies-using-ai-cross-industry-moves-that-matter/</guid>
+      <pubDate>Thu, 27 Nov 2025 22:17:00 GMT</pubDate>
+      <description>See how companies use AI across industries with concrete patterns, vendor choices, and governance guardrails. Learn build versus buy tradeoffs, examples, and a practical roadmap for scaling value while managing risk and change.</description>
     </item>
     <item>
-      <title>Loot Drop Rates Calculation Guide: Numbers to Feel</title>
-      <link>https://pulsegeek.com/articles/loot-drop-rates-calculation-guide-numbers-to-feel/</link>
-      <guid isPermaLink="true">https://pulsegeek.com/articles/loot-drop-rates-calculation-guide-numbers-to-feel/</guid>
-      <pubDate>Fri, 21 Nov 2025 22:16:00 GMT</pubDate>
-      <description>Learn how to calculate loot drop rates with weights, pity timers, and guarantees. Build tables, simulate outcomes, validate fairness, and tune numbers to feel rewarding without breaking progression.</description>
+      <title>AI for Financial Markets: Tools, Data, and Workflows</title>
+      <link>https://pulsegeek.com/articles/ai-for-financial-markets-tools-data-and-workflows/</link>
+      <guid isPermaLink="true">https://pulsegeek.com/articles/ai-for-financial-markets-tools-data-and-workflows/</guid>
+      <pubDate>Thu, 27 Nov 2025 22:16:00 GMT</pubDate>
+      <description>Learn how AI improves financial markets with practical tools, reliable data sources, and repeatable workflows that balance alpha discovery, risk control, and governance across trading, analytics, and oversight.</description>
     </item>
     <item>
-      <title>AV1 vs H.265 for Game Streaming: Which Fits You?</title>
-      <link>https://pulsegeek.com/articles/av1-vs-h-265-for-game-streaming-which-fits-you/</link>
-      <guid isPermaLink="true">https://pulsegeek.com/articles/av1-vs-h-265-for-game-streaming-which-fits-you/</guid>
-      <pubDate>Thu, 20 Nov 2025 22:25:00 GMT</pubDate>
-      <description>Compare AV1 and H.265 for game streaming across latency, quality, hardware support, and bandwidth. Learn when each codec wins, with ffmpeg tips and scenario-based advice.</description>
+      <title>Store Replenishment Automation with AI: From Rules to ML</title>
+      <link>https://pulsegeek.com/articles/store-replenishment-automation-with-ai-from-rules-to-ml/</link>
+      <guid isPermaLink="true">https://pulsegeek.com/articles/store-replenishment-automation-with-ai-from-rules-to-ml/</guid>
+      <pubDate>Wed, 26 Nov 2025 22:25:00 GMT</pubDate>
+      <description>Learn how to automate store replenishment with AI, from setting demand signals to deploying ML reorder logic, validating accuracy, and resolving edge cases.</description>
     </item>
     <item>
-      <title>A/B Testing Reward Changes Without Inflation</title>
-      <link>https://pulsegeek.com/articles/ab-testing-reward-changes-without-inflation/</link>
-      <guid isPermaLink="true">https://pulsegeek.com/articles/ab-testing-reward-changes-without-inflation/</guid>
-      <pubDate>Thu, 20 Nov 2025 22:24:00 GMT</pubDate>
-      <description>Learn how to A/B test reward changes without fueling inflation. Plan holdouts, pick robust KPIs, run CUPED or pretrend checks, and validate results safely with guardrails.</description>
+      <title>NB‑IoT Street Lighting Gateways: Selection and Placement</title>
+      <link>https://pulsegeek.com/articles/nb-iot-street-lighting-gateways-selection-and-placement/</link>
+      <guid isPermaLink="true">https://pulsegeek.com/articles/nb-iot-street-lighting-gateways-selection-and-placement/</guid>
+      <pubDate>Wed, 26 Nov 2025 22:24:00 GMT</pubDate>
+      <description>Compare NB‑IoT street lighting gateways against direct nodes and hybrid bridges. Learn selection criteria, placement rules, and scenario fit for reliable, scalable control.</description>
     </item>
     <item>
-      <title>Balance Choice Depth vs Scope Creep Without Compromise</title>
-      <link>https://pulsegeek.com/articles/balance-choice-depth-vs-scope-creep-without-compromise/</link>
-      <guid isPermaLink="true">https://pulsegeek.com/articles/balance-choice-depth-vs-scope-creep-without-compromise/</guid>
-      <pubDate>Thu, 20 Nov 2025 22:23:00 GMT</pubDate>
-      <description>Learn practical methods to balance choice depth with production limits. Set budgets, define gating rules, and validate coverage so branching stories stay rich without runaway scope.</description>
+      <title>Game Dumping Best Practices for Preservation</title>
+      <link>https://pulsegeek.com/articles/game-dumping-best-practices-for-preservation/</link>
+      <guid isPermaLink="true">https://pulsegeek.com/articles/game-dumping-best-practices-for-preservation/</guid>
+      <pubDate>Wed, 26 Nov 2025 22:23:00 GMT</pubDate>
+      <description>Follow a proven workflow for accurate game dumping that preserves data, reduces errors, and validates integrity with hashes. Learn media handling, format choices, and verification to keep archives future proof.</description>
     </item>
     <item>
-      <title>How to Evaluate Phishing Detection Models</title>
-      <link>https://pulsegeek.com/articles/how-to-evaluate-phishing-detection-models/</link>
-      <guid isPermaLink="true">https://pulsegeek.com/articles/how-to-evaluate-phishing-detection-models/</guid>
-      <pubDate>Thu, 20 Nov 2025 22:22:00 GMT</pubDate>
-      <description>Learn practical steps to evaluate phishing detection models with robust metrics, threshold tuning, and error analysis so teams ship reliable classifiers that hold up in production.</description>
+      <title>How to Organize Game Project Folders That Scale</title>
+      <link>https://pulsegeek.com/articles/how-to-organize-game-project-folders-that-scale/</link>
+      <guid isPermaLink="true">https://pulsegeek.com/articles/how-to-organize-game-project-folders-that-scale/</guid>
+      <pubDate>Wed, 26 Nov 2025 22:22:00 GMT</pubDate>
+      <description>Learn a practical folder strategy for game projects with naming rules, presets, automation scripts, and validation checks to prevent chaos as teams grow and platforms multiply.</description>
     </item>
     <item>
-      <title>Business Intelligence Using AI: A Practical Guide</title>
-      <link>https://pulsegeek.com/articles/business-intelligence-using-ai-a-practical-guide/</link>
-      <guid isPermaLink="true">https://pulsegeek.com/articles/business-intelligence-using-ai-a-practical-guide/</guid>
-      <pubDate>Thu, 20 Nov 2025 22:21:00 GMT</pubDate>
-      <description>Learn how to plan, build, and govern business intelligence using AI. Follow phased steps for data pipelines, model integration, dashboards, and measurement with practical tips and pitfalls.</description>
+      <title>Pathfinding-Aware Level Generation: Design for Flow</title>
+      <link>https://pulsegeek.com/articles/pathfinding-aware-level-generation-design-for-flow/</link>
+      <guid isPermaLink="true">https://pulsegeek.com/articles/pathfinding-aware-level-generation-design-for-flow/</guid>
+      <pubDate>Wed, 26 Nov 2025 22:21:00 GMT</pubDate>
+      <description>Learn how to make level generation account for pathfinding from the start, using constraints, metrics, and cost maps to create fair, readable, and flowing play spaces.</description>
     </item>
     <item>
-      <title>Machine Learning in the Finance Industry: 18 Use Cases</title>
-      <link>https://pulsegeek.com/articles/machine-learning-in-the-finance-industry-18-use-cases/</link>
-      <guid isPermaLink="true">https://pulsegeek.com/articles/machine-learning-in-the-finance-industry-18-use-cases/</guid>
-      <pubDate>Thu, 20 Nov 2025 22:20:00 GMT</pubDate>
-      <description>Explore 18 practical machine learning use cases in finance, from credit risk and fraud to AML and liquidity. Learn methods, examples, tradeoffs, and governance tips for secure, scalable deployment.</description>
+      <title>Encoding Presets for Low‑Latency Gaming: Top Choices</title>
+      <link>https://pulsegeek.com/articles/encoding-presets-for-low-latency-gaming-top-choices/</link>
+      <guid isPermaLink="true">https://pulsegeek.com/articles/encoding-presets-for-low-latency-gaming-top-choices/</guid>
+      <pubDate>Wed, 26 Nov 2025 22:20:00 GMT</pubDate>
+      <description>Choose the right encoding presets for fluid, low-latency gaming. Compare NVENC, x264, AMF, and AV1 options, with zero-latency tuning, rate control choices, and practical tradeoffs for different GPUs and networks.</description>
     </item>
     <item>
-      <title>Inventory Planning with Machine Learning for Retail</title>
-      <link>https://pulsegeek.com/articles/inventory-planning-with-machine-learning-for-retail/</link>
-      <guid isPermaLink="true">https://pulsegeek.com/articles/inventory-planning-with-machine-learning-for-retail/</guid>
-      <pubDate>Thu, 20 Nov 2025 22:19:00 GMT</pubDate>
-      <description>Learn a step by step method to build, test, and apply machine learning for retail inventory planning, from data design to validation and tuning.</description>
+      <title>Cohort Analysis for Earn and Spend in Games</title>
+      <link>https://pulsegeek.com/articles/cohort-analysis-for-earn-and-spend-in-games/</link>
+      <guid isPermaLink="true">https://pulsegeek.com/articles/cohort-analysis-for-earn-and-spend-in-games/</guid>
+      <pubDate>Wed, 26 Nov 2025 22:19:00 GMT</pubDate>
+      <description>Learn how to run cohort analysis on player earn and spend to diagnose sinks, sources, and balance issues. Get definitions, decision lenses, scenarios, and practical tradeoffs for live ops.</description>
     </item>
     <item>
-      <title>Connected Street Lighting Network Design: Start to Finish</title>
-      <link>https://pulsegeek.com/articles/connected-street-lighting-network-design-start-to-finish/</link>
-      <guid isPermaLink="true">https://pulsegeek.com/articles/connected-street-lighting-network-design-start-to-finish/</guid>
-      <pubDate>Thu, 20 Nov 2025 22:18:00 GMT</pubDate>
-      <description>Design a connected street lighting network end to end, from planning and site surveys to protocol choices, rollout steps, validation, and tuning. Get checklists, tests, and fixes that reduce risk and speed deployment.</description>
+      <title>Decision Tree Templates for Interactive Stories</title>
+      <link>https://pulsegeek.com/articles/decision-tree-templates-for-interactive-stories/</link>
+      <guid isPermaLink="true">https://pulsegeek.com/articles/decision-tree-templates-for-interactive-stories/</guid>
+      <pubDate>Wed, 26 Nov 2025 22:18:00 GMT</pubDate>
+      <description>Explore six proven decision tree templates for interactive stories. Learn when to use each pattern, see examples, and weigh tradeoffs for pacing, agency, and production scope.</description>
     </item>
     <item>
-      <title>BIOS vs Firmware in Emulation: The Real Differences</title>
-      <link>https://pulsegeek.com/articles/bios-vs-firmware-in-emulation-the-real-differences/</link>
-      <guid isPermaLink="true">https://pulsegeek.com/articles/bios-vs-firmware-in-emulation-the-real-differences/</guid>
-      <pubDate>Thu, 20 Nov 2025 22:17:00 GMT</pubDate>
-      <description>Understand how BIOS and firmware differ in emulation, what each file enables, and how to manage legality, compatibility, and verification for stable, accurate play.</description>
+      <title>AI Data Pipelines for Threat Intelligence Enrichment</title>
+      <link>https://pulsegeek.com/articles/ai-data-pipelines-for-threat-intelligence-enrichment/</link>
+      <guid isPermaLink="true">https://pulsegeek.com/articles/ai-data-pipelines-for-threat-intelligence-enrichment/</guid>
+      <pubDate>Wed, 26 Nov 2025 22:17:00 GMT</pubDate>
+      <description>Build an AI-driven pipeline that enriches threat intelligence with model scores and context. Plan sources, choose transport and storage, run steps, validate outputs, and fix common issues.</description>
     </item>
     <item>
-      <title>Game Asset Pipeline Explained: From DCC to Runtime</title>
-      <link>https://pulsegeek.com/articles/game-asset-pipeline-explained-from-dcc-to-runtime/</link>
-      <guid isPermaLink="true">https://pulsegeek.com/articles/game-asset-pipeline-explained-from-dcc-to-runtime/</guid>
-      <pubDate>Thu, 20 Nov 2025 22:16:00 GMT</pubDate>
-      <description>Learn how game assets move from DCC tools into engines, through import, compression, cooking, and packaging, then to runtime loading and streaming with practical tradeoffs and workflow tips.</description>
+      <title>What Is AI in Business Intelligence? Key Concepts</title>
+      <link>https://pulsegeek.com/articles/what-is-ai-in-business-intelligence-key-concepts/</link>
+      <guid isPermaLink="true">https://pulsegeek.com/articles/what-is-ai-in-business-intelligence-key-concepts/</guid>
+      <pubDate>Wed, 26 Nov 2025 22:16:00 GMT</pubDate>
+      <description>Learn what AI in business intelligence means, how it works, and where it fits. Explore architecture patterns, model choices, and dashboard examples that improve reporting and decision speed.</description>
     </item>
     <item>
-      <title>How to Avoid Boring Fetch Quests: Patterns that Engage</title>
-      <link>https://pulsegeek.com/articles/how-to-avoid-boring-fetch-quests-patterns-that-engage/</link>
-      <guid isPermaLink="true">https://pulsegeek.com/articles/how-to-avoid-boring-fetch-quests-patterns-that-engage/</guid>
-      <pubDate>Wed, 19 Nov 2025 22:25:00 GMT</pubDate>
-      <description>Tired of dull fetch quests? Learn concrete patterns, constraints, and reward tuning to transform errands into engaging missions, with validation tips and practical examples.</description>
+      <title>AI Finance Trading: From Signal to Execution Quality</title>
+      <link>https://pulsegeek.com/articles/ai-finance-trading-from-signal-to-execution-quality/</link>
+      <guid isPermaLink="true">https://pulsegeek.com/articles/ai-finance-trading-from-signal-to-execution-quality/</guid>
+      <pubDate>Tue, 25 Nov 2025 22:25:00 GMT</pubDate>
+      <description>Learn how AI connects market signals to execution quality in trading. Explore definitions, decision frameworks, realistic examples, and risk-aware limits for data, models, and routing.</description>
     </item>
     <item>
-      <title>Cloud Gaming Bitrate vs Quality: Find the Sweet Spot</title>
-      <link>https://pulsegeek.com/articles/cloud-gaming-bitrate-vs-quality-find-the-sweet-spot/</link>
-      <guid isPermaLink="true">https://pulsegeek.com/articles/cloud-gaming-bitrate-vs-quality-find-the-sweet-spot/</guid>
-      <pubDate>Wed, 19 Nov 2025 22:24:00 GMT</pubDate>
-      <description>Learn how to balance bitrate, resolution, and codec settings for cloud gaming. Find stable, low-latency quality with practical rules, decision tables, and tested workflows.</description>
+      <title>Retail AI Technology: Platforms, Patterns, and Proof</title>
+      <link>https://pulsegeek.com/articles/retail-ai-technology-platforms-patterns-and-proof/</link>
+      <guid isPermaLink="true">https://pulsegeek.com/articles/retail-ai-technology-platforms-patterns-and-proof/</guid>
+      <pubDate>Tue, 25 Nov 2025 22:24:00 GMT</pubDate>
+      <description>Learn how retail AI technology works across platforms and patterns, how to evaluate choices, and what proof points matter for forecasting, replenishment, and assortments.</description>
     </item>
     <item>
-      <title>Analytics and KPIs for Game Economies: Full Guide</title>
-      <link>https://pulsegeek.com/articles/analytics-and-kpis-for-game-economies-full-guide/</link>
-      <guid isPermaLink="true">https://pulsegeek.com/articles/analytics-and-kpis-for-game-economies-full-guide/</guid>
-      <pubDate>Wed, 19 Nov 2025 22:23:00 GMT</pubDate>
-      <description>Learn the essential analytics and KPIs for game economy health. Build dashboards, pick robust metrics, and avoid inflation and exploits with practical methods.</description>
+      <title>LoRaWAN Street Light Controllers: Range, Power, and Scale</title>
+      <link>https://pulsegeek.com/articles/lorawan-street-light-controllers-range-power-and-scale/</link>
+      <guid isPermaLink="true">https://pulsegeek.com/articles/lorawan-street-light-controllers-range-power-and-scale/</guid>
+      <pubDate>Tue, 25 Nov 2025 22:23:00 GMT</pubDate>
+      <description>Compare LoRaWAN street light controllers against Wi‑Fi, Zigbee, NB‑IoT, and 5G. Weigh range, power, density, latency, and lifecycle costs with scenario‑based recommendations for cities and campuses.</description>
     </item>
     <item>
-      <title>Branching Narrative Design: Systems, States, Consequence</title>
-      <link>https://pulsegeek.com/articles/branching-narrative-design-systems-states-consequence/</link>
-      <guid isPermaLink="true">https://pulsegeek.com/articles/branching-narrative-design-systems-states-consequence/</guid>
-      <pubDate>Wed, 19 Nov 2025 22:22:00 GMT</pubDate>
-      <description>Learn how branching narrative design uses systems, states, and consequences to shape choices, track variables, and manage flow without dead ends.</description>
+      <title>Dolphin Keys and the Wii Common Key Explained</title>
+      <link>https://pulsegeek.com/articles/dolphin-keys-and-the-wii-common-key-explained/</link>
+      <guid isPermaLink="true">https://pulsegeek.com/articles/dolphin-keys-and-the-wii-common-key-explained/</guid>
+      <pubDate>Tue, 25 Nov 2025 22:22:00 GMT</pubDate>
+      <description>Learn how Dolphin uses title keys and the Wii common key, what each does, where configuration lives, and legal guardrails for ethical emulation.</description>
     </item>
     <item>
-      <title>CS AI Concepts for Security: From Search to Learning</title>
-      <link>https://pulsegeek.com/articles/cs-ai-concepts-for-security-from-search-to-learning/</link>
-      <guid isPermaLink="true">https://pulsegeek.com/articles/cs-ai-concepts-for-security-from-search-to-learning/</guid>
-      <pubDate>Wed, 19 Nov 2025 22:21:00 GMT</pubDate>
-      <description>Explore core AI concepts in computer science for security, from search and inference to learning. Learn decision lenses, examples, and tradeoffs that guide model choice for detection pipelines.</description>
+      <title>Content Streaming for Open Worlds: Flow Without Gaps</title>
+      <link>https://pulsegeek.com/articles/content-streaming-for-open-worlds-flow-without-gaps/</link>
+      <guid isPermaLink="true">https://pulsegeek.com/articles/content-streaming-for-open-worlds-flow-without-gaps/</guid>
+      <pubDate>Tue, 25 Nov 2025 22:21:00 GMT</pubDate>
+      <description>Learn how open worlds stream content without hitching using regions, budgets, and predictive loading. Compare paging models, I/O constraints, and LOD tradeoffs across platforms with practical decision tools.</description>
     </item>
     <item>
-      <title>Business Analytics and Artificial Intelligence: Synergy</title>
-      <link>https://pulsegeek.com/articles/business-analytics-and-artificial-intelligence-synergy/</link>
-      <guid isPermaLink="true">https://pulsegeek.com/articles/business-analytics-and-artificial-intelligence-synergy/</guid>
-      <pubDate>Wed, 19 Nov 2025 22:20:00 GMT</pubDate>
-      <description>Learn how business analytics and artificial intelligence reinforce each other with data architectures, tool choices, and dashboard examples that uncover patterns, forecast outcomes, and reduce decision latency.</description>
+      <title>Dungeon Generation Algorithms: Patterns and Tradeoffs</title>
+      <link>https://pulsegeek.com/articles/dungeon-generation-algorithms-patterns-and-tradeoffs/</link>
+      <guid isPermaLink="true">https://pulsegeek.com/articles/dungeon-generation-algorithms-patterns-and-tradeoffs/</guid>
+      <pubDate>Tue, 25 Nov 2025 22:20:00 GMT</pubDate>
+      <description>Compare dungeon generation algorithms through concrete patterns, examples, and tradeoffs. Learn when to choose BSP, cellular automata, WFC, walkers, or graph grammars.</description>
     </item>
     <item>
-      <title>Machine Learning in Financial Services: Where It Delivers</title>
-      <link>https://pulsegeek.com/articles/machine-learning-in-financial-services-where-it-delivers/</link>
-      <guid isPermaLink="true">https://pulsegeek.com/articles/machine-learning-in-financial-services-where-it-delivers/</guid>
-      <pubDate>Wed, 19 Nov 2025 22:19:00 GMT</pubDate>
-      <description>Learn where machine learning delivers in financial services, with clear definitions, decision frameworks, scenarios, and risks to manage performance, cost, and oversight across fraud, AML, credit, and operations.</description>
+      <title>Dynamic Bitrate Ladders for Cloud Games: Build Smart</title>
+      <link>https://pulsegeek.com/articles/dynamic-bitrate-ladders-for-cloud-games-build-smart/</link>
+      <guid isPermaLink="true">https://pulsegeek.com/articles/dynamic-bitrate-ladders-for-cloud-games-build-smart/</guid>
+      <pubDate>Tue, 25 Nov 2025 22:19:00 GMT</pubDate>
+      <description>Learn how to design dynamic bitrate ladders for cloud games that adapt to motion, network jitter, and device limits while keeping latency tight and visuals stable.</description>
     </item>
     <item>
-      <title>How to Forecast Retail Demand with AI: Step by Step</title>
-      <link>https://pulsegeek.com/articles/how-to-forecast-retail-demand-with-ai-step-by-step/</link>
-      <guid isPermaLink="true">https://pulsegeek.com/articles/how-to-forecast-retail-demand-with-ai-step-by-step/</guid>
-      <pubDate>Wed, 19 Nov 2025 22:18:00 GMT</pubDate>
-      <description>A practical, step by step how-to for forecasting retail demand with AI. Plan data, engineer features, train models, validate accuracy, and troubleshoot bias to drive better replenishment and assortment decisions.</description>
+      <title>Build a Virtual Economy Dashboard Step‑By‑Step</title>
+      <link>https://pulsegeek.com/articles/build-a-virtual-economy-dashboard-step-by-step/</link>
+      <guid isPermaLink="true">https://pulsegeek.com/articles/build-a-virtual-economy-dashboard-step-by-step/</guid>
+      <pubDate>Tue, 25 Nov 2025 22:18:00 GMT</pubDate>
+      <description>Learn how to plan, build, and validate a virtual economy dashboard with reliable KPIs, data models, and alerts. Follow actionable steps, code, and tests to avoid bias and drift.</description>
     </item>
     <item>
-      <title>5G Smart Street Lights: Low Latency and High Possibility</title>
-      <link>https://pulsegeek.com/articles/5g-smart-street-lights-low-latency-and-high-possibility/</link>
-      <guid isPermaLink="true">https://pulsegeek.com/articles/5g-smart-street-lights-low-latency-and-high-possibility/</guid>
-      <pubDate>Wed, 19 Nov 2025 22:17:00 GMT</pubDate>
-      <description>Compare 5G smart street lights to Zigbee, LoRaWAN, Wi‑Fi, and NB‑IoT. See tradeoffs for latency, coverage, power, cost, and reliability to pick the right fit.</description>
+      <title>Choice Architecture in Game Writing: Shaping Player Intent</title>
+      <link>https://pulsegeek.com/articles/choice-architecture-in-game-writing-shaping-player-intent/</link>
+      <guid isPermaLink="true">https://pulsegeek.com/articles/choice-architecture-in-game-writing-shaping-player-intent/</guid>
+      <pubDate>Tue, 25 Nov 2025 22:17:00 GMT</pubDate>
+      <description>Learn how choice architecture in game writing guides player intent, reduces confusion, and sustains story momentum with clear options, readable consequences, and fair feedback that respects agency across quests and scenes.</description>
     </item>
     <item>
-      <title>Emulation Knowledge Base: Core Concepts and Tuning</title>
-      <link>https://pulsegeek.com/articles/emulation-knowledge-base-core-concepts-and-tuning/</link>
-      <guid isPermaLink="true">https://pulsegeek.com/articles/emulation-knowledge-base-core-concepts-and-tuning/</guid>
-      <pubDate>Wed, 19 Nov 2025 22:16:00 GMT</pubDate>
-      <description>Build a practical emulation foundation with core concepts, legal basics, latency tuning, shader choices, and performance fixes. Get a roadmap linking deeper guides for accuracy, responsiveness, and visual fidelity.</description>
+      <title>AI/ML for Malware Detection: Architectures and Data</title>
+      <link>https://pulsegeek.com/articles/ai-ml-for-malware-detection-architectures-and-data/</link>
+      <guid isPermaLink="true">https://pulsegeek.com/articles/ai-ml-for-malware-detection-architectures-and-data/</guid>
+      <pubDate>Tue, 25 Nov 2025 22:16:00 GMT</pubDate>
+      <description>Explore AI and ML architectures for malware detection, from data sourcing and features to model choices, evaluation, and deployment patterns that scale securely in enterprise environments.</description>
     </item>
   </channel>
 </rss>
