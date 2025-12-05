@@ -6,404 +6,404 @@
   "description": "Tech news, gaming, and geek culture in one pulse",
   "items": [
     {
-      "id": "https://pulsegeek.com/articles/lod-setup-best-practices-detail-where-it-matters/",
-      "url": "https://pulsegeek.com/articles/lod-setup-best-practices-detail-where-it-matters/",
-      "title": "LOD Setup Best Practices: Detail Where It Matters",
-      "content_text": "Learn practical LOD setup best practices for game assets, including screen-size metrics, crossfade transitions, impostors, and animation simplification to balance performance and visual quality.",
-      "date_published": "2025-11-29T22:25:00.0000000Z",
-      "date_modified": "2025-11-29T22:25:00.0000000Z"
+      "id": "https://pulsegeek.com/articles/companies-investing-in-ai-where-capital-meets-need/",
+      "url": "https://pulsegeek.com/articles/companies-investing-in-ai-where-capital-meets-need/",
+      "title": "Companies Investing in AI: Where Capital Meets Need",
+      "content_text": "See how companies investing in AI allocate capital across data, models, and talent. Learn patterns, examples, ROI ranges, and tradeoffs to guide pragmatic investment choices.",
+      "date_published": "2025-12-05T22:25:00.0000000Z",
+      "date_modified": "2025-12-05T22:25:00.0000000Z"
     },
     {
-      "id": "https://pulsegeek.com/articles/adaptive-difficulty-with-procedural-systems-calibrate-play/",
-      "url": "https://pulsegeek.com/articles/adaptive-difficulty-with-procedural-systems-calibrate-play/",
-      "title": "Adaptive Difficulty with Procedural Systems: Calibrate Play",
-      "content_text": "Learn a rigorous, step by step method to design adaptive difficulty in procedural games using clear signals, guardrails, and validation loops.",
-      "date_published": "2025-11-29T22:24:00.0000000Z",
-      "date_modified": "2025-11-29T22:24:00.0000000Z"
+      "id": "https://pulsegeek.com/articles/machine-learning-in-capital-markets-12-practical-wins/",
+      "url": "https://pulsegeek.com/articles/machine-learning-in-capital-markets-12-practical-wins/",
+      "title": "Machine Learning in Capital Markets: 12 Practical Wins",
+      "content_text": "Twelve practical ways machine learning improves capital markets work, from signal discovery to risk and surveillance, with examples, tradeoffs, and controls for real desks.",
+      "date_published": "2025-12-05T22:24:00.0000000Z",
+      "date_modified": "2025-12-05T22:24:00.0000000Z"
     },
     {
-      "id": "https://pulsegeek.com/articles/hdr-streaming-for-cloud-gamers-key-considerations/",
-      "url": "https://pulsegeek.com/articles/hdr-streaming-for-cloud-gamers-key-considerations/",
-      "title": "HDR Streaming for Cloud Gamers: Key Considerations",
-      "content_text": "Master HDR streaming for cloud gaming with practical guidance on tone mapping, bitrate, latency, codecs, color volume, and display setup to keep highlights crisp and controls responsive.",
-      "date_published": "2025-11-29T22:23:00.0000000Z",
-      "date_modified": "2025-11-29T22:23:00.0000000Z"
+      "id": "https://pulsegeek.com/articles/computer-vision-retail-analytics-from-pixels-to-actions/",
+      "url": "https://pulsegeek.com/articles/computer-vision-retail-analytics-from-pixels-to-actions/",
+      "title": "Computer Vision Retail Analytics: From Pixels to Actions",
+      "content_text": "Learn how to design, deploy, and validate computer vision retail analytics, turning camera pixels into store actions with privacy controls, metrics, and troubleshooting.",
+      "date_published": "2025-12-05T22:23:00.0000000Z",
+      "date_modified": "2025-12-05T22:23:00.0000000Z"
     },
     {
-      "id": "https://pulsegeek.com/articles/measure-money-velocity-in-virtual-worlds/",
-      "url": "https://pulsegeek.com/articles/measure-money-velocity-in-virtual-worlds/",
-      "title": "Measure Money Velocity in Virtual Worlds",
-      "content_text": "Learn how to calculate money velocity in virtual worlds with clean data, time windows, and supply definitions. Includes formulas, validation checks, a compact script, and troubleshooting tips.",
-      "date_published": "2025-11-29T22:22:00.0000000Z",
-      "date_modified": "2025-11-29T22:22:00.0000000Z"
+      "id": "https://pulsegeek.com/articles/wifi-street-light-connectivity-where-it-works-best/",
+      "url": "https://pulsegeek.com/articles/wifi-street-light-connectivity-where-it-works-best/",
+      "title": "Wi\u2011Fi Street Light Connectivity: Where It Works Best",
+      "content_text": "Compare Wi\u2011Fi street light connectivity to LoRaWAN, NB\u2011IoT, Zigbee, and 5G. Learn where Wi\u2011Fi excels, when it fails, and how to decide by density, latency, cost, and maintenance.",
+      "date_published": "2025-12-05T22:22:00.0000000Z",
+      "date_modified": "2025-12-05T22:22:00.0000000Z"
     },
     {
-      "id": "https://pulsegeek.com/articles/how-to-build-dialogue-trees-for-games-step-by-step/",
-      "url": "https://pulsegeek.com/articles/how-to-build-dialogue-trees-for-games-step-by-step/",
-      "title": "How to Build Dialogue Trees for Games Step by Step",
-      "content_text": "Learn a clear, practical process to plan, script, and test dialogue trees for games with states, variables, and tools like Ink or Twine. Includes validation steps and troubleshooting tips.",
-      "date_published": "2025-11-29T22:21:00.0000000Z",
-      "date_modified": "2025-11-29T22:21:00.0000000Z"
+      "id": "https://pulsegeek.com/articles/what-is-a-bios-file-for-emulators-purpose-and-use/",
+      "url": "https://pulsegeek.com/articles/what-is-a-bios-file-for-emulators-purpose-and-use/",
+      "title": "What Is a BIOS File for Emulators? Purpose and Use",
+      "content_text": "Learn what a BIOS file does in emulators, why some systems require it, how to load and verify it safely, and common pitfalls to avoid.",
+      "date_published": "2025-12-05T22:21:00.0000000Z",
+      "date_modified": "2025-12-05T22:21:00.0000000Z"
     },
     {
-      "id": "https://pulsegeek.com/articles/computer-vision-for-binary-analysis-visual-signals/",
-      "url": "https://pulsegeek.com/articles/computer-vision-for-binary-analysis-visual-signals/",
-      "title": "Computer Vision for Binary Analysis: Visual Signals",
-      "content_text": "Learn how visual signals from binaries enable computer vision models to spot malware traits, segment code regions, and prioritize triage. Compare encodings, choose features, and avoid common pitfalls.",
-      "date_published": "2025-11-29T22:20:00.0000000Z",
-      "date_modified": "2025-11-29T22:20:00.0000000Z"
+      "id": "https://pulsegeek.com/articles/game-performance-optimization-a-complete-checklist/",
+      "url": "https://pulsegeek.com/articles/game-performance-optimization-a-complete-checklist/",
+      "title": "Game Performance Optimization: A Complete Checklist",
+      "content_text": "Learn a practical game performance optimization checklist with budgets, profiling flows, memory tactics, and build considerations across PC, console, and mobile to ship smoother frames and stable frame times.",
+      "date_published": "2025-12-05T22:20:00.0000000Z",
+      "date_modified": "2025-12-05T22:20:00.0000000Z"
     },
     {
-      "id": "https://pulsegeek.com/articles/ai-technology-companies-from-chips-to-applications/",
-      "url": "https://pulsegeek.com/articles/ai-technology-companies-from-chips-to-applications/",
-      "title": "AI Technology Companies: From Chips to Applications",
-      "content_text": "Explore AI technology companies across chips, infrastructure, models, and applications. See choices, examples, tradeoffs, and how to align spend with outcomes.",
-      "date_published": "2025-11-29T22:19:00.0000000Z",
-      "date_modified": "2025-11-29T22:19:00.0000000Z"
+      "id": "https://pulsegeek.com/articles/retention-impact-of-procedural-replayability-evidence/",
+      "url": "https://pulsegeek.com/articles/retention-impact-of-procedural-replayability-evidence/",
+      "title": "Retention Impact of Procedural Replayability: Evidence",
+      "content_text": "Explore how procedural replayability influences player retention with clear definitions, decision frameworks, practical scenarios, and measurable tradeoffs. Learn what to track and how to interpret evidence.",
+      "date_published": "2025-12-05T22:19:00.0000000Z",
+      "date_modified": "2025-12-05T22:19:00.0000000Z"
     },
     {
-      "id": "https://pulsegeek.com/articles/ai-in-financial-markets-signals-liquidity-and-risk/",
-      "url": "https://pulsegeek.com/articles/ai-in-financial-markets-signals-liquidity-and-risk/",
-      "title": "AI in Financial Markets: Signals, Liquidity, and Risk",
-      "content_text": "Understand how AI extracts signals, maps liquidity, and manages risk in financial markets with clear frameworks, examples, and practical tradeoffs grounded in data workflows and controls.",
-      "date_published": "2025-11-29T22:18:00.0000000Z",
-      "date_modified": "2025-11-29T22:18:00.0000000Z"
+      "id": "https://pulsegeek.com/articles/cloud-gaming-latency-diagnose-budget-and-reduce/",
+      "url": "https://pulsegeek.com/articles/cloud-gaming-latency-diagnose-budget-and-reduce/",
+      "title": "Cloud Gaming Latency: Diagnose, Budget, and Reduce",
+      "content_text": "Learn how to diagnose cloud gaming latency, build a realistic millisecond budget, and apply practical fixes across network, encode, and display stages for responsive play.",
+      "date_published": "2025-12-05T22:18:00.0000000Z",
+      "date_modified": "2025-12-05T22:18:00.0000000Z"
     },
     {
-      "id": "https://pulsegeek.com/articles/retail-computer-vision-heatmaps-loss-prevention-insight/",
-      "url": "https://pulsegeek.com/articles/retail-computer-vision-heatmaps-loss-prevention-insight/",
-      "title": "Retail Computer Vision: Heatmaps, Loss Prevention, Insight",
-      "content_text": "Learn how retail computer vision powers heatmaps, loss prevention, and store insight. See patterns, tradeoffs, and workflows to move from pixels to actions.",
-      "date_published": "2025-11-29T22:17:00.0000000Z",
-      "date_modified": "2025-11-29T22:17:00.0000000Z"
+      "id": "https://pulsegeek.com/articles/balance-levers-for-game-economies-practical-guide/",
+      "url": "https://pulsegeek.com/articles/balance-levers-for-game-economies-practical-guide/",
+      "title": "Balance Levers for Game Economies: Practical Guide",
+      "content_text": "Learn practical balance levers for game economies, from sink to source ratios and reward pacing to taxes, fees, and decay. Apply guardrails, avoid inflation traps, and tune systems that keep markets healthy.",
+      "date_published": "2025-12-05T22:17:00.0000000Z",
+      "date_modified": "2025-12-05T22:17:00.0000000Z"
     },
     {
-      "id": "https://pulsegeek.com/articles/smart-pole-street-lighting-integrating-light-sensors-power/",
-      "url": "https://pulsegeek.com/articles/smart-pole-street-lighting-integrating-light-sensors-power/",
-      "title": "Smart Pole Street Lighting: Integrating Light, Sensors, Power",
-      "content_text": "Learn how smart pole street lighting integrates luminaires, sensors, networking, and power to improve safety, efficiency, and data quality with clear frameworks and tradeoffs.",
-      "date_published": "2025-11-29T22:16:00.0000000Z",
-      "date_modified": "2025-11-29T22:16:00.0000000Z"
+      "id": "https://pulsegeek.com/articles/twine-vs-ink-for-branching-dialogue-which-fits-you/",
+      "url": "https://pulsegeek.com/articles/twine-vs-ink-for-branching-dialogue-which-fits-you/",
+      "title": "Twine vs Ink for Branching Dialogue: Which Fits You?",
+      "content_text": "Compare Twine and Ink for branching dialogue with criteria, examples, and scenarios. Learn tradeoffs in authoring, logic, testing, and pipelines, then pick the tool that fits your team and scope.",
+      "date_published": "2025-12-05T22:16:00.0000000Z",
+      "date_modified": "2025-12-05T22:16:00.0000000Z"
     },
     {
-      "id": "https://pulsegeek.com/articles/how-to-organize-roms-and-bios-files-efficiently/",
-      "url": "https://pulsegeek.com/articles/how-to-organize-roms-and-bios-files-efficiently/",
-      "title": "How to Organize ROMs and BIOS Files Efficiently",
-      "content_text": "Learn a fast, lawful system to organize ROMs and BIOS files with clear folder structure, naming, and verification so emulators find what they need every time.",
-      "date_published": "2025-11-28T22:25:00.0000000Z",
-      "date_modified": "2025-11-28T22:25:00.0000000Z"
+      "id": "https://pulsegeek.com/articles/train-deep-learning-for-malware-detection-workflow/",
+      "url": "https://pulsegeek.com/articles/train-deep-learning-for-malware-detection-workflow/",
+      "title": "Train Deep Learning for Malware Detection: Workflow",
+      "content_text": "Step-by-step workflow to plan, build, and validate deep learning for malware detection. Covers data strategy, training loops, metrics, tuning, and safe deployment.",
+      "date_published": "2025-12-04T22:25:00.0000000Z",
+      "date_modified": "2025-12-04T22:25:00.0000000Z"
     },
     {
-      "id": "https://pulsegeek.com/articles/lightmap-uv-unwrapping-for-static-lighting/",
-      "url": "https://pulsegeek.com/articles/lightmap-uv-unwrapping-for-static-lighting/",
-      "title": "Lightmap UV Unwrapping for Static Lighting",
-      "content_text": "Learn how to unwrap lightmap UVs for clean static lighting in game engines. Plan scale, margins, and seams, then execute in Blender or DCC and validate for overlaps, bleeding, and leaks.",
-      "date_published": "2025-11-28T22:24:00.0000000Z",
-      "date_modified": "2025-11-28T22:24:00.0000000Z"
+      "id": "https://pulsegeek.com/articles/companies-in-machine-learning-whos-building-what/",
+      "url": "https://pulsegeek.com/articles/companies-in-machine-learning-whos-building-what/",
+      "title": "Companies in Machine Learning: Who\u2019s Building What",
+      "content_text": "A clear map of companies in machine learning by role and value. See where foundation models, MLOps, data pipelines, vector search, edge runtimes, and governance tools fit.",
+      "date_published": "2025-12-04T22:24:00.0000000Z",
+      "date_modified": "2025-12-04T22:24:00.0000000Z"
     },
     {
-      "id": "https://pulsegeek.com/articles/tilemap-based-level-generation-grids-with-personality/",
-      "url": "https://pulsegeek.com/articles/tilemap-based-level-generation-grids-with-personality/",
-      "title": "Tilemap-Based Level Generation: Grids with Personality",
-      "content_text": "Learn how tilemap based level generation works, from adjacency rules and constraints to noise and graph overlays, with practical tradeoffs for playability and performance.",
-      "date_published": "2025-11-28T22:23:00.0000000Z",
-      "date_modified": "2025-11-28T22:23:00.0000000Z"
+      "id": "https://pulsegeek.com/articles/machine-learning-for-investment-banking-16-ideas/",
+      "url": "https://pulsegeek.com/articles/machine-learning-for-investment-banking-16-ideas/",
+      "title": "Machine Learning for Investment Banking: 16 Ideas",
+      "content_text": "Explore 16 practical machine learning ideas for investment banking, from deal sourcing and diligence to valuation checks, risk signals, and client coverage, with controls and realistic tradeoffs to guide adoption.",
+      "date_published": "2025-12-04T22:23:00.0000000Z",
+      "date_modified": "2025-12-04T22:23:00.0000000Z"
     },
     {
-      "id": "https://pulsegeek.com/articles/gpu-encoder-vs-software-encoder-for-streaming-games/",
-      "url": "https://pulsegeek.com/articles/gpu-encoder-vs-software-encoder-for-streaming-games/",
-      "title": "GPU Encoder vs Software Encoder for Streaming Games",
-      "content_text": "Compare GPU and software encoders for game streaming across latency, quality, bitrate, and hardware load. See when NVENC, AMF, or x264 fits, plus tuning tips for stable play.",
-      "date_published": "2025-11-28T22:22:00.0000000Z",
-      "date_modified": "2025-11-28T22:22:00.0000000Z"
+      "id": "https://pulsegeek.com/articles/computer-vision-in-the-retail-industry-use-cases-today/",
+      "url": "https://pulsegeek.com/articles/computer-vision-in-the-retail-industry-use-cases-today/",
+      "title": "Computer Vision in the Retail Industry: Use Cases Today",
+      "content_text": "See how computer vision improves retail operations with real store use cases across shelf availability, queue management, planogram checks, heatmaps, and loss prevention.",
+      "date_published": "2025-12-04T22:22:00.0000000Z",
+      "date_modified": "2025-12-04T22:22:00.0000000Z"
     },
     {
-      "id": "https://pulsegeek.com/articles/forecasting-item-prices-in-games-methods-that-help/",
-      "url": "https://pulsegeek.com/articles/forecasting-item-prices-in-games-methods-that-help/",
-      "title": "Forecasting Item Prices in Games: Methods That Help",
-      "content_text": "Learn a stepwise process to forecast item prices in games using baselines, time series models, and validation tactics, with guardrails for shocks, exploits, and live ops decisions.",
-      "date_published": "2025-11-28T22:21:00.0000000Z",
-      "date_modified": "2025-11-28T22:21:00.0000000Z"
+      "id": "https://pulsegeek.com/articles/wireless-control-and-monitoring-for-street-lighting-options/",
+      "url": "https://pulsegeek.com/articles/wireless-control-and-monitoring-for-street-lighting-options/",
+      "title": "Wireless Control and Monitoring for Street Lighting: Options",
+      "content_text": "Compare wireless control and monitoring options for street lighting. Learn tradeoffs across range, latency, power, and resilience, and match choices to real deployment constraints.",
+      "date_published": "2025-12-04T22:21:00.0000000Z",
+      "date_modified": "2025-12-04T22:21:00.0000000Z"
     },
     {
-      "id": "https://pulsegeek.com/articles/dialogue-tree-tools-comparison-for-narrative-design/",
-      "url": "https://pulsegeek.com/articles/dialogue-tree-tools-comparison-for-narrative-design/",
-      "title": "Dialogue Tree Tools Comparison for Narrative Design",
-      "content_text": "Compare dialogue tree tools for narrative design with clear criteria, tradeoffs, and scenarios. Learn how branching depth, testing, and pipelines shape tool fit for your game.",
-      "date_published": "2025-11-28T22:20:00.0000000Z",
-      "date_modified": "2025-11-28T22:20:00.0000000Z"
+      "id": "https://pulsegeek.com/articles/verify-bios-hashes-with-md5-and-sha1/",
+      "url": "https://pulsegeek.com/articles/verify-bios-hashes-with-md5-and-sha1/",
+      "title": "Verify BIOS Hashes with MD5 and SHA1",
+      "content_text": "Learn how to verify BIOS file integrity using MD5 and SHA1 across Windows, macOS, and Linux, with step-by-step commands, validation tips, and safe troubleshooting.",
+      "date_published": "2025-12-04T22:20:00.0000000Z",
+      "date_modified": "2025-12-04T22:20:00.0000000Z"
     },
     {
-      "id": "https://pulsegeek.com/articles/artificial-general-intelligence-security-implications/",
-      "url": "https://pulsegeek.com/articles/artificial-general-intelligence-security-implications/",
-      "title": "Artificial General Intelligence: Security Implications",
-      "content_text": "Explore how artificial general intelligence could reshape cybersecurity risks and defenses, from autonomy and misuse to safeguards, governance, and practical decision lenses for security leaders evaluating real systems today.",
-      "date_published": "2025-11-28T22:19:00.0000000Z",
-      "date_modified": "2025-11-28T22:19:00.0000000Z"
+      "id": "https://pulsegeek.com/articles/what-is-content-cooking-in-game-development/",
+      "url": "https://pulsegeek.com/articles/what-is-content-cooking-in-game-development/",
+      "title": "What Is Content Cooking in Game Development?",
+      "content_text": "Learn how content cooking transforms raw assets into engine-ready data for faster loads, smaller builds, and stable runtime behavior across platforms in modern game development.",
+      "date_published": "2025-12-04T22:19:00.0000000Z",
+      "date_modified": "2025-12-04T22:19:00.0000000Z"
     },
     {
-      "id": "https://pulsegeek.com/articles/ai-tech-companies-new-entrants-shaping-the-future/",
-      "url": "https://pulsegeek.com/articles/ai-tech-companies-new-entrants-shaping-the-future/",
-      "title": "AI Tech Companies: New Entrants Shaping the Future",
-      "content_text": "See seven emerging types of AI tech companies, with examples, tradeoffs, and buying signals to evaluate fit. Learn how new entrants change stacks, costs, and governance.",
-      "date_published": "2025-11-28T22:18:00.0000000Z",
-      "date_modified": "2025-11-28T22:18:00.0000000Z"
+      "id": "https://pulsegeek.com/articles/perceived-randomness-vs-true-randomness-design-reality/",
+      "url": "https://pulsegeek.com/articles/perceived-randomness-vs-true-randomness-design-reality/",
+      "title": "Perceived Randomness vs True Randomness: Design Reality",
+      "content_text": "Learn how perceived randomness differs from true randomness in games and UX, with design patterns, bias controls, and examples that balance fairness with surprise.",
+      "date_published": "2025-12-04T22:18:00.0000000Z",
+      "date_modified": "2025-12-04T22:18:00.0000000Z"
     },
     {
-      "id": "https://pulsegeek.com/articles/ai-in-financial-institutions-operating-model-shifts/",
-      "url": "https://pulsegeek.com/articles/ai-in-financial-institutions-operating-model-shifts/",
-      "title": "AI in Financial Institutions: Operating Model Shifts",
-      "content_text": "Learn how AI reshapes financial institutions through new operating models, data supply chains, risk controls, and governance. See decision lenses, scenarios, and tradeoffs that align innovation with safety and measurable outcomes.",
-      "date_published": "2025-11-28T22:17:00.0000000Z",
-      "date_modified": "2025-11-28T22:17:00.0000000Z"
+      "id": "https://pulsegeek.com/articles/what-is-4-2-0-color-subsampling-in-game-streaming/",
+      "url": "https://pulsegeek.com/articles/what-is-4-2-0-color-subsampling-in-game-streaming/",
+      "title": "What Is 4:2:0 Color Subsampling in Game Streaming?",
+      "content_text": "Learn how 4:2:0 color subsampling works in game streaming, when it helps or hurts quality, and how to tune codecs, bitrate, and settings for low latency.",
+      "date_published": "2025-12-04T22:17:00.0000000Z",
+      "date_modified": "2025-12-04T22:17:00.0000000Z"
     },
     {
-      "id": "https://pulsegeek.com/articles/use-of-ai-in-the-retail-industry-from-plan-to-payoff/",
-      "url": "https://pulsegeek.com/articles/use-of-ai-in-the-retail-industry-from-plan-to-payoff/",
-      "title": "Use of AI in the Retail Industry: From Plan to Payoff",
-      "content_text": "Learn how retailers apply AI across forecasting, replenishment, planograms, and assortments, with decision frameworks, examples, and tradeoffs that connect planning choices to measurable payoff.",
-      "date_published": "2025-11-28T22:16:00.0000000Z",
-      "date_modified": "2025-11-28T22:16:00.0000000Z"
+      "id": "https://pulsegeek.com/articles/what-is-a-price-index-basket-for-games/",
+      "url": "https://pulsegeek.com/articles/what-is-a-price-index-basket-for-games/",
+      "title": "What Is a Price Index Basket for Games?",
+      "content_text": "Learn how a price index basket works for games, how to pick items, weight them, calculate the index, and validate stability without masking inflation or live ops shifts.",
+      "date_published": "2025-12-04T22:16:00.0000000Z",
+      "date_modified": "2025-12-04T22:16:00.0000000Z"
     },
     {
-      "id": "https://pulsegeek.com/articles/smart-pole-street-lighting-layout-spacing-and-sightlines/",
-      "url": "https://pulsegeek.com/articles/smart-pole-street-lighting-layout-spacing-and-sightlines/",
-      "title": "Smart Pole Street Lighting Layout: Spacing and Sightlines",
-      "content_text": "Design a smart pole street lighting layout with proven spacing, mounting height, and sightline methods. Follow step by step planning, field checks, code-aided spacing, and verification.",
-      "date_published": "2025-11-27T22:25:00.0000000Z",
-      "date_modified": "2025-11-27T22:25:00.0000000Z"
+      "id": "https://pulsegeek.com/articles/reducing-dead-ends-in-branching-narratives/",
+      "url": "https://pulsegeek.com/articles/reducing-dead-ends-in-branching-narratives/",
+      "title": "Reducing Dead Ends in Branching Narratives",
+      "content_text": "Step by step methods to prevent dead ends in branching narratives using goals, state logic, and fail forward design. Includes validation checks, Ink example, and troubleshooting patterns.",
+      "date_published": "2025-12-03T22:25:00.0000000Z",
+      "date_modified": "2025-12-03T22:25:00.0000000Z"
     },
     {
-      "id": "https://pulsegeek.com/articles/how-to-dump-bios-from-your-console-safely/",
-      "url": "https://pulsegeek.com/articles/how-to-dump-bios-from-your-console-safely/",
-      "title": "How to Dump BIOS from Your Console Safely",
-      "content_text": "Learn a lawful, step by step method to dump your console BIOS safely, verify integrity, and avoid corruption. Follow clear tools, backups, and checks to protect hardware and data.",
-      "date_published": "2025-11-27T22:24:00.0000000Z",
-      "date_modified": "2025-11-27T22:24:00.0000000Z"
+      "id": "https://pulsegeek.com/articles/threat-intelligence-enrichment-with-ai-models-ideas/",
+      "url": "https://pulsegeek.com/articles/threat-intelligence-enrichment-with-ai-models-ideas/",
+      "title": "Threat Intelligence Enrichment with AI Models: Ideas",
+      "content_text": "Practical ways to enrich threat intelligence using AI models. Learn scoring, entity resolution, ATT\u0026CK mapping, graph links, and context to drive faster triage and better decisions.",
+      "date_published": "2025-12-03T22:24:00.0000000Z",
+      "date_modified": "2025-12-03T22:24:00.0000000Z"
     },
     {
-      "id": "https://pulsegeek.com/articles/import-settings-for-textures-and-models-a-setup-guide/",
-      "url": "https://pulsegeek.com/articles/import-settings-for-textures-and-models-a-setup-guide/",
-      "title": "Import Settings for Textures and Models: A Setup Guide",
-      "content_text": "Configure import settings for textures and 3D models in Unity, Unreal, and Godot. Follow a practical plan, apply presets, validate results, and fix common pitfalls for clean, performant assets.",
-      "date_published": "2025-11-27T22:23:00.0000000Z",
-      "date_modified": "2025-11-27T22:23:00.0000000Z"
+      "id": "https://pulsegeek.com/articles/biggest-ai-companies-inside-their-strategic-bets/",
+      "url": "https://pulsegeek.com/articles/biggest-ai-companies-inside-their-strategic-bets/",
+      "title": "Biggest AI Companies: Inside Their Strategic Bets",
+      "content_text": "A clear look at the biggest AI companies and the strategic bets shaping compute, models, governance, and ecosystems. Learn patterns, examples, and tradeoffs leaders weigh now.",
+      "date_published": "2025-12-03T22:23:00.0000000Z",
+      "date_modified": "2025-12-03T22:23:00.0000000Z"
     },
     {
-      "id": "https://pulsegeek.com/articles/terrain-stitching-and-chunking-seamless-streaming/",
-      "url": "https://pulsegeek.com/articles/terrain-stitching-and-chunking-seamless-streaming/",
-      "title": "Terrain Stitching and Chunking: Seamless Streaming",
-      "content_text": "Learn how to stitch terrain tiles and stream chunks seamlessly with LOD, skirts, and async IO. Step by step planning through validation with profiling and fallback strategies.",
-      "date_published": "2025-11-27T22:22:00.0000000Z",
-      "date_modified": "2025-11-27T22:22:00.0000000Z"
+      "id": "https://pulsegeek.com/articles/deep-learning-for-the-financial-sector-when-its-worth-it/",
+      "url": "https://pulsegeek.com/articles/deep-learning-for-the-financial-sector-when-its-worth-it/",
+      "title": "Deep Learning for the Financial Sector: When It\u2019s Worth It",
+      "content_text": "Learn where deep learning beats traditional models in finance, how to judge data and ROI, and when simpler methods win. Practical lenses, examples, and risks guide investment banking and markets decisions.",
+      "date_published": "2025-12-03T22:22:00.0000000Z",
+      "date_modified": "2025-12-03T22:22:00.0000000Z"
     },
     {
-      "id": "https://pulsegeek.com/articles/frame-pacing-vs-bitrate-spikes-keep-motion-stable/",
-      "url": "https://pulsegeek.com/articles/frame-pacing-vs-bitrate-spikes-keep-motion-stable/",
-      "title": "Frame Pacing vs Bitrate Spikes: Keep Motion Stable",
-      "content_text": "Learn how frame pacing interacts with bitrate spikes in cloud gaming. Diagnose visual stutter versus compression artifacts, choose encoder settings wisely, and keep motion stable across variable networks.",
-      "date_published": "2025-11-27T22:21:00.0000000Z",
-      "date_modified": "2025-11-27T22:21:00.0000000Z"
+      "id": "https://pulsegeek.com/articles/computer-vision-for-retail-what-it-sees-and-enables/",
+      "url": "https://pulsegeek.com/articles/computer-vision-for-retail-what-it-sees-and-enables/",
+      "title": "Computer Vision for Retail: What It Sees and Enables",
+      "content_text": "Learn how computer vision interprets retail scenes, from object detection to dwell heatmaps, and when to deploy cameras, sensors, or shelf data for measurable store outcomes.",
+      "date_published": "2025-12-03T22:21:00.0000000Z",
+      "date_modified": "2025-12-03T22:21:00.0000000Z"
     },
     {
-      "id": "https://pulsegeek.com/articles/elasticity-of-demand-for-cosmetic-items-explained/",
-      "url": "https://pulsegeek.com/articles/elasticity-of-demand-for-cosmetic-items-explained/",
-      "title": "Elasticity of Demand for Cosmetic Items Explained",
-      "content_text": "Learn how to measure and interpret elasticity of demand for cosmetic items in game economies, with frameworks, examples, and tradeoffs to guide pricing and event design.",
-      "date_published": "2025-11-27T22:20:00.0000000Z",
-      "date_modified": "2025-11-27T22:20:00.0000000Z"
+      "id": "https://pulsegeek.com/articles/street-light-using-iot-prototype-to-field-deployment/",
+      "url": "https://pulsegeek.com/articles/street-light-using-iot-prototype-to-field-deployment/",
+      "title": "Street Light Using IoT: Prototype to Field Deployment",
+      "content_text": "Build and scale a street light using IoT from bench prototype to field rollout. Plan parts, choose protocols, provision devices, verify data, and harden for real sites.",
+      "date_published": "2025-12-03T22:20:00.0000000Z",
+      "date_modified": "2025-12-03T22:20:00.0000000Z"
     },
     {
-      "id": "https://pulsegeek.com/articles/dialogue-node-systems-for-choice-heavy-games/",
-      "url": "https://pulsegeek.com/articles/dialogue-node-systems-for-choice-heavy-games/",
-      "title": "Dialogue Node Systems for Choice-Heavy Games",
-      "content_text": "Learn how dialogue node systems structure choices, track state, and manage consequences in narrative-heavy games with practical frameworks, examples, and pitfalls to avoid.",
-      "date_published": "2025-11-27T22:19:00.0000000Z",
-      "date_modified": "2025-11-27T22:19:00.0000000Z"
+      "id": "https://pulsegeek.com/articles/using-zip-and-7z-archives-in-emulators/",
+      "url": "https://pulsegeek.com/articles/using-zip-and-7z-archives-in-emulators/",
+      "title": "Using ZIP and 7z Archives in Emulators",
+      "content_text": "Learn when to use ZIP or 7z with emulators, how compression impacts load times, and the tradeoffs for accuracy, storage, and portability.",
+      "date_published": "2025-12-03T22:19:00.0000000Z",
+      "date_modified": "2025-12-03T22:19:00.0000000Z"
     },
     {
-      "id": "https://pulsegeek.com/articles/ai-gpu-considerations-for-security-scale-models/",
-      "url": "https://pulsegeek.com/articles/ai-gpu-considerations-for-security-scale-models/",
-      "title": "AI GPU Considerations for Security-Scale Models",
-      "content_text": "Plan GPU choices for security-scale AI models with clear sizing rules, throughput targets, memory math, and tradeoffs across precision, batching, and latency.",
-      "date_published": "2025-11-27T22:18:00.0000000Z",
-      "date_modified": "2025-11-27T22:18:00.0000000Z"
+      "id": "https://pulsegeek.com/articles/unity-addressables-vs-unreal-asset-manager/",
+      "url": "https://pulsegeek.com/articles/unity-addressables-vs-unreal-asset-manager/",
+      "title": "Unity Addressables vs Unreal Asset Manager",
+      "content_text": "Compare Unity Addressables and Unreal Asset Manager across referencing, packaging, async loading, memory, and versioning to choose the right content system for your game.",
+      "date_published": "2025-12-03T22:18:00.0000000Z",
+      "date_modified": "2025-12-03T22:18:00.0000000Z"
     },
     {
-      "id": "https://pulsegeek.com/articles/companies-using-ai-cross-industry-moves-that-matter/",
-      "url": "https://pulsegeek.com/articles/companies-using-ai-cross-industry-moves-that-matter/",
-      "title": "Companies Using AI: Cross-Industry Moves That Matter",
-      "content_text": "See how companies use AI across industries with concrete patterns, vendor choices, and governance guardrails. Learn build versus buy tradeoffs, examples, and a practical roadmap for scaling value while managing risk and change.",
-      "date_published": "2025-11-27T22:17:00.0000000Z",
-      "date_modified": "2025-11-27T22:17:00.0000000Z"
+      "id": "https://pulsegeek.com/articles/pacing-and-surprise-in-level-generation-rhythm-matters/",
+      "url": "https://pulsegeek.com/articles/pacing-and-surprise-in-level-generation-rhythm-matters/",
+      "title": "Pacing and Surprise in Level Generation: Rhythm Matters",
+      "content_text": "Design pacing and surprise in procedural levels with curves, foreshadowing, rarity budgets, and guardrails. Learn concrete examples, tradeoffs, and a runnable surprise-budget snippet to balance tension and relief.",
+      "date_published": "2025-12-03T22:17:00.0000000Z",
+      "date_modified": "2025-12-03T22:17:00.0000000Z"
     },
     {
-      "id": "https://pulsegeek.com/articles/ai-for-financial-markets-tools-data-and-workflows/",
-      "url": "https://pulsegeek.com/articles/ai-for-financial-markets-tools-data-and-workflows/",
-      "title": "AI for Financial Markets: Tools, Data, and Workflows",
-      "content_text": "Learn how AI improves financial markets with practical tools, reliable data sources, and repeatable workflows that balance alpha discovery, risk control, and governance across trading, analytics, and oversight.",
-      "date_published": "2025-11-27T22:16:00.0000000Z",
-      "date_modified": "2025-11-27T22:16:00.0000000Z"
+      "id": "https://pulsegeek.com/articles/tune-cbr-vs-vbr-for-cloud-gaming-decision-paths/",
+      "url": "https://pulsegeek.com/articles/tune-cbr-vs-vbr-for-cloud-gaming-decision-paths/",
+      "title": "Tune CBR vs VBR for Cloud Gaming: Decision Paths",
+      "content_text": "Learn when to choose CBR or VBR for cloud gaming. Follow diagnostic steps, set encoder flags, validate with metrics, and fix artifacts without adding latency.",
+      "date_published": "2025-12-03T22:16:00.0000000Z",
+      "date_modified": "2025-12-03T22:16:00.0000000Z"
     },
     {
-      "id": "https://pulsegeek.com/articles/store-replenishment-automation-with-ai-from-rules-to-ml/",
-      "url": "https://pulsegeek.com/articles/store-replenishment-automation-with-ai-from-rules-to-ml/",
-      "title": "Store Replenishment Automation with AI: From Rules to ML",
-      "content_text": "Learn how to automate store replenishment with AI, from setting demand signals to deploying ML reorder logic, validating accuracy, and resolving edge cases.",
-      "date_published": "2025-11-26T22:25:00.0000000Z",
-      "date_modified": "2025-11-26T22:25:00.0000000Z"
+      "id": "https://pulsegeek.com/articles/what-is-a-game-consumer-price-index/",
+      "url": "https://pulsegeek.com/articles/what-is-a-game-consumer-price-index/",
+      "title": "What Is a Game Consumer Price Index?",
+      "content_text": "Learn how a game consumer price index tracks item inflation, builds a representative basket, and chooses Laspeyres vs Paasche formulas to monitor economy health and guide live ops decisions.",
+      "date_published": "2025-12-02T22:25:00.0000000Z",
+      "date_modified": "2025-12-02T22:25:00.0000000Z"
     },
     {
-      "id": "https://pulsegeek.com/articles/nb-iot-street-lighting-gateways-selection-and-placement/",
-      "url": "https://pulsegeek.com/articles/nb-iot-street-lighting-gateways-selection-and-placement/",
-      "title": "NB\u2011IoT Street Lighting Gateways: Selection and Placement",
-      "content_text": "Compare NB\u2011IoT street lighting gateways against direct nodes and hybrid bridges. Learn selection criteria, placement rules, and scenario fit for reliable, scalable control.",
-      "date_published": "2025-11-26T22:24:00.0000000Z",
-      "date_modified": "2025-11-26T22:24:00.0000000Z"
+      "id": "https://pulsegeek.com/articles/managing-narrative-states-across-interwoven-quests/",
+      "url": "https://pulsegeek.com/articles/managing-narrative-states-across-interwoven-quests/",
+      "title": "Managing Narrative States Across Interwoven Quests",
+      "content_text": "Learn a reliable how-to for tracking narrative states across interwoven quests using variables, state graphs, and save rules with validation steps and troubleshooting.",
+      "date_published": "2025-12-02T22:24:00.0000000Z",
+      "date_modified": "2025-12-02T22:24:00.0000000Z"
     },
     {
-      "id": "https://pulsegeek.com/articles/game-dumping-best-practices-for-preservation/",
-      "url": "https://pulsegeek.com/articles/game-dumping-best-practices-for-preservation/",
-      "title": "Game Dumping Best Practices for Preservation",
-      "content_text": "Follow a proven workflow for accurate game dumping that preserves data, reduces errors, and validates integrity with hashes. Learn media handling, format choices, and verification to keep archives future proof.",
-      "date_published": "2025-11-26T22:23:00.0000000Z",
-      "date_modified": "2025-11-26T22:23:00.0000000Z"
+      "id": "https://pulsegeek.com/articles/static-vs-dynamic-analysis-with-ai-what-to-use-when/",
+      "url": "https://pulsegeek.com/articles/static-vs-dynamic-analysis-with-ai-what-to-use-when/",
+      "title": "Static vs Dynamic Analysis with AI: What to Use When",
+      "content_text": "Compare static and dynamic analysis with AI for malware detection. Learn evaluation criteria, tradeoffs, examples, and scenario fit to choose the right approach.",
+      "date_published": "2025-12-02T22:23:00.0000000Z",
+      "date_modified": "2025-12-02T22:23:00.0000000Z"
     },
     {
-      "id": "https://pulsegeek.com/articles/how-to-organize-game-project-folders-that-scale/",
-      "url": "https://pulsegeek.com/articles/how-to-organize-game-project-folders-that-scale/",
-      "title": "How to Organize Game Project Folders That Scale",
-      "content_text": "Learn a practical folder strategy for game projects with naming rules, presets, automation scripts, and validation checks to prevent chaos as teams grow and platforms multiply.",
-      "date_published": "2025-11-26T22:22:00.0000000Z",
-      "date_modified": "2025-11-26T22:22:00.0000000Z"
+      "id": "https://pulsegeek.com/articles/artificial-intelligence-software-companies-to-know/",
+      "url": "https://pulsegeek.com/articles/artificial-intelligence-software-companies-to-know/",
+      "title": "Artificial Intelligence Software Companies to Know",
+      "content_text": "Explore six categories of artificial intelligence software companies, with examples, selection criteria, and tradeoffs that affect integration, governance, and ROI.",
+      "date_published": "2025-12-02T22:22:00.0000000Z",
+      "date_modified": "2025-12-02T22:22:00.0000000Z"
     },
     {
-      "id": "https://pulsegeek.com/articles/pathfinding-aware-level-generation-design-for-flow/",
-      "url": "https://pulsegeek.com/articles/pathfinding-aware-level-generation-design-for-flow/",
-      "title": "Pathfinding-Aware Level Generation: Design for Flow",
-      "content_text": "Learn how to make level generation account for pathfinding from the start, using constraints, metrics, and cost maps to create fair, readable, and flowing play spaces.",
-      "date_published": "2025-11-26T22:21:00.0000000Z",
-      "date_modified": "2025-11-26T22:21:00.0000000Z"
+      "id": "https://pulsegeek.com/articles/backtesting-strategies-with-ml-in-markets-do-it-right/",
+      "url": "https://pulsegeek.com/articles/backtesting-strategies-with-ml-in-markets-do-it-right/",
+      "title": "Backtesting Strategies with ML in Markets: Do It Right",
+      "content_text": "Learn a reliable, stepwise method to backtest machine learning strategies in financial markets, from data hygiene and walk-forward validation to leakage defenses, metrics, and reproducible experiments with practical troubleshooting.",
+      "date_published": "2025-12-02T22:21:00.0000000Z",
+      "date_modified": "2025-12-02T22:21:00.0000000Z"
     },
     {
-      "id": "https://pulsegeek.com/articles/encoding-presets-for-low-latency-gaming-top-choices/",
-      "url": "https://pulsegeek.com/articles/encoding-presets-for-low-latency-gaming-top-choices/",
-      "title": "Encoding Presets for Low\u2011Latency Gaming: Top Choices",
-      "content_text": "Choose the right encoding presets for fluid, low-latency gaming. Compare NVENC, x264, AMF, and AV1 options, with zero-latency tuning, rate control choices, and practical tradeoffs for different GPUs and networks.",
-      "date_published": "2025-11-26T22:20:00.0000000Z",
-      "date_modified": "2025-11-26T22:20:00.0000000Z"
+      "id": "https://pulsegeek.com/articles/computer-vision-for-loss-prevention-in-retail-a-primer/",
+      "url": "https://pulsegeek.com/articles/computer-vision-for-loss-prevention-in-retail-a-primer/",
+      "title": "Computer Vision for Loss Prevention in Retail: A Primer",
+      "content_text": "Set up computer vision for retail loss prevention with clear planning, tech choices, execution steps, validation, and fixes to reduce shrink and false alerts.",
+      "date_published": "2025-12-02T22:20:00.0000000Z",
+      "date_modified": "2025-12-02T22:20:00.0000000Z"
     },
     {
-      "id": "https://pulsegeek.com/articles/cohort-analysis-for-earn-and-spend-in-games/",
-      "url": "https://pulsegeek.com/articles/cohort-analysis-for-earn-and-spend-in-games/",
-      "title": "Cohort Analysis for Earn and Spend in Games",
-      "content_text": "Learn how to run cohort analysis on player earn and spend to diagnose sinks, sources, and balance issues. Get definitions, decision lenses, scenarios, and practical tradeoffs for live ops.",
-      "date_published": "2025-11-26T22:19:00.0000000Z",
-      "date_modified": "2025-11-26T22:19:00.0000000Z"
+      "id": "https://pulsegeek.com/articles/street-light-iot-gateways-nodes-and-backhaul-basics/",
+      "url": "https://pulsegeek.com/articles/street-light-iot-gateways-nodes-and-backhaul-basics/",
+      "title": "Street Light IoT: Gateways, Nodes, and Backhaul Basics",
+      "content_text": "Learn how street light IoT systems fit together. Understand gateways, node controllers, and backhaul choices with practical tradeoffs, examples, and decision criteria for reliable, scalable networks.",
+      "date_published": "2025-12-02T22:19:00.0000000Z",
+      "date_modified": "2025-12-02T22:19:00.0000000Z"
     },
     {
-      "id": "https://pulsegeek.com/articles/decision-tree-templates-for-interactive-stories/",
-      "url": "https://pulsegeek.com/articles/decision-tree-templates-for-interactive-stories/",
-      "title": "Decision Tree Templates for Interactive Stories",
-      "content_text": "Explore six proven decision tree templates for interactive stories. Learn when to use each pattern, see examples, and weigh tradeoffs for pacing, agency, and production scope.",
-      "date_published": "2025-11-26T22:18:00.0000000Z",
-      "date_modified": "2025-11-26T22:18:00.0000000Z"
+      "id": "https://pulsegeek.com/articles/rom-vs-iso-vs-bin-cue-explained-for-emulation/",
+      "url": "https://pulsegeek.com/articles/rom-vs-iso-vs-bin-cue-explained-for-emulation/",
+      "title": "ROM vs ISO vs BIN/CUE Explained for Emulation",
+      "content_text": "Compare ROM, ISO, and BIN with CUE for emulation. Learn accuracy, compression, load speed, and metadata tradeoffs to choose the right format for your setup.",
+      "date_published": "2025-12-02T22:18:00.0000000Z",
+      "date_modified": "2025-12-02T22:18:00.0000000Z"
     },
     {
-      "id": "https://pulsegeek.com/articles/ai-data-pipelines-for-threat-intelligence-enrichment/",
-      "url": "https://pulsegeek.com/articles/ai-data-pipelines-for-threat-intelligence-enrichment/",
-      "title": "AI Data Pipelines for Threat Intelligence Enrichment",
-      "content_text": "Build an AI-driven pipeline that enriches threat intelligence with model scores and context. Plan sources, choose transport and storage, run steps, validate outputs, and fix common issues.",
-      "date_published": "2025-11-26T22:17:00.0000000Z",
-      "date_modified": "2025-11-26T22:17:00.0000000Z"
+      "id": "https://pulsegeek.com/articles/texture-compression-formats-for-games-a-quick-catalog/",
+      "url": "https://pulsegeek.com/articles/texture-compression-formats-for-games-a-quick-catalog/",
+      "title": "Texture Compression Formats for Games: A Quick Catalog",
+      "content_text": "Understand how BC, ETC, ASTC, and PVRTC texture formats affect quality, size, and performance across platforms, plus when to use uncompressed fallbacks and key import settings.",
+      "date_published": "2025-12-02T22:17:00.0000000Z",
+      "date_modified": "2025-12-02T22:17:00.0000000Z"
     },
     {
-      "id": "https://pulsegeek.com/articles/what-is-ai-in-business-intelligence-key-concepts/",
-      "url": "https://pulsegeek.com/articles/what-is-ai-in-business-intelligence-key-concepts/",
-      "title": "What Is AI in Business Intelligence? Key Concepts",
-      "content_text": "Learn what AI in business intelligence means, how it works, and where it fits. Explore architecture patterns, model choices, and dashboard examples that improve reporting and decision speed.",
-      "date_published": "2025-11-26T22:16:00.0000000Z",
-      "date_modified": "2025-11-26T22:16:00.0000000Z"
+      "id": "https://pulsegeek.com/articles/explainable-generation-for-player-trust-show-intent/",
+      "url": "https://pulsegeek.com/articles/explainable-generation-for-player-trust-show-intent/",
+      "title": "Explainable Generation for Player Trust: Show Intent",
+      "content_text": "Learn how explainable procedural generation builds player trust using reasons metadata, constraints, and audits, with concrete frameworks, scenarios, and tradeoffs developers can apply.",
+      "date_published": "2025-12-02T22:16:00.0000000Z",
+      "date_modified": "2025-12-02T22:16:00.0000000Z"
     },
     {
-      "id": "https://pulsegeek.com/articles/ai-finance-trading-from-signal-to-execution-quality/",
-      "url": "https://pulsegeek.com/articles/ai-finance-trading-from-signal-to-execution-quality/",
-      "title": "AI Finance Trading: From Signal to Execution Quality",
-      "content_text": "Learn how AI connects market signals to execution quality in trading. Explore definitions, decision frameworks, realistic examples, and risk-aware limits for data, models, and routing.",
-      "date_published": "2025-11-25T22:25:00.0000000Z",
-      "date_modified": "2025-11-25T22:25:00.0000000Z"
+      "id": "https://pulsegeek.com/articles/resolution-vs-bitrate-trade-offs-in-cloud-gaming/",
+      "url": "https://pulsegeek.com/articles/resolution-vs-bitrate-trade-offs-in-cloud-gaming/",
+      "title": "Resolution vs Bitrate Trade\u2011Offs in Cloud Gaming",
+      "content_text": "Learn how resolution, bitrate, and codec efficiency interact in cloud gaming. Compare decision lenses, see practical scenarios, and avoid common pitfalls to keep motion stable and input responsive.",
+      "date_published": "2025-12-01T22:25:00.0000000Z",
+      "date_modified": "2025-12-01T22:25:00.0000000Z"
     },
     {
-      "id": "https://pulsegeek.com/articles/retail-ai-technology-platforms-patterns-and-proof/",
-      "url": "https://pulsegeek.com/articles/retail-ai-technology-platforms-patterns-and-proof/",
-      "title": "Retail AI Technology: Platforms, Patterns, and Proof",
-      "content_text": "Learn how retail AI technology works across platforms and patterns, how to evaluate choices, and what proof points matter for forecasting, replenishment, and assortments.",
-      "date_published": "2025-11-25T22:24:00.0000000Z",
-      "date_modified": "2025-11-25T22:24:00.0000000Z"
+      "id": "https://pulsegeek.com/articles/simulating-supply-shocks-in-game-economies/",
+      "url": "https://pulsegeek.com/articles/simulating-supply-shocks-in-game-economies/",
+      "title": "Simulating Supply Shocks in Game Economies",
+      "content_text": "Learn how to model supply shocks in game economies, from planning and parameter choices to running Python simulations, validating outcomes, and tuning sinks to stabilize prices.",
+      "date_published": "2025-12-01T22:24:00.0000000Z",
+      "date_modified": "2025-12-01T22:24:00.0000000Z"
     },
     {
-      "id": "https://pulsegeek.com/articles/lorawan-street-light-controllers-range-power-and-scale/",
-      "url": "https://pulsegeek.com/articles/lorawan-street-light-controllers-range-power-and-scale/",
-      "title": "LoRaWAN Street Light Controllers: Range, Power, and Scale",
-      "content_text": "Compare LoRaWAN street light controllers against Wi\u2011Fi, Zigbee, NB\u2011IoT, and 5G. Weigh range, power, density, latency, and lifecycle costs with scenario\u2011based recommendations for cities and campuses.",
-      "date_published": "2025-11-25T22:23:00.0000000Z",
-      "date_modified": "2025-11-25T22:23:00.0000000Z"
+      "id": "https://pulsegeek.com/articles/ink-scripting-examples-for-conditional-branches/",
+      "url": "https://pulsegeek.com/articles/ink-scripting-examples-for-conditional-branches/",
+      "title": "Ink Scripting Examples for Conditional Branches",
+      "content_text": "Learn practical Ink scripting patterns for conditional branches with variables, flags, and visit counts. See tested examples, tradeoffs, and one concise snippet you can adapt.",
+      "date_published": "2025-12-01T22:23:00.0000000Z",
+      "date_modified": "2025-12-01T22:23:00.0000000Z"
     },
     {
-      "id": "https://pulsegeek.com/articles/dolphin-keys-and-the-wii-common-key-explained/",
-      "url": "https://pulsegeek.com/articles/dolphin-keys-and-the-wii-common-key-explained/",
-      "title": "Dolphin Keys and the Wii Common Key Explained",
-      "content_text": "Learn how Dolphin uses title keys and the Wii common key, what each does, where configuration lives, and legal guardrails for ethical emulation.",
-      "date_published": "2025-11-25T22:22:00.0000000Z",
-      "date_modified": "2025-11-25T22:22:00.0000000Z"
+      "id": "https://pulsegeek.com/articles/malware-classification-with-ml-features-a-guide/",
+      "url": "https://pulsegeek.com/articles/malware-classification-with-ml-features-a-guide/",
+      "title": "Malware Classification with ML Features: A Guide",
+      "content_text": "Learn how to build malware classification using machine learning features. Plan data, prepare tooling, run training, validate metrics, and troubleshoot issues with clear steps and practical tips.",
+      "date_published": "2025-12-01T22:22:00.0000000Z",
+      "date_modified": "2025-12-01T22:22:00.0000000Z"
     },
     {
-      "id": "https://pulsegeek.com/articles/content-streaming-for-open-worlds-flow-without-gaps/",
-      "url": "https://pulsegeek.com/articles/content-streaming-for-open-worlds-flow-without-gaps/",
-      "title": "Content Streaming for Open Worlds: Flow Without Gaps",
-      "content_text": "Learn how open worlds stream content without hitching using regions, budgets, and predictive loading. Compare paging models, I/O constraints, and LOD tradeoffs across platforms with practical decision tools.",
-      "date_published": "2025-11-25T22:21:00.0000000Z",
-      "date_modified": "2025-11-25T22:21:00.0000000Z"
+      "id": "https://pulsegeek.com/articles/artificial-intelligence-services-companies-2025-guide/",
+      "url": "https://pulsegeek.com/articles/artificial-intelligence-services-companies-2025-guide/",
+      "title": "Artificial Intelligence Services Companies: 2025 Guide",
+      "content_text": "Explore five service models top AI services companies offer in 2025, with examples, selection criteria, tradeoffs, and governance considerations to reduce risk and speed outcomes.",
+      "date_published": "2025-12-01T22:21:00.0000000Z",
+      "date_modified": "2025-12-01T22:21:00.0000000Z"
     },
     {
-      "id": "https://pulsegeek.com/articles/dungeon-generation-algorithms-patterns-and-tradeoffs/",
-      "url": "https://pulsegeek.com/articles/dungeon-generation-algorithms-patterns-and-tradeoffs/",
-      "title": "Dungeon Generation Algorithms: Patterns and Tradeoffs",
-      "content_text": "Compare dungeon generation algorithms through concrete patterns, examples, and tradeoffs. Learn when to choose BSP, cellular automata, WFC, walkers, or graph grammars.",
-      "date_published": "2025-11-25T22:20:00.0000000Z",
-      "date_modified": "2025-11-25T22:20:00.0000000Z"
+      "id": "https://pulsegeek.com/articles/algorithmic-trading-ai-vs-traditional-quant-models/",
+      "url": "https://pulsegeek.com/articles/algorithmic-trading-ai-vs-traditional-quant-models/",
+      "title": "Algorithmic Trading: AI vs Traditional Quant Models",
+      "content_text": "Compare AI-driven trading and traditional quant models across data, latency, risk, and governance. Learn which approach fits your market, timeline, and controls.",
+      "date_published": "2025-12-01T22:20:00.0000000Z",
+      "date_modified": "2025-12-01T22:20:00.0000000Z"
     },
     {
-      "id": "https://pulsegeek.com/articles/dynamic-bitrate-ladders-for-cloud-games-build-smart/",
-      "url": "https://pulsegeek.com/articles/dynamic-bitrate-ladders-for-cloud-games-build-smart/",
-      "title": "Dynamic Bitrate Ladders for Cloud Games: Build Smart",
-      "content_text": "Learn how to design dynamic bitrate ladders for cloud games that adapt to motion, network jitter, and device limits while keeping latency tight and visuals stable.",
-      "date_published": "2025-11-25T22:19:00.0000000Z",
-      "date_modified": "2025-11-25T22:19:00.0000000Z"
+      "id": "https://pulsegeek.com/articles/ai-in-retail-stores-real-time-insight-better-service/",
+      "url": "https://pulsegeek.com/articles/ai-in-retail-stores-real-time-insight-better-service/",
+      "title": "AI in Retail Stores: Real-Time Insight, Better Service",
+      "content_text": "Learn how AI in retail stores turns live data into timely decisions, boosting service quality, merchandising precision, and operational efficiency without sacrificing privacy or customer trust.",
+      "date_published": "2025-12-01T22:19:00.0000000Z",
+      "date_modified": "2025-12-01T22:19:00.0000000Z"
     },
     {
-      "id": "https://pulsegeek.com/articles/build-a-virtual-economy-dashboard-step-by-step/",
-      "url": "https://pulsegeek.com/articles/build-a-virtual-economy-dashboard-step-by-step/",
-      "title": "Build a Virtual Economy Dashboard Step\u2011By\u2011Step",
-      "content_text": "Learn how to plan, build, and validate a virtual economy dashboard with reliable KPIs, data models, and alerts. Follow actionable steps, code, and tests to avoid bias and drift.",
-      "date_published": "2025-11-25T22:18:00.0000000Z",
-      "date_modified": "2025-11-25T22:18:00.0000000Z"
+      "id": "https://pulsegeek.com/articles/smart-street-light-iot-common-architectures-and-choices/",
+      "url": "https://pulsegeek.com/articles/smart-street-light-iot-common-architectures-and-choices/",
+      "title": "Smart Street Light IoT: Common Architectures and Choices",
+      "content_text": "Understand smart street light IoT architectures, compare connectivity options, and learn decision criteria for scale, resilience, and cost across real-world urban and campus deployments.",
+      "date_published": "2025-12-01T22:18:00.0000000Z",
+      "date_modified": "2025-12-01T22:18:00.0000000Z"
     },
     {
-      "id": "https://pulsegeek.com/articles/choice-architecture-in-game-writing-shaping-player-intent/",
-      "url": "https://pulsegeek.com/articles/choice-architecture-in-game-writing-shaping-player-intent/",
-      "title": "Choice Architecture in Game Writing: Shaping Player Intent",
-      "content_text": "Learn how choice architecture in game writing guides player intent, reduces confusion, and sustains story momentum with clear options, readable consequences, and fair feedback that respects agency across quests and scenes.",
-      "date_published": "2025-11-25T22:17:00.0000000Z",
-      "date_modified": "2025-11-25T22:17:00.0000000Z"
+      "id": "https://pulsegeek.com/articles/redump-and-no-intro-sets-explained-for-accuracy/",
+      "url": "https://pulsegeek.com/articles/redump-and-no-intro-sets-explained-for-accuracy/",
+      "title": "Redump and No-Intro Sets Explained for Accuracy",
+      "content_text": "Learn how Redump and No-Intro sets differ, why they exist, and when to use each for accuracy, preservation, and compatibility. Get verification tips without legal risk.",
+      "date_published": "2025-12-01T22:17:00.0000000Z",
+      "date_modified": "2025-12-01T22:17:00.0000000Z"
     },
     {
-      "id": "https://pulsegeek.com/articles/ai-ml-for-malware-detection-architectures-and-data/",
-      "url": "https://pulsegeek.com/articles/ai-ml-for-malware-detection-architectures-and-data/",
-      "title": "AI/ML for Malware Detection: Architectures and Data",
-      "content_text": "Explore AI and ML architectures for malware detection, from data sourcing and features to model choices, evaluation, and deployment patterns that scale securely in enterprise environments.",
-      "date_published": "2025-11-25T22:16:00.0000000Z",
-      "date_modified": "2025-11-25T22:16:00.0000000Z"
+      "id": "https://pulsegeek.com/articles/source-control-for-large-binary-assets-smart-tactics/",
+      "url": "https://pulsegeek.com/articles/source-control-for-large-binary-assets-smart-tactics/",
+      "title": "Source Control for Large Binary Assets: Smart Tactics",
+      "content_text": "Learn practical tactics for managing large binary assets in source control, from Git LFS and locking to deterministic exports, sparse sync, and CI cooking.",
+      "date_published": "2025-12-01T22:16:00.0000000Z",
+      "date_modified": "2025-12-01T22:16:00.0000000Z"
     }
   ]
 }
