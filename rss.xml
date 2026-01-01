@@ -6,357 +6,357 @@
     <description>Tech news, gaming, and geek culture in one pulse</description>
     <language>en-us</language>
     <generator>PulseGeek Rss Feed Generator</generator>
-    <lastBuildDate>Wed, 17 Dec 2025 22:23:00 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 01 Jan 2026 22:21:00 GMT</lastBuildDate>
     <atom:link href="https://pulsegeek.com/rss.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Smart Street Light Technology Dashboards: What to Monitor</title>
-      <link>https://pulsegeek.com/articles/smart-street-light-technology-dashboards-what-to-monitor/</link>
-      <guid isPermaLink="true">https://pulsegeek.com/articles/smart-street-light-technology-dashboards-what-to-monitor/</guid>
-      <pubDate>Wed, 17 Dec 2025 22:23:00 GMT</pubDate>
-      <description>Learn what to monitor on smart street light dashboards, from asset health to energy use and alarms, with decision criteria, examples, and tradeoffs for scalable operations.</description>
+      <title>Using High Refresh Rates to Reduce Lag</title>
+      <link>https://pulsegeek.com/articles/using-high-refresh-rates-to-reduce-lag/</link>
+      <guid isPermaLink="true">https://pulsegeek.com/articles/using-high-refresh-rates-to-reduce-lag/</guid>
+      <pubDate>Thu, 01 Jan 2026 22:21:00 GMT</pubDate>
+      <description>Learn how higher refresh displays cut emulator input latency. Plan settings, configure drivers, tune sync, verify results, and fix stutter without trading accuracy for speed.</description>
     </item>
     <item>
-      <title>Region Locking in Emulation: Standards, Signals, Workarounds</title>
-      <link>https://pulsegeek.com/articles/region-locking-in-emulation-standards-signals-workarounds/</link>
-      <guid isPermaLink="true">https://pulsegeek.com/articles/region-locking-in-emulation-standards-signals-workarounds/</guid>
-      <pubDate>Wed, 17 Dec 2025 22:22:00 GMT</pubDate>
-      <description>Learn how region locking works in emulation, from broadcast standards and timing signals to firmware checks and safe workarounds, with practical tradeoffs and legal awareness.</description>
+      <title>Tune Physics Materials: Friction and Bounce That Feel Right</title>
+      <link>https://pulsegeek.com/articles/tune-physics-materials-friction-and-bounce-that-feel-right/</link>
+      <guid isPermaLink="true">https://pulsegeek.com/articles/tune-physics-materials-friction-and-bounce-that-feel-right/</guid>
+      <pubDate>Thu, 01 Jan 2026 22:20:00 GMT</pubDate>
+      <description>Learn how to tune friction and bounce in physics materials for responsive gameplay. Plan tests, set ranges, apply settings in Unity or similar engines, and validate outcomes.</description>
     </item>
     <item>
-      <title>Shader Variant Stripping: Reduce Build Size Fast</title>
-      <link>https://pulsegeek.com/articles/shader-variant-stripping-reduce-build-size-fast/</link>
-      <guid isPermaLink="true">https://pulsegeek.com/articles/shader-variant-stripping-reduce-build-size-fast/</guid>
-      <pubDate>Wed, 17 Dec 2025 22:21:00 GMT</pubDate>
-      <description>Learn how to plan, configure, and verify shader variant stripping to shrink builds, cut load times, and keep render paths deterministic without breaking visuals.</description>
+      <title>Wi‑Fi 6 vs Wi‑Fi 7 for Cloud Gaming: Latency Wins</title>
+      <link>https://pulsegeek.com/articles/wi-fi-6-vs-wi-fi-7-for-cloud-gaming-latency-wins/</link>
+      <guid isPermaLink="true">https://pulsegeek.com/articles/wi-fi-6-vs-wi-fi-7-for-cloud-gaming-latency-wins/</guid>
+      <pubDate>Thu, 01 Jan 2026 22:19:00 GMT</pubDate>
+      <description>Compare Wi‑Fi 6 and Wi‑Fi 7 for cloud gaming. See latency, jitter, throughput, and interference tradeoffs with practical router settings and upgrade guidance for smoother play.</description>
     </item>
     <item>
-      <title>Tool-Assisted Authoring for Procedural Systems</title>
-      <link>https://pulsegeek.com/articles/tool-assisted-authoring-for-procedural-systems/</link>
-      <guid isPermaLink="true">https://pulsegeek.com/articles/tool-assisted-authoring-for-procedural-systems/</guid>
-      <pubDate>Wed, 17 Dec 2025 22:20:00 GMT</pubDate>
-      <description>Learn how tool-assisted authoring strengthens procedural systems through live previews, constraints, and reproducible workflows with seeding. Explore decision lenses, examples, and tradeoffs to speed iteration while preserving designer control.</description>
+      <title>Warframe Trading Economy Explained for Newcomers</title>
+      <link>https://pulsegeek.com/articles/warframe-trading-economy-explained-for-newcomers/</link>
+      <guid isPermaLink="true">https://pulsegeek.com/articles/warframe-trading-economy-explained-for-newcomers/</guid>
+      <pubDate>Thu, 01 Jan 2026 22:18:00 GMT</pubDate>
+      <description>Understand how Warframe trading works, from prices and platinum flow to supply, demand, rarity, and market rules. Learn fair value, timing, and safeguards to trade confidently.</description>
     </item>
     <item>
-      <title>What Causes Lag in Game Streaming? Root Causes Mapped</title>
-      <link>https://pulsegeek.com/articles/what-causes-lag-in-game-streaming-root-causes-mapped/</link>
-      <guid isPermaLink="true">https://pulsegeek.com/articles/what-causes-lag-in-game-streaming-root-causes-mapped/</guid>
-      <pubDate>Wed, 17 Dec 2025 22:19:00 GMT</pubDate>
-      <description>Lag in game streaming comes from network delay, jitter, encoding time, and display processing. Learn root causes, quick diagnostics, and practical fixes to stabilize responsiveness without sacrificing visual quality.</description>
+      <title>Localization-Ready Dialogue Pipelines</title>
+      <link>https://pulsegeek.com/articles/localization-ready-dialogue-pipelines/</link>
+      <guid isPermaLink="true">https://pulsegeek.com/articles/localization-ready-dialogue-pipelines/</guid>
+      <pubDate>Thu, 01 Jan 2026 22:17:00 GMT</pubDate>
+      <description>Learn how to design localization-ready dialogue pipelines with IDs, exports, VO, and QA flows that scale across tools and languages without breaking immersion.</description>
     </item>
     <item>
-      <title>Tune Repair Costs and Durability Sinks Step‑By‑Step</title>
-      <link>https://pulsegeek.com/articles/tune-repair-costs-and-durability-sinks-step-by-step/</link>
-      <guid isPermaLink="true">https://pulsegeek.com/articles/tune-repair-costs-and-durability-sinks-step-by-step/</guid>
-      <pubDate>Wed, 17 Dec 2025 22:18:00 GMT</pubDate>
-      <description>Learn how to tune repair costs and durability sinks with clear steps, formulas, and validation methods that balance inflation, fairness, and player engagement safely.</description>
+      <title>What Is an AI Value Chain in Business? Explained</title>
+      <link>https://pulsegeek.com/articles/what-is-an-ai-value-chain-in-business-explained/</link>
+      <guid isPermaLink="true">https://pulsegeek.com/articles/what-is-an-ai-value-chain-in-business-explained/</guid>
+      <pubDate>Thu, 01 Jan 2026 22:16:00 GMT</pubDate>
+      <description>Learn how an AI value chain structures data, models, tooling, and operations into a coherent system for business outcomes. See stages, handoffs, ROI levers, and governance.</description>
     </item>
     <item>
-      <title>Seed Foreshadowing in Level Layouts</title>
-      <link>https://pulsegeek.com/articles/seed-foreshadowing-in-level-layouts/</link>
-      <guid isPermaLink="true">https://pulsegeek.com/articles/seed-foreshadowing-in-level-layouts/</guid>
-      <pubDate>Wed, 17 Dec 2025 22:17:00 GMT</pubDate>
-      <description>Learn practical methods to seed foreshadowing in level layouts with readable vistas, audio cues, and prop trails. Plan, prepare, execute, validate, and troubleshoot for narrative clarity without stopping gameplay.</description>
+      <title>USB Polling Rate for Controllers in Emulation</title>
+      <link>https://pulsegeek.com/articles/usb-polling-rate-for-controllers-in-emulation/</link>
+      <guid isPermaLink="true">https://pulsegeek.com/articles/usb-polling-rate-for-controllers-in-emulation/</guid>
+      <pubDate>Wed, 31 Dec 2025 22:21:00 GMT</pubDate>
+      <description>Learn how to set controller USB polling rates for emulators, verify actual intervals, reduce latency safely, and tune OS power features without adding stutter or desync.</description>
     </item>
     <item>
-      <title>AI Strategy and ROI: Build Confidence, Reduce Risk</title>
-      <link>https://pulsegeek.com/articles/ai-strategy-and-roi-build-confidence-reduce-risk/</link>
-      <guid isPermaLink="true">https://pulsegeek.com/articles/ai-strategy-and-roi-build-confidence-reduce-risk/</guid>
-      <pubDate>Wed, 17 Dec 2025 22:16:00 GMT</pubDate>
-      <description>Build an AI business strategy that targets measurable ROI, controls risk, and scales adoption. Learn portfolio selection, data readiness, governance, and change tactics leaders can apply with confidence.</description>
+      <title>Rigid Body vs Character Controller: Movement Models</title>
+      <link>https://pulsegeek.com/articles/rigid-body-vs-character-controller-movement-models/</link>
+      <guid isPermaLink="true">https://pulsegeek.com/articles/rigid-body-vs-character-controller-movement-models/</guid>
+      <pubDate>Wed, 31 Dec 2025 22:20:00 GMT</pubDate>
+      <description>Compare rigid body motion to character controller movement in games. Learn criteria, tradeoffs, and scenarios to pick the right model for feel and stability.</description>
     </item>
     <item>
-      <title>Smart Street Light Management System Comparison: Key Criteria</title>
-      <link>https://pulsegeek.com/articles/smart-street-light-management-system-comparison-key-criteria/</link>
-      <guid isPermaLink="true">https://pulsegeek.com/articles/smart-street-light-management-system-comparison-key-criteria/</guid>
-      <pubDate>Tue, 16 Dec 2025 22:23:00 GMT</pubDate>
-      <description>Compare smart street light management systems by reliability, controls, data, security, and TCO. See criteria, tradeoffs, and scenarios to choose the right platform.</description>
+      <title>What Is a Jitter Buffer in Cloud Gaming Networks?</title>
+      <link>https://pulsegeek.com/articles/what-is-a-jitter-buffer-in-cloud-gaming-networks/</link>
+      <guid isPermaLink="true">https://pulsegeek.com/articles/what-is-a-jitter-buffer-in-cloud-gaming-networks/</guid>
+      <pubDate>Wed, 31 Dec 2025 22:19:00 GMT</pubDate>
+      <description>Learn how jitter buffers smooth packet timing in cloud gaming, when to adjust them, size tradeoffs, and how to validate settings for lower stutter and lag.</description>
     </item>
     <item>
-      <title>Preservation vs Piracy in Emulation: Clear Lines</title>
-      <link>https://pulsegeek.com/articles/preservation-vs-piracy-in-emulation-clear-lines/</link>
-      <guid isPermaLink="true">https://pulsegeek.com/articles/preservation-vs-piracy-in-emulation-clear-lines/</guid>
-      <pubDate>Tue, 16 Dec 2025 22:22:00 GMT</pubDate>
-      <description>Learn how to separate preservation from piracy in emulation with clear definitions, legal context, and decision lenses. Understand intent, provenance, and risk so you can honor history without crossing into infringement.</description>
+      <title>Trading Post Taxes and Fees Explained Simply</title>
+      <link>https://pulsegeek.com/articles/trading-post-taxes-and-fees-explained-simply/</link>
+      <guid isPermaLink="true">https://pulsegeek.com/articles/trading-post-taxes-and-fees-explained-simply/</guid>
+      <pubDate>Wed, 31 Dec 2025 22:18:00 GMT</pubDate>
+      <description>Learn how trading post taxes and fees work, why designers choose them, and how they shape prices, liquidity, and behavior in player markets.</description>
     </item>
     <item>
-      <title>Profile CPU and GPU in a Game Engine: Step by Step</title>
-      <link>https://pulsegeek.com/articles/profile-cpu-and-gpu-in-a-game-engine-step-by-step/</link>
-      <guid isPermaLink="true">https://pulsegeek.com/articles/profile-cpu-and-gpu-in-a-game-engine-step-by-step/</guid>
-      <pubDate>Tue, 16 Dec 2025 22:21:00 GMT</pubDate>
-      <description>Learn a clear workflow to profile CPU and GPU in any game engine, choose the right tools, capture representative traces, validate results, and fix bottlenecks with reproducible steps and guardrails.</description>
+      <title>Integrate Voiceover and Barks into Narrative Tools</title>
+      <link>https://pulsegeek.com/articles/integrate-voiceover-and-barks-into-narrative-tools/</link>
+      <guid isPermaLink="true">https://pulsegeek.com/articles/integrate-voiceover-and-barks-into-narrative-tools/</guid>
+      <pubDate>Wed, 31 Dec 2025 22:17:00 GMT</pubDate>
+      <description>Step by step how to integrate voiceover and barks into narrative tools, from planning IDs to exports, validation, and QA with practical file specs and troubleshooting.</description>
     </item>
     <item>
-      <title>Procedural Generation Unit Tests: Deterministic Checks</title>
-      <link>https://pulsegeek.com/articles/procedural-generation-unit-tests-deterministic-checks/</link>
-      <guid isPermaLink="true">https://pulsegeek.com/articles/procedural-generation-unit-tests-deterministic-checks/</guid>
-      <pubDate>Tue, 16 Dec 2025 22:20:00 GMT</pubDate>
-      <description>Learn how to plan, build, and validate deterministic unit tests for procedural generation systems with seeds, fixtures, golden outputs, and robust troubleshooting.</description>
+      <title>The Future of AI in Business: Signals, Not Hype</title>
+      <link>https://pulsegeek.com/articles/the-future-of-ai-in-business-signals-not-hype/</link>
+      <guid isPermaLink="true">https://pulsegeek.com/articles/the-future-of-ai-in-business-signals-not-hype/</guid>
+      <pubDate>Wed, 31 Dec 2025 22:16:00 GMT</pubDate>
+      <description>Leaders can separate durable signals from hype. Learn pragmatic ROI frames, data readiness checkpoints, and change tactics that make AI useful in real business environments now and in the future.</description>
     </item>
     <item>
-      <title>Test Round‑Trip Latency for Cloud Gaming: Methods</title>
-      <link>https://pulsegeek.com/articles/test-round-trip-latency-for-cloud-gaming-methods/</link>
-      <guid isPermaLink="true">https://pulsegeek.com/articles/test-round-trip-latency-for-cloud-gaming-methods/</guid>
-      <pubDate>Tue, 16 Dec 2025 22:19:00 GMT</pubDate>
-      <description>Learn reliable ways to test round-trip latency for cloud gaming. Plan targets, choose tools, run TCP and ICMP checks, validate paths, and fix jitter or spikes.</description>
+      <title>Swapchain Latency: Vulkan vs OpenGL</title>
+      <link>https://pulsegeek.com/articles/swapchain-latency-vulkan-vs-opengl/</link>
+      <guid isPermaLink="true">https://pulsegeek.com/articles/swapchain-latency-vulkan-vs-opengl/</guid>
+      <pubDate>Tue, 30 Dec 2025 22:21:00 GMT</pubDate>
+      <description>Compare swapchain latency across Vulkan and OpenGL for emulators. Learn frame pacing, queue depth, and sync tradeoffs to trim input lag without instability.</description>
     </item>
     <item>
-      <title>Token Burn Mechanics in Virtual Economies Explained</title>
-      <link>https://pulsegeek.com/articles/token-burn-mechanics-in-virtual-economies-explained/</link>
-      <guid isPermaLink="true">https://pulsegeek.com/articles/token-burn-mechanics-in-virtual-economies-explained/</guid>
-      <pubDate>Tue, 16 Dec 2025 22:18:00 GMT</pubDate>
-      <description>Learn how token burns remove supply, shape incentives, and steady virtual economies. See models, design tradeoffs, and practical rules for balancing scarcity without hurting player engagement.</description>
+      <title>Raycasting vs Shapecasting: Practical Use Cases</title>
+      <link>https://pulsegeek.com/articles/raycasting-vs-shapecasting-practical-use-cases/</link>
+      <guid isPermaLink="true">https://pulsegeek.com/articles/raycasting-vs-shapecasting-practical-use-cases/</guid>
+      <pubDate>Tue, 30 Dec 2025 22:20:00 GMT</pubDate>
+      <description>Compare raycasting and shapecasting with clear criteria, a side by side table, tradeoffs, and scenario based picks for stable game physics.</description>
     </item>
     <item>
-      <title>Place Narrative Props Without Blocking Gameplay</title>
-      <link>https://pulsegeek.com/articles/place-narrative-props-without-blocking-gameplay/</link>
-      <guid isPermaLink="true">https://pulsegeek.com/articles/place-narrative-props-without-blocking-gameplay/</guid>
-      <pubDate>Tue, 16 Dec 2025 22:17:00 GMT</pubDate>
-      <description>Learn a practical method to place narrative props that enrich story without harming pathing, sightlines, or combat flow. Plan constraints, prep collision, execute safe placement, validate, and fix edge cases.</description>
+      <title>Router Settings to Reduce Bufferbloat for Streaming</title>
+      <link>https://pulsegeek.com/articles/router-settings-to-reduce-bufferbloat-for-streaming/</link>
+      <guid isPermaLink="true">https://pulsegeek.com/articles/router-settings-to-reduce-bufferbloat-for-streaming/</guid>
+      <pubDate>Tue, 30 Dec 2025 22:19:00 GMT</pubDate>
+      <description>Calibrate router QoS and SQM to cut bufferbloat for streaming games. Learn planning steps, OpenWrt and vendor options, validation with waveform tests, and fixes for edge cases.</description>
     </item>
     <item>
-      <title>Which Companies Are Using AI Today? Clear Examples</title>
-      <link>https://pulsegeek.com/articles/which-companies-are-using-ai-today-clear-examples/</link>
-      <guid isPermaLink="true">https://pulsegeek.com/articles/which-companies-are-using-ai-today-clear-examples/</guid>
-      <pubDate>Tue, 16 Dec 2025 22:16:00 GMT</pubDate>
-      <description>See concrete examples of companies using AI across industries, from consumer platforms to banks, retailers, manufacturers, and healthcare. Learn patterns, limits, and what separates pilots from production.</description>
+      <title>Supply and Demand Curves for Game Items: Examples</title>
+      <link>https://pulsegeek.com/articles/supply-and-demand-curves-for-game-items-examples/</link>
+      <guid isPermaLink="true">https://pulsegeek.com/articles/supply-and-demand-curves-for-game-items-examples/</guid>
+      <pubDate>Tue, 30 Dec 2025 22:18:00 GMT</pubDate>
+      <description>See six real-world style examples that show how supply and demand curves shape game item prices, with concrete scenarios, tradeoffs, and designer guardrails.</description>
     </item>
     <item>
-      <title>Smart Street Light Management Best Practices: 15 Essentials</title>
-      <link>https://pulsegeek.com/articles/smart-street-light-management-best-practices-15-essentials/</link>
-      <guid isPermaLink="true">https://pulsegeek.com/articles/smart-street-light-management-best-practices-15-essentials/</guid>
-      <pubDate>Mon, 15 Dec 2025 22:24:00 GMT</pubDate>
-      <description>Learn 15 smart street light management best practices that improve uptime, safety, and costs with clear SLAs, alerting, data design, and field operations coordination.</description>
+      <title>Ink Language Scripting Tips and Examples</title>
+      <link>https://pulsegeek.com/articles/ink-language-scripting-tips-and-examples/</link>
+      <guid isPermaLink="true">https://pulsegeek.com/articles/ink-language-scripting-tips-and-examples/</guid>
+      <pubDate>Tue, 30 Dec 2025 22:17:00 GMT</pubDate>
+      <description>Learn practical Ink language scripting tips with runnable examples, variables, functions, tags, and export guidance. Improve branching logic, pacing, and integration with engines.</description>
     </item>
     <item>
-      <title>Netplay Basics and Etiquette in Emulators</title>
-      <link>https://pulsegeek.com/articles/netplay-basics-and-etiquette-in-emulators/</link>
-      <guid isPermaLink="true">https://pulsegeek.com/articles/netplay-basics-and-etiquette-in-emulators/</guid>
-      <pubDate>Mon, 15 Dec 2025 22:23:00 GMT</pubDate>
-      <description>Learn how to plan, set up, and run stable emulator netplay with low latency, clear etiquette, and practical troubleshooting. Includes port notes, host rules, sync checks, and failure recovery.</description>
+      <title>OpenAI for Business: Practical Ways to Apply Safely</title>
+      <link>https://pulsegeek.com/articles/openai-for-business-practical-ways-to-apply-safely/</link>
+      <guid isPermaLink="true">https://pulsegeek.com/articles/openai-for-business-practical-ways-to-apply-safely/</guid>
+      <pubDate>Tue, 30 Dec 2025 22:16:00 GMT</pubDate>
+      <description>Learn practical, safe ways to apply OpenAI in business. See governance, high-value use cases, guardrails, and ROI methods that withstand audits and scale.</description>
     </item>
     <item>
-      <title>Network Tick Rate: Interpolation vs Extrapolation</title>
-      <link>https://pulsegeek.com/articles/network-tick-rate-interpolation-vs-extrapolation/</link>
-      <guid isPermaLink="true">https://pulsegeek.com/articles/network-tick-rate-interpolation-vs-extrapolation/</guid>
-      <pubDate>Mon, 15 Dec 2025 22:22:00 GMT</pubDate>
-      <description>Compare interpolation and extrapolation for network tick rate. Understand tradeoffs for jitter, latency, and fairness, with clear scenarios and tuning guidance for real-time multiplayer.</description>
+      <title>Runahead Latency Reduction: Setup and Tuning</title>
+      <link>https://pulsegeek.com/articles/runahead-latency-reduction-setup-and-tuning/</link>
+      <guid isPermaLink="true">https://pulsegeek.com/articles/runahead-latency-reduction-setup-and-tuning/</guid>
+      <pubDate>Mon, 29 Dec 2025 22:21:00 GMT</pubDate>
+      <description>Learn how to configure runahead for lower input latency, validate gains, and avoid desyncs. Step by step setup, safe ranges, and troubleshooting for RetroArch and similar emulators.</description>
     </item>
     <item>
-      <title>Performance Optimization for Generators: Quick Wins</title>
-      <link>https://pulsegeek.com/articles/performance-optimization-for-generators-quick-wins/</link>
-      <guid isPermaLink="true">https://pulsegeek.com/articles/performance-optimization-for-generators-quick-wins/</guid>
-      <pubDate>Mon, 15 Dec 2025 22:21:00 GMT</pubDate>
-      <description>Boost generator performance with practical profiling, data layout fixes, caching, parallelism, and tuned randomness. Learn quick diagnostics, safe tradeoffs, and repeatable steps that reduce frame time without hurting variability.</description>
+      <title>Ragdoll Setup and Stability Tips for Reliable Collisions</title>
+      <link>https://pulsegeek.com/articles/ragdoll-setup-and-stability-tips-for-reliable-collisions/</link>
+      <guid isPermaLink="true">https://pulsegeek.com/articles/ragdoll-setup-and-stability-tips-for-reliable-collisions/</guid>
+      <pubDate>Mon, 29 Dec 2025 22:20:00 GMT</pubDate>
+      <description>Learn how to build stable ragdolls that collide reliably. Plan bones, configure joints, set masses, tune limits, and validate with repeatable tests across engines like Unity, Unreal, and Godot.</description>
     </item>
     <item>
-      <title>Reduce Input Lag in Cloud Gaming: A Stepwise Plan</title>
-      <link>https://pulsegeek.com/articles/reduce-input-lag-in-cloud-gaming-a-stepwise-plan/</link>
-      <guid isPermaLink="true">https://pulsegeek.com/articles/reduce-input-lag-in-cloud-gaming-a-stepwise-plan/</guid>
-      <pubDate>Mon, 15 Dec 2025 22:20:00 GMT</pubDate>
-      <description>Cut cloud gaming input delay with a clear plan. Map latency sources, prep your network and devices, execute tuned settings, verify results, and fix issues with targeted steps.</description>
+      <title>Prioritize Game Traffic with QoS: Router Playbook</title>
+      <link>https://pulsegeek.com/articles/prioritize-game-traffic-with-qos-router-playbook/</link>
+      <guid isPermaLink="true">https://pulsegeek.com/articles/prioritize-game-traffic-with-qos-router-playbook/</guid>
+      <pubDate>Mon, 29 Dec 2025 22:19:00 GMT</pubDate>
+      <description>Learn how to prioritize game traffic with router QoS. Plan policies, prepare firmware, execute shaping and DSCP tagging, validate latency, and tune stability.</description>
     </item>
     <item>
-      <title>Taxes vs Fees: Comparing Sink Types in Games</title>
-      <link>https://pulsegeek.com/articles/taxes-vs-fees-comparing-sink-types-in-games/</link>
-      <guid isPermaLink="true">https://pulsegeek.com/articles/taxes-vs-fees-comparing-sink-types-in-games/</guid>
-      <pubDate>Mon, 15 Dec 2025 22:19:00 GMT</pubDate>
-      <description>Evaluate taxes versus fees as currency sinks in games. Learn when each stabilizes markets, how players react, and how to combine both safely.</description>
+      <title>Price Discovery in Virtual Markets: How It Emerges</title>
+      <link>https://pulsegeek.com/articles/price-discovery-in-virtual-markets-how-it-emerges/</link>
+      <guid isPermaLink="true">https://pulsegeek.com/articles/price-discovery-in-virtual-markets-how-it-emerges/</guid>
+      <pubDate>Mon, 29 Dec 2025 22:18:00 GMT</pubDate>
+      <description>Learn how price discovery forms in virtual markets through auctions, listings, and negotiated trades, with examples, design levers, and guardrails that balance liquidity, fairness, and stability for players and designers.</description>
     </item>
     <item>
-      <title>Lore Delivery Systems Without Lore Dumps</title>
-      <link>https://pulsegeek.com/articles/lore-delivery-systems-without-lore-dumps/</link>
-      <guid isPermaLink="true">https://pulsegeek.com/articles/lore-delivery-systems-without-lore-dumps/</guid>
-      <pubDate>Mon, 15 Dec 2025 22:18:00 GMT</pubDate>
-      <description>Learn practical lore delivery systems that avoid heavy exposition. Explore diegetic UI, environmental cues, and collectibles that pace story beats without interrupting play.</description>
+      <title>Fungus Unity Workflow for Dialogue and Quests</title>
+      <link>https://pulsegeek.com/articles/fungus-unity-workflow-for-dialogue-and-quests/</link>
+      <guid isPermaLink="true">https://pulsegeek.com/articles/fungus-unity-workflow-for-dialogue-and-quests/</guid>
+      <pubDate>Mon, 29 Dec 2025 22:17:00 GMT</pubDate>
+      <description>Build a reliable Fungus workflow in Unity for branching dialogue and quest logic. Plan variables and IDs, configure Flowcharts, script events, validate outcomes, and fix edge cases.</description>
     </item>
     <item>
-      <title>What Is an AI Software Company Today? A Clear View</title>
-      <link>https://pulsegeek.com/articles/what-is-an-ai-software-company-today-a-clear-view/</link>
-      <guid isPermaLink="true">https://pulsegeek.com/articles/what-is-an-ai-software-company-today-a-clear-view/</guid>
-      <pubDate>Mon, 15 Dec 2025 22:17:00 GMT</pubDate>
-      <description>Learn what defines an AI software company today, from model builders to workflow apps, plus business models, evaluation criteria, and buyer tradeoffs.</description>
+      <title>How to Measure ROI of AI Projects: A Clear Method</title>
+      <link>https://pulsegeek.com/articles/how-to-measure-roi-of-ai-projects-a-clear-method/</link>
+      <guid isPermaLink="true">https://pulsegeek.com/articles/how-to-measure-roi-of-ai-projects-a-clear-method/</guid>
+      <pubDate>Mon, 29 Dec 2025 22:16:00 GMT</pubDate>
+      <description>Learn a practical method to measure ROI for AI projects, from baselines and attribution to cost modeling and scaling decisions. Use repeatable steps, careful data design, and risk-aware metrics.</description>
     </item>
     <item>
-      <title>Walmart Using AI: 12 Notable Projects and Outcomes</title>
-      <link>https://pulsegeek.com/articles/walmart-using-ai-12-notable-projects-and-outcomes/</link>
-      <guid isPermaLink="true">https://pulsegeek.com/articles/walmart-using-ai-12-notable-projects-and-outcomes/</guid>
-      <pubDate>Mon, 15 Dec 2025 22:16:00 GMT</pubDate>
-      <description>Explore twelve ways Walmart applies AI in stores and operations, from computer vision inventory checks to forecasting and fulfillment. Learn benefits, examples, and tradeoffs teams should weigh.</description>
+      <title>RetroArch Latency Settings: A Practical Guide</title>
+      <link>https://pulsegeek.com/articles/retroarch-latency-settings-a-practical-guide/</link>
+      <guid isPermaLink="true">https://pulsegeek.com/articles/retroarch-latency-settings-a-practical-guide/</guid>
+      <pubDate>Sun, 28 Dec 2025 22:21:00 GMT</pubDate>
+      <description>Tune RetroArch for responsive controls with clear steps for VSync, hard GPU sync, frame delay, and runahead. Learn tradeoffs, validation, and troubleshooting to reduce input lag safely.</description>
     </item>
     <item>
-      <title>Smart Street Light Coverage Map Planning: A Step‑by‑Step</title>
-      <link>https://pulsegeek.com/articles/smart-street-light-coverage-map-planning-a-step-by-step/</link>
-      <guid isPermaLink="true">https://pulsegeek.com/articles/smart-street-light-coverage-map-planning-a-step-by-step/</guid>
-      <pubDate>Sun, 14 Dec 2025 22:24:00 GMT</pubDate>
-      <description>Learn how to plan a smart street light coverage map step by step, from data prep to validation, with metrics, GIS tips, and troubleshooting guidance.</description>
+      <title>Physics Timestep: Fixed vs Variable, Stability First</title>
+      <link>https://pulsegeek.com/articles/physics-timestep-fixed-vs-variable-stability-first/</link>
+      <guid isPermaLink="true">https://pulsegeek.com/articles/physics-timestep-fixed-vs-variable-stability-first/</guid>
+      <pubDate>Sun, 28 Dec 2025 22:20:00 GMT</pubDate>
+      <description>Compare fixed and variable physics timesteps for stability, responsiveness, and performance. Learn when to lock the step, how to sync rendering, and how to tune jitter, drift, and determinism.</description>
     </item>
     <item>
-      <title>How Emulators Work: CPU, GPU, and Audio Pipelines</title>
-      <link>https://pulsegeek.com/articles/how-emulators-work-cpu-gpu-and-audio-pipelines/</link>
-      <guid isPermaLink="true">https://pulsegeek.com/articles/how-emulators-work-cpu-gpu-and-audio-pipelines/</guid>
-      <pubDate>Sun, 14 Dec 2025 22:23:00 GMT</pubDate>
-      <description>Learn how emulators translate console CPU instructions, render GPU graphics, and synchronize audio pipelines. Get accuracy versus speed tradeoffs and practical decision criteria for stable, legal-focused setups.</description>
+      <title>Peering and Route Optimization for Cloud Services</title>
+      <link>https://pulsegeek.com/articles/peering-and-route-optimization-for-cloud-services/</link>
+      <guid isPermaLink="true">https://pulsegeek.com/articles/peering-and-route-optimization-for-cloud-services/</guid>
+      <pubDate>Sun, 28 Dec 2025 22:19:00 GMT</pubDate>
+      <description>Learn how ISP peering and route optimization shape cloud gaming performance. Compare paths, measure latency and jitter, and choose actions that reduce stalls and input lag.</description>
     </item>
     <item>
-      <title>Multithreaded Job Systems in Game Engines</title>
-      <link>https://pulsegeek.com/articles/multithreaded-job-systems-in-game-engines/</link>
-      <guid isPermaLink="true">https://pulsegeek.com/articles/multithreaded-job-systems-in-game-engines/</guid>
-      <pubDate>Sun, 14 Dec 2025 22:22:00 GMT</pubDate>
-      <description>Learn how multithreaded job systems divide work across cores, choose task granularity, avoid contention, and deliver stable frame times in modern game engines.</description>
+      <title>Preventing Market Manipulation in Games: Tactics</title>
+      <link>https://pulsegeek.com/articles/preventing-market-manipulation-in-games-tactics/</link>
+      <guid isPermaLink="true">https://pulsegeek.com/articles/preventing-market-manipulation-in-games-tactics/</guid>
+      <pubDate>Sun, 28 Dec 2025 22:18:00 GMT</pubDate>
+      <description>Learn how to detect, prevent, and deter market manipulation in game economies using data signals, guardrails, audits, and policy. Includes steps, examples, and tradeoffs.</description>
     </item>
     <item>
-      <title>Offline vs Runtime Generation: Picking the Right Mode</title>
-      <link>https://pulsegeek.com/articles/offline-vs-runtime-generation-picking-the-right-mode/</link>
-      <guid isPermaLink="true">https://pulsegeek.com/articles/offline-vs-runtime-generation-picking-the-right-mode/</guid>
-      <pubDate>Sun, 14 Dec 2025 22:21:00 GMT</pubDate>
-      <description>Compare offline and runtime procedural generation across latency, determinism, resources, tooling, and player impact to choose the right mode.</description>
+      <title>Export Narrative Data to Unity or Unreal</title>
+      <link>https://pulsegeek.com/articles/export-narrative-data-to-unity-or-unreal/</link>
+      <guid isPermaLink="true">https://pulsegeek.com/articles/export-narrative-data-to-unity-or-unreal/</guid>
+      <pubDate>Sun, 28 Dec 2025 22:17:00 GMT</pubDate>
+      <description>Learn how to export narrative data from authoring tools and import it into Unity or Unreal with IDs, variables, and audio cues intact. Includes mapping tips, validation checks, and troubleshooting.</description>
     </item>
     <item>
-      <title>Optimal Buffer Size for Low‑Latency Streaming Explained</title>
-      <link>https://pulsegeek.com/articles/optimal-buffer-size-for-low-latency-streaming-explained/</link>
-      <guid isPermaLink="true">https://pulsegeek.com/articles/optimal-buffer-size-for-low-latency-streaming-explained/</guid>
-      <pubDate>Sun, 14 Dec 2025 22:20:00 GMT</pubDate>
-      <description>Learn how buffer size influences latency, stability, and quality in low latency streaming. Compare approaches, choose targets by network conditions, and avoid stalls without bloating delay.</description>
+      <title>How to Build an AI Business Case That Wins Approval</title>
+      <link>https://pulsegeek.com/articles/how-to-build-an-ai-business-case-that-wins-approval/</link>
+      <guid isPermaLink="true">https://pulsegeek.com/articles/how-to-build-an-ai-business-case-that-wins-approval/</guid>
+      <pubDate>Sun, 28 Dec 2025 22:16:00 GMT</pubDate>
+      <description>Follow a practical path to build an AI business case with baselines, ROI, feasibility, and change management, then package it for executive approval.</description>
     </item>
     <item>
-      <title>Seasonal Events as Economic Resets: Playbook</title>
-      <link>https://pulsegeek.com/articles/seasonal-events-as-economic-resets-playbook/</link>
-      <guid isPermaLink="true">https://pulsegeek.com/articles/seasonal-events-as-economic-resets-playbook/</guid>
-      <pubDate>Sun, 14 Dec 2025 22:19:00 GMT</pubDate>
-      <description>Use seasonal events to reset game economies without whiplash. Learn cadence, faucet and sink tuning, reward swaps, and data windows that curb inflation while sustaining player motivation and fair progression.</description>
+      <title>Low Latency vs Accuracy: Smart Emulation Trade‑offs</title>
+      <link>https://pulsegeek.com/articles/low-latency-vs-accuracy-smart-emulation-trade-offs/</link>
+      <guid isPermaLink="true">https://pulsegeek.com/articles/low-latency-vs-accuracy-smart-emulation-trade-offs/</guid>
+      <pubDate>Sat, 27 Dec 2025 22:21:00 GMT</pubDate>
+      <description>Learn how to balance low latency and simulation accuracy in emulators with practical decision lenses, examples, and trade-offs that prevent desync, stutter, or visual artifacts.</description>
     </item>
     <item>
-      <title>Environmental Narrative Beat Map Templates</title>
-      <link>https://pulsegeek.com/articles/environmental-narrative-beat-map-templates/</link>
-      <guid isPermaLink="true">https://pulsegeek.com/articles/environmental-narrative-beat-map-templates/</guid>
-      <pubDate>Sun, 14 Dec 2025 22:18:00 GMT</pubDate>
-      <description>Build better level stories with reusable beat map templates that time reveals, props, and audio to player movement without cutscenes. Compare patterns, see tradeoffs, and adapt them to your tools.</description>
+      <title>NavMesh vs Grid Pathfinding: Navigation Tradeoffs</title>
+      <link>https://pulsegeek.com/articles/navmesh-vs-grid-pathfinding-navigation-tradeoffs/</link>
+      <guid isPermaLink="true">https://pulsegeek.com/articles/navmesh-vs-grid-pathfinding-navigation-tradeoffs/</guid>
+      <pubDate>Sat, 27 Dec 2025 22:20:00 GMT</pubDate>
+      <description>Compare NavMesh and grid pathfinding for games with criteria, examples, and scenarios. Learn performance, accuracy, authoring, and runtime tradeoffs to choose confidently.</description>
     </item>
     <item>
-      <title>What Is an AI Services Company? Models That Deliver</title>
-      <link>https://pulsegeek.com/articles/what-is-an-ai-services-company-models-that-deliver/</link>
-      <guid isPermaLink="true">https://pulsegeek.com/articles/what-is-an-ai-services-company-models-that-deliver/</guid>
-      <pubDate>Sun, 14 Dec 2025 22:17:00 GMT</pubDate>
-      <description>Learn what an AI services company does, which engagement models deliver outcomes, pricing and governance tradeoffs, and how to choose a partner confidently.</description>
+      <title>Packet Loss Fixes for Streaming Gameplay: Fast Repairs</title>
+      <link>https://pulsegeek.com/articles/packet-loss-fixes-for-streaming-gameplay-fast-repairs/</link>
+      <guid isPermaLink="true">https://pulsegeek.com/articles/packet-loss-fixes-for-streaming-gameplay-fast-repairs/</guid>
+      <pubDate>Sat, 27 Dec 2025 22:19:00 GMT</pubDate>
+      <description>Diagnose and fix packet loss during streaming gameplay with clear steps, quick tests, and router tweaks. Learn measurements, fast repairs, and validation for stable, low-latency sessions.</description>
     </item>
     <item>
-      <title>Walmart Intelligent Retail Lab: Inside the Experiment</title>
-      <link>https://pulsegeek.com/articles/walmart-intelligent-retail-lab-inside-the-experiment/</link>
-      <guid isPermaLink="true">https://pulsegeek.com/articles/walmart-intelligent-retail-lab-inside-the-experiment/</guid>
-      <pubDate>Sun, 14 Dec 2025 22:16:00 GMT</pubDate>
-      <description>Explore how Walmart’s Intelligent Retail Lab blends computer vision, sensors, and store operations to test real-time analytics, ethics, and ROI within a live supercenter.</description>
+      <title>Peer‑to‑Peer Trading Safety Tips for Players</title>
+      <link>https://pulsegeek.com/articles/peer-to-peer-trading-safety-tips-for-players/</link>
+      <guid isPermaLink="true">https://pulsegeek.com/articles/peer-to-peer-trading-safety-tips-for-players/</guid>
+      <pubDate>Sat, 27 Dec 2025 22:18:00 GMT</pubDate>
+      <description>Learn practical peer-to-peer trading safety tips for players. Verify identities, avoid chargebacks, spot manipulation, and trade smarter with clear steps and tradeoffs.</description>
     </item>
     <item>
-      <title>Smart Street Light Companies: 12 Vendors to Evaluate</title>
-      <link>https://pulsegeek.com/articles/smart-street-light-companies-12-vendors-to-evaluate/</link>
-      <guid isPermaLink="true">https://pulsegeek.com/articles/smart-street-light-companies-12-vendors-to-evaluate/</guid>
-      <pubDate>Sat, 13 Dec 2025 22:24:00 GMT</pubDate>
-      <description>Compare 12 smart street light vendors on controls, networking, data, and support. Learn what to test in pilots, how to judge TCO, and where tradeoffs hide.</description>
+      <title>Content Pipelines: Writers Room to Engine</title>
+      <link>https://pulsegeek.com/articles/content-pipelines-writers-room-to-engine/</link>
+      <guid isPermaLink="true">https://pulsegeek.com/articles/content-pipelines-writers-room-to-engine/</guid>
+      <pubDate>Sat, 27 Dec 2025 22:17:00 GMT</pubDate>
+      <description>Design a reliable content pipeline from writers room to engine with formats, IDs, and validation. Learn tradeoffs, handoff criteria, and QA gates that keep branching dialogue shippable and localization ready.</description>
     </item>
     <item>
-      <title>High-Level vs Low-Level Emulation: Pros, Cons, Use Cases</title>
-      <link>https://pulsegeek.com/articles/high-level-vs-low-level-emulation-pros-cons-use-cases/</link>
-      <guid isPermaLink="true">https://pulsegeek.com/articles/high-level-vs-low-level-emulation-pros-cons-use-cases/</guid>
-      <pubDate>Sat, 13 Dec 2025 22:23:00 GMT</pubDate>
-      <description>Compare high-level and low-level emulation with concrete criteria, tradeoffs, and scenarios. Learn how accuracy, performance, compatibility, and maintenance shape real-world use cases for players and developers.</description>
+      <title>Data Readiness for AI in Business: Do the Right Prep</title>
+      <link>https://pulsegeek.com/articles/data-readiness-for-ai-in-business-do-the-right-prep/</link>
+      <guid isPermaLink="true">https://pulsegeek.com/articles/data-readiness-for-ai-in-business-do-the-right-prep/</guid>
+      <pubDate>Sat, 27 Dec 2025 22:16:00 GMT</pubDate>
+      <description>Learn a practical, phased approach to data readiness for AI in business. Audit decisions, profile datasets, fix pipelines, set governance, and plan ROI checkpoints to reduce risk and speed value.</description>
     </item>
     <item>
-      <title>Mobile Game Optimization: GPU, Thermals, and Battery</title>
-      <link>https://pulsegeek.com/articles/mobile-game-optimization-gpu-thermals-and-battery/</link>
-      <guid isPermaLink="true">https://pulsegeek.com/articles/mobile-game-optimization-gpu-thermals-and-battery/</guid>
-      <pubDate>Sat, 13 Dec 2025 22:22:00 GMT</pubDate>
-      <description>Practical tactics to tune GPU load, manage thermals, and extend battery life in mobile games. Learn pacing, scaling, memory bandwidth, and post effects tradeoffs that preserve smooth play.</description>
+      <title>How to Measure Input Latency at Home</title>
+      <link>https://pulsegeek.com/articles/how-to-measure-input-latency-at-home/</link>
+      <guid isPermaLink="true">https://pulsegeek.com/articles/how-to-measure-input-latency-at-home/</guid>
+      <pubDate>Fri, 26 Dec 2025 22:21:00 GMT</pubDate>
+      <description>Follow a practical path to measure emulator input latency at home using video, LED triggers, and logs, with setup tips, validation, and fixes for common pitfalls.</description>
     </item>
     <item>
-      <title>How to Visualize Generation Steps with Clarity</title>
-      <link>https://pulsegeek.com/articles/how-to-visualize-generation-steps-with-clarity/</link>
-      <guid isPermaLink="true">https://pulsegeek.com/articles/how-to-visualize-generation-steps-with-clarity/</guid>
-      <pubDate>Sat, 13 Dec 2025 22:21:00 GMT</pubDate>
-      <description>Learn practical ways to visualize procedural generation steps with overlays, timelines, and logs, then validate results through metrics and snapshots to debug faster and improve content quality.</description>
+      <title>Kinematic Bodies for Moving Platforms: A Builder’s Guide</title>
+      <link>https://pulsegeek.com/articles/kinematic-bodies-for-moving-platforms-a-builders-guide/</link>
+      <guid isPermaLink="true">https://pulsegeek.com/articles/kinematic-bodies-for-moving-platforms-a-builders-guide/</guid>
+      <pubDate>Fri, 26 Dec 2025 22:20:00 GMT</pubDate>
+      <description>Learn to build reliable moving platforms with kinematic bodies, transfer passenger motion safely, and avoid jitter or tunneling using fixed updates, contact tracking, and precise velocity handling.</description>
     </item>
     <item>
-      <title>Latency Budget Breakdown for Cloud Streaming Users</title>
-      <link>https://pulsegeek.com/articles/latency-budget-breakdown-for-cloud-streaming-users/</link>
-      <guid isPermaLink="true">https://pulsegeek.com/articles/latency-budget-breakdown-for-cloud-streaming-users/</guid>
-      <pubDate>Sat, 13 Dec 2025 22:20:00 GMT</pubDate>
-      <description>See how a cloud streaming latency budget splits across encode, network, jitter buffers, and display. Learn practical targets and tradeoffs to reduce delay without breaking stability.</description>
+      <title>NAT Types and Cloud Gaming Connectivity Explained</title>
+      <link>https://pulsegeek.com/articles/nat-types-and-cloud-gaming-connectivity-explained/</link>
+      <guid isPermaLink="true">https://pulsegeek.com/articles/nat-types-and-cloud-gaming-connectivity-explained/</guid>
+      <pubDate>Fri, 26 Dec 2025 22:19:00 GMT</pubDate>
+      <description>Learn how NAT types affect cloud gaming connectivity, why UDP traversal matters, and practical ways to avoid blockages like CGNAT, double NAT, and strict routers.</description>
     </item>
     <item>
-      <title>Reward Pacing and Player Earning Rates Explained</title>
-      <link>https://pulsegeek.com/articles/reward-pacing-and-player-earning-rates-explained/</link>
-      <guid isPermaLink="true">https://pulsegeek.com/articles/reward-pacing-and-player-earning-rates-explained/</guid>
-      <pubDate>Sat, 13 Dec 2025 22:19:00 GMT</pubDate>
-      <description>Learn how to model reward pacing and earning rates, align payouts with session length, and avoid inflation while keeping progression satisfying for diverse player cohorts.</description>
+      <title>Listing Fee vs Transaction Tax: Which Works Best?</title>
+      <link>https://pulsegeek.com/articles/listing-fee-vs-transaction-tax-which-works-best/</link>
+      <guid isPermaLink="true">https://pulsegeek.com/articles/listing-fee-vs-transaction-tax-which-works-best/</guid>
+      <pubDate>Fri, 26 Dec 2025 22:18:00 GMT</pubDate>
+      <description>Compare listing fees and transaction taxes for game markets, with clear criteria, examples, and tradeoffs to pick the right setup for liquidity, fairness, and revenue.</description>
     </item>
     <item>
-      <title>Diegetic UI Examples for Immersive Storytelling</title>
-      <link>https://pulsegeek.com/articles/diegetic-ui-examples-for-immersive-storytelling/</link>
-      <guid isPermaLink="true">https://pulsegeek.com/articles/diegetic-ui-examples-for-immersive-storytelling/</guid>
-      <pubDate>Sat, 13 Dec 2025 22:18:00 GMT</pubDate>
-      <description>Explore seven practical diegetic UI examples that blend with space, sound, and props to deepen immersion without overlays. Learn patterns, tradeoffs, and implementation cues designers can apply today.</description>
+      <title>Automated Tests for Choice Coverage in Scripts</title>
+      <link>https://pulsegeek.com/articles/automated-tests-for-choice-coverage-in-scripts/</link>
+      <guid isPermaLink="true">https://pulsegeek.com/articles/automated-tests-for-choice-coverage-in-scripts/</guid>
+      <pubDate>Fri, 26 Dec 2025 22:17:00 GMT</pubDate>
+      <description>Learn how to design and run automated tests that verify choice coverage in narrative scripts, traverse branches safely, and surface unreachable nodes, variable issues, and flaky outcomes with clear reports and guardrails.</description>
     </item>
     <item>
-      <title>Up-and-Coming AI Companies: Fresh Ideas With Bite</title>
-      <link>https://pulsegeek.com/articles/up-and-coming-ai-companies-fresh-ideas-with-bite/</link>
-      <guid isPermaLink="true">https://pulsegeek.com/articles/up-and-coming-ai-companies-fresh-ideas-with-bite/</guid>
-      <pubDate>Sat, 13 Dec 2025 22:17:00 GMT</pubDate>
-      <description>Discover seven patterns that signal promising new AI companies. Learn how vertical focus, data advantage, edge inference, and sound unit economics separate durable ideas from hype.</description>
+      <title>Change Management for AI Adoption: Lead With Clarity</title>
+      <link>https://pulsegeek.com/articles/change-management-for-ai-adoption-lead-with-clarity/</link>
+      <guid isPermaLink="true">https://pulsegeek.com/articles/change-management-for-ai-adoption-lead-with-clarity/</guid>
+      <pubDate>Fri, 26 Dec 2025 22:16:00 GMT</pubDate>
+      <description>Learn a clear, stepwise approach to change management for AI adoption. Define outcomes, map stakeholders, enable pilots, reduce risk, and measure value with practical tools leaders can use.</description>
     </item>
     <item>
-      <title>Walmart and AI: Programs, Progress, and Practical Wins</title>
-      <link>https://pulsegeek.com/articles/walmart-and-ai-programs-progress-and-practical-wins/</link>
-      <guid isPermaLink="true">https://pulsegeek.com/articles/walmart-and-ai-programs-progress-and-practical-wins/</guid>
-      <pubDate>Sat, 13 Dec 2025 22:16:00 GMT</pubDate>
-      <description>Understand Walmart and AI through clear concepts, decision frameworks, and real scenarios that reveal what works, where, and why in modern retail operations.</description>
+      <title>Tvilight Smart City Lighting: Features and Field Notes</title>
+      <link>https://pulsegeek.com/articles/tvilight-smart-city-lighting-features-and-field-notes/</link>
+      <guid isPermaLink="true">https://pulsegeek.com/articles/tvilight-smart-city-lighting-features-and-field-notes/</guid>
+      <pubDate>Thu, 25 Dec 2025 22:22:00 GMT</pubDate>
+      <description>Learn how Tvilight-style smart city lighting works, core features to evaluate, and field-tested decision lenses for uptime, energy savings, and maintenance orchestration.</description>
     </item>
     <item>
-      <title>Smart City Street Light: Features to Specify and Verify</title>
-      <link>https://pulsegeek.com/articles/smart-city-street-light-features-to-specify-and-verify/</link>
-      <guid isPermaLink="true">https://pulsegeek.com/articles/smart-city-street-light-features-to-specify-and-verify/</guid>
-      <pubDate>Fri, 12 Dec 2025 22:24:00 GMT</pubDate>
-      <description>Learn which smart city street light features to specify, how to verify them in procurement and pilots, and what tradeoffs matter for scale and reliability.</description>
+      <title>Hard GPU Sync vs Pre‑Rendered Frames Compared</title>
+      <link>https://pulsegeek.com/articles/hard-gpu-sync-vs-pre-rendered-frames-compared/</link>
+      <guid isPermaLink="true">https://pulsegeek.com/articles/hard-gpu-sync-vs-pre-rendered-frames-compared/</guid>
+      <pubDate>Thu, 25 Dec 2025 22:21:00 GMT</pubDate>
+      <description>Compare hard GPU sync against pre rendered frames for emulator latency. Learn impact on input lag, stability, and tuning effort with clear scenarios.</description>
     </item>
     <item>
-      <title>Firmware and BIOS in Emulation: A Beginner’s Primer</title>
-      <link>https://pulsegeek.com/articles/firmware-and-bios-in-emulation-a-beginners-primer/</link>
-      <guid isPermaLink="true">https://pulsegeek.com/articles/firmware-and-bios-in-emulation-a-beginners-primer/</guid>
-      <pubDate>Fri, 12 Dec 2025 22:23:00 GMT</pubDate>
-      <description>Learn how firmware and BIOS files affect emulator boot, accuracy, and compatibility. Understand legal basics, sourcing, and practical decision rules for when to require real dumps or built-in substitutes.</description>
+      <title>Joints and Constraints in Game Engines: A Catalog</title>
+      <link>https://pulsegeek.com/articles/joints-and-constraints-in-game-engines-a-catalog/</link>
+      <guid isPermaLink="true">https://pulsegeek.com/articles/joints-and-constraints-in-game-engines-a-catalog/</guid>
+      <pubDate>Thu, 25 Dec 2025 22:20:00 GMT</pubDate>
+      <description>Explore nine essential joints and constraints for game engines with clear examples, tradeoffs, and tuning tips. Compare hinge, slider, fixed, spring, spherical, twist, ragdoll, articulation, and motorized limits.</description>
     </item>
     <item>
-      <title>Memory Management for Game Engines: Key Practices</title>
-      <link>https://pulsegeek.com/articles/memory-management-for-game-engines-key-practices/</link>
-      <guid isPermaLink="true">https://pulsegeek.com/articles/memory-management-for-game-engines-key-practices/</guid>
-      <pubDate>Fri, 12 Dec 2025 22:22:00 GMT</pubDate>
-      <description>Master memory management in game engines with budgets, pools, streaming, compression, data layouts, and GC strategies. Concrete examples, tradeoffs, and practical checks for smooth frames.</description>
+      <title>Mobile Hotspot Tips for Cloud Gaming on the Go</title>
+      <link>https://pulsegeek.com/articles/mobile-hotspot-tips-for-cloud-gaming-on-the-go/</link>
+      <guid isPermaLink="true">https://pulsegeek.com/articles/mobile-hotspot-tips-for-cloud-gaming-on-the-go/</guid>
+      <pubDate>Thu, 25 Dec 2025 22:19:00 GMT</pubDate>
+      <description>Practical mobile hotspot tips to stabilize cloud gaming while traveling. Learn carrier and band choices, bitrate caps, 5 GHz tuning, USB tethering, and latency checks for smoother play.</description>
     </item>
     <item>
-      <title>Content Variability Measurement Methods that Matter</title>
-      <link>https://pulsegeek.com/articles/content-variability-measurement-methods-that-matter/</link>
-      <guid isPermaLink="true">https://pulsegeek.com/articles/content-variability-measurement-methods-that-matter/</guid>
-      <pubDate>Fri, 12 Dec 2025 22:21:00 GMT</pubDate>
-      <description>Learn practical ways to measure content variability with entropy, diversity, and coverage metrics. See tradeoffs, tabled frameworks, and a tiny code example to apply reliably.</description>
+      <title>Dynamic Pricing in Virtual Economies: When to Use It</title>
+      <link>https://pulsegeek.com/articles/dynamic-pricing-in-virtual-economies-when-to-use-it/</link>
+      <guid isPermaLink="true">https://pulsegeek.com/articles/dynamic-pricing-in-virtual-economies-when-to-use-it/</guid>
+      <pubDate>Thu, 25 Dec 2025 22:18:00 GMT</pubDate>
+      <description>Learn what dynamic pricing means in virtual economies, when it stabilizes markets, and where it backfires. See frameworks, examples, and tradeoffs to decide if adaptive prices fit your game’s design goals.</description>
     </item>
     <item>
-      <title>Is 5G Good for Cloud Gaming Latency? It Depends</title>
-      <link>https://pulsegeek.com/articles/is-5g-good-for-cloud-gaming-latency-it-depends/</link>
-      <guid isPermaLink="true">https://pulsegeek.com/articles/is-5g-good-for-cloud-gaming-latency-it-depends/</guid>
-      <pubDate>Fri, 12 Dec 2025 22:20:00 GMT</pubDate>
-      <description>5G can cut cloud gaming latency when signal, spectrum, and backhaul align. Learn when it helps, when it hurts, and how to measure and tune your setup.</description>
+      <title>Articy:draft vs Twine for Production Pipelines</title>
+      <link>https://pulsegeek.com/articles/articydraft-vs-twine-for-production-pipelines/</link>
+      <guid isPermaLink="true">https://pulsegeek.com/articles/articydraft-vs-twine-for-production-pipelines/</guid>
+      <pubDate>Thu, 25 Dec 2025 22:17:00 GMT</pubDate>
+      <description>Compare articy:draft and Twine for game narrative production pipelines. Learn how each handles collaboration, exports, localization, QA, and version control, with scenario-based recommendations.</description>
     </item>
     <item>
-      <title>Price Ceilings and Floors in Loot Trading</title>
-      <link>https://pulsegeek.com/articles/price-ceilings-and-floors-in-loot-trading/</link>
-      <guid isPermaLink="true">https://pulsegeek.com/articles/price-ceilings-and-floors-in-loot-trading/</guid>
-      <pubDate>Fri, 12 Dec 2025 22:19:00 GMT</pubDate>
-      <description>Learn how price ceilings and floors affect loot trading, market stability, player fairness, and inflation control. See frameworks, examples, and tradeoffs to set safe limits without stalling your in-game economy.</description>
+      <title>Benefits of AI in Business: From Cost to Velocity</title>
+      <link>https://pulsegeek.com/articles/benefits-of-ai-in-business-from-cost-to-velocity/</link>
+      <guid isPermaLink="true">https://pulsegeek.com/articles/benefits-of-ai-in-business-from-cost-to-velocity/</guid>
+      <pubDate>Thu, 25 Dec 2025 22:16:00 GMT</pubDate>
+      <description>See the concrete benefits of AI in business, from cost reduction and quality gains to faster delivery. Learn ROI framing, data readiness steps, and change management moves leaders can implement now.</description>
     </item>
     <item>
-      <title>Design Environmental Puzzles That Tell a Story</title>
-      <link>https://pulsegeek.com/articles/design-environmental-puzzles-that-tell-a-story/</link>
-      <guid isPermaLink="true">https://pulsegeek.com/articles/design-environmental-puzzles-that-tell-a-story/</guid>
-      <pubDate>Fri, 12 Dec 2025 22:18:00 GMT</pubDate>
-      <description>Learn a step by step method to design environmental puzzles that convey narrative meaning, guide players with subtle cues, and validate readability with playtests and metrics.</description>
+      <title>Telensa Street Lighting: Capabilities and Use Cases</title>
+      <link>https://pulsegeek.com/articles/telensa-street-lighting-capabilities-and-use-cases/</link>
+      <guid isPermaLink="true">https://pulsegeek.com/articles/telensa-street-lighting-capabilities-and-use-cases/</guid>
+      <pubDate>Wed, 24 Dec 2025 22:22:00 GMT</pubDate>
+      <description>Learn how Telensa-style street lighting controls support dimming, fault detection, asset inventory, and integrations, with decision criteria and practical city use cases.</description>
     </item>
   </channel>
 </rss>
