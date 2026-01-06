@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>PulseGeek</title>
   <id>https://pulsegeek.com/atom.xml</id>
-  <updated>2026-01-01T22:21:00Z</updated>
+  <updated>2026-01-05T22:55:00Z</updated>
   <link href="https://pulsegeek.com/atom.xml" rel="self" type="application/atom+xml" />
   <link href="https://pulsegeek.com" />
   <author>
@@ -10,353 +10,353 @@
   </author>
   <subtitle>Tech news, gaming, and geek culture in one pulse</subtitle>
   <entry>
-    <title>Using High Refresh Rates to Reduce Lag</title>
-    <id>https://pulsegeek.com/articles/using-high-refresh-rates-to-reduce-lag/</id>
-    <link href="https://pulsegeek.com/articles/using-high-refresh-rates-to-reduce-lag/" />
-    <updated>2026-01-01T22:21:00Z</updated>
-    <summary type="html"><![CDATA[Learn how higher refresh displays cut emulator input latency. Plan settings, configure drivers, tune sync, verify results, and fix stutter without trading accuracy for speed.]]></summary>
+    <title>320 MHz Transmit Power and TPC Settings</title>
+    <id>https://pulsegeek.com/articles/320-mhz-transmit-power-and-tpc-settings/</id>
+    <link href="https://pulsegeek.com/articles/320-mhz-transmit-power-and-tpc-settings/" />
+    <updated>2026-01-05T22:55:00Z</updated>
+    <summary type="html"><![CDATA[Set 320 MHz transmit power and TPC safely. Learn EIRP math, regulatory limits, AP radio policy choices, and validation checks to keep throughput high while containing interference.]]></summary>
   </entry>
   <entry>
-    <title>Tune Physics Materials: Friction and Bounce That Feel Right</title>
-    <id>https://pulsegeek.com/articles/tune-physics-materials-friction-and-bounce-that-feel-right/</id>
-    <link href="https://pulsegeek.com/articles/tune-physics-materials-friction-and-bounce-that-feel-right/" />
-    <updated>2026-01-01T22:20:00Z</updated>
-    <summary type="html"><![CDATA[Learn how to tune friction and bounce in physics materials for responsive gameplay. Plan tests, set ranges, apply settings in Unity or similar engines, and validate outcomes.]]></summary>
+    <title>6 GHz Channel Map Floor Plan Templates for Planners</title>
+    <id>https://pulsegeek.com/articles/6-ghz-channel-map-floor-plan-templates-for-planners/</id>
+    <link href="https://pulsegeek.com/articles/6-ghz-channel-map-floor-plan-templates-for-planners/" />
+    <updated>2026-01-05T22:54:00Z</updated>
+    <summary type="html"><![CDATA[Practical 6 GHz floor plan templates that map channels, widths, PSCs, MLO, and AFC context. Learn how to visualize reuse, avoid scanning pitfalls, and adapt for apartments or arenas.]]></summary>
   </entry>
   <entry>
-    <title>Wi‑Fi 6 vs Wi‑Fi 7 for Cloud Gaming: Latency Wins</title>
-    <id>https://pulsegeek.com/articles/wi-fi-6-vs-wi-fi-7-for-cloud-gaming-latency-wins/</id>
-    <link href="https://pulsegeek.com/articles/wi-fi-6-vs-wi-fi-7-for-cloud-gaming-latency-wins/" />
-    <updated>2026-01-01T22:19:00Z</updated>
-    <summary type="html"><![CDATA[Compare Wi‑Fi 6 and Wi‑Fi 7 for cloud gaming. See latency, jitter, throughput, and interference tradeoffs with practical router settings and upgrade guidance for smoother play.]]></summary>
+    <title>802.11be vs 802.11ax Differences: What Really Changes</title>
+    <id>https://pulsegeek.com/articles/802-11be-vs-802-11ax-differences-what-really-changes/</id>
+    <link href="https://pulsegeek.com/articles/802-11be-vs-802-11ax-differences-what-really-changes/" />
+    <updated>2026-01-05T22:53:00Z</updated>
+    <summary type="html"><![CDATA[Compare 802.11be and 802.11ax with clear criteria, a side by side table, and scenario based recommendations covering throughput, latency, spectrum use, and reliability.]]></summary>
   </entry>
   <entry>
-    <title>Warframe Trading Economy Explained for Newcomers</title>
-    <id>https://pulsegeek.com/articles/warframe-trading-economy-explained-for-newcomers/</id>
-    <link href="https://pulsegeek.com/articles/warframe-trading-economy-explained-for-newcomers/" />
-    <updated>2026-01-01T22:18:00Z</updated>
-    <summary type="html"><![CDATA[Understand how Warframe trading works, from prices and platinum flow to supply, demand, rarity, and market rules. Learn fair value, timing, and safeguards to trade confidently.]]></summary>
+    <title>DPP (Easy Connect) for Wi‑Fi 7: Onboard Without PSKs</title>
+    <id>https://pulsegeek.com/articles/dpp-easy-connect-for-wi-fi-7-onboard-without-psks/</id>
+    <link href="https://pulsegeek.com/articles/dpp-easy-connect-for-wi-fi-7-onboard-without-psks/" />
+    <updated>2026-01-05T22:52:00Z</updated>
+    <summary type="html"><![CDATA[Learn how DPP Easy Connect streamlines Wi‑Fi 7 device onboarding without shared keys, improves security with per‑device credentials, and fits with identity, NAC, and zero trust policies.]]></summary>
   </entry>
   <entry>
-    <title>Localization-Ready Dialogue Pipelines</title>
-    <id>https://pulsegeek.com/articles/localization-ready-dialogue-pipelines/</id>
-    <link href="https://pulsegeek.com/articles/localization-ready-dialogue-pipelines/" />
-    <updated>2026-01-01T22:17:00Z</updated>
-    <summary type="html"><![CDATA[Learn how to design localization-ready dialogue pipelines with IDs, exports, VO, and QA flows that scale across tools and languages without breaking immersion.]]></summary>
+    <title>Captive Portal Security: Enterprise Best Practices</title>
+    <id>https://pulsegeek.com/articles/captive-portal-security-enterprise-best-practices/</id>
+    <link href="https://pulsegeek.com/articles/captive-portal-security-enterprise-best-practices/" />
+    <updated>2026-01-05T22:51:00Z</updated>
+    <summary type="html"><![CDATA[Learn enterprise captive portal security best practices, from TLS hardening and pre‑auth ACLs to segmentation, logging, and policy design that supports 802.1X for managed devices and safe guest access.]]></summary>
   </entry>
   <entry>
-    <title>What Is an AI Value Chain in Business? Explained</title>
-    <id>https://pulsegeek.com/articles/what-is-an-ai-value-chain-in-business-explained/</id>
-    <link href="https://pulsegeek.com/articles/what-is-an-ai-value-chain-in-business-explained/" />
-    <updated>2026-01-01T22:16:00Z</updated>
-    <summary type="html"><![CDATA[Learn how an AI value chain structures data, models, tooling, and operations into a coherent system for business outcomes. See stages, handoffs, ROI levers, and governance.]]></summary>
+    <title>Channel Width 160 vs 320 MHz for Gaming on Wi‑Fi 7</title>
+    <id>https://pulsegeek.com/articles/channel-width-160-vs-320-mhz-for-gaming-on-wi-fi-7/</id>
+    <link href="https://pulsegeek.com/articles/channel-width-160-vs-320-mhz-for-gaming-on-wi-fi-7/" />
+    <updated>2026-01-05T22:50:00Z</updated>
+    <summary type="html"><![CDATA[Compare 160 and 320 MHz on Wi‑Fi 7 for gaming. Learn when ultra‑wide channels help, where they hurt latency, and how interference, DFS, and device support shape your choice.]]></summary>
   </entry>
   <entry>
-    <title>USB Polling Rate for Controllers in Emulation</title>
-    <id>https://pulsegeek.com/articles/usb-polling-rate-for-controllers-in-emulation/</id>
-    <link href="https://pulsegeek.com/articles/usb-polling-rate-for-controllers-in-emulation/" />
-    <updated>2025-12-31T22:21:00Z</updated>
-    <summary type="html"><![CDATA[Learn how to set controller USB polling rates for emulators, verify actual intervals, reduce latency safely, and tune OS power features without adding stutter or desync.]]></summary>
+    <title>802.11be EHT Fundamentals: Concepts, Terms, Context</title>
+    <id>https://pulsegeek.com/articles/80211be-eht-fundamentals-concepts-terms-context/</id>
+    <link href="https://pulsegeek.com/articles/80211be-eht-fundamentals-concepts-terms-context/" />
+    <updated>2026-01-05T22:49:00Z</updated>
+    <summary type="html"><![CDATA[Learn the core EHT fundamentals in 802.11be with precise definitions, decision criteria, and practical examples that connect MAC and PHY concepts to real engineering tradeoffs and timelines.]]></summary>
   </entry>
   <entry>
-    <title>Rigid Body vs Character Controller: Movement Models</title>
-    <id>https://pulsegeek.com/articles/rigid-body-vs-character-controller-movement-models/</id>
-    <link href="https://pulsegeek.com/articles/rigid-body-vs-character-controller-movement-models/" />
-    <updated>2025-12-31T22:20:00Z</updated>
-    <summary type="html"><![CDATA[Compare rigid body motion to character controller movement in games. Learn criteria, tradeoffs, and scenarios to pick the right model for feel and stability.]]></summary>
+    <title>Best Emulator Cores for Retroid Pocket Reliability</title>
+    <id>https://pulsegeek.com/articles/best-emulator-cores-for-retroid-pocket-reliability/</id>
+    <link href="https://pulsegeek.com/articles/best-emulator-cores-for-retroid-pocket-reliability/" />
+    <updated>2026-01-05T22:48:00Z</updated>
+    <summary type="html"><![CDATA[Choose reliable emulator cores for Retroid Pocket. Practical picks with examples, common pitfalls, and tuning tips to reduce crashes and stutter.]]></summary>
   </entry>
   <entry>
-    <title>What Is a Jitter Buffer in Cloud Gaming Networks?</title>
-    <id>https://pulsegeek.com/articles/what-is-a-jitter-buffer-in-cloud-gaming-networks/</id>
-    <link href="https://pulsegeek.com/articles/what-is-a-jitter-buffer-in-cloud-gaming-networks/" />
-    <updated>2025-12-31T22:19:00Z</updated>
-    <summary type="html"><![CDATA[Learn how jitter buffers smooth packet timing in cloud gaming, when to adjust them, size tradeoffs, and how to validate settings for lower stutter and lag.]]></summary>
+    <title>Artwork Thumbnails Not Appearing on Onion OS? Fixes</title>
+    <id>https://pulsegeek.com/articles/artwork-thumbnails-not-appearing-on-onion-os-fixes/</id>
+    <link href="https://pulsegeek.com/articles/artwork-thumbnails-not-appearing-on-onion-os-fixes/" />
+    <updated>2026-01-05T22:47:00Z</updated>
+    <summary type="html"><![CDATA[Missing game art on Onion OS can be fixed by correcting names, verifying platforms, and rebuilding caches. Follow safe steps to restore thumbnails without rescanning your entire library.]]></summary>
   </entry>
   <entry>
-    <title>Trading Post Taxes and Fees Explained Simply</title>
-    <id>https://pulsegeek.com/articles/trading-post-taxes-and-fees-explained-simply/</id>
-    <link href="https://pulsegeek.com/articles/trading-post-taxes-and-fees-explained-simply/" />
-    <updated>2025-12-31T22:18:00Z</updated>
-    <summary type="html"><![CDATA[Learn how trading post taxes and fees work, why designers choose them, and how they shape prices, liquidity, and behavior in player markets.]]></summary>
+    <title>Configure Controller Mapping in Onion OS the Right Way</title>
+    <id>https://pulsegeek.com/articles/configure-controller-mapping-in-onion-os-the-right-way/</id>
+    <link href="https://pulsegeek.com/articles/configure-controller-mapping-in-onion-os-the-right-way/" />
+    <updated>2026-01-05T22:46:00Z</updated>
+    <summary type="html"><![CDATA[Learn how to configure controller mapping in Onion OS, from planning layouts to per-core overrides, with validation tips and fixes for drift, hotkeys, and analog quirks.]]></summary>
   </entry>
   <entry>
-    <title>Integrate Voiceover and Barks into Narrative Tools</title>
-    <id>https://pulsegeek.com/articles/integrate-voiceover-and-barks-into-narrative-tools/</id>
-    <link href="https://pulsegeek.com/articles/integrate-voiceover-and-barks-into-narrative-tools/" />
-    <updated>2025-12-31T22:17:00Z</updated>
-    <summary type="html"><![CDATA[Step by step how to integrate voiceover and barks into narrative tools, from planning IDs to exports, validation, and QA with practical file specs and troubleshooting.]]></summary>
+    <title>Best FPS Limiter Settings on Miyoo RetroArch</title>
+    <id>https://pulsegeek.com/articles/best-fps-limiter-settings-on-miyoo-retroarch/</id>
+    <link href="https://pulsegeek.com/articles/best-fps-limiter-settings-on-miyoo-retroarch/" />
+    <updated>2026-01-05T22:45:00Z</updated>
+    <summary type="html"><![CDATA[Learn safe FPS limiter settings for Miyoo RetroArch. Balance smooth frame pacing, vsync, audio sync, and latency with practical checks and reversible changes.]]></summary>
   </entry>
   <entry>
-    <title>The Future of AI in Business: Signals, Not Hype</title>
-    <id>https://pulsegeek.com/articles/the-future-of-ai-in-business-signals-not-hype/</id>
-    <link href="https://pulsegeek.com/articles/the-future-of-ai-in-business-signals-not-hype/" />
-    <updated>2025-12-31T22:16:00Z</updated>
-    <summary type="html"><![CDATA[Leaders can separate durable signals from hype. Learn pragmatic ROI frames, data readiness checkpoints, and change tactics that make AI useful in real business environments now and in the future.]]></summary>
+    <title>Color Calibration and Gamma on Miyoo Screens</title>
+    <id>https://pulsegeek.com/articles/color-calibration-and-gamma-on-miyoo-screens/</id>
+    <link href="https://pulsegeek.com/articles/color-calibration-and-gamma-on-miyoo-screens/" />
+    <updated>2026-01-05T22:44:00Z</updated>
+    <summary type="html"><![CDATA[Learn practical color calibration and gamma tuning for Miyoo handhelds. Set white point, brightness, and tone mapping for accurate, comfortable play without crushing shadows or blowing highlights.]]></summary>
   </entry>
   <entry>
-    <title>Swapchain Latency: Vulkan vs OpenGL</title>
-    <id>https://pulsegeek.com/articles/swapchain-latency-vulkan-vs-opengl/</id>
-    <link href="https://pulsegeek.com/articles/swapchain-latency-vulkan-vs-opengl/" />
-    <updated>2025-12-30T22:21:00Z</updated>
-    <summary type="html"><![CDATA[Compare swapchain latency across Vulkan and OpenGL for emulators. Learn frame pacing, queue depth, and sync tradeoffs to trim input lag without instability.]]></summary>
+    <title>Button Remapping on Miyoo RetroArch: Clean Profiles</title>
+    <id>https://pulsegeek.com/articles/button-remapping-on-miyoo-retarch-clean-profiles/</id>
+    <link href="https://pulsegeek.com/articles/button-remapping-on-miyoo-retarch-clean-profiles/" />
+    <updated>2026-01-05T22:43:00Z</updated>
+    <summary type="html"><![CDATA[Learn reliable button remapping on Miyoo RetroArch with per-core and per-game profiles, conflict-safe saves, and validation steps that prevent drift or broken inputs.]]></summary>
   </entry>
   <entry>
-    <title>Raycasting vs Shapecasting: Practical Use Cases</title>
-    <id>https://pulsegeek.com/articles/raycasting-vs-shapecasting-practical-use-cases/</id>
-    <link href="https://pulsegeek.com/articles/raycasting-vs-shapecasting-practical-use-cases/" />
-    <updated>2025-12-30T22:20:00Z</updated>
-    <summary type="html"><![CDATA[Compare raycasting and shapecasting with clear criteria, a side by side table, tradeoffs, and scenario based picks for stable game physics.]]></summary>
+    <title>Fix RetroArch Hotkey Conflicts on Miyoo Mini</title>
+    <id>https://pulsegeek.com/articles/fix-retroarch-hotkey-conflicts-on-miyoo-mini/</id>
+    <link href="https://pulsegeek.com/articles/fix-retroarch-hotkey-conflicts-on-miyoo-mini/" />
+    <updated>2026-01-05T22:42:00Z</updated>
+    <summary type="html"><![CDATA[Learn reliable ways to resolve RetroArch hotkey conflicts on Miyoo Mini, map a safe exit combo, prevent overlaps with core inputs, and validate across systems.]]></summary>
   </entry>
   <entry>
-    <title>Router Settings to Reduce Bufferbloat for Streaming</title>
-    <id>https://pulsegeek.com/articles/router-settings-to-reduce-bufferbloat-for-streaming/</id>
-    <link href="https://pulsegeek.com/articles/router-settings-to-reduce-bufferbloat-for-streaming/" />
-    <updated>2025-12-30T22:19:00Z</updated>
-    <summary type="html"><![CDATA[Calibrate router QoS and SQM to cut bufferbloat for streaming games. Learn planning steps, OpenWrt and vendor options, validation with waveform tests, and fixes for edge cases.]]></summary>
+    <title>Auto Channel Assignment: Pitfalls and Practical Fixes</title>
+    <id>https://pulsegeek.com/articles/auto-channel-assignment-pitfalls-and-practical-fixes/</id>
+    <link href="https://pulsegeek.com/articles/auto-channel-assignment-pitfalls-and-practical-fixes/" />
+    <updated>2026-01-05T22:41:00Z</updated>
+    <summary type="html"><![CDATA[Avoid auto channel assignment mistakes with actionable fixes across 2.4, 5, and 6 GHz. Learn when to override, how to tune DFS, and how width and power choices reduce interference without adding hardware.]]></summary>
   </entry>
   <entry>
-    <title>Supply and Demand Curves for Game Items: Examples</title>
-    <id>https://pulsegeek.com/articles/supply-and-demand-curves-for-game-items-examples/</id>
-    <link href="https://pulsegeek.com/articles/supply-and-demand-curves-for-game-items-examples/" />
-    <updated>2025-12-30T22:18:00Z</updated>
-    <summary type="html"><![CDATA[See six real-world style examples that show how supply and demand curves shape game item prices, with concrete scenarios, tradeoffs, and designer guardrails.]]></summary>
+    <title>Aruba Central Planning and Assurance for WiFi 8</title>
+    <id>https://pulsegeek.com/articles/aruba-central-planning-and-assurance-for-wifi-8/</id>
+    <link href="https://pulsegeek.com/articles/aruba-central-planning-and-assurance-for-wifi-8/" />
+    <updated>2026-01-05T22:40:00Z</updated>
+    <summary type="html"><![CDATA[Understand Aruba Central planning and assurance for WiFi 8. Learn concepts, decision lenses, and realistic scenarios to size, monitor, and improve capacity without guesswork across mixed clients and demanding environments.]]></summary>
   </entry>
   <entry>
-    <title>Ink Language Scripting Tips and Examples</title>
-    <id>https://pulsegeek.com/articles/ink-language-scripting-tips-and-examples/</id>
-    <link href="https://pulsegeek.com/articles/ink-language-scripting-tips-and-examples/" />
-    <updated>2025-12-30T22:17:00Z</updated>
-    <summary type="html"><![CDATA[Learn practical Ink language scripting tips with runnable examples, variables, functions, tags, and export guidance. Improve branching logic, pacing, and integration with engines.]]></summary>
+    <title>Convert BIN/CUE to CHD for DuckStation</title>
+    <id>https://pulsegeek.com/articles/convert-bin-cue-to-chd-for-duckstation/</id>
+    <link href="https://pulsegeek.com/articles/convert-bin-cue-to-chd-for-duckstation/" />
+    <updated>2026-01-05T22:39:00Z</updated>
+    <summary type="html"><![CDATA[Learn how to convert BIN and CUE images to CHD for DuckStation using chdman, with planning tips, verified settings, validation steps, and fixes for common errors.]]></summary>
   </entry>
   <entry>
-    <title>OpenAI for Business: Practical Ways to Apply Safely</title>
-    <id>https://pulsegeek.com/articles/openai-for-business-practical-ways-to-apply-safely/</id>
-    <link href="https://pulsegeek.com/articles/openai-for-business-practical-ways-to-apply-safely/" />
-    <updated>2025-12-30T22:16:00Z</updated>
-    <summary type="html"><![CDATA[Learn practical, safe ways to apply OpenAI in business. See governance, high-value use cases, guardrails, and ROI methods that withstand audits and scale.]]></summary>
+    <title>Plan Multi‑Link Operation for Wi‑Fi 9 Networks</title>
+    <id>https://pulsegeek.com/articles/plan-multi-link-operation-for-wi-fi-9-networks/</id>
+    <link href="https://pulsegeek.com/articles/plan-multi-link-operation-for-wi-fi-9-networks/" />
+    <updated>2026-01-05T22:38:00Z</updated>
+    <summary type="html"><![CDATA[Learn how to plan Multi‑Link Operation in Wi‑Fi 9: choose bands, map policies, configure profiles, validate throughput and latency, and troubleshoot client behavior.]]></summary>
   </entry>
   <entry>
-    <title>Runahead Latency Reduction: Setup and Tuning</title>
-    <id>https://pulsegeek.com/articles/runahead-latency-reduction-setup-and-tuning/</id>
-    <link href="https://pulsegeek.com/articles/runahead-latency-reduction-setup-and-tuning/" />
-    <updated>2025-12-29T22:21:00Z</updated>
-    <summary type="html"><![CDATA[Learn how to configure runahead for lower input latency, validate gains, and avoid desyncs. Step by step setup, safe ranges, and troubleshooting for RetroArch and similar emulators.]]></summary>
+    <title>Best DuckStation Save State Workflows</title>
+    <id>https://pulsegeek.com/articles/best-duckstation-save-state-workflows/</id>
+    <link href="https://pulsegeek.com/articles/best-duckstation-save-state-workflows/" />
+    <updated>2026-01-05T22:37:00Z</updated>
+    <summary type="html"><![CDATA[Learn five proven DuckStation save state workflows with examples, guardrails, and tradeoffs so you can keep progress safe, reduce clutter, and recover sessions quickly.]]></summary>
   </entry>
   <entry>
-    <title>Ragdoll Setup and Stability Tips for Reliable Collisions</title>
-    <id>https://pulsegeek.com/articles/ragdoll-setup-and-stability-tips-for-reliable-collisions/</id>
-    <link href="https://pulsegeek.com/articles/ragdoll-setup-and-stability-tips-for-reliable-collisions/" />
-    <updated>2025-12-29T22:20:00Z</updated>
-    <summary type="html"><![CDATA[Learn how to build stable ragdolls that collide reliably. Plan bones, configure joints, set masses, tune limits, and validate with repeatable tests across engines like Unity, Unreal, and Godot.]]></summary>
+    <title>DuckStation BIOS: Paths, Regions, and Detection Tips</title>
+    <id>https://pulsegeek.com/articles/duckstation-bios-paths-regions-and-detection-tips/</id>
+    <link href="https://pulsegeek.com/articles/duckstation-bios-paths-regions-and-detection-tips/" />
+    <updated>2026-01-05T22:36:00Z</updated>
+    <summary type="html"><![CDATA[Learn how DuckStation locates BIOS files, choose correct regional images, and fix detection issues with practical rules, examples, and verification steps.]]></summary>
   </entry>
   <entry>
-    <title>Prioritize Game Traffic with QoS: Router Playbook</title>
-    <id>https://pulsegeek.com/articles/prioritize-game-traffic-with-qos-router-playbook/</id>
-    <link href="https://pulsegeek.com/articles/prioritize-game-traffic-with-qos-router-playbook/" />
-    <updated>2025-12-29T22:19:00Z</updated>
-    <summary type="html"><![CDATA[Learn how to prioritize game traffic with router QoS. Plan policies, prepare firmware, execute shaping and DSCP tagging, validate latency, and tune stability.]]></summary>
+    <title>Call of Duty on Steam Deck: Proton Compatibility</title>
+    <id>https://pulsegeek.com/articles/call-of-duty-on-steam-deck-proton-compatibility/</id>
+    <link href="https://pulsegeek.com/articles/call-of-duty-on-steam-deck-proton-compatibility/" />
+    <updated>2026-01-05T22:35:00Z</updated>
+    <summary type="html"><![CDATA[See how different Call of Duty titles behave on Steam Deck under Proton, why anti-cheat complicates support, and practical workarounds for testing, performance, and stability without risking account issues.]]></summary>
   </entry>
   <entry>
-    <title>Price Discovery in Virtual Markets: How It Emerges</title>
-    <id>https://pulsegeek.com/articles/price-discovery-in-virtual-markets-how-it-emerges/</id>
-    <link href="https://pulsegeek.com/articles/price-discovery-in-virtual-markets-how-it-emerges/" />
-    <updated>2025-12-29T22:18:00Z</updated>
-    <summary type="html"><![CDATA[Learn how price discovery forms in virtual markets through auctions, listings, and negotiated trades, with examples, design levers, and guardrails that balance liquidity, fairness, and stability for players and designers.]]></summary>
+    <title>Change the Default Library Folder in SteamOS</title>
+    <id>https://pulsegeek.com/articles/change-the-default-library-folder-in-steamos/</id>
+    <link href="https://pulsegeek.com/articles/change-the-default-library-folder-in-steamos/" />
+    <updated>2026-01-05T22:34:00Z</updated>
+    <summary type="html"><![CDATA[Learn how to change the default SteamOS library folder in Desktop Mode. Plan storage, prepare drives, run safe commands, validate paths, and fix common errors.]]></summary>
   </entry>
   <entry>
-    <title>Fungus Unity Workflow for Dialogue and Quests</title>
-    <id>https://pulsegeek.com/articles/fungus-unity-workflow-for-dialogue-and-quests/</id>
-    <link href="https://pulsegeek.com/articles/fungus-unity-workflow-for-dialogue-and-quests/" />
-    <updated>2025-12-29T22:17:00Z</updated>
-    <summary type="html"><![CDATA[Build a reliable Fungus workflow in Unity for branching dialogue and quest logic. Plan variables and IDs, configure Flowcharts, script events, validate outcomes, and fix edge cases.]]></summary>
+    <title>Is Gaming While Charging Bad for Steam Deck Battery?</title>
+    <id>https://pulsegeek.com/articles/is-gaming-while-charging-bad-for-steam-deck-battery/</id>
+    <link href="https://pulsegeek.com/articles/is-gaming-while-charging-bad-for-steam-deck-battery/" />
+    <updated>2026-01-05T22:33:00Z</updated>
+    <summary type="html"><![CDATA[Gaming while charging is generally safe for the Steam Deck if heat stays controlled. Learn when it’s fine, when to pause, and how to log charge rates, temps, and power to protect long‑term battery health.]]></summary>
   </entry>
   <entry>
-    <title>How to Measure ROI of AI Projects: A Clear Method</title>
-    <id>https://pulsegeek.com/articles/how-to-measure-roi-of-ai-projects-a-clear-method/</id>
-    <link href="https://pulsegeek.com/articles/how-to-measure-roi-of-ai-projects-a-clear-method/" />
-    <updated>2025-12-29T22:16:00Z</updated>
-    <summary type="html"><![CDATA[Learn a practical method to measure ROI for AI projects, from baselines and attribution to cost modeling and scaling decisions. Use repeatable steps, careful data design, and risk-aware metrics.]]></summary>
+    <title>Compare AV1 Support Across GPUs for Streaming</title>
+    <id>https://pulsegeek.com/articles/compare-av1-support-across-gpus-for-streaming/</id>
+    <link href="https://pulsegeek.com/articles/compare-av1-support-across-gpus-for-streaming/" />
+    <updated>2026-01-05T22:32:00Z</updated>
+    <summary type="html"><![CDATA[See how Nvidia RTX 40, AMD RDNA 3, and Intel Arc handle AV1 encoding for game streaming, with guidance on quality, latency, driver maturity, and software compatibility.]]></summary>
   </entry>
   <entry>
-    <title>RetroArch Latency Settings: A Practical Guide</title>
-    <id>https://pulsegeek.com/articles/retroarch-latency-settings-a-practical-guide/</id>
-    <link href="https://pulsegeek.com/articles/retroarch-latency-settings-a-practical-guide/" />
-    <updated>2025-12-28T22:21:00Z</updated>
-    <summary type="html"><![CDATA[Tune RetroArch for responsive controls with clear steps for VSync, hard GPU sync, frame delay, and runahead. Learn tradeoffs, validation, and troubleshooting to reduce input lag safely.]]></summary>
+    <title>Best Bluetooth Transmitters for Steam Deck in 2026</title>
+    <id>https://pulsegeek.com/articles/best-bluetooth-transmitters-for-steam-deck-in-2026/</id>
+    <link href="https://pulsegeek.com/articles/best-bluetooth-transmitters-for-steam-deck-in-2026/" />
+    <updated>2026-01-05T22:31:00Z</updated>
+    <summary type="html"><![CDATA[Find vetted Bluetooth transmitters for Steam Deck with low latency, stable pairing, and codec clarity. Compare aptX LL, Adaptive, and SBC fallback, plus TV mode options and dock-friendly picks.]]></summary>
   </entry>
   <entry>
-    <title>Physics Timestep: Fixed vs Variable, Stability First</title>
-    <id>https://pulsegeek.com/articles/physics-timestep-fixed-vs-variable-stability-first/</id>
-    <link href="https://pulsegeek.com/articles/physics-timestep-fixed-vs-variable-stability-first/" />
-    <updated>2025-12-28T22:20:00Z</updated>
-    <summary type="html"><![CDATA[Compare fixed and variable physics timesteps for stability, responsiveness, and performance. Learn when to lock the step, how to sync rendering, and how to tune jitter, drift, and determinism.]]></summary>
+    <title>DNS Cache Flush on Steam Deck for Network Errors</title>
+    <id>https://pulsegeek.com/articles/dns-cache-flush-on-steam-deck-for-network-errors/</id>
+    <link href="https://pulsegeek.com/articles/dns-cache-flush-on-steam-deck-for-network-errors/" />
+    <updated>2026-01-05T22:30:00Z</updated>
+    <summary type="html"><![CDATA[Fix name resolution issues fast. Learn how to detect your resolver, flush the DNS cache on Steam Deck safely, validate results, and prevent repeat network errors.]]></summary>
   </entry>
   <entry>
-    <title>Peering and Route Optimization for Cloud Services</title>
-    <id>https://pulsegeek.com/articles/peering-and-route-optimization-for-cloud-services/</id>
-    <link href="https://pulsegeek.com/articles/peering-and-route-optimization-for-cloud-services/" />
-    <updated>2025-12-28T22:19:00Z</updated>
-    <summary type="html"><![CDATA[Learn how ISP peering and route optimization shape cloud gaming performance. Compare paths, measure latency and jitter, and choose actions that reduce stalls and input lag.]]></summary>
+    <title>Charge While Playing: Steam Deck Heat Tips That Help</title>
+    <id>https://pulsegeek.com/articles/charge-while-playing-steam-deck-heat-tips-that-help/</id>
+    <link href="https://pulsegeek.com/articles/charge-while-playing-steam-deck-heat-tips-that-help/" />
+    <updated>2026-01-05T22:29:00Z</updated>
+    <summary type="html"><![CDATA[Learn how to keep your Steam Deck cooler while charging and playing. Plan power limits, tune frame rate, and validate thermals with simple checks and monitoring.]]></summary>
   </entry>
   <entry>
-    <title>Preventing Market Manipulation in Games: Tactics</title>
-    <id>https://pulsegeek.com/articles/preventing-market-manipulation-in-games-tactics/</id>
-    <link href="https://pulsegeek.com/articles/preventing-market-manipulation-in-games-tactics/" />
-    <updated>2025-12-28T22:18:00Z</updated>
-    <summary type="html"><![CDATA[Learn how to detect, prevent, and deter market manipulation in game economies using data signals, guardrails, audits, and policy. Includes steps, examples, and tradeoffs.]]></summary>
+    <title>Avoid VAC Ban Risks on Steam Deck: A Safe Checklist</title>
+    <id>https://pulsegeek.com/articles/avoid-vac-ban-risks-on-steam-deck-a-safe-checklist/</id>
+    <link href="https://pulsegeek.com/articles/avoid-vac-ban-risks-on-steam-deck-a-safe-checklist/" />
+    <updated>2026-01-05T22:28:00Z</updated>
+    <summary type="html"><![CDATA[Learn how to reduce VAC ban risks on Steam Deck with safe settings, Proton choices, clean files, and verification steps. Follow a careful plan, validate results, and troubleshoot without triggering anti-cheat.]]></summary>
   </entry>
   <entry>
-    <title>Export Narrative Data to Unity or Unreal</title>
-    <id>https://pulsegeek.com/articles/export-narrative-data-to-unity-or-unreal/</id>
-    <link href="https://pulsegeek.com/articles/export-narrative-data-to-unity-or-unreal/" />
-    <updated>2025-12-28T22:17:00Z</updated>
-    <summary type="html"><![CDATA[Learn how to export narrative data from authoring tools and import it into Unity or Unreal with IDs, variables, and audio cues intact. Includes mapping tips, validation checks, and troubleshooting.]]></summary>
+    <title>Apartment MDU Interference: Puncturing Strategies</title>
+    <id>https://pulsegeek.com/articles/apartment-mdu-interference-puncturing-strategies/</id>
+    <link href="https://pulsegeek.com/articles/apartment-mdu-interference-puncturing-strategies/" />
+    <updated>2026-01-05T22:27:00Z</updated>
+    <summary type="html"><![CDATA[Actionable Wi‑Fi 8 guidance for apartment MDUs. Learn how to map interference, design channel masks, balance widths, and apply preamble puncturing with clear tradeoffs, examples, and monitoring tips for dense multi‑dwelling buildings.]]></summary>
   </entry>
   <entry>
-    <title>How to Build an AI Business Case That Wins Approval</title>
-    <id>https://pulsegeek.com/articles/how-to-build-an-ai-business-case-that-wins-approval/</id>
-    <link href="https://pulsegeek.com/articles/how-to-build-an-ai-business-case-that-wins-approval/" />
-    <updated>2025-12-28T22:16:00Z</updated>
-    <summary type="html"><![CDATA[Follow a practical path to build an AI business case with baselines, ROI, feasibility, and change management, then package it for executive approval.]]></summary>
+    <title>Compression Settings for Large Mod Packs: Best Picks</title>
+    <id>https://pulsegeek.com/articles/compression-settings-for-large-mod-packs-best-picks/</id>
+    <link href="https://pulsegeek.com/articles/compression-settings-for-large-mod-packs-best-picks/" />
+    <updated>2026-01-05T22:26:00Z</updated>
+    <summary type="html"><![CDATA[Choose fast, reliable compression for big mod packs with clear presets, safe flags, and validation steps. Compare ZIP, 7z, and Zstandard settings, prevent corruption, and balance speed against size for smoother installs.]]></summary>
   </entry>
   <entry>
-    <title>Low Latency vs Accuracy: Smart Emulation Trade‑offs</title>
-    <id>https://pulsegeek.com/articles/low-latency-vs-accuracy-smart-emulation-trade-offs/</id>
-    <link href="https://pulsegeek.com/articles/low-latency-vs-accuracy-smart-emulation-trade-offs/" />
-    <updated>2025-12-27T22:21:00Z</updated>
-    <summary type="html"><![CDATA[Learn how to balance low latency and simulation accuracy in emulators with practical decision lenses, examples, and trade-offs that prevent desync, stutter, or visual artifacts.]]></summary>
+    <title>Accuracy Cores vs Speed Cores: Which to Use</title>
+    <id>https://pulsegeek.com/articles/accuracy-cores-vs-speed-cores-which-to-use/</id>
+    <link href="https://pulsegeek.com/articles/accuracy-cores-vs-speed-cores-which-to-use/" />
+    <updated>2026-01-05T22:25:00Z</updated>
+    <summary type="html"><![CDATA[Compare accuracy cores and speed cores for emulation. Learn tradeoffs in compatibility, latency, performance headroom, and tuning effort to pick the right core for each game.]]></summary>
   </entry>
   <entry>
-    <title>NavMesh vs Grid Pathfinding: Navigation Tradeoffs</title>
-    <id>https://pulsegeek.com/articles/navmesh-vs-grid-pathfinding-navigation-tradeoffs/</id>
-    <link href="https://pulsegeek.com/articles/navmesh-vs-grid-pathfinding-navigation-tradeoffs/" />
-    <updated>2025-12-27T22:20:00Z</updated>
-    <summary type="html"><![CDATA[Compare NavMesh and grid pathfinding for games with criteria, examples, and scenarios. Learn performance, accuracy, authoring, and runtime tradeoffs to choose confidently.]]></summary>
+    <title>Deferred vs Forward Rendering: Choosing Your Path</title>
+    <id>https://pulsegeek.com/articles/deferred-vs-forward-rendering-choosing-your-path/</id>
+    <link href="https://pulsegeek.com/articles/deferred-vs-forward-rendering-choosing-your-path/" />
+    <updated>2026-01-05T22:24:00Z</updated>
+    <summary type="html"><![CDATA[Compare deferred and forward rendering in game engines using clarity, lighting features, transparency, MSAA, memory use, and platform fit. Learn when each approach wins and how to evaluate tradeoffs.]]></summary>
   </entry>
   <entry>
-    <title>Packet Loss Fixes for Streaming Gameplay: Fast Repairs</title>
-    <id>https://pulsegeek.com/articles/packet-loss-fixes-for-streaming-gameplay-fast-repairs/</id>
-    <link href="https://pulsegeek.com/articles/packet-loss-fixes-for-streaming-gameplay-fast-repairs/" />
-    <updated>2025-12-27T22:19:00Z</updated>
-    <summary type="html"><![CDATA[Diagnose and fix packet loss during streaming gameplay with clear steps, quick tests, and router tweaks. Learn measurements, fast repairs, and validation for stable, low-latency sessions.]]></summary>
+    <title>Cloud Gaming on Ultrawide Monitors: Settings Guide</title>
+    <id>https://pulsegeek.com/articles/cloud-gaming-on-ultrawide-monitors-settings-guide/</id>
+    <link href="https://pulsegeek.com/articles/cloud-gaming-on-ultrawide-monitors-settings-guide/" />
+    <updated>2026-01-05T22:23:00Z</updated>
+    <summary type="html"><![CDATA[Tune cloud gaming on ultrawide monitors with aspect ratio choices, scaling, bitrate, and FPS. Follow step by step setup, validation, and fixes to reduce blur, lag, and black bars.]]></summary>
   </entry>
   <entry>
-    <title>Peer‑to‑Peer Trading Safety Tips for Players</title>
-    <id>https://pulsegeek.com/articles/peer-to-peer-trading-safety-tips-for-players/</id>
-    <link href="https://pulsegeek.com/articles/peer-to-peer-trading-safety-tips-for-players/" />
-    <updated>2025-12-27T22:18:00Z</updated>
-    <summary type="html"><![CDATA[Learn practical peer-to-peer trading safety tips for players. Verify identities, avoid chargebacks, spot manipulation, and trade smarter with clear steps and tradeoffs.]]></summary>
+    <title>Cosmetic Rarity and Perceived Value: What Drives It</title>
+    <id>https://pulsegeek.com/articles/cosmetic-rarity-and-perceived-value-what-drives-it/</id>
+    <link href="https://pulsegeek.com/articles/cosmetic-rarity-and-perceived-value-what-drives-it/" />
+    <updated>2026-01-05T22:22:00Z</updated>
+    <summary type="html"><![CDATA[Learn how cosmetic rarity shapes perceived value using clear definitions, decision lenses, and examples. Understand scarcity, signaling, and fairness tradeoffs to design cosmetics players prize without destabilizing economies.]]></summary>
   </entry>
   <entry>
-    <title>Content Pipelines: Writers Room to Engine</title>
-    <id>https://pulsegeek.com/articles/content-pipelines-writers-room-to-engine/</id>
-    <link href="https://pulsegeek.com/articles/content-pipelines-writers-room-to-engine/" />
-    <updated>2025-12-27T22:17:00Z</updated>
-    <summary type="html"><![CDATA[Design a reliable content pipeline from writers room to engine with formats, IDs, and validation. Learn tradeoffs, handoff criteria, and QA gates that keep branching dialogue shippable and localization ready.]]></summary>
+    <title>Version Control for Narrative Scripts and Nodes</title>
+    <id>https://pulsegeek.com/articles/version-control-for-narrative-scripts-and-nodes/</id>
+    <link href="https://pulsegeek.com/articles/version-control-for-narrative-scripts-and-nodes/" />
+    <updated>2026-01-05T22:21:00Z</updated>
+    <summary type="html"><![CDATA[Learn practical version control for narrative scripts and node graphs. Compare storage models, set merge rules, avoid conflicts, and keep writers and engineers aligned across tools and engines.]]></summary>
   </entry>
   <entry>
-    <title>Data Readiness for AI in Business: Do the Right Prep</title>
-    <id>https://pulsegeek.com/articles/data-readiness-for-ai-in-business-do-the-right-prep/</id>
-    <link href="https://pulsegeek.com/articles/data-readiness-for-ai-in-business-do-the-right-prep/" />
-    <updated>2025-12-27T22:16:00Z</updated>
-    <summary type="html"><![CDATA[Learn a practical, phased approach to data readiness for AI in business. Audit decisions, profile datasets, fix pipelines, set governance, and plan ROI checkpoints to reduce risk and speed value.]]></summary>
+    <title>320 MHz Interference Mitigation Strategies</title>
+    <id>https://pulsegeek.com/articles/320-mhz-interference-mitigation-strategies/</id>
+    <link href="https://pulsegeek.com/articles/320-mhz-interference-mitigation-strategies/" />
+    <updated>2026-01-04T22:55:00Z</updated>
+    <summary type="html"><![CDATA[Reduce noise, collisions, and airtime waste on 6 GHz with clear 320 MHz interference mitigation steps. Plan channels, tune power, apply puncturing, and validate with spectrum data to sustain high throughput.]]></summary>
   </entry>
   <entry>
-    <title>How to Measure Input Latency at Home</title>
-    <id>https://pulsegeek.com/articles/how-to-measure-input-latency-at-home/</id>
-    <link href="https://pulsegeek.com/articles/how-to-measure-input-latency-at-home/" />
-    <updated>2025-12-26T22:21:00Z</updated>
-    <summary type="html"><![CDATA[Follow a practical path to measure emulator input latency at home using video, LED triggers, and logs, with setup tips, validation, and fixes for common pitfalls.]]></summary>
+    <title>320 MHz in 6 GHz: Pros, Cons, and Real‑World Fit</title>
+    <id>https://pulsegeek.com/articles/320-mhz-in-6-ghz-pros-cons-and-real-world-fit/</id>
+    <link href="https://pulsegeek.com/articles/320-mhz-in-6-ghz-pros-cons-and-real-world-fit/" />
+    <updated>2026-01-04T22:54:00Z</updated>
+    <summary type="html"><![CDATA[Learn when 320 MHz channels in 6 GHz make sense, what they trade off against 160 MHz, and how PSCs, MLO, and AFC shape real Wi‑Fi 8 designs.]]></summary>
   </entry>
   <entry>
-    <title>Kinematic Bodies for Moving Platforms: A Builder’s Guide</title>
-    <id>https://pulsegeek.com/articles/kinematic-bodies-for-moving-platforms-a-builders-guide/</id>
-    <link href="https://pulsegeek.com/articles/kinematic-bodies-for-moving-platforms-a-builders-guide/" />
-    <updated>2025-12-26T22:20:00Z</updated>
-    <summary type="html"><![CDATA[Learn to build reliable moving platforms with kinematic bodies, transfer passenger motion safely, and avoid jitter or tunneling using fixed updates, contact tracking, and precise velocity handling.]]></summary>
+    <title>802.11be EHT Explained: Features, Gains, and Tradeoffs</title>
+    <id>https://pulsegeek.com/articles/802-11be-eht-explained-features-gains-and-tradeoffs/</id>
+    <link href="https://pulsegeek.com/articles/802-11be-eht-explained-features-gains-and-tradeoffs/" />
+    <updated>2026-01-04T22:53:00Z</updated>
+    <summary type="html"><![CDATA[Learn what 802.11be EHT changes, how features like MLO and 320 MHz boost throughput, and when tradeoffs appear around latency, range, and spectrum planning.]]></summary>
   </entry>
   <entry>
-    <title>NAT Types and Cloud Gaming Connectivity Explained</title>
-    <id>https://pulsegeek.com/articles/nat-types-and-cloud-gaming-connectivity-explained/</id>
-    <link href="https://pulsegeek.com/articles/nat-types-and-cloud-gaming-connectivity-explained/" />
-    <updated>2025-12-26T22:19:00Z</updated>
-    <summary type="html"><![CDATA[Learn how NAT types affect cloud gaming connectivity, why UDP traversal matters, and practical ways to avoid blockages like CGNAT, double NAT, and strict routers.]]></summary>
+    <title>Cisco ISE vs Aruba ClearPass for Wi‑Fi 7 Policies</title>
+    <id>https://pulsegeek.com/articles/cisco-ise-vs-aruba-clearpass-for-wi-fi-7-policies/</id>
+    <link href="https://pulsegeek.com/articles/cisco-ise-vs-aruba-clearpass-for-wi-fi-7-policies/" />
+    <updated>2026-01-04T22:52:00Z</updated>
+    <summary type="html"><![CDATA[Compare Cisco ISE and Aruba ClearPass for Wi‑Fi 7 policies. Learn how they differ on identity, onboarding, segmentation, integrations, and operations to pick the right fit.]]></summary>
   </entry>
   <entry>
-    <title>Listing Fee vs Transaction Tax: Which Works Best?</title>
-    <id>https://pulsegeek.com/articles/listing-fee-vs-transaction-tax-which-works-best/</id>
-    <link href="https://pulsegeek.com/articles/listing-fee-vs-transaction-tax-which-works-best/" />
-    <updated>2025-12-26T22:18:00Z</updated>
-    <summary type="html"><![CDATA[Compare listing fees and transaction taxes for game markets, with clear criteria, examples, and tradeoffs to pick the right setup for liquidity, fairness, and revenue.]]></summary>
+    <title>BYOD Onboarding Workflow: Secure Wi‑Fi Step Guide</title>
+    <id>https://pulsegeek.com/articles/byod-onboarding-workflow-secure-wi-fi-step-guide/</id>
+    <link href="https://pulsegeek.com/articles/byod-onboarding-workflow-secure-wi-fi-step-guide/" />
+    <updated>2026-01-04T22:51:00Z</updated>
+    <summary type="html"><![CDATA[Follow a practical BYOD onboarding workflow for secure Wi‑Fi. Plan trust, prepare PKI and MDM, execute enrollment, validate access, and troubleshoot common errors with clear checks and remediations.]]></summary>
   </entry>
   <entry>
-    <title>Automated Tests for Choice Coverage in Scripts</title>
-    <id>https://pulsegeek.com/articles/automated-tests-for-choice-coverage-in-scripts/</id>
-    <link href="https://pulsegeek.com/articles/automated-tests-for-choice-coverage-in-scripts/" />
-    <updated>2025-12-26T22:17:00Z</updated>
-    <summary type="html"><![CDATA[Learn how to design and run automated tests that verify choice coverage in narrative scripts, traverse branches safely, and surface unreachable nodes, variable issues, and flaky outcomes with clear reports and guardrails.]]></summary>
+    <title>AFC Requirements for 6 GHz Gaming Routers Explained</title>
+    <id>https://pulsegeek.com/articles/afc-requirements-for-6-ghz-gaming-routers-explained/</id>
+    <link href="https://pulsegeek.com/articles/afc-requirements-for-6-ghz-gaming-routers-explained/" />
+    <updated>2026-01-04T22:50:00Z</updated>
+    <summary type="html"><![CDATA[Learn how AFC governs 6 GHz router power, device eligibility, and outdoor limits so you can game with low latency while staying compliant at home or studio.]]></summary>
   </entry>
   <entry>
-    <title>Change Management for AI Adoption: Lead With Clarity</title>
-    <id>https://pulsegeek.com/articles/change-management-for-ai-adoption-lead-with-clarity/</id>
-    <link href="https://pulsegeek.com/articles/change-management-for-ai-adoption-lead-with-clarity/" />
-    <updated>2025-12-26T22:16:00Z</updated>
-    <summary type="html"><![CDATA[Learn a clear, stepwise approach to change management for AI adoption. Define outcomes, map stakeholders, enable pilots, reduce risk, and measure value with practical tools leaders can use.]]></summary>
+    <title>802.11be Clause Structure Guide: Reading the Amendment</title>
+    <id>https://pulsegeek.com/articles/80211be-clause-structure-guide-reading-the-amendment/</id>
+    <link href="https://pulsegeek.com/articles/80211be-clause-structure-guide-reading-the-amendment/" />
+    <updated>2026-01-04T22:49:00Z</updated>
+    <summary type="html"><![CDATA[Learn a reliable process to read the 802.11be amendment, map clauses to MAC and PHY features, and build traceable notes that accelerate engineering work.]]></summary>
   </entry>
   <entry>
-    <title>Tvilight Smart City Lighting: Features and Field Notes</title>
-    <id>https://pulsegeek.com/articles/tvilight-smart-city-lighting-features-and-field-notes/</id>
-    <link href="https://pulsegeek.com/articles/tvilight-smart-city-lighting-features-and-field-notes/" />
-    <updated>2025-12-25T22:22:00Z</updated>
-    <summary type="html"><![CDATA[Learn how Tvilight-style smart city lighting works, core features to evaluate, and field-tested decision lenses for uptime, energy savings, and maintenance orchestration.]]></summary>
+    <title>Android System WebView Issues on Retroid: Fix Path</title>
+    <id>https://pulsegeek.com/articles/android-system-webview-issues-on-retroid-fix-path/</id>
+    <link href="https://pulsegeek.com/articles/android-system-webview-issues-on-retroid-fix-path/" />
+    <updated>2026-01-04T22:48:00Z</updated>
+    <summary type="html"><![CDATA[Diagnose and resolve Android System WebView problems on Retroid Pocket. Learn symptoms, root causes, and a safe decision path to stabilize apps without guesswork or risky resets.]]></summary>
   </entry>
   <entry>
-    <title>Hard GPU Sync vs Pre‑Rendered Frames Compared</title>
-    <id>https://pulsegeek.com/articles/hard-gpu-sync-vs-pre-rendered-frames-compared/</id>
-    <link href="https://pulsegeek.com/articles/hard-gpu-sync-vs-pre-rendered-frames-compared/" />
-    <updated>2025-12-25T22:21:00Z</updated>
-    <summary type="html"><![CDATA[Compare hard GPU sync against pre rendered frames for emulator latency. Learn impact on input lag, stability, and tuning effort with clear scenarios.]]></summary>
+    <title>Artwork Packs vs Live Scraping on Onion OS</title>
+    <id>https://pulsegeek.com/articles/artwork-packs-vs-live-scraping-on-onion-os/</id>
+    <link href="https://pulsegeek.com/articles/artwork-packs-vs-live-scraping-on-onion-os/" />
+    <updated>2026-01-04T22:47:00Z</updated>
+    <summary type="html"><![CDATA[Compare artwork packs and live scraping on Onion OS across speed, accuracy, storage, and maintenance. Learn when each method fits and how to mix them safely.]]></summary>
   </entry>
   <entry>
-    <title>Joints and Constraints in Game Engines: A Catalog</title>
-    <id>https://pulsegeek.com/articles/joints-and-constraints-in-game-engines-a-catalog/</id>
-    <link href="https://pulsegeek.com/articles/joints-and-constraints-in-game-engines-a-catalog/" />
-    <updated>2025-12-25T22:20:00Z</updated>
-    <summary type="html"><![CDATA[Explore nine essential joints and constraints for game engines with clear examples, tradeoffs, and tuning tips. Compare hinge, slider, fixed, spring, spherical, twist, ragdoll, articulation, and motorized limits.]]></summary>
+    <title>Best Cores for PSX on Onion OS: Compatible &amp; Smooth</title>
+    <id>https://pulsegeek.com/articles/best-cores-for-psx-on-onion-os-compatible-and-smooth/</id>
+    <link href="https://pulsegeek.com/articles/best-cores-for-psx-on-onion-os-compatible-and-smooth/" />
+    <updated>2026-01-04T22:46:00Z</updated>
+    <summary type="html"><![CDATA[Discover the best PSX cores on Onion OS with practical tuning tips. Compare PCSX ReARMed, Beetle PSX, and more to balance accuracy, speed, and visuals for smooth handheld play.]]></summary>
   </entry>
   <entry>
-    <title>Mobile Hotspot Tips for Cloud Gaming on the Go</title>
-    <id>https://pulsegeek.com/articles/mobile-hotspot-tips-for-cloud-gaming-on-the-go/</id>
-    <link href="https://pulsegeek.com/articles/mobile-hotspot-tips-for-cloud-gaming-on-the-go/" />
-    <updated>2025-12-25T22:19:00Z</updated>
-    <summary type="html"><![CDATA[Practical mobile hotspot tips to stabilize cloud gaming while traveling. Learn carrier and band choices, bitrate caps, 5 GHz tuning, USB tethering, and latency checks for smoother play.]]></summary>
+    <title>Audio Sync Crackle Fix on Miyoo RetroArch</title>
+    <id>https://pulsegeek.com/articles/audio-sync-crackle-fix-on-miyoo-retroarch/</id>
+    <link href="https://pulsegeek.com/articles/audio-sync-crackle-fix-on-miyoo-retroarch/" />
+    <updated>2026-01-04T22:45:00Z</updated>
+    <summary type="html"><![CDATA[Eliminate audio crackle on Miyoo RetroArch by aligning sync, buffers, and pacing. Follow a safe, stepwise plan with verification and fallback paths that prevent stutter and preserve latency.]]></summary>
   </entry>
   <entry>
-    <title>Dynamic Pricing in Virtual Economies: When to Use It</title>
-    <id>https://pulsegeek.com/articles/dynamic-pricing-in-virtual-economies-when-to-use-it/</id>
-    <link href="https://pulsegeek.com/articles/dynamic-pricing-in-virtual-economies-when-to-use-it/" />
-    <updated>2025-12-25T22:18:00Z</updated>
-    <summary type="html"><![CDATA[Learn what dynamic pricing means in virtual economies, when it stabilizes markets, and where it backfires. See frameworks, examples, and tradeoffs to decide if adaptive prices fit your game’s design goals.]]></summary>
+    <title>Best RetroArch Video Settings for Miyoo: Tested Picks</title>
+    <id>https://pulsegeek.com/articles/best-retroarch-video-settings-for-miyoo-tested-picks/</id>
+    <link href="https://pulsegeek.com/articles/best-retroarch-video-settings-for-miyoo-tested-picks/" />
+    <updated>2026-01-04T22:44:00Z</updated>
+    <summary type="html"><![CDATA[Dial in RetroArch video on Miyoo with tested settings for sync, scaling, latency, and clarity. Learn safe defaults, where to tweak, and when to trade speed for accuracy.]]></summary>
   </entry>
   <entry>
-    <title>Articy:draft vs Twine for Production Pipelines</title>
-    <id>https://pulsegeek.com/articles/articydraft-vs-twine-for-production-pipelines/</id>
-    <link href="https://pulsegeek.com/articles/articydraft-vs-twine-for-production-pipelines/" />
-    <updated>2025-12-25T22:17:00Z</updated>
-    <summary type="html"><![CDATA[Compare articy:draft and Twine for game narrative production pipelines. Learn how each handles collaboration, exports, localization, QA, and version control, with scenario-based recommendations.]]></summary>
+    <title>Best RetroArch Shaders for Miyoo Mini (Lightweight)</title>
+    <id>https://pulsegeek.com/articles/best-retroarch-shaders-for-miyoo-mini-lightweight/</id>
+    <link href="https://pulsegeek.com/articles/best-retroarch-shaders-for-miyoo-mini-lightweight/" />
+    <updated>2026-01-04T22:43:00Z</updated>
+    <summary type="html"><![CDATA[Discover lightweight RetroArch shaders that look clean on Miyoo Mini without hurting performance. See practical presets, examples, and tuning tips to keep frames smooth.]]></summary>
   </entry>
   <entry>
-    <title>Benefits of AI in Business: From Cost to Velocity</title>
-    <id>https://pulsegeek.com/articles/benefits-of-ai-in-business-from-cost-to-velocity/</id>
-    <link href="https://pulsegeek.com/articles/benefits-of-ai-in-business-from-cost-to-velocity/" />
-    <updated>2025-12-25T22:16:00Z</updated>
-    <summary type="html"><![CDATA[See the concrete benefits of AI in business, from cost reduction and quality gains to faster delivery. Learn ROI framing, data readiness steps, and change management moves leaders can implement now.]]></summary>
+    <title>Fix Audio Latency in RetroArch on Miyoo Mini</title>
+    <id>https://pulsegeek.com/articles/fix-audio-latency-in-retroarch-on-miyoo-mini/</id>
+    <link href="https://pulsegeek.com/articles/fix-audio-latency-in-retroarch-on-miyoo-mini/" />
+    <updated>2026-01-04T22:42:00Z</updated>
+    <summary type="html"><![CDATA[Learn how to fix audio latency on Miyoo Mini in RetroArch with safe settings, validation steps, and practical troubleshooting to eliminate crackle and delay.]]></summary>
   </entry>
   <entry>
-    <title>Telensa Street Lighting: Capabilities and Use Cases</title>
-    <id>https://pulsegeek.com/articles/telensa-street-lighting-capabilities-and-use-cases/</id>
-    <link href="https://pulsegeek.com/articles/telensa-street-lighting-capabilities-and-use-cases/" />
-    <updated>2025-12-24T22:22:00Z</updated>
-    <summary type="html"><![CDATA[Learn how Telensa-style street lighting controls support dimming, fault detection, asset inventory, and integrations, with decision criteria and practical city use cases.]]></summary>
+    <title>Adaptive Power Control and TPC for Dense WiFi 8</title>
+    <id>https://pulsegeek.com/articles/adaptive-power-control-and-tpc-for-dense-wifi-8/</id>
+    <link href="https://pulsegeek.com/articles/adaptive-power-control-and-tpc-for-dense-wifi-8/" />
+    <updated>2026-01-04T22:41:00Z</updated>
+    <summary type="html"><![CDATA[Learn a proven, step by step method to tune adaptive power control and TPC in dense WiFi 8 networks with safe ranges, validation checks, and fixes.]]></summary>
   </entry>
 </feed>
