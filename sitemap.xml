@@ -57,6 +57,10 @@
     <lastmod>2026-01-05T16:55:00Z</lastmod>
   </url>
   <url>
+    <loc>https://pulsegeek.com/articles/320-mhz-vs-dual-160-mhz-across-multiple-aps/</loc>
+    <lastmod>2026-01-06T16:55:00Z</lastmod>
+  </url>
+  <url>
     <loc>https://pulsegeek.com/articles/320-mhz-wi-fi-7-channels-for-gaming-when-to-use/</loc>
     <lastmod>2026-01-03T16:50:00Z</lastmod>
   </url>
@@ -73,12 +77,20 @@
     <lastmod>2026-01-06T04:09:22Z</lastmod>
   </url>
   <url>
+    <loc>https://pulsegeek.com/articles/6-ghz-afc-for-320-mhz-deployments/</loc>
+    <lastmod>2026-01-07T16:55:00Z</lastmod>
+  </url>
+  <url>
     <loc>https://pulsegeek.com/articles/6-ghz-channel-map-floor-plan-templates-for-planners/</loc>
     <lastmod>2026-01-05T16:54:00Z</lastmod>
   </url>
   <url>
     <loc>https://pulsegeek.com/articles/6-ghz-channel-planning-lanes-reuse-and-psc-timing/</loc>
     <lastmod>2026-01-02T16:54:00Z</lastmod>
+  </url>
+  <url>
+    <loc>https://pulsegeek.com/articles/6-ghz-channelization-for-high-density-arenas/</loc>
+    <lastmod>2026-01-06T16:54:00Z</lastmod>
   </url>
   <url>
     <loc>https://pulsegeek.com/articles/6-ghz-spectrum-tuning-channels-power-and-afc-basics/</loc>
@@ -123,6 +135,10 @@
   <url>
     <loc>https://pulsegeek.com/articles/80211be-eht-fundamentals-concepts-terms-context/</loc>
     <lastmod>2026-01-05T16:49:00Z</lastmod>
+  </url>
+  <url>
+    <loc>https://pulsegeek.com/articles/80211be-release-milestones-and-drafts-explained/</loc>
+    <lastmod>2026-01-06T16:49:00Z</lastmod>
   </url>
   <url>
     <loc>https://pulsegeek.com/articles/80211be-standard-rigorous-engineers-guide-to-wi-fi-7/</loc>
@@ -183,6 +199,10 @@
   <url>
     <loc>https://pulsegeek.com/articles/afc-requirements-for-6-ghz-gaming-routers-explained/</loc>
     <lastmod>2026-01-04T16:50:00Z</lastmod>
+  </url>
+  <url>
+    <loc>https://pulsegeek.com/articles/afc-standard-power-how-it-shapes-6-ghz-availability/</loc>
+    <lastmod>2026-01-07T16:54:00Z</lastmod>
   </url>
   <url>
     <loc>https://pulsegeek.com/articles/ai-and-academic-integrity-safeguards-and-strategies/</loc>
@@ -801,6 +821,10 @@
     <lastmod>2026-01-06T04:09:22Z</lastmod>
   </url>
   <url>
+    <loc>https://pulsegeek.com/articles/asynchronous-ubershaders-in-dolphin-explained/</loc>
+    <lastmod>2026-01-06T16:25:00Z</lastmod>
+  </url>
+  <url>
     <loc>https://pulsegeek.com/articles/atlas-vs-array-textures-in-engines-choose-wisely/</loc>
     <lastmod>2026-01-06T04:09:22Z</lastmod>
   </url>
@@ -893,6 +917,10 @@
     <lastmod>2026-01-05T16:28:00Z</lastmod>
   </url>
   <url>
+    <loc>https://pulsegeek.com/articles/avoiding-psc-congestion-in-6-ghz-tactics-that-work/</loc>
+    <lastmod>2026-01-08T16:54:00Z</lastmod>
+  </url>
+  <url>
     <loc>https://pulsegeek.com/articles/back-up-steamos-with-btrfs-snapshots-on-deck/</loc>
     <lastmod>2026-01-03T16:34:00Z</lastmod>
   </url>
@@ -911,6 +939,10 @@
   <url>
     <loc>https://pulsegeek.com/articles/balance-levers-for-game-economies-practical-guide/</loc>
     <lastmod>2026-01-01T17:25:40Z</lastmod>
+  </url>
+  <url>
+    <loc>https://pulsegeek.com/articles/balance-ru-allocation-with-channel-width-choices/</loc>
+    <lastmod>2026-01-06T16:41:00Z</lastmod>
   </url>
   <url>
     <loc>https://pulsegeek.com/articles/balancing-quest-rewards-and-gold-faucets/</loc>
@@ -941,6 +973,14 @@
     <lastmod>2026-01-03T16:46:00Z</lastmod>
   </url>
   <url>
+    <loc>https://pulsegeek.com/articles/battleye-ban-policy-with-proton-on-steam-deck/</loc>
+    <lastmod>2026-01-06T16:28:00Z</lastmod>
+  </url>
+  <url>
+    <loc>https://pulsegeek.com/articles/beats-and-checkpoints-for-branching-stories/</loc>
+    <lastmod>2026-01-08T16:21:00Z</lastmod>
+  </url>
+  <url>
     <loc>https://pulsegeek.com/articles/benchmarking-economy-health-across-titles/</loc>
     <lastmod>2026-01-06T04:09:23Z</lastmod>
   </url>
@@ -951,6 +991,14 @@
   <url>
     <loc>https://pulsegeek.com/articles/benefits-of-smart-street-lighting-savings-safety-service/</loc>
     <lastmod>2026-01-06T04:09:23Z</lastmod>
+  </url>
+  <url>
+    <loc>https://pulsegeek.com/articles/best-320-mhz-channel-plans-for-enterprise-floors/</loc>
+    <lastmod>2026-01-08T16:55:00Z</lastmod>
+  </url>
+  <url>
+    <loc>https://pulsegeek.com/articles/best-6-ghz-channels-for-apartments-quiet-lanes-first/</loc>
+    <lastmod>2026-01-09T16:54:00Z</lastmod>
   </url>
   <url>
     <loc>https://pulsegeek.com/articles/best-ai-for-small-business-tools-that-punch-above/</loc>
@@ -971,6 +1019,10 @@
   <url>
     <loc>https://pulsegeek.com/articles/best-bluetooth-transmitters-for-steam-deck-in-2026/</loc>
     <lastmod>2026-01-05T16:31:00Z</lastmod>
+  </url>
+  <url>
+    <loc>https://pulsegeek.com/articles/best-channel-width-when-using-puncturing-it-depends/</loc>
+    <lastmod>2026-01-06T16:27:00Z</lastmod>
   </url>
   <url>
     <loc>https://pulsegeek.com/articles/best-cores-for-psx-on-onion-os-compatible-and-smooth/</loc>
@@ -1009,6 +1061,10 @@
     <lastmod>2026-01-06T04:09:23Z</lastmod>
   </url>
   <url>
+    <loc>https://pulsegeek.com/articles/best-low-latency-bluetooth-adapters-for-steam-deck/</loc>
+    <lastmod>2026-01-06T16:31:00Z</lastmod>
+  </url>
+  <url>
     <loc>https://pulsegeek.com/articles/best-metrics-for-auction-house-performance/</loc>
     <lastmod>2026-01-06T04:09:23Z</lastmod>
   </url>
@@ -1035,6 +1091,10 @@
   <url>
     <loc>https://pulsegeek.com/articles/best-retroarch-video-settings-for-miyoo-tested-picks/</loc>
     <lastmod>2026-01-04T16:44:00Z</lastmod>
+  </url>
+  <url>
+    <loc>https://pulsegeek.com/articles/best-settings-for-pcsx2-performance/</loc>
+    <lastmod>2026-01-07T16:25:00Z</lastmod>
   </url>
   <url>
     <loc>https://pulsegeek.com/articles/best-settings-to-lower-ping-in-game-streaming-today/</loc>
@@ -1129,8 +1189,24 @@
     <lastmod>2026-01-01T17:25:40Z</lastmod>
   </url>
   <url>
+    <loc>https://pulsegeek.com/articles/bluetooth-receiver-passthrough-for-steam-deck-tv-mode/</loc>
+    <lastmod>2026-01-07T16:31:00Z</lastmod>
+  </url>
+  <url>
+    <loc>https://pulsegeek.com/articles/bluetooth-splitter-and-multipoint-workarounds-on-deck/</loc>
+    <lastmod>2026-01-08T16:31:00Z</lastmod>
+  </url>
+  <url>
+    <loc>https://pulsegeek.com/articles/bluetooth-vs-2-4-ghz-audio-latency-on-steam-deck/</loc>
+    <lastmod>2026-01-09T16:31:00Z</lastmod>
+  </url>
+  <url>
     <loc>https://pulsegeek.com/articles/bots-in-player-trading-risks-and-anti-bot-measures/</loc>
     <lastmod>2026-01-06T04:09:23Z</lastmod>
+  </url>
+  <url>
+    <loc>https://pulsegeek.com/articles/branch-aware-pacing-vs-linear-beat-mapping/</loc>
+    <lastmod>2026-01-09T16:21:00Z</lastmod>
   </url>
   <url>
     <loc>https://pulsegeek.com/articles/branch-coverage-checklists-for-interactive-scripts/</loc>
@@ -1147,6 +1223,10 @@
   <url>
     <loc>https://pulsegeek.com/articles/btrfs-vs-ext4-on-steam-deck-storage-trade-offs/</loc>
     <lastmod>2026-01-04T16:34:00Z</lastmod>
+  </url>
+  <url>
+    <loc>https://pulsegeek.com/articles/budget-bluetooth-options-for-steam-deck-audio/</loc>
+    <lastmod>2026-01-10T16:31:00Z</lastmod>
   </url>
   <url>
     <loc>https://pulsegeek.com/articles/build-a-decentralized-app-architecture-to-launch/</loc>
@@ -1167,6 +1247,10 @@
   <url>
     <loc>https://pulsegeek.com/articles/build-ai-forecasting-models-for-fpa-a-technical-guide/</loc>
     <lastmod>2026-01-06T04:09:23Z</lastmod>
+  </url>
+  <url>
+    <loc>https://pulsegeek.com/articles/build-channel-masks-for-noisy-bands-practical-steps/</loc>
+    <lastmod>2026-01-07T16:27:00Z</lastmod>
   </url>
   <url>
     <loc>https://pulsegeek.com/articles/build-pipeline-automation-for-game-projects/</loc>
@@ -1199,6 +1283,14 @@
   <url>
     <loc>https://pulsegeek.com/articles/call-of-duty-on-steam-deck-proton-compatibility/</loc>
     <lastmod>2026-01-05T16:35:00Z</lastmod>
+  </url>
+  <url>
+    <loc>https://pulsegeek.com/articles/campus-6-ghz-channel-reuse-large-scale-design-steps/</loc>
+    <lastmod>2026-01-10T16:54:00Z</lastmod>
+  </url>
+  <url>
+    <loc>https://pulsegeek.com/articles/capacity-planning-formulas-with-puncturing-enabled/</loc>
+    <lastmod>2026-01-08T16:27:00Z</lastmod>
   </url>
   <url>
     <loc>https://pulsegeek.com/articles/captive-portal-security-enterprise-best-practices/</loc>
@@ -1237,6 +1329,10 @@
     <lastmod>2026-01-06T04:09:23Z</lastmod>
   </url>
   <url>
+    <loc>https://pulsegeek.com/articles/check-disk-space-in-desktop-mode-on-steam-deck/</loc>
+    <lastmod>2026-01-06T16:34:00Z</lastmod>
+  </url>
+  <url>
     <loc>https://pulsegeek.com/articles/checklist-for-responsible-ai-deployment-and-rollout/</loc>
     <lastmod>2026-01-01T17:25:40Z</lastmod>
   </url>
@@ -1249,6 +1345,14 @@
     <lastmod>2026-01-01T17:25:40Z</lastmod>
   </url>
   <url>
+    <loc>https://pulsegeek.com/articles/choose-clean-6-ghz-channels-to-avoid-interference/</loc>
+    <lastmod>2026-01-07T16:41:00Z</lastmod>
+  </url>
+  <url>
+    <loc>https://pulsegeek.com/articles/choosing-20-40-80-160-mhz-a-6-ghz-width-guide/</loc>
+    <lastmod>2026-01-11T16:54:00Z</lastmod>
+  </url>
+  <url>
     <loc>https://pulsegeek.com/articles/choosing-an-ai-system-for-intrusion-detection/</loc>
     <lastmod>2026-01-06T04:09:23Z</lastmod>
   </url>
@@ -1257,8 +1361,28 @@
     <lastmod>2026-01-06T04:09:23Z</lastmod>
   </url>
   <url>
+    <loc>https://pulsegeek.com/articles/cisco-dna-center-capacity-insights-walkthrough/</loc>
+    <lastmod>2026-01-06T16:40:00Z</lastmod>
+  </url>
+  <url>
     <loc>https://pulsegeek.com/articles/cisco-ise-vs-aruba-clearpass-for-wi-fi-7-policies/</loc>
     <lastmod>2026-01-04T16:52:00Z</lastmod>
+  </url>
+  <url>
+    <loc>https://pulsegeek.com/articles/cisco-ise-vs-aruba-clearpass-for-wi-fi-nac-compared/</loc>
+    <lastmod>2026-01-06T16:51:00Z</lastmod>
+  </url>
+  <url>
+    <loc>https://pulsegeek.com/articles/clean-channels-by-regulatory-domain-quick-index/</loc>
+    <lastmod>2026-01-08T16:41:00Z</lastmod>
+  </url>
+  <url>
+    <loc>https://pulsegeek.com/articles/clear-cache-and-data-for-buggy-apps-on-retroid-pocket/</loc>
+    <lastmod>2026-01-06T16:48:00Z</lastmod>
+  </url>
+  <url>
+    <loc>https://pulsegeek.com/articles/cliffhangers-and-reveals-in-interactive-scenes/</loc>
+    <lastmod>2026-01-10T16:21:00Z</lastmod>
   </url>
   <url>
     <loc>https://pulsegeek.com/articles/cloud-ai-for-education-architecture-costs-and-control/</loc>
@@ -1281,6 +1405,18 @@
     <lastmod>2026-01-06T04:09:23Z</lastmod>
   </url>
   <url>
+    <loc>https://pulsegeek.com/articles/co-channel-interference-mitigation-for-wifi-8/</loc>
+    <lastmod>2026-01-09T16:41:00Z</lastmod>
+  </url>
+  <url>
+    <loc>https://pulsegeek.com/articles/co-channel-interference-mitigation-using-puncturing/</loc>
+    <lastmod>2026-01-09T16:27:00Z</lastmod>
+  </url>
+  <url>
+    <loc>https://pulsegeek.com/articles/co-channel-vs-adjacent-interference-at-320-mhz/</loc>
+    <lastmod>2026-01-09T16:55:00Z</lastmod>
+  </url>
+  <url>
     <loc>https://pulsegeek.com/articles/codex-entries-and-collectible-narrative-design/</loc>
     <lastmod>2026-01-01T17:25:40Z</lastmod>
   </url>
@@ -1295,6 +1431,14 @@
   <url>
     <loc>https://pulsegeek.com/articles/color-calibration-and-gamma-on-miyoo-screens/</loc>
     <lastmod>2026-01-05T16:44:00Z</lastmod>
+  </url>
+  <url>
+    <loc>https://pulsegeek.com/articles/color-depth-and-chroma-for-streamed-gameplay-guide/</loc>
+    <lastmod>2026-01-06T16:23:00Z</lastmod>
+  </url>
+  <url>
+    <loc>https://pulsegeek.com/articles/common-emulator-errors-and-how-to-fix-them/</loc>
+    <lastmod>2026-01-08T16:25:00Z</lastmod>
   </url>
   <url>
     <loc>https://pulsegeek.com/articles/companies-in-machine-learning-whos-building-what/</loc>
@@ -1315,6 +1459,10 @@
   <url>
     <loc>https://pulsegeek.com/articles/compare-av1-support-across-gpus-for-streaming/</loc>
     <lastmod>2026-01-05T16:32:00Z</lastmod>
+  </url>
+  <url>
+    <loc>https://pulsegeek.com/articles/compare-ldac-earbuds-vs-aptx-headsets-for-deck/</loc>
+    <lastmod>2026-01-11T16:31:00Z</lastmod>
   </url>
   <url>
     <loc>https://pulsegeek.com/articles/comparison-of-text-to-image-prompt-styles-photorealism-vs-illustration-vs-3d/</loc>
@@ -1345,8 +1493,16 @@
     <lastmod>2026-01-06T04:09:23Z</lastmod>
   </url>
   <url>
+    <loc>https://pulsegeek.com/articles/configure-controller-deadzones-and-sensitivity/</loc>
+    <lastmod>2026-01-09T16:25:00Z</lastmod>
+  </url>
+  <url>
     <loc>https://pulsegeek.com/articles/configure-controller-mapping-in-onion-os-the-right-way/</loc>
     <lastmod>2026-01-05T16:46:00Z</lastmod>
+  </url>
+  <url>
+    <loc>https://pulsegeek.com/articles/configure-display-overdrive-for-cloud-gaming-clarity/</loc>
+    <lastmod>2026-01-07T16:23:00Z</lastmod>
   </url>
   <url>
     <loc>https://pulsegeek.com/articles/configure-the-bios-folder-in-duckstation/</loc>
@@ -1389,6 +1545,10 @@
     <lastmod>2026-01-06T04:09:23Z</lastmod>
   </url>
   <url>
+    <loc>https://pulsegeek.com/articles/control-6-ghz-wi-fi-7-interference-for-stable-gaming/</loc>
+    <lastmod>2026-01-06T16:50:00Z</lastmod>
+  </url>
+  <url>
     <loc>https://pulsegeek.com/articles/controller-latency-vs-network-lag-clear-differences/</loc>
     <lastmod>2026-01-06T04:09:23Z</lastmod>
   </url>
@@ -1421,16 +1581,52 @@
     <lastmod>2026-01-05T16:39:00Z</lastmod>
   </url>
   <url>
+    <loc>https://pulsegeek.com/articles/convert-sd-card-from-ext4-to-btrfs-on-steam-deck/</loc>
+    <lastmod>2026-01-07T16:34:00Z</lastmod>
+  </url>
+  <url>
     <loc>https://pulsegeek.com/articles/cool-the-steam-deck-without-mods-software-only-guide/</loc>
     <lastmod>2026-01-02T16:29:00Z</lastmod>
+  </url>
+  <url>
+    <loc>https://pulsegeek.com/articles/copy-save-files-using-desktop-mode-on-deck/</loc>
+    <lastmod>2026-01-08T16:34:00Z</lastmod>
+  </url>
+  <url>
+    <loc>https://pulsegeek.com/articles/correct-folder-structure-for-bios-and-roms-on-onion-os/</loc>
+    <lastmod>2026-01-06T16:47:00Z</lastmod>
   </url>
   <url>
     <loc>https://pulsegeek.com/articles/cosmetic-rarity-and-perceived-value-what-drives-it/</loc>
     <lastmod>2026-01-05T16:22:00Z</lastmod>
   </url>
   <url>
+    <loc>https://pulsegeek.com/articles/cpu-vs-gpu-bottlenecks-in-emulation/</loc>
+    <lastmod>2026-01-10T16:25:00Z</lastmod>
+  </url>
+  <url>
+    <loc>https://pulsegeek.com/articles/crafting-economy-balance-tips-inputs-to-outcomes/</loc>
+    <lastmod>2026-01-06T16:22:00Z</lastmod>
+  </url>
+  <url>
+    <loc>https://pulsegeek.com/articles/create-a-story-beat-map-for-a-game/</loc>
+    <lastmod>2026-01-11T16:21:00Z</lastmod>
+  </url>
+  <url>
+    <loc>https://pulsegeek.com/articles/create-m3u-playlists-for-multi-disc-games/</loc>
+    <lastmod>2026-01-06T16:39:00Z</lastmod>
+  </url>
+  <url>
+    <loc>https://pulsegeek.com/articles/creating-thumbnails-and-previews-for-mods-that-pop/</loc>
+    <lastmod>2026-01-06T16:26:00Z</lastmod>
+  </url>
+  <url>
     <loc>https://pulsegeek.com/articles/cross-validation-and-roc-auc-for-intrusion-detection/</loc>
     <lastmod>2026-01-06T04:09:23Z</lastmod>
+  </url>
+  <url>
+    <loc>https://pulsegeek.com/articles/crt-overlay-packs-for-miyoo-mini-plus-top-picks/</loc>
+    <lastmod>2026-01-06T16:43:00Z</lastmod>
   </url>
   <url>
     <loc>https://pulsegeek.com/articles/cs-ai-concepts-for-security-from-search-to-learning/</loc>
@@ -1439,6 +1635,14 @@
   <url>
     <loc>https://pulsegeek.com/articles/cue-sheets-and-multi-track-audio-the-essentials/</loc>
     <lastmod>2026-01-06T04:09:23Z</lastmod>
+  </url>
+  <url>
+    <loc>https://pulsegeek.com/articles/cutscene-alternatives-that-keep-control-with-players/</loc>
+    <lastmod>2026-01-12T16:21:00Z</lastmod>
+  </url>
+  <url>
+    <loc>https://pulsegeek.com/articles/cyberpunk-2077-on-deck-proton-settings-that-work/</loc>
+    <lastmod>2026-01-06T16:35:00Z</lastmod>
   </url>
   <url>
     <loc>https://pulsegeek.com/articles/dat-files-and-auditing-with-clrmamepro-alternatives/</loc>
@@ -1465,6 +1669,10 @@
     <lastmod>2026-01-01T17:25:40Z</lastmod>
   </url>
   <url>
+    <loc>https://pulsegeek.com/articles/decky-loader-and-online-safety-what-to-consider/</loc>
+    <lastmod>2026-01-07T16:28:00Z</lastmod>
+  </url>
+  <url>
     <loc>https://pulsegeek.com/articles/deep-learning-ai-powering-modern-malware-defense/</loc>
     <lastmod>2026-01-01T17:25:40Z</lastmod>
   </url>
@@ -1481,6 +1689,10 @@
     <lastmod>2026-01-05T16:24:00Z</lastmod>
   </url>
   <url>
+    <loc>https://pulsegeek.com/articles/dependency-manifest-and-version-file-examples/</loc>
+    <lastmod>2026-01-07T16:26:00Z</lastmod>
+  </url>
+  <url>
     <loc>https://pulsegeek.com/articles/deploy-smart-contract-steps-network-gas-verifications/</loc>
     <lastmod>2026-01-06T04:09:23Z</lastmod>
   </url>
@@ -1491,6 +1703,10 @@
   <url>
     <loc>https://pulsegeek.com/articles/design-environmental-puzzles-that-tell-a-story/</loc>
     <lastmod>2026-01-06T04:09:23Z</lastmod>
+  </url>
+  <url>
+    <loc>https://pulsegeek.com/articles/design-reuse-patterns-to-limit-adjacent-interference/</loc>
+    <lastmod>2026-01-10T16:41:00Z</lastmod>
   </url>
   <url>
     <loc>https://pulsegeek.com/articles/designing-an-in-game-auction-house-core-steps/</loc>
@@ -1517,6 +1733,26 @@
     <lastmod>2026-01-06T04:09:23Z</lastmod>
   </url>
   <url>
+    <loc>https://pulsegeek.com/articles/dfs-avoidance-vs-puncturing-a-decision-guide/</loc>
+    <lastmod>2026-01-10T16:27:00Z</lastmod>
+  </url>
+  <url>
+    <loc>https://pulsegeek.com/articles/dfs-channels-and-gaming-stability-on-wi-fi-7/</loc>
+    <lastmod>2026-01-07T16:50:00Z</lastmod>
+  </url>
+  <url>
+    <loc>https://pulsegeek.com/articles/dfs-in-6-ghz-myths-vs-facts-for-modern-planning/</loc>
+    <lastmod>2026-01-12T16:54:00Z</lastmod>
+  </url>
+  <url>
+    <loc>https://pulsegeek.com/articles/dfs-radar-detection-tuning-for-wifi-8-deployments/</loc>
+    <lastmod>2026-01-11T16:41:00Z</lastmod>
+  </url>
+  <url>
+    <loc>https://pulsegeek.com/articles/dfs-vs-non-dfs-channels-pros-and-cons-in-wifi-8/</loc>
+    <lastmod>2026-01-12T16:41:00Z</lastmod>
+  </url>
+  <url>
     <loc>https://pulsegeek.com/articles/diagnose-packet-fragmentation-and-mtu-issues-on-deck/</loc>
     <lastmod>2026-01-04T16:30:00Z</lastmod>
   </url>
@@ -1541,6 +1777,10 @@
     <lastmod>2026-01-06T04:09:23Z</lastmod>
   </url>
   <url>
+    <loc>https://pulsegeek.com/articles/disc-swapping-in-duckstation-how-it-works/</loc>
+    <lastmod>2026-01-07T16:39:00Z</lastmod>
+  </url>
+  <url>
     <loc>https://pulsegeek.com/articles/display-vs-network-input-delay-in-streamed-games/</loc>
     <lastmod>2026-01-06T04:09:23Z</lastmod>
   </url>
@@ -1557,8 +1797,32 @@
     <lastmod>2026-01-06T04:09:23Z</lastmod>
   </url>
   <url>
+    <loc>https://pulsegeek.com/articles/dock-compatibility-with-bluetooth-audio-on-steam-deck/</loc>
+    <lastmod>2026-01-12T16:31:00Z</lastmod>
+  </url>
+  <url>
+    <loc>https://pulsegeek.com/articles/dock-thermals-and-power-draw-on-steam-deck-explained/</loc>
+    <lastmod>2026-01-06T16:29:00Z</lastmod>
+  </url>
+  <url>
+    <loc>https://pulsegeek.com/articles/docked-vs-handheld-heat-and-noise-on-steam-deck/</loc>
+    <lastmod>2026-01-07T16:29:00Z</lastmod>
+  </url>
+  <url>
     <loc>https://pulsegeek.com/articles/document-automation-in-finance-with-ai-build-it-right/</loc>
     <lastmod>2026-01-06T04:09:23Z</lastmod>
+  </url>
+  <url>
+    <loc>https://pulsegeek.com/articles/document-duckstation-save-versions-the-easy-way/</loc>
+    <lastmod>2026-01-06T16:37:00Z</lastmod>
+  </url>
+  <url>
+    <loc>https://pulsegeek.com/articles/does-320-mhz-increase-range/</loc>
+    <lastmod>2026-01-10T16:55:00Z</lastmod>
+  </url>
+  <url>
+    <loc>https://pulsegeek.com/articles/does-vpn-increase-latency-for-steam-deck-streaming/</loc>
+    <lastmod>2026-01-06T16:32:00Z</lastmod>
   </url>
   <url>
     <loc>https://pulsegeek.com/articles/dolphin-keys-and-the-wii-common-key-explained/</loc>
@@ -1569,8 +1833,20 @@
     <lastmod>2026-01-06T04:09:23Z</lastmod>
   </url>
   <url>
+    <loc>https://pulsegeek.com/articles/dolphin-settings-for-retroid-pocket-stability/</loc>
+    <lastmod>2026-01-07T16:48:00Z</lastmod>
+  </url>
+  <url>
+    <loc>https://pulsegeek.com/articles/download-and-install-bezels-for-miyoo-retroarch/</loc>
+    <lastmod>2026-01-07T16:43:00Z</lastmod>
+  </url>
+  <url>
     <loc>https://pulsegeek.com/articles/dpp-easy-connect-for-wi-fi-7-onboard-without-psks/</loc>
     <lastmod>2026-01-05T16:52:00Z</lastmod>
+  </url>
+  <url>
+    <loc>https://pulsegeek.com/articles/drop-rate-transparency-in-games-why-it-matters/</loc>
+    <lastmod>2026-01-07T16:22:00Z</lastmod>
   </url>
   <url>
     <loc>https://pulsegeek.com/articles/duckstation-bios-not-detected-path-settings-explained/</loc>
@@ -1589,8 +1865,40 @@
     <lastmod>2026-01-02T16:36:00Z</lastmod>
   </url>
   <url>
+    <loc>https://pulsegeek.com/articles/duckstation-boot-loop-or-frozen-startup-root-cause-fix/</loc>
+    <lastmod>2026-01-06T16:36:00Z</lastmod>
+  </url>
+  <url>
+    <loc>https://pulsegeek.com/articles/duckstation-cheats-and-patch-codes-setup/</loc>
+    <lastmod>2026-01-08T16:39:00Z</lastmod>
+  </url>
+  <url>
+    <loc>https://pulsegeek.com/articles/duckstation-hotkeys-for-saving-and-loading/</loc>
+    <lastmod>2026-01-07T16:37:00Z</lastmod>
+  </url>
+  <url>
     <loc>https://pulsegeek.com/articles/duckstation-memory-card-setup-saves-and-recovery/</loc>
     <lastmod>2026-01-01T16:37:00Z</lastmod>
+  </url>
+  <url>
+    <loc>https://pulsegeek.com/articles/duckstation-missing-bios-file-error-how-to-resolve/</loc>
+    <lastmod>2026-01-07T16:36:00Z</lastmod>
+  </url>
+  <url>
+    <loc>https://pulsegeek.com/articles/duckstation-pbp-not-recognized-troubleshooting-guide/</loc>
+    <lastmod>2026-01-08T16:36:00Z</lastmod>
+  </url>
+  <url>
+    <loc>https://pulsegeek.com/articles/duckstation-region-mismatch-bios-and-game-alignment/</loc>
+    <lastmod>2026-01-09T16:36:00Z</lastmod>
+  </url>
+  <url>
+    <loc>https://pulsegeek.com/articles/duckstation-save-privacy-and-backup-hygiene/</loc>
+    <lastmod>2026-01-08T16:37:00Z</lastmod>
+  </url>
+  <url>
+    <loc>https://pulsegeek.com/articles/duckstation-says-no-disc-inserted-start-game-fix/</loc>
+    <lastmod>2026-01-10T16:36:00Z</lastmod>
   </url>
   <url>
     <loc>https://pulsegeek.com/articles/duckstation-setup-guide-install-configure-play/</loc>
@@ -1613,8 +1921,32 @@
     <lastmod>2026-01-06T04:09:23Z</lastmod>
   </url>
   <url>
+    <loc>https://pulsegeek.com/articles/dynamic-recompiler-vs-interpreter-on-miyoo/</loc>
+    <lastmod>2026-01-06T16:45:00Z</lastmod>
+  </url>
+  <url>
     <loc>https://pulsegeek.com/articles/dynamic-resolution-scaling-for-streaming-games/</loc>
     <lastmod>2026-01-01T16:23:00Z</lastmod>
+  </url>
+  <url>
+    <loc>https://pulsegeek.com/articles/dynarec-vs-interpreter-vs-jit-in-emulators/</loc>
+    <lastmod>2026-01-11T16:25:00Z</lastmod>
+  </url>
+  <url>
+    <loc>https://pulsegeek.com/articles/eap-tls-for-wi-fi-7-configure-a-strong-pki-stack/</loc>
+    <lastmod>2026-01-06T16:52:00Z</lastmod>
+  </url>
+  <url>
+    <loc>https://pulsegeek.com/articles/eap-tls-or-eap-ttls-on-wi-fi-7-how-to-choose/</loc>
+    <lastmod>2026-01-07T16:52:00Z</lastmod>
+  </url>
+  <url>
+    <loc>https://pulsegeek.com/articles/eap-tls-setup-certificate-based-wi-fi-authentication/</loc>
+    <lastmod>2026-01-07T16:51:00Z</lastmod>
+  </url>
+  <url>
+    <loc>https://pulsegeek.com/articles/easy-anti-cheat-guidance-for-linux-and-proton/</loc>
+    <lastmod>2026-01-08T16:28:00Z</lastmod>
   </url>
   <url>
     <loc>https://pulsegeek.com/articles/ecc-in-blockchain-curves-keys-and-signature-safety/</loc>
@@ -1625,16 +1957,60 @@
     <lastmod>2026-01-06T04:09:23Z</lastmod>
   </url>
   <url>
+    <loc>https://pulsegeek.com/articles/eduroam-and-roaming-profiles-security-analysis/</loc>
+    <lastmod>2026-01-08T16:51:00Z</lastmod>
+  </url>
+  <url>
     <loc>https://pulsegeek.com/articles/effective-anti-inflation-levers-in-games-examples/</loc>
     <lastmod>2026-01-01T17:25:40Z</lastmod>
+  </url>
+  <url>
+    <loc>https://pulsegeek.com/articles/eht-channel-puncturing-explained-use-width-without-waste/</loc>
+    <lastmod>2026-01-06T16:53:00Z</lastmod>
+  </url>
+  <url>
+    <loc>https://pulsegeek.com/articles/eht-deterministic-latency-use-cases-where-it-matters/</loc>
+    <lastmod>2026-01-07T16:53:00Z</lastmod>
+  </url>
+  <url>
+    <loc>https://pulsegeek.com/articles/eht-feature-checklist-for-engineers-ship-safe-fast/</loc>
+    <lastmod>2026-01-08T16:53:00Z</lastmod>
+  </url>
+  <url>
+    <loc>https://pulsegeek.com/articles/eht-frame-types-and-control-fields-what-to-look-for/</loc>
+    <lastmod>2026-01-09T16:53:00Z</lastmod>
+  </url>
+  <url>
+    <loc>https://pulsegeek.com/articles/eht-mac-enhancements-for-low-latency-key-changes/</loc>
+    <lastmod>2026-01-10T16:53:00Z</lastmod>
   </url>
   <url>
     <loc>https://pulsegeek.com/articles/eht-phy-and-mac-features-overview-a-complete-guide/</loc>
     <lastmod>2026-01-02T16:53:00Z</lastmod>
   </url>
   <url>
+    <loc>https://pulsegeek.com/articles/eht-puncturing-setup-for-clean-gaming-channels/</loc>
+    <lastmod>2026-01-08T16:50:00Z</lastmod>
+  </url>
+  <url>
+    <loc>https://pulsegeek.com/articles/eht-resource-unit-allocation-guide-practical-scheduling/</loc>
+    <lastmod>2026-01-11T16:53:00Z</lastmod>
+  </url>
+  <url>
+    <loc>https://pulsegeek.com/articles/eht-snr-and-mcs-selection-guide-stable-safe-rates/</loc>
+    <lastmod>2026-01-12T16:53:00Z</lastmod>
+  </url>
+  <url>
+    <loc>https://pulsegeek.com/articles/ekahau-vs-hamina-for-capacity-modeling/</loc>
+    <lastmod>2026-01-07T16:40:00Z</lastmod>
+  </url>
+  <url>
     <loc>https://pulsegeek.com/articles/elasticity-of-demand-for-cosmetic-items-explained/</loc>
     <lastmod>2026-01-06T04:09:23Z</lastmod>
+  </url>
+  <url>
+    <loc>https://pulsegeek.com/articles/elden-ring-on-steam-deck-best-proton-settings/</loc>
+    <lastmod>2026-01-07T16:35:00Z</lastmod>
   </url>
   <url>
     <loc>https://pulsegeek.com/articles/elliptic-curve-crypto-in-blockchain-what-and-why/</loc>
@@ -1665,6 +2041,10 @@
     <lastmod>2026-01-06T04:09:23Z</lastmod>
   </url>
   <url>
+    <loc>https://pulsegeek.com/articles/emulator-core-bios-mapping-for-onion-os-reference/</loc>
+    <lastmod>2026-01-07T16:47:00Z</lastmod>
+  </url>
+  <url>
     <loc>https://pulsegeek.com/articles/emulator-core-vs-frontend-explained-how-they-fit/</loc>
     <lastmod>2026-01-06T04:09:23Z</lastmod>
   </url>
@@ -1693,6 +2073,10 @@
     <lastmod>2026-01-06T04:09:23Z</lastmod>
   </url>
   <url>
+    <loc>https://pulsegeek.com/articles/enterprise-policy-for-enabling-320-mhz-channels/</loc>
+    <lastmod>2026-01-11T16:55:00Z</lastmod>
+  </url>
+  <url>
     <loc>https://pulsegeek.com/articles/enterprise-wi-fi-9-roaming-design-a-how-to/</loc>
     <lastmod>2026-01-03T16:38:00Z</lastmod>
   </url>
@@ -1715,6 +2099,10 @@
   <url>
     <loc>https://pulsegeek.com/articles/ev-charging-load-management-strategies-for-depots-fleets-and-buildings/</loc>
     <lastmod>2026-01-06T04:09:23Z</lastmod>
+  </url>
+  <url>
+    <loc>https://pulsegeek.com/articles/event-limited-items-economic-impact-roundup/</loc>
+    <lastmod>2026-01-08T16:22:00Z</lastmod>
   </url>
   <url>
     <loc>https://pulsegeek.com/articles/expense-report-automation-using-ai-accuracy-and-control/</loc>
@@ -1741,8 +2129,36 @@
     <lastmod>2026-01-06T04:09:23Z</lastmod>
   </url>
   <url>
+    <loc>https://pulsegeek.com/articles/export-utilization-curves-from-survey-tools/</loc>
+    <lastmod>2026-01-08T16:40:00Z</lastmod>
+  </url>
+  <url>
+    <loc>https://pulsegeek.com/articles/exporting-and-importing-animations-for-mods-step-by-step/</loc>
+    <lastmod>2026-01-08T16:26:00Z</lastmod>
+  </url>
+  <url>
+    <loc>https://pulsegeek.com/articles/external-ssd-setup-for-steam-deck-what-to-know/</loc>
+    <lastmod>2026-01-09T16:34:00Z</lastmod>
+  </url>
+  <url>
     <loc>https://pulsegeek.com/articles/fairness-metrics-in-ml-from-definitions-to-decisions/</loc>
     <lastmod>2026-01-01T17:25:40Z</lastmod>
+  </url>
+  <url>
+    <loc>https://pulsegeek.com/articles/family-sharing-and-vac-restrictions-on-steam-deck/</loc>
+    <lastmod>2026-01-09T16:28:00Z</lastmod>
+  </url>
+  <url>
+    <loc>https://pulsegeek.com/articles/fast-com-vs-speedtest-wi-fi-accuracy-on-steam-deck/</loc>
+    <lastmod>2026-01-06T16:30:00Z</lastmod>
+  </url>
+  <url>
+    <loc>https://pulsegeek.com/articles/fast-forward-and-rewind-setup-in-onion-os-quick-wins/</loc>
+    <lastmod>2026-01-06T16:46:00Z</lastmod>
+  </url>
+  <url>
+    <loc>https://pulsegeek.com/articles/fast-vs-accurate-audio-resampler-on-miyoo/</loc>
+    <lastmod>2026-01-07T16:45:00Z</lastmod>
   </url>
   <url>
     <loc>https://pulsegeek.com/articles/fastest-growing-ai-companies-momentum-and-moats/</loc>
@@ -1757,6 +2173,10 @@
     <lastmod>2026-01-02T16:34:00Z</lastmod>
   </url>
   <url>
+    <loc>https://pulsegeek.com/articles/filesystem-permissions-and-portable-saves/</loc>
+    <lastmod>2026-01-12T16:25:00Z</lastmod>
+  </url>
+  <url>
     <loc>https://pulsegeek.com/articles/finance-ai-explained-data-models-and-value-realization/</loc>
     <lastmod>2026-01-01T17:25:40Z</lastmod>
   </url>
@@ -1765,8 +2185,32 @@
     <lastmod>2026-01-06T04:09:23Z</lastmod>
   </url>
   <url>
+    <loc>https://pulsegeek.com/articles/fix-a-read-only-sd-card-on-steam-deck/</loc>
+    <lastmod>2026-01-10T16:34:00Z</lastmod>
+  </url>
+  <url>
+    <loc>https://pulsegeek.com/articles/fix-audio-crackling-on-miyoo-mini-stable-settings/</loc>
+    <lastmod>2026-01-06T16:44:00Z</lastmod>
+  </url>
+  <url>
     <loc>https://pulsegeek.com/articles/fix-audio-latency-in-retroarch-on-miyoo-mini/</loc>
     <lastmod>2026-01-04T16:42:00Z</lastmod>
+  </url>
+  <url>
+    <loc>https://pulsegeek.com/articles/fix-controller-not-detected-in-specific-proton-games/</loc>
+    <lastmod>2026-01-08T16:35:00Z</lastmod>
+  </url>
+  <url>
+    <loc>https://pulsegeek.com/articles/fix-duckstation-black-screen-on-boot-quick-checklist/</loc>
+    <lastmod>2026-01-11T16:36:00Z</lastmod>
+  </url>
+  <url>
+    <loc>https://pulsegeek.com/articles/fix-duplicate-rom-entries-in-onion-os-libraries/</loc>
+    <lastmod>2026-01-08T16:47:00Z</lastmod>
+  </url>
+  <url>
+    <loc>https://pulsegeek.com/articles/fix-easy-anti-cheat-errors-on-steam-deck/</loc>
+    <lastmod>2026-01-09T16:35:00Z</lastmod>
   </url>
   <url>
     <loc>https://pulsegeek.com/articles/fix-frame-pacing-on-miyoo-mini-retroarch/</loc>
@@ -1777,8 +2221,20 @@
     <lastmod>2026-01-06T04:09:23Z</lastmod>
   </url>
   <url>
+    <loc>https://pulsegeek.com/articles/fix-mismatched-rom-names-in-onion-os-playlists/</loc>
+    <lastmod>2026-01-09T16:47:00Z</lastmod>
+  </url>
+  <url>
+    <loc>https://pulsegeek.com/articles/fix-multi-track-cue-files-in-duckstation/</loc>
+    <lastmod>2026-01-09T16:39:00Z</lastmod>
+  </url>
+  <url>
     <loc>https://pulsegeek.com/articles/fix-retroarch-hotkey-conflicts-on-miyoo-mini/</loc>
     <lastmod>2026-01-05T16:42:00Z</lastmod>
+  </url>
+  <url>
+    <loc>https://pulsegeek.com/articles/fix-steam-deck-black-screen-on-launch-with-proton/</loc>
+    <lastmod>2026-01-10T16:35:00Z</lastmod>
   </url>
   <url>
     <loc>https://pulsegeek.com/articles/fixed-update-vs-render-update-game-loop-choices/</loc>
@@ -1789,8 +2245,20 @@
     <lastmod>2026-01-06T04:09:23Z</lastmod>
   </url>
   <url>
+    <loc>https://pulsegeek.com/articles/format-a-microsd-for-steam-deck-the-right-way/</loc>
+    <lastmod>2026-01-11T16:34:00Z</lastmod>
+  </url>
+  <url>
+    <loc>https://pulsegeek.com/articles/format-an-sd-card-to-exfat-for-steam-deck/</loc>
+    <lastmod>2026-01-12T16:34:00Z</lastmod>
+  </url>
+  <url>
     <loc>https://pulsegeek.com/articles/fps-cap-or-tdp-limit-which-saves-more-deck-battery/</loc>
     <lastmod>2026-01-04T16:33:00Z</lastmod>
+  </url>
+  <url>
+    <loc>https://pulsegeek.com/articles/frame-delay-on-miyoo-mini-how-to-use-safely/</loc>
+    <lastmod>2026-01-08T16:45:00Z</lastmod>
   </url>
   <url>
     <loc>https://pulsegeek.com/articles/frame-pacing-and-frame-skip-explained/</loc>
@@ -1805,6 +2273,14 @@
     <lastmod>2026-01-01T17:25:40Z</lastmod>
   </url>
   <url>
+    <loc>https://pulsegeek.com/articles/frame-timing-vs-frame-pacing-stability-over-speed/</loc>
+    <lastmod>2026-01-06T16:24:00Z</lastmod>
+  </url>
+  <url>
+    <loc>https://pulsegeek.com/articles/frameskip-recommendations-for-miyoo-mini-emulators/</loc>
+    <lastmod>2026-01-06T16:42:00Z</lastmod>
+  </url>
+  <url>
     <loc>https://pulsegeek.com/articles/fraud-risk-modeling-with-ai-features-models-and-mrm/</loc>
     <lastmod>2026-01-06T04:09:23Z</lastmod>
   </url>
@@ -1817,8 +2293,16 @@
     <lastmod>2026-01-06T04:09:23Z</lastmod>
   </url>
   <url>
+    <loc>https://pulsegeek.com/articles/gacha-odds-and-pity-systems-explained-clearly/</loc>
+    <lastmod>2026-01-09T16:22:00Z</lastmod>
+  </url>
+  <url>
     <loc>https://pulsegeek.com/articles/game-asset-pipeline-explained-from-dcc-to-runtime/</loc>
     <lastmod>2026-01-06T04:09:23Z</lastmod>
+  </url>
+  <url>
+    <loc>https://pulsegeek.com/articles/game-boy-color-palettes-on-miyoo-mini-top-picks/</loc>
+    <lastmod>2026-01-07T16:42:00Z</lastmod>
   </url>
   <url>
     <loc>https://pulsegeek.com/articles/game-dumping-best-practices-for-preservation/</loc>
@@ -1845,8 +2329,20 @@
     <lastmod>2026-01-01T17:25:40Z</lastmod>
   </url>
   <url>
+    <loc>https://pulsegeek.com/articles/game-narrative-pacing-techniques-that-breathe/</loc>
+    <lastmod>2026-01-07T16:21:00Z</lastmod>
+  </url>
+  <url>
     <loc>https://pulsegeek.com/articles/game-performance-optimization-a-complete-checklist/</loc>
     <lastmod>2026-01-06T04:09:23Z</lastmod>
+  </url>
+  <url>
+    <loc>https://pulsegeek.com/articles/game-roms-not-showing-in-frontend-on-retroid-fix/</loc>
+    <lastmod>2026-01-08T16:48:00Z</lastmod>
+  </url>
+  <url>
+    <loc>https://pulsegeek.com/articles/game-specific-config-files-in-onion-os-targeted-tweaks/</loc>
+    <lastmod>2026-01-07T16:46:00Z</lastmod>
   </url>
   <url>
     <loc>https://pulsegeek.com/articles/garbage-collection-in-managed-game-code-strategies/</loc>
@@ -1869,6 +2365,10 @@
     <lastmod>2026-01-06T04:09:23Z</lastmod>
   </url>
   <url>
+    <loc>https://pulsegeek.com/articles/global-illumination-in-real-time-engines-explained/</loc>
+    <lastmod>2026-01-07T16:24:00Z</lastmod>
+  </url>
+  <url>
     <loc>https://pulsegeek.com/articles/godot-physics-vs-box2d-choosing-a-2d-backbone/</loc>
     <lastmod>2026-01-06T04:09:23Z</lastmod>
   </url>
@@ -1877,8 +2377,16 @@
     <lastmod>2026-01-06T04:09:23Z</lastmod>
   </url>
   <url>
+    <loc>https://pulsegeek.com/articles/google-play-services-errors-on-retroid-pocket-fix/</loc>
+    <lastmod>2026-01-09T16:48:00Z</lastmod>
+  </url>
+  <url>
     <loc>https://pulsegeek.com/articles/google-shopping-ai-capabilities-use-cases-adoption/</loc>
     <lastmod>2026-01-01T17:25:40Z</lastmod>
+  </url>
+  <url>
+    <loc>https://pulsegeek.com/articles/gpu-culling-occlusion-frustum-and-smart-skips/</loc>
+    <lastmod>2026-01-08T16:24:00Z</lastmod>
   </url>
   <url>
     <loc>https://pulsegeek.com/articles/gpu-encoder-vs-software-encoder-for-streaming-games/</loc>
@@ -1893,12 +2401,24 @@
     <lastmod>2026-01-06T04:09:23Z</lastmod>
   </url>
   <url>
+    <loc>https://pulsegeek.com/articles/gta-v-on-steam-deck-fix-stutter-and-crash-issues/</loc>
+    <lastmod>2026-01-11T16:35:00Z</lastmod>
+  </url>
+  <url>
     <loc>https://pulsegeek.com/articles/guardrails-and-safety-prompts-best-practices-filters-policies-and-overrides/</loc>
     <lastmod>2026-01-01T17:25:40Z</lastmod>
   </url>
   <url>
+    <loc>https://pulsegeek.com/articles/guest-wi-fi-access-policies-templates-and-examples/</loc>
+    <lastmod>2026-01-09T16:51:00Z</lastmod>
+  </url>
+  <url>
     <loc>https://pulsegeek.com/articles/hard-gpu-sync-vs-pre-rendered-frames-compared/</loc>
     <lastmod>2026-01-06T04:09:23Z</lastmod>
+  </url>
+  <url>
+    <loc>https://pulsegeek.com/articles/harden-your-radius-for-wi-fi-7-secure-config-guide/</loc>
+    <lastmod>2026-01-08T16:52:00Z</lastmod>
   </url>
   <url>
     <loc>https://pulsegeek.com/articles/hash-functions-in-blockchains-properties-and-practice/</loc>
@@ -1913,8 +2433,16 @@
     <lastmod>2026-01-06T04:09:23Z</lastmod>
   </url>
   <url>
+    <loc>https://pulsegeek.com/articles/heatmaps-utilization-before-and-after-puncturing/</loc>
+    <lastmod>2026-01-11T16:27:00Z</lastmod>
+  </url>
+  <url>
     <loc>https://pulsegeek.com/articles/high-level-vs-low-level-emulation-pros-cons-use-cases/</loc>
     <lastmod>2026-01-06T04:09:23Z</lastmod>
+  </url>
+  <url>
+    <loc>https://pulsegeek.com/articles/hle-bios-vs-real-bios-in-duckstation-what-to-use/</loc>
+    <lastmod>2026-01-12T16:36:00Z</lastmod>
   </url>
   <url>
     <loc>https://pulsegeek.com/articles/home-depot-ai-pro-journeys-inventory-and-safety/</loc>
@@ -1923,6 +2451,14 @@
   <url>
     <loc>https://pulsegeek.com/articles/home-network-checklist-for-cloud-gaming-setup/</loc>
     <lastmod>2026-01-06T04:09:23Z</lastmod>
+  </url>
+  <url>
+    <loc>https://pulsegeek.com/articles/hot-room-strategies-keep-your-steam-deck-cooler/</loc>
+    <lastmod>2026-01-08T16:29:00Z</lastmod>
+  </url>
+  <url>
+    <loc>https://pulsegeek.com/articles/hotkeys-and-menu-toggle-on-miyoo-the-essentials/</loc>
+    <lastmod>2026-01-08T16:43:00Z</lastmod>
   </url>
   <url>
     <loc>https://pulsegeek.com/articles/how-ai-is-used-in-cyber-security-practical-paths/</loc>
@@ -2009,6 +2545,10 @@
     <lastmod>2026-01-06T04:09:23Z</lastmod>
   </url>
   <url>
+    <loc>https://pulsegeek.com/articles/how-to-dump-a-ps1-bios-legally-options/</loc>
+    <lastmod>2026-01-10T16:39:00Z</lastmod>
+  </url>
+  <url>
     <loc>https://pulsegeek.com/articles/how-to-dump-bios-from-your-console-safely/</loc>
     <lastmod>2026-01-06T04:09:23Z</lastmod>
   </url>
@@ -2041,12 +2581,20 @@
     <lastmod>2026-01-06T04:09:23Z</lastmod>
   </url>
   <url>
+    <loc>https://pulsegeek.com/articles/how-to-measure-input-lag-on-miyoo-handheld/</loc>
+    <lastmod>2026-01-09T16:45:00Z</lastmod>
+  </url>
+  <url>
     <loc>https://pulsegeek.com/articles/how-to-measure-input-latency-at-home/</loc>
     <lastmod>2026-01-06T04:09:23Z</lastmod>
   </url>
   <url>
     <loc>https://pulsegeek.com/articles/how-to-measure-roi-of-ai-projects-a-clear-method/</loc>
     <lastmod>2026-01-06T04:09:23Z</lastmod>
+  </url>
+  <url>
+    <loc>https://pulsegeek.com/articles/how-to-model-rarity-curves-in-games-reliably/</loc>
+    <lastmod>2026-01-10T16:22:00Z</lastmod>
   </url>
   <url>
     <loc>https://pulsegeek.com/articles/how-to-organize-game-project-folders-that-scale/</loc>
@@ -2077,12 +2625,24 @@
     <lastmod>2026-01-01T17:25:40Z</lastmod>
   </url>
   <url>
+    <loc>https://pulsegeek.com/articles/how-to-read-the-80211be-specification-effectively/</loc>
+    <lastmod>2026-01-07T16:49:00Z</lastmod>
+  </url>
+  <url>
+    <loc>https://pulsegeek.com/articles/how-to-reduce-texture-memory-usage-without-artifacts/</loc>
+    <lastmod>2026-01-09T16:26:00Z</lastmod>
+  </url>
+  <url>
     <loc>https://pulsegeek.com/articles/how-to-set-dimming-schedules-for-smart-street-lights/</loc>
     <lastmod>2026-01-06T04:09:23Z</lastmod>
   </url>
   <url>
     <loc>https://pulsegeek.com/articles/how-to-set-inverter-based-resource-grid-support-functions-volt-var-freq-watt-ride-through/</loc>
     <lastmod>2026-01-06T04:09:23Z</lastmod>
+  </url>
+  <url>
+    <loc>https://pulsegeek.com/articles/how-to-set-loot-table-probabilities-responsibly/</loc>
+    <lastmod>2026-01-11T16:22:00Z</lastmod>
   </url>
   <url>
     <loc>https://pulsegeek.com/articles/how-to-use-a-block-explorer-trace-and-verify-steps/</loc>
@@ -2107,6 +2667,10 @@
   <url>
     <loc>https://pulsegeek.com/articles/how-to-use-conversational-ai-in-retail-stores-effectively/</loc>
     <lastmod>2026-01-06T04:09:23Z</lastmod>
+  </url>
+  <url>
+    <loc>https://pulsegeek.com/articles/how-to-use-puncturing-to-avoid-6-ghz-incumbents/</loc>
+    <lastmod>2026-01-12T16:55:00Z</lastmod>
   </url>
   <url>
     <loc>https://pulsegeek.com/articles/how-to-version-and-document-prompts-changelogs-tests-and-readme-patterns/</loc>
@@ -2141,12 +2705,20 @@
     <lastmod>2026-01-02T16:51:00Z</lastmod>
   </url>
   <url>
+    <loc>https://pulsegeek.com/articles/identity-based-access-policies-for-wi-fi-7-10-ideas/</loc>
+    <lastmod>2026-01-09T16:52:00Z</lastmod>
+  </url>
+  <url>
     <loc>https://pulsegeek.com/articles/idp-vs-rpa-for-finance-document-workflows-which-fits/</loc>
     <lastmod>2026-01-06T04:09:23Z</lastmod>
   </url>
   <url>
     <loc>https://pulsegeek.com/articles/ieee-2030-5-sep-for-der-integration-capabilities-security-and-utility-adoption/</loc>
     <lastmod>2026-01-06T04:09:23Z</lastmod>
+  </url>
+  <url>
+    <loc>https://pulsegeek.com/articles/ieee-80211be-draft-to-ratification-key-milestones/</loc>
+    <lastmod>2026-01-08T16:49:00Z</lastmod>
   </url>
   <url>
     <loc>https://pulsegeek.com/articles/image-prompt-templates-for-marketers-campaign-ready-structures-and-variations/</loc>
@@ -2159,6 +2731,10 @@
   <url>
     <loc>https://pulsegeek.com/articles/implementing-data-retention-and-consent-controls/</loc>
     <lastmod>2026-01-06T04:09:23Z</lastmod>
+  </url>
+  <url>
+    <loc>https://pulsegeek.com/articles/import-epsxe-saves-into-duckstation/</loc>
+    <lastmod>2026-01-11T16:39:00Z</lastmod>
   </url>
   <url>
     <loc>https://pulsegeek.com/articles/import-settings-for-textures-and-models-a-setup-guide/</loc>
@@ -2191,6 +2767,14 @@
   <url>
     <loc>https://pulsegeek.com/articles/inside-block-headers-structure-fields-and-purpose/</loc>
     <lastmod>2026-01-06T04:09:23Z</lastmod>
+  </url>
+  <url>
+    <loc>https://pulsegeek.com/articles/integer-scaling-and-aspect-ratio-on-miyoo-retroarch/</loc>
+    <lastmod>2026-01-09T16:43:00Z</lastmod>
+  </url>
+  <url>
+    <loc>https://pulsegeek.com/articles/integer-scaling-vs-fit-screen-on-miyoo-mini/</loc>
+    <lastmod>2026-01-08T16:42:00Z</lastmod>
   </url>
   <url>
     <loc>https://pulsegeek.com/articles/integrate-voiceover-and-barks-into-narrative-tools/</loc>
@@ -2281,12 +2865,28 @@
     <lastmod>2026-01-06T04:09:23Z</lastmod>
   </url>
   <url>
+    <loc>https://pulsegeek.com/articles/is-a-cooling-pad-necessary-for-steam-deck/</loc>
+    <lastmod>2026-01-09T16:29:00Z</lastmod>
+  </url>
+  <url>
+    <loc>https://pulsegeek.com/articles/is-cloud-gaming-better-than-pc-remote-play/</loc>
+    <lastmod>2026-01-07T16:32:00Z</lastmod>
+  </url>
+  <url>
     <loc>https://pulsegeek.com/articles/is-gaming-while-charging-bad-for-steam-deck-battery/</loc>
     <lastmod>2026-01-05T16:33:00Z</lastmod>
   </url>
   <url>
+    <loc>https://pulsegeek.com/articles/is-proton-safe-for-vac-protected-games-on-deck/</loc>
+    <lastmod>2026-01-10T16:28:00Z</lastmod>
+  </url>
+  <url>
     <loc>https://pulsegeek.com/articles/joints-and-constraints-in-game-engines-a-catalog/</loc>
     <lastmod>2026-01-06T04:09:23Z</lastmod>
+  </url>
+  <url>
+    <loc>https://pulsegeek.com/articles/juniper-mist-capacity-planning-automation/</loc>
+    <lastmod>2026-01-09T16:40:00Z</lastmod>
   </url>
   <url>
     <loc>https://pulsegeek.com/articles/key-questions-to-ask-during-an-ai-data-review/</loc>
@@ -2309,12 +2909,24 @@
     <lastmod>2026-01-01T17:25:40Z</lastmod>
   </url>
   <url>
+    <loc>https://pulsegeek.com/articles/latency-and-vsync-tuning-in-onion-os-feel-snappy/</loc>
+    <lastmod>2026-01-08T16:46:00Z</lastmod>
+  </url>
+  <url>
     <loc>https://pulsegeek.com/articles/latency-budget-breakdown-for-cloud-streaming-users/</loc>
     <lastmod>2026-01-06T04:09:23Z</lastmod>
   </url>
   <url>
     <loc>https://pulsegeek.com/articles/leading-ai-companies-who-sets-the-pace-and-why/</loc>
     <lastmod>2026-01-06T04:09:23Z</lastmod>
+  </url>
+  <url>
+    <loc>https://pulsegeek.com/articles/legacy-client-compatibility-under-puncturing-guidelines/</loc>
+    <lastmod>2026-01-12T16:27:00Z</lastmod>
+  </url>
+  <url>
+    <loc>https://pulsegeek.com/articles/legal-bios-guidance-for-onion-os-users/</loc>
+    <lastmod>2026-01-10T16:47:00Z</lastmod>
   </url>
   <url>
     <loc>https://pulsegeek.com/articles/lightmap-uv-unwrapping-for-static-lighting/</loc>
@@ -2337,6 +2949,14 @@
     <lastmod>2026-01-06T04:09:23Z</lastmod>
   </url>
   <url>
+    <loc>https://pulsegeek.com/articles/log-wi-fi-signal-over-time-on-steam-deck/</loc>
+    <lastmod>2026-01-07T16:30:00Z</lastmod>
+  </url>
+  <url>
+    <loc>https://pulsegeek.com/articles/longest-steam-deck-playtime-on-one-charge-examples/</loc>
+    <lastmod>2026-01-06T16:33:00Z</lastmod>
+  </url>
+  <url>
     <loc>https://pulsegeek.com/articles/loot-drop-rates-calculation-guide-numbers-to-feel/</loc>
     <lastmod>2026-01-06T04:09:23Z</lastmod>
   </url>
@@ -2347,6 +2967,10 @@
   <url>
     <loc>https://pulsegeek.com/articles/lore-delivery-systems-without-lore-dumps/</loc>
     <lastmod>2026-01-01T17:25:40Z</lastmod>
+  </url>
+  <url>
+    <loc>https://pulsegeek.com/articles/lossless-vs-lossy-texture-formats-for-mods-compared/</loc>
+    <lastmod>2026-01-10T16:26:00Z</lastmod>
   </url>
   <url>
     <loc>https://pulsegeek.com/articles/low-latency-vs-accuracy-smart-emulation-trade-offs/</loc>
@@ -2409,20 +3033,60 @@
     <lastmod>2026-01-01T17:25:40Z</lastmod>
   </url>
   <url>
+    <loc>https://pulsegeek.com/articles/maintenance-schedule-for-a-quiet-cool-steam-deck/</loc>
+    <lastmod>2026-01-10T16:29:00Z</lastmod>
+  </url>
+  <url>
     <loc>https://pulsegeek.com/articles/malware-classification-with-ml-features-a-guide/</loc>
     <lastmod>2026-01-01T17:25:40Z</lastmod>
+  </url>
+  <url>
+    <loc>https://pulsegeek.com/articles/manage-co-channel-interference-in-wi-fi-7-gaming/</loc>
+    <lastmod>2026-01-09T16:50:00Z</lastmod>
+  </url>
+  <url>
+    <loc>https://pulsegeek.com/articles/manage-save-states-safely-on-miyoo-mini/</loc>
+    <lastmod>2026-01-09T16:42:00Z</lastmod>
   </url>
   <url>
     <loc>https://pulsegeek.com/articles/managing-narrative-states-across-interwoven-quests/</loc>
     <lastmod>2026-01-06T04:09:23Z</lastmod>
   </url>
   <url>
+    <loc>https://pulsegeek.com/articles/map-fast-forward-on-miyoo-without-audio-glitches/</loc>
+    <lastmod>2026-01-07T16:44:00Z</lastmod>
+  </url>
+  <url>
+    <loc>https://pulsegeek.com/articles/map-user-groups-to-vlans-on-wi-fi-7-802-1x/</loc>
+    <lastmod>2026-01-10T16:52:00Z</lastmod>
+  </url>
+  <url>
     <loc>https://pulsegeek.com/articles/market-anomaly-detection-with-ml-from-idea-to-alerts/</loc>
     <lastmod>2026-01-01T17:25:40Z</lastmod>
   </url>
   <url>
+    <loc>https://pulsegeek.com/articles/material-instancing-best-practices-for-scalable-scenes/</loc>
+    <lastmod>2026-01-09T16:24:00Z</lastmod>
+  </url>
+  <url>
+    <loc>https://pulsegeek.com/articles/mdm-driven-wi-fi-certificates-deployment-steps/</loc>
+    <lastmod>2026-01-10T16:51:00Z</lastmod>
+  </url>
+  <url>
     <loc>https://pulsegeek.com/articles/measure-money-velocity-in-virtual-worlds/</loc>
     <lastmod>2026-01-06T04:09:23Z</lastmod>
+  </url>
+  <url>
+    <loc>https://pulsegeek.com/articles/measure-ping-jitter-and-packet-loss-on-steam-deck/</loc>
+    <lastmod>2026-01-08T16:30:00Z</lastmod>
+  </url>
+  <url>
+    <loc>https://pulsegeek.com/articles/memory-card-management-tips-for-duckstation/</loc>
+    <lastmod>2026-01-09T16:37:00Z</lastmod>
+  </url>
+  <url>
+    <loc>https://pulsegeek.com/articles/memory-card-setup-and-management-in-duckstation/</loc>
+    <lastmod>2026-01-12T16:39:00Z</lastmod>
   </url>
   <url>
     <loc>https://pulsegeek.com/articles/memory-management-for-game-engines-key-practices/</loc>
@@ -2441,8 +3105,24 @@
     <lastmod>2026-01-06T04:09:23Z</lastmod>
   </url>
   <url>
+    <loc>https://pulsegeek.com/articles/mesh-and-model-swaps-explained-for-modding-projects/</loc>
+    <lastmod>2026-01-11T16:26:00Z</lastmod>
+  </url>
+  <url>
     <loc>https://pulsegeek.com/articles/microgrid-control-strategies-for-grid-tied-operation-from-droop-to-hierarchical-control/</loc>
     <lastmod>2026-01-06T04:09:23Z</lastmod>
+  </url>
+  <url>
+    <loc>https://pulsegeek.com/articles/microsoft-entra-id-with-wi-fi-7-eap-tls-setup-guide/</loc>
+    <lastmod>2026-01-11T16:52:00Z</lastmod>
+  </url>
+  <url>
+    <loc>https://pulsegeek.com/articles/microsoft-entra-id-with-wpa3-enterprise-a-guide/</loc>
+    <lastmod>2026-01-11T16:51:00Z</lastmod>
+  </url>
+  <url>
+    <loc>https://pulsegeek.com/articles/microstutter-fixes-with-dxvk-on-steam-deck/</loc>
+    <lastmod>2026-01-12T16:35:00Z</lastmod>
   </url>
   <url>
     <loc>https://pulsegeek.com/articles/mina-crypto-9-reasons-zk-natives-are-watching/</loc>
@@ -2453,12 +3133,28 @@
     <lastmod>2026-01-06T04:09:23Z</lastmod>
   </url>
   <url>
+    <loc>https://pulsegeek.com/articles/minimal-latency-save-state-settings-in-duckstation/</loc>
+    <lastmod>2026-01-10T16:37:00Z</lastmod>
+  </url>
+  <url>
     <loc>https://pulsegeek.com/articles/mitigating-bias-in-ai-models-a-step-by-step-playbook/</loc>
     <lastmod>2026-01-01T17:25:40Z</lastmod>
   </url>
   <url>
+    <loc>https://pulsegeek.com/articles/miyoo-brightness-too-dim-in-daylight-practical-fixes/</loc>
+    <lastmod>2026-01-08T16:44:00Z</lastmod>
+  </url>
+  <url>
     <loc>https://pulsegeek.com/articles/miyoo-controls-and-ui-hotkeys-overlays-remaps/</loc>
     <lastmod>2026-01-02T16:43:00Z</lastmod>
+  </url>
+  <url>
+    <loc>https://pulsegeek.com/articles/miyoo-headphones-not-working-through-jack-fix-guide/</loc>
+    <lastmod>2026-01-09T16:44:00Z</lastmod>
+  </url>
+  <url>
+    <loc>https://pulsegeek.com/articles/miyoo-mini-plus-low-volume-after-update-restore-gain/</loc>
+    <lastmod>2026-01-10T16:44:00Z</lastmod>
   </url>
   <url>
     <loc>https://pulsegeek.com/articles/miyoo-mini-setup-the-complete-beginners-walkthrough/</loc>
@@ -2469,6 +3165,10 @@
     <lastmod>2026-01-01T16:45:00Z</lastmod>
   </url>
   <url>
+    <loc>https://pulsegeek.com/articles/miyoo-shaders-performance-vs-battery-impact/</loc>
+    <lastmod>2026-01-11T16:44:00Z</lastmod>
+  </url>
+  <url>
     <loc>https://pulsegeek.com/articles/miyoo-stutter-and-frameskip-diagnostics-and-fixes-guide/</loc>
     <lastmod>2026-01-02T16:44:00Z</lastmod>
   </url>
@@ -2477,8 +3177,16 @@
     <lastmod>2026-01-01T16:44:00Z</lastmod>
   </url>
   <url>
+    <loc>https://pulsegeek.com/articles/mlo-policy-prefer-low-latency-link-for-gaming/</loc>
+    <lastmod>2026-01-10T16:50:00Z</lastmod>
+  </url>
+  <url>
     <loc>https://pulsegeek.com/articles/mlo-settings-for-gaming-on-wi-fi-7-the-definitive-guide/</loc>
     <lastmod>2026-01-02T16:50:00Z</lastmod>
+  </url>
+  <url>
+    <loc>https://pulsegeek.com/articles/mobile-data-saver-settings-for-cloud-gaming-quality/</loc>
+    <lastmod>2026-01-08T16:23:00Z</lastmod>
   </url>
   <url>
     <loc>https://pulsegeek.com/articles/mobile-game-optimization-gpu-thermals-and-battery/</loc>
@@ -2489,8 +3197,24 @@
     <lastmod>2026-01-06T04:09:23Z</lastmod>
   </url>
   <url>
+    <loc>https://pulsegeek.com/articles/mod-readme-and-documentation-template-essentials/</loc>
+    <lastmod>2026-01-12T16:26:00Z</lastmod>
+  </url>
+  <url>
     <loc>https://pulsegeek.com/articles/model-risk-management-for-ai-in-banks-what-it-is/</loc>
     <lastmod>2026-01-01T17:25:40Z</lastmod>
+  </url>
+  <url>
+    <loc>https://pulsegeek.com/articles/mods-overlays-and-ban-risk-on-steam-deck-reality/</loc>
+    <lastmod>2026-01-11T16:28:00Z</lastmod>
+  </url>
+  <url>
+    <loc>https://pulsegeek.com/articles/motion-blur-and-latency-trade-offs-in-cloud-gaming/</loc>
+    <lastmod>2026-01-09T16:23:00Z</lastmod>
+  </url>
+  <url>
+    <loc>https://pulsegeek.com/articles/multi-user-profiles-for-duckstation-saves/</loc>
+    <lastmod>2026-01-11T16:37:00Z</lastmod>
   </url>
   <url>
     <loc>https://pulsegeek.com/articles/multimodal-prompting-with-text-and-images-a-practitioners-guide-to-consistency/</loc>
@@ -2503,6 +3227,10 @@
   <url>
     <loc>https://pulsegeek.com/articles/multithreaded-job-systems-in-game-engines/</loc>
     <lastmod>2026-01-06T04:09:23Z</lastmod>
+  </url>
+  <url>
+    <loc>https://pulsegeek.com/articles/nac-policy-design-for-wi-fi-7-12-rules-that-work/</loc>
+    <lastmod>2026-01-12T16:52:00Z</lastmod>
   </url>
   <url>
     <loc>https://pulsegeek.com/articles/narrative-design-asset-naming-conventions/</loc>
@@ -2523,6 +3251,10 @@
   <url>
     <loc>https://pulsegeek.com/articles/nb-iot-street-lighting-gateways-selection-and-placement/</loc>
     <lastmod>2026-01-06T04:09:23Z</lastmod>
+  </url>
+  <url>
+    <loc>https://pulsegeek.com/articles/netally-handheld-validation-workflows-for-wifi-8/</loc>
+    <lastmod>2026-01-10T16:40:00Z</lastmod>
   </url>
   <url>
     <loc>https://pulsegeek.com/articles/netplay-basics-and-etiquette-in-emulators/</loc>
@@ -2553,24 +3285,52 @@
     <lastmod>2026-01-06T04:09:23Z</lastmod>
   </url>
   <url>
+    <loc>https://pulsegeek.com/articles/ofdma-and-mu-mimo-on-wi-fi-7-for-gaming-explained/</loc>
+    <lastmod>2026-01-11T16:50:00Z</lastmod>
+  </url>
+  <url>
     <loc>https://pulsegeek.com/articles/offline-vs-runtime-generation-picking-the-right-mode/</loc>
     <lastmod>2026-01-06T04:09:23Z</lastmod>
+  </url>
+  <url>
+    <loc>https://pulsegeek.com/articles/okta-with-eap-ttls-wi-fi-integration-examples/</loc>
+    <lastmod>2026-01-12T16:51:00Z</lastmod>
+  </url>
+  <url>
+    <loc>https://pulsegeek.com/articles/oled-battery-life-brightness-matched-vs-lcd-on-deck/</loc>
+    <lastmod>2026-01-07T16:33:00Z</lastmod>
   </url>
   <url>
     <loc>https://pulsegeek.com/articles/on-chain-randomness-security-oracles-vrfs-and-risks/</loc>
     <lastmod>2026-01-06T04:09:23Z</lastmod>
   </url>
   <url>
+    <loc>https://pulsegeek.com/articles/on-screen-notifications-hud-on-miyoo-retroarch/</loc>
+    <lastmod>2026-01-10T16:43:00Z</lastmod>
+  </url>
+  <url>
     <loc>https://pulsegeek.com/articles/onion-os-emulator-settings-smooth-controls-to-speed/</loc>
     <lastmod>2026-01-02T16:46:00Z</lastmod>
+  </url>
+  <url>
+    <loc>https://pulsegeek.com/articles/onion-os-hotkeys-and-shortcuts-the-essential-list/</loc>
+    <lastmod>2026-01-09T16:46:00Z</lastmod>
   </url>
   <url>
     <loc>https://pulsegeek.com/articles/onion-os-setup-complete-beginner-to-intermediate-guide/</loc>
     <lastmod>2026-01-01T16:46:00Z</lastmod>
   </url>
   <url>
+    <loc>https://pulsegeek.com/articles/onion-os-shaders-and-scaling-crisp-authentic-looks/</loc>
+    <lastmod>2026-01-10T16:46:00Z</lastmod>
+  </url>
+  <url>
     <loc>https://pulsegeek.com/articles/onion-os-troubleshooting-calm-fixes-that-actually-work/</loc>
     <lastmod>2026-01-01T16:47:00Z</lastmod>
+  </url>
+  <url>
+    <loc>https://pulsegeek.com/articles/onion-os-vs-garlic-os-performance-differences-tested/</loc>
+    <lastmod>2026-01-11T16:46:00Z</lastmod>
   </url>
   <url>
     <loc>https://pulsegeek.com/articles/online-shopping-ai-personalization-that-feels-natural/</loc>
@@ -2581,16 +3341,44 @@
     <lastmod>2026-01-06T04:09:23Z</lastmod>
   </url>
   <url>
+    <loc>https://pulsegeek.com/articles/open-source-tools-to-monitor-home-wi-fi-performance/</loc>
+    <lastmod>2026-01-09T16:30:00Z</lastmod>
+  </url>
+  <url>
     <loc>https://pulsegeek.com/articles/open-source-vs-commercial-interoperability-testing-tools-for-smart-grids/</loc>
     <lastmod>2026-01-06T04:09:23Z</lastmod>
+  </url>
+  <url>
+    <loc>https://pulsegeek.com/articles/open-source-wifi-planning-options-and-limits/</loc>
+    <lastmod>2026-01-11T16:40:00Z</lastmod>
   </url>
   <url>
     <loc>https://pulsegeek.com/articles/openai-for-business-practical-ways-to-apply-safely/</loc>
     <lastmod>2026-01-06T04:09:23Z</lastmod>
   </url>
   <url>
+    <loc>https://pulsegeek.com/articles/optimal-anti-aliasing-for-streamed-gameplay-picks/</loc>
+    <lastmod>2026-01-10T16:23:00Z</lastmod>
+  </url>
+  <url>
     <loc>https://pulsegeek.com/articles/optimal-buffer-size-for-low-latency-streaming-explained/</loc>
     <lastmod>2026-01-06T04:09:23Z</lastmod>
+  </url>
+  <url>
+    <loc>https://pulsegeek.com/articles/optimize-draw-calls-in-a-game-engine-practical-steps/</loc>
+    <lastmod>2026-01-10T16:24:00Z</lastmod>
+  </url>
+  <url>
+    <loc>https://pulsegeek.com/articles/optimize-emulator-cores-on-miyoo-for-smooth-play/</loc>
+    <lastmod>2026-01-12T16:44:00Z</lastmod>
+  </url>
+  <url>
+    <loc>https://pulsegeek.com/articles/optimize-steam-deck-for-low-power-travel-gaming/</loc>
+    <lastmod>2026-01-08T16:33:00Z</lastmod>
+  </url>
+  <url>
+    <loc>https://pulsegeek.com/articles/optimize-windows-power-settings-for-streaming-hosts/</loc>
+    <lastmod>2026-01-08T16:32:00Z</lastmod>
   </url>
   <url>
     <loc>https://pulsegeek.com/articles/oracle-pattern-in-smart-contracts-design-and-safety/</loc>
@@ -2601,8 +3389,24 @@
     <lastmod>2026-01-01T17:25:41Z</lastmod>
   </url>
   <url>
+    <loc>https://pulsegeek.com/articles/organize-duckstation-saves-by-game-id/</loc>
+    <lastmod>2026-01-12T16:37:00Z</lastmod>
+  </url>
+  <url>
     <loc>https://pulsegeek.com/articles/organize-duckstation-saves-folders-ids-and-flow/</loc>
     <lastmod>2026-01-02T16:37:00Z</lastmod>
+  </url>
+  <url>
+    <loc>https://pulsegeek.com/articles/overlay-opacity-and-scaling-on-miyoo-balanced-looks/</loc>
+    <lastmod>2026-01-11T16:43:00Z</lastmod>
+  </url>
+  <url>
+    <loc>https://pulsegeek.com/articles/overlay-performance-impact-on-miyoo-mini/</loc>
+    <lastmod>2026-01-10T16:45:00Z</lastmod>
+  </url>
+  <url>
+    <loc>https://pulsegeek.com/articles/overlays-and-bezels-setup-for-onion-os-retro-style/</loc>
+    <lastmod>2026-01-12T16:46:00Z</lastmod>
   </url>
   <url>
     <loc>https://pulsegeek.com/articles/pacing-and-surprise-in-level-generation-rhythm-matters/</loc>
@@ -2613,6 +3417,10 @@
     <lastmod>2026-01-06T04:09:23Z</lastmod>
   </url>
   <url>
+    <loc>https://pulsegeek.com/articles/parsec-alternatives-for-steam-deck-streaming/</loc>
+    <lastmod>2026-01-09T16:32:00Z</lastmod>
+  </url>
+  <url>
     <loc>https://pulsegeek.com/articles/pathfinding-aware-level-generation-design-for-flow/</loc>
     <lastmod>2026-01-01T17:25:41Z</lastmod>
   </url>
@@ -2621,12 +3429,24 @@
     <lastmod>2026-01-06T04:09:23Z</lastmod>
   </url>
   <url>
+    <loc>https://pulsegeek.com/articles/pbr-materials-workflow-in-game-engines-a-practical-path/</loc>
+    <lastmod>2026-01-11T16:24:00Z</lastmod>
+  </url>
+  <url>
     <loc>https://pulsegeek.com/articles/peer-to-peer-trading-safety-tips-for-players/</loc>
     <lastmod>2026-01-06T04:09:23Z</lastmod>
   </url>
   <url>
     <loc>https://pulsegeek.com/articles/peering-and-route-optimization-for-cloud-services/</loc>
     <lastmod>2026-01-06T04:09:23Z</lastmod>
+  </url>
+  <url>
+    <loc>https://pulsegeek.com/articles/per-core-and-per-game-remaps-on-miyoo-explained/</loc>
+    <lastmod>2026-01-12T16:43:00Z</lastmod>
+  </url>
+  <url>
+    <loc>https://pulsegeek.com/articles/per-core-options-on-miyoo-mini-explained-clearly/</loc>
+    <lastmod>2026-01-10T16:42:00Z</lastmod>
   </url>
   <url>
     <loc>https://pulsegeek.com/articles/perceived-randomness-vs-true-randomness-design-reality/</loc>
@@ -2651,6 +3471,10 @@
   <url>
     <loc>https://pulsegeek.com/articles/physics-timestep-fixed-vs-variable-stability-first/</loc>
     <lastmod>2026-01-06T04:09:23Z</lastmod>
+  </url>
+  <url>
+    <loc>https://pulsegeek.com/articles/pick-the-least-congested-wi-fi-7-channel-at-home/</loc>
+    <lastmod>2026-01-12T16:50:00Z</lastmod>
   </url>
   <url>
     <loc>https://pulsegeek.com/articles/place-narrative-props-without-blocking-gameplay/</loc>
@@ -2681,6 +3505,10 @@
     <lastmod>2026-01-06T04:09:23Z</lastmod>
   </url>
   <url>
+    <loc>https://pulsegeek.com/articles/playlist-generator-tools-for-onion-os-top-picks/</loc>
+    <lastmod>2026-01-11T16:47:00Z</lastmod>
+  </url>
+  <url>
     <loc>https://pulsegeek.com/articles/plonk-zk-proof-from-arithmetization-to-verification/</loc>
     <lastmod>2026-01-01T17:25:41Z</lastmod>
   </url>
@@ -2689,8 +3517,20 @@
     <lastmod>2026-01-06T04:09:23Z</lastmod>
   </url>
   <url>
+    <loc>https://pulsegeek.com/articles/portable-charging-kits-for-steam-deck-weekend-trips/</loc>
+    <lastmod>2026-01-09T16:33:00Z</lastmod>
+  </url>
+  <url>
+    <loc>https://pulsegeek.com/articles/post-processing-stack-for-games-effects-and-costs/</loc>
+    <lastmod>2026-01-12T16:24:00Z</lastmod>
+  </url>
+  <url>
     <loc>https://pulsegeek.com/articles/power-bi-and-ai-practical-enhancements-that-matter/</loc>
     <lastmod>2026-01-06T04:09:23Z</lastmod>
+  </url>
+  <url>
+    <loc>https://pulsegeek.com/articles/ppsspp-crashing-on-retroid-pocket-reliable-fixes/</loc>
+    <lastmod>2026-01-10T16:48:00Z</lastmod>
   </url>
   <url>
     <loc>https://pulsegeek.com/articles/preamble-puncturing-in-wi-fi-8-mechanics-trade-offs-roi/</loc>
@@ -2703,6 +3543,14 @@
   <url>
     <loc>https://pulsegeek.com/articles/preservation-vs-piracy-in-emulation-clear-lines/</loc>
     <lastmod>2026-01-06T04:09:23Z</lastmod>
+  </url>
+  <url>
+    <loc>https://pulsegeek.com/articles/prevent-screen-tearing-on-miyoo-mini-settings-guide/</loc>
+    <lastmod>2026-01-11T16:42:00Z</lastmod>
+  </url>
+  <url>
+    <loc>https://pulsegeek.com/articles/preventing-loot-inflation-over-time-practical-steps/</loc>
+    <lastmod>2026-01-12T16:22:00Z</lastmod>
   </url>
   <url>
     <loc>https://pulsegeek.com/articles/preventing-market-manipulation-in-games-tactics/</loc>
@@ -2761,6 +3609,14 @@
     <lastmod>2026-01-06T04:09:23Z</lastmod>
   </url>
   <url>
+    <loc>https://pulsegeek.com/articles/protocol-flow-diagrams-for-80211be-mac-scenarios/</loc>
+    <lastmod>2026-01-09T16:49:00Z</lastmod>
+  </url>
+  <url>
+    <loc>https://pulsegeek.com/articles/ps1-on-miyoo-mini-performance-tips-that-work/</loc>
+    <lastmod>2026-01-12T16:42:00Z</lastmod>
+  </url>
+  <url>
     <loc>https://pulsegeek.com/articles/public-key-cryptography-in-blockchain-a-practical-path/</loc>
     <lastmod>2026-01-06T04:09:23Z</lastmod>
   </url>
@@ -2809,12 +3665,24 @@
     <lastmod>2026-01-06T04:09:23Z</lastmod>
   </url>
   <url>
+    <loc>https://pulsegeek.com/articles/rebuild-the-thumbnails-cache-on-onion-os-quickly/</loc>
+    <lastmod>2026-01-12T16:47:00Z</lastmod>
+  </url>
+  <url>
     <loc>https://pulsegeek.com/articles/recommended-upload-speed-for-4k-cloud-gaming/</loc>
     <lastmod>2026-01-06T04:09:23Z</lastmod>
   </url>
   <url>
+    <loc>https://pulsegeek.com/articles/reduce-artifacts-from-sharpening-filters-in-streams/</loc>
+    <lastmod>2026-01-11T16:23:00Z</lastmod>
+  </url>
+  <url>
     <loc>https://pulsegeek.com/articles/reduce-input-lag-in-cloud-gaming-a-stepwise-plan/</loc>
     <lastmod>2026-01-06T04:09:23Z</lastmod>
+  </url>
+  <url>
+    <loc>https://pulsegeek.com/articles/reduce-input-latency-on-miyoo-without-overclock/</loc>
+    <lastmod>2026-01-11T16:45:00Z</lastmod>
   </url>
   <url>
     <loc>https://pulsegeek.com/articles/reducing-dead-ends-in-branching-narratives/</loc>
@@ -2827,6 +3695,18 @@
   <url>
     <loc>https://pulsegeek.com/articles/region-locking-in-emulation-standards-signals-workarounds/</loc>
     <lastmod>2026-01-06T04:09:23Z</lastmod>
+  </url>
+  <url>
+    <loc>https://pulsegeek.com/articles/remote-play-on-steam-deck-cut-noise-and-heat/</loc>
+    <lastmod>2026-01-11T16:29:00Z</lastmod>
+  </url>
+  <url>
+    <loc>https://pulsegeek.com/articles/remote-play-over-internet-with-tailscale-or-zerotier/</loc>
+    <lastmod>2026-01-10T16:32:00Z</lastmod>
+  </url>
+  <url>
+    <loc>https://pulsegeek.com/articles/remote-play-vs-local-install-on-steam-deck/</loc>
+    <lastmod>2026-01-11T16:32:00Z</lastmod>
   </url>
   <url>
     <loc>https://pulsegeek.com/articles/rendering-pipelines-in-game-engines-a-full-tour/</loc>
@@ -2881,12 +3761,20 @@
     <lastmod>2026-01-01T17:25:41Z</lastmod>
   </url>
   <url>
+    <loc>https://pulsegeek.com/articles/retroarch-cores-vs-standalone-emulators-on-retroid/</loc>
+    <lastmod>2026-01-11T16:48:00Z</lastmod>
+  </url>
+  <url>
     <loc>https://pulsegeek.com/articles/retroarch-latency-settings-a-practical-guide/</loc>
     <lastmod>2026-01-06T04:09:23Z</lastmod>
   </url>
   <url>
     <loc>https://pulsegeek.com/articles/retroarch-miyoo-stable-settings-cores-and-saves/</loc>
     <lastmod>2026-01-01T16:43:00Z</lastmod>
+  </url>
+  <url>
+    <loc>https://pulsegeek.com/articles/retroarch-not-launching-on-retroid-pocket-fix-it/</loc>
+    <lastmod>2026-01-12T16:48:00Z</lastmod>
   </url>
   <url>
     <loc>https://pulsegeek.com/articles/retroarch-vs-standalone-emulators-which-to-choose/</loc>
@@ -2901,6 +3789,10 @@
     <lastmod>2026-01-01T17:25:41Z</lastmod>
   </url>
   <url>
+    <loc>https://pulsegeek.com/articles/rewind-and-autosave-performance-impact-on-miyoo/</loc>
+    <lastmod>2026-01-12T16:45:00Z</lastmod>
+  </url>
+  <url>
     <loc>https://pulsegeek.com/articles/rigid-body-vs-character-controller-movement-models/</loc>
     <lastmod>2026-01-06T04:09:23Z</lastmod>
   </url>
@@ -2913,12 +3805,24 @@
     <lastmod>2026-01-06T04:09:23Z</lastmod>
   </url>
   <url>
+    <loc>https://pulsegeek.com/articles/router-firmware-updates-impact-on-steam-deck-latency/</loc>
+    <lastmod>2026-01-10T16:30:00Z</lastmod>
+  </url>
+  <url>
     <loc>https://pulsegeek.com/articles/router-settings-to-reduce-bufferbloat-for-streaming/</loc>
     <lastmod>2026-01-06T04:09:23Z</lastmod>
   </url>
   <url>
+    <loc>https://pulsegeek.com/articles/run-an-iperf-test-between-pc-and-steam-deck/</loc>
+    <lastmod>2026-01-11T16:30:00Z</lastmod>
+  </url>
+  <url>
     <loc>https://pulsegeek.com/articles/runahead-latency-reduction-setup-and-tuning/</loc>
     <lastmod>2026-01-06T04:09:23Z</lastmod>
+  </url>
+  <url>
+    <loc>https://pulsegeek.com/articles/safe-troubleshooting-steps-before-joining-ranked/</loc>
+    <lastmod>2026-01-12T16:28:00Z</lastmod>
   </url>
   <url>
     <loc>https://pulsegeek.com/articles/saidi-saifi-reliability-improvement-roadmap-high-impact-projects-and-metrics/</loc>
@@ -2933,8 +3837,16 @@
     <lastmod>2026-01-01T17:25:41Z</lastmod>
   </url>
   <url>
+    <loc>https://pulsegeek.com/articles/screen-tearing-fixes-with-adaptive-sync-in-streaming/</loc>
+    <lastmod>2026-01-12T16:23:00Z</lastmod>
+  </url>
+  <url>
     <loc>https://pulsegeek.com/articles/seasonal-events-as-economic-resets-playbook/</loc>
     <lastmod>2026-01-01T17:25:41Z</lastmod>
+  </url>
+  <url>
+    <loc>https://pulsegeek.com/articles/secure-remote-access-to-your-gaming-pc-for-streaming/</loc>
+    <lastmod>2026-01-12T16:32:00Z</lastmod>
   </url>
   <url>
     <loc>https://pulsegeek.com/articles/security-ai-explained-signals-models-and-workflows/</loc>
@@ -2951,6 +3863,10 @@
   <url>
     <loc>https://pulsegeek.com/articles/sensor-street-lamp-choosing-motion-ambient-and-radar/</loc>
     <lastmod>2026-01-06T04:09:23Z</lastmod>
+  </url>
+  <url>
+    <loc>https://pulsegeek.com/articles/set-a-weekend-travel-power-plan-for-steam-deck/</loc>
+    <lastmod>2026-01-10T16:33:00Z</lastmod>
   </url>
   <url>
     <loc>https://pulsegeek.com/articles/setting-up-an-ai-oversight-committee-step-by-step/</loc>
@@ -2975,6 +3891,10 @@
   <url>
     <loc>https://pulsegeek.com/articles/simulating-supply-shocks-in-game-economies/</loc>
     <lastmod>2026-01-06T04:09:23Z</lastmod>
+  </url>
+  <url>
+    <loc>https://pulsegeek.com/articles/sleep-mode-heat-and-battery-drain-on-steam-deck/</loc>
+    <lastmod>2026-01-12T16:29:00Z</lastmod>
   </url>
   <url>
     <loc>https://pulsegeek.com/articles/smart-city-led-lighting-10-upgrades-with-big-impact/</loc>
@@ -3173,8 +4093,16 @@
     <lastmod>2026-01-02T16:31:00Z</lastmod>
   </url>
   <url>
+    <loc>https://pulsegeek.com/articles/steam-deck-battery-life-expectations-by-game-type/</loc>
+    <lastmod>2026-01-11T16:33:00Z</lastmod>
+  </url>
+  <url>
     <loc>https://pulsegeek.com/articles/steam-deck-battery-optimization-a-complete-longevity-plan/</loc>
     <lastmod>2026-01-01T16:33:00Z</lastmod>
+  </url>
+  <url>
+    <loc>https://pulsegeek.com/articles/steam-deck-battery-saver-mode-vs-custom-profiles/</loc>
+    <lastmod>2026-01-12T16:33:00Z</lastmod>
   </url>
   <url>
     <loc>https://pulsegeek.com/articles/steam-deck-bluetooth-audio-setup-latency-routing/</loc>
@@ -3183,6 +4111,10 @@
   <url>
     <loc>https://pulsegeek.com/articles/steam-deck-desktop-mode-complete-linux-tasks-guide/</loc>
     <lastmod>2026-01-01T16:34:00Z</lastmod>
+  </url>
+  <url>
+    <loc>https://pulsegeek.com/articles/steam-deck-download-speed-vs-actual-throughput/</loc>
+    <lastmod>2026-01-12T16:30:00Z</lastmod>
   </url>
   <url>
     <loc>https://pulsegeek.com/articles/steam-deck-network-optimization-bands-channels-qos/</loc>
@@ -3255,6 +4187,10 @@
   <url>
     <loc>https://pulsegeek.com/articles/synchrophasor-pmu-data-for-distribution-visibility-use-cases-and-integration-patterns/</loc>
     <lastmod>2026-01-06T04:09:23Z</lastmod>
+  </url>
+  <url>
+    <loc>https://pulsegeek.com/articles/synthetic-client-testing-to-verify-wifi-8-slas/</loc>
+    <lastmod>2026-01-12T16:40:00Z</lastmod>
   </url>
   <url>
     <loc>https://pulsegeek.com/articles/taxes-vs-fees-comparing-sink-types-in-games/</loc>
@@ -3621,6 +4557,10 @@
     <lastmod>2026-01-06T04:09:23Z</lastmod>
   </url>
   <url>
+    <loc>https://pulsegeek.com/articles/what-is-a-narrative-graph-export/</loc>
+    <lastmod>2026-01-06T16:21:00Z</lastmod>
+  </url>
+  <url>
     <loc>https://pulsegeek.com/articles/what-is-a-physics-solver-iteration-count/</loc>
     <lastmod>2026-01-02T16:24:00Z</lastmod>
   </url>
@@ -3693,6 +4633,10 @@
     <lastmod>2026-01-06T04:09:23Z</lastmod>
   </url>
   <url>
+    <loc>https://pulsegeek.com/articles/what-is-extremely-high-throughput-in-wi-fi-7-eht/</loc>
+    <lastmod>2026-01-10T16:49:00Z</lastmod>
+  </url>
+  <url>
     <loc>https://pulsegeek.com/articles/what-is-good-precision-recall-for-malware-classifiers/</loc>
     <lastmod>2026-01-06T04:09:23Z</lastmod>
   </url>
@@ -3753,8 +4697,16 @@
     <lastmod>2026-01-06T04:09:23Z</lastmod>
   </url>
   <url>
+    <loc>https://pulsegeek.com/articles/wi-fi-7-feature-matrix-by-clause-engineers-index/</loc>
+    <lastmod>2026-01-11T16:49:00Z</lastmod>
+  </url>
+  <url>
     <loc>https://pulsegeek.com/articles/wi-fi-7-gaming-stable-ping-clean-channels-pro-settings/</loc>
     <lastmod>2026-01-01T16:50:00Z</lastmod>
+  </url>
+  <url>
+    <loc>https://pulsegeek.com/articles/wi-fi-7-mac-layer-enhancements-scheduling-to-harq/</loc>
+    <lastmod>2026-01-12T16:49:00Z</lastmod>
   </url>
   <url>
     <loc>https://pulsegeek.com/articles/wi-fi-7-security-threat-aware-standards-identity-policy/</loc>
@@ -3765,8 +4717,36 @@
     <lastmod>2026-01-02T16:27:00Z</lastmod>
   </url>
   <url>
+    <loc>https://pulsegeek.com/articles/wi-fi-9-antenna-selection-and-orientation-guide/</loc>
+    <lastmod>2026-01-06T16:38:00Z</lastmod>
+  </url>
+  <url>
+    <loc>https://pulsegeek.com/articles/wi-fi-9-ap-placement-best-practices-that-scale/</loc>
+    <lastmod>2026-01-07T16:38:00Z</lastmod>
+  </url>
+  <url>
+    <loc>https://pulsegeek.com/articles/wi-fi-9-capacity-planning-calculator-basics/</loc>
+    <lastmod>2026-01-08T16:38:00Z</lastmod>
+  </url>
+  <url>
+    <loc>https://pulsegeek.com/articles/wi-fi-9-channel-planning-in-6-ghz-a-how-to/</loc>
+    <lastmod>2026-01-09T16:38:00Z</lastmod>
+  </url>
+  <url>
+    <loc>https://pulsegeek.com/articles/wi-fi-9-channel-reuse-and-bss-coloring-basics/</loc>
+    <lastmod>2026-01-10T16:38:00Z</lastmod>
+  </url>
+  <url>
+    <loc>https://pulsegeek.com/articles/wi-fi-9-dfs-and-afc-what-designers-must-know/</loc>
+    <lastmod>2026-01-11T16:38:00Z</lastmod>
+  </url>
+  <url>
     <loc>https://pulsegeek.com/articles/wi-fi-9-network-design-guide-channels-snr-roaming/</loc>
     <lastmod>2026-01-02T16:38:00Z</lastmod>
+  </url>
+  <url>
+    <loc>https://pulsegeek.com/articles/wi-fi-9-qos-wmm-mapping-that-actually-works/</loc>
+    <lastmod>2026-01-12T16:38:00Z</lastmod>
   </url>
   <url>
     <loc>https://pulsegeek.com/articles/wi-fi-9-the-next-wireless-standard-and-blueprint/</loc>

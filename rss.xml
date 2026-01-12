@@ -6,357 +6,357 @@
     <description>Tech news, gaming, and geek culture in one pulse</description>
     <language>en-us</language>
     <generator>PulseGeek Rss Feed Generator</generator>
-    <lastBuildDate>Mon, 05 Jan 2026 22:55:00 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 12 Jan 2026 22:55:00 GMT</lastBuildDate>
     <atom:link href="https://pulsegeek.com/rss.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>320 MHz Transmit Power and TPC Settings</title>
-      <link>https://pulsegeek.com/articles/320-mhz-transmit-power-and-tpc-settings/</link>
-      <guid isPermaLink="true">https://pulsegeek.com/articles/320-mhz-transmit-power-and-tpc-settings/</guid>
-      <pubDate>Mon, 05 Jan 2026 22:55:00 GMT</pubDate>
-      <description>Set 320 MHz transmit power and TPC safely. Learn EIRP math, regulatory limits, AP radio policy choices, and validation checks to keep throughput high while containing interference.</description>
+      <title>How to Use Puncturing to Avoid 6 GHz Incumbents</title>
+      <link>https://pulsegeek.com/articles/how-to-use-puncturing-to-avoid-6-ghz-incumbents/</link>
+      <guid isPermaLink="true">https://pulsegeek.com/articles/how-to-use-puncturing-to-avoid-6-ghz-incumbents/</guid>
+      <pubDate>Mon, 12 Jan 2026 22:55:00 GMT</pubDate>
+      <description>Learn how to configure 6 GHz channel puncturing, coordinate with AFC, and validate client behavior to avoid incumbents while preserving throughput and coverage.</description>
     </item>
     <item>
-      <title>6 GHz Channel Map Floor Plan Templates for Planners</title>
-      <link>https://pulsegeek.com/articles/6-ghz-channel-map-floor-plan-templates-for-planners/</link>
-      <guid isPermaLink="true">https://pulsegeek.com/articles/6-ghz-channel-map-floor-plan-templates-for-planners/</guid>
-      <pubDate>Mon, 05 Jan 2026 22:54:00 GMT</pubDate>
-      <description>Practical 6 GHz floor plan templates that map channels, widths, PSCs, MLO, and AFC context. Learn how to visualize reuse, avoid scanning pitfalls, and adapt for apartments or arenas.</description>
+      <title>DFS in 6 GHz: Myths vs Facts for Modern Planning</title>
+      <link>https://pulsegeek.com/articles/dfs-in-6-ghz-myths-vs-facts-for-modern-planning/</link>
+      <guid isPermaLink="true">https://pulsegeek.com/articles/dfs-in-6-ghz-myths-vs-facts-for-modern-planning/</guid>
+      <pubDate>Mon, 12 Jan 2026 22:54:00 GMT</pubDate>
+      <description>Does 6 GHz Wi‑Fi require DFS? Learn what is true, what is not, and how AFC, power classes, and PSC behavior change modern channel planning.</description>
     </item>
     <item>
-      <title>802.11be vs 802.11ax Differences: What Really Changes</title>
-      <link>https://pulsegeek.com/articles/802-11be-vs-802-11ax-differences-what-really-changes/</link>
-      <guid isPermaLink="true">https://pulsegeek.com/articles/802-11be-vs-802-11ax-differences-what-really-changes/</guid>
-      <pubDate>Mon, 05 Jan 2026 22:53:00 GMT</pubDate>
-      <description>Compare 802.11be and 802.11ax with clear criteria, a side by side table, and scenario based recommendations covering throughput, latency, spectrum use, and reliability.</description>
+      <title>EHT SNR and MCS Selection Guide: Stable, Safe Rates</title>
+      <link>https://pulsegeek.com/articles/eht-snr-and-mcs-selection-guide-stable-safe-rates/</link>
+      <guid isPermaLink="true">https://pulsegeek.com/articles/eht-snr-and-mcs-selection-guide-stable-safe-rates/</guid>
+      <pubDate>Mon, 12 Jan 2026 22:53:00 GMT</pubDate>
+      <description>Learn how to map SNR to MCS in 802.11be for stable throughput, fewer retries, and safer links. Plan, measure, execute, validate, and troubleshoot rate control with practical thresholds and field-proven checks.</description>
     </item>
     <item>
-      <title>DPP (Easy Connect) for Wi‑Fi 7: Onboard Without PSKs</title>
-      <link>https://pulsegeek.com/articles/dpp-easy-connect-for-wi-fi-7-onboard-without-psks/</link>
-      <guid isPermaLink="true">https://pulsegeek.com/articles/dpp-easy-connect-for-wi-fi-7-onboard-without-psks/</guid>
-      <pubDate>Mon, 05 Jan 2026 22:52:00 GMT</pubDate>
-      <description>Learn how DPP Easy Connect streamlines Wi‑Fi 7 device onboarding without shared keys, improves security with per‑device credentials, and fits with identity, NAC, and zero trust policies.</description>
+      <title>NAC Policy Design for Wi‑Fi 7: 12 Rules That Work</title>
+      <link>https://pulsegeek.com/articles/nac-policy-design-for-wi-fi-7-12-rules-that-work/</link>
+      <guid isPermaLink="true">https://pulsegeek.com/articles/nac-policy-design-for-wi-fi-7-12-rules-that-work/</guid>
+      <pubDate>Mon, 12 Jan 2026 22:52:00 GMT</pubDate>
+      <description>Design NAC policies for Wi‑Fi 7 with identity first access, EAP choices, dynamic segmentation, guest isolation, and actionable monitoring insights for resilient operations.</description>
     </item>
     <item>
-      <title>Captive Portal Security: Enterprise Best Practices</title>
-      <link>https://pulsegeek.com/articles/captive-portal-security-enterprise-best-practices/</link>
-      <guid isPermaLink="true">https://pulsegeek.com/articles/captive-portal-security-enterprise-best-practices/</guid>
-      <pubDate>Mon, 05 Jan 2026 22:51:00 GMT</pubDate>
-      <description>Learn enterprise captive portal security best practices, from TLS hardening and pre‑auth ACLs to segmentation, logging, and policy design that supports 802.1X for managed devices and safe guest access.</description>
+      <title>Okta with EAP‑TTLS: Wi‑Fi Integration Examples</title>
+      <link>https://pulsegeek.com/articles/okta-with-eap-ttls-wi-fi-integration-examples/</link>
+      <guid isPermaLink="true">https://pulsegeek.com/articles/okta-with-eap-ttls-wi-fi-integration-examples/</guid>
+      <pubDate>Mon, 12 Jan 2026 22:51:00 GMT</pubDate>
+      <description>Learn how to integrate Okta with EAP‑TTLS for enterprise Wi‑Fi. Plan your design, configure FreeRADIUS, map group policies, validate with test clients, and troubleshoot common pitfalls.</description>
     </item>
     <item>
-      <title>Channel Width 160 vs 320 MHz for Gaming on Wi‑Fi 7</title>
-      <link>https://pulsegeek.com/articles/channel-width-160-vs-320-mhz-for-gaming-on-wi-fi-7/</link>
-      <guid isPermaLink="true">https://pulsegeek.com/articles/channel-width-160-vs-320-mhz-for-gaming-on-wi-fi-7/</guid>
-      <pubDate>Mon, 05 Jan 2026 22:50:00 GMT</pubDate>
-      <description>Compare 160 and 320 MHz on Wi‑Fi 7 for gaming. Learn when ultra‑wide channels help, where they hurt latency, and how interference, DFS, and device support shape your choice.</description>
+      <title>Pick the Least Congested Wi‑Fi 7 Channel at Home</title>
+      <link>https://pulsegeek.com/articles/pick-the-least-congested-wi-fi-7-channel-at-home/</link>
+      <guid isPermaLink="true">https://pulsegeek.com/articles/pick-the-least-congested-wi-fi-7-channel-at-home/</guid>
+      <pubDate>Mon, 12 Jan 2026 22:50:00 GMT</pubDate>
+      <description>Learn how to choose the least congested Wi‑Fi 7 channel using real scans, channel width strategy, DFS awareness, and validation steps that lower latency and jitter.</description>
     </item>
     <item>
-      <title>802.11be EHT Fundamentals: Concepts, Terms, Context</title>
-      <link>https://pulsegeek.com/articles/80211be-eht-fundamentals-concepts-terms-context/</link>
-      <guid isPermaLink="true">https://pulsegeek.com/articles/80211be-eht-fundamentals-concepts-terms-context/</guid>
-      <pubDate>Mon, 05 Jan 2026 22:49:00 GMT</pubDate>
-      <description>Learn the core EHT fundamentals in 802.11be with precise definitions, decision criteria, and practical examples that connect MAC and PHY concepts to real engineering tradeoffs and timelines.</description>
+      <title>Wi‑Fi 7 MAC Layer Enhancements: Scheduling to HARQ</title>
+      <link>https://pulsegeek.com/articles/wi-fi-7-mac-layer-enhancements-scheduling-to-harq/</link>
+      <guid isPermaLink="true">https://pulsegeek.com/articles/wi-fi-7-mac-layer-enhancements-scheduling-to-harq/</guid>
+      <pubDate>Mon, 12 Jan 2026 22:49:00 GMT</pubDate>
+      <description>Explore Wi‑Fi 7 MAC layer enhancements from resource scheduling to HARQ. Learn how MLO, MRU, and reliability features shape latency, throughput, and coexistence for real networks.</description>
     </item>
     <item>
-      <title>Best Emulator Cores for Retroid Pocket Reliability</title>
-      <link>https://pulsegeek.com/articles/best-emulator-cores-for-retroid-pocket-reliability/</link>
-      <guid isPermaLink="true">https://pulsegeek.com/articles/best-emulator-cores-for-retroid-pocket-reliability/</guid>
-      <pubDate>Mon, 05 Jan 2026 22:48:00 GMT</pubDate>
-      <description>Choose reliable emulator cores for Retroid Pocket. Practical picks with examples, common pitfalls, and tuning tips to reduce crashes and stutter.</description>
+      <title>RetroArch Not Launching on Retroid Pocket: Fix It</title>
+      <link>https://pulsegeek.com/articles/retroarch-not-launching-on-retroid-pocket-fix-it/</link>
+      <guid isPermaLink="true">https://pulsegeek.com/articles/retroarch-not-launching-on-retroid-pocket-fix-it/</guid>
+      <pubDate>Mon, 12 Jan 2026 22:48:00 GMT</pubDate>
+      <description>RetroArch will not open on Retroid Pocket? Follow a calm, stepwise path to diagnose storage, WebView, permissions, and GPU driver issues, then validate fixes safely.</description>
     </item>
     <item>
-      <title>Artwork Thumbnails Not Appearing on Onion OS? Fixes</title>
-      <link>https://pulsegeek.com/articles/artwork-thumbnails-not-appearing-on-onion-os-fixes/</link>
-      <guid isPermaLink="true">https://pulsegeek.com/articles/artwork-thumbnails-not-appearing-on-onion-os-fixes/</guid>
-      <pubDate>Mon, 05 Jan 2026 22:47:00 GMT</pubDate>
-      <description>Missing game art on Onion OS can be fixed by correcting names, verifying platforms, and rebuilding caches. Follow safe steps to restore thumbnails without rescanning your entire library.</description>
+      <title>Rebuild the Thumbnails Cache on Onion OS Quickly</title>
+      <link>https://pulsegeek.com/articles/rebuild-the-thumbnails-cache-on-onion-os-quickly/</link>
+      <guid isPermaLink="true">https://pulsegeek.com/articles/rebuild-the-thumbnails-cache-on-onion-os-quickly/</guid>
+      <pubDate>Mon, 12 Jan 2026 22:47:00 GMT</pubDate>
+      <description>Learn how to safely rebuild the thumbnails cache on Onion OS, clear stale images, verify folder paths, and rescan artwork without breaking playlists or losing metadata.</description>
     </item>
     <item>
-      <title>Configure Controller Mapping in Onion OS the Right Way</title>
-      <link>https://pulsegeek.com/articles/configure-controller-mapping-in-onion-os-the-right-way/</link>
-      <guid isPermaLink="true">https://pulsegeek.com/articles/configure-controller-mapping-in-onion-os-the-right-way/</guid>
-      <pubDate>Mon, 05 Jan 2026 22:46:00 GMT</pubDate>
-      <description>Learn how to configure controller mapping in Onion OS, from planning layouts to per-core overrides, with validation tips and fixes for drift, hotkeys, and analog quirks.</description>
+      <title>Overlays and Bezels Setup for Onion OS: Retro Style</title>
+      <link>https://pulsegeek.com/articles/overlays-and-bezels-setup-for-onion-os-retro-style/</link>
+      <guid isPermaLink="true">https://pulsegeek.com/articles/overlays-and-bezels-setup-for-onion-os-retro-style/</guid>
+      <pubDate>Mon, 12 Jan 2026 22:46:00 GMT</pubDate>
+      <description>Learn how to set up overlays and bezels in Onion OS with practical steps, clean paths, and per-game profiles, plus validation tips and troubleshooting for RetroArch.</description>
     </item>
     <item>
-      <title>Best FPS Limiter Settings on Miyoo RetroArch</title>
-      <link>https://pulsegeek.com/articles/best-fps-limiter-settings-on-miyoo-retroarch/</link>
-      <guid isPermaLink="true">https://pulsegeek.com/articles/best-fps-limiter-settings-on-miyoo-retroarch/</guid>
-      <pubDate>Mon, 05 Jan 2026 22:45:00 GMT</pubDate>
-      <description>Learn safe FPS limiter settings for Miyoo RetroArch. Balance smooth frame pacing, vsync, audio sync, and latency with practical checks and reversible changes.</description>
+      <title>Rewind and Autosave: Performance Impact on Miyoo</title>
+      <link>https://pulsegeek.com/articles/rewind-and-autosave-performance-impact-on-miyoo/</link>
+      <guid isPermaLink="true">https://pulsegeek.com/articles/rewind-and-autosave-performance-impact-on-miyoo/</guid>
+      <pubDate>Mon, 12 Jan 2026 22:45:00 GMT</pubDate>
+      <description>Learn how rewind and autosave affect Miyoo performance, latency, battery life, and stability. See safe defaults, when to disable features, and settings that keep audio clean and frames smooth.</description>
     </item>
     <item>
-      <title>Color Calibration and Gamma on Miyoo Screens</title>
-      <link>https://pulsegeek.com/articles/color-calibration-and-gamma-on-miyoo-screens/</link>
-      <guid isPermaLink="true">https://pulsegeek.com/articles/color-calibration-and-gamma-on-miyoo-screens/</guid>
-      <pubDate>Mon, 05 Jan 2026 22:44:00 GMT</pubDate>
-      <description>Learn practical color calibration and gamma tuning for Miyoo handhelds. Set white point, brightness, and tone mapping for accurate, comfortable play without crushing shadows or blowing highlights.</description>
+      <title>Optimize Emulator Cores on Miyoo for Smooth Play</title>
+      <link>https://pulsegeek.com/articles/optimize-emulator-cores-on-miyoo-for-smooth-play/</link>
+      <guid isPermaLink="true">https://pulsegeek.com/articles/optimize-emulator-cores-on-miyoo-for-smooth-play/</guid>
+      <pubDate>Mon, 12 Jan 2026 22:44:00 GMT</pubDate>
+      <description>Learn a practical process to optimize Miyoo emulator cores for smooth play. Plan settings, prepare firmware, tune per core, then validate and fix stutter, tearing, and audio hiccups.</description>
     </item>
     <item>
-      <title>Button Remapping on Miyoo RetroArch: Clean Profiles</title>
-      <link>https://pulsegeek.com/articles/button-remapping-on-miyoo-retarch-clean-profiles/</link>
-      <guid isPermaLink="true">https://pulsegeek.com/articles/button-remapping-on-miyoo-retarch-clean-profiles/</guid>
-      <pubDate>Mon, 05 Jan 2026 22:43:00 GMT</pubDate>
-      <description>Learn reliable button remapping on Miyoo RetroArch with per-core and per-game profiles, conflict-safe saves, and validation steps that prevent drift or broken inputs.</description>
+      <title>Per-Core and Per-Game Remaps on Miyoo Explained</title>
+      <link>https://pulsegeek.com/articles/per-core-and-per-game-remaps-on-miyoo-explained/</link>
+      <guid isPermaLink="true">https://pulsegeek.com/articles/per-core-and-per-game-remaps-on-miyoo-explained/</guid>
+      <pubDate>Mon, 12 Jan 2026 22:43:00 GMT</pubDate>
+      <description>Learn how per-core and per-game remaps work on Miyoo RetroArch, when to prefer each, and how to avoid conflicts while keeping controls consistent and responsive.</description>
     </item>
     <item>
-      <title>Fix RetroArch Hotkey Conflicts on Miyoo Mini</title>
-      <link>https://pulsegeek.com/articles/fix-retroarch-hotkey-conflicts-on-miyoo-mini/</link>
-      <guid isPermaLink="true">https://pulsegeek.com/articles/fix-retroarch-hotkey-conflicts-on-miyoo-mini/</guid>
-      <pubDate>Mon, 05 Jan 2026 22:42:00 GMT</pubDate>
-      <description>Learn reliable ways to resolve RetroArch hotkey conflicts on Miyoo Mini, map a safe exit combo, prevent overlaps with core inputs, and validate across systems.</description>
+      <title>PS1 on Miyoo Mini: Performance Tips That Work</title>
+      <link>https://pulsegeek.com/articles/ps1-on-miyoo-mini-performance-tips-that-work/</link>
+      <guid isPermaLink="true">https://pulsegeek.com/articles/ps1-on-miyoo-mini-performance-tips-that-work/</guid>
+      <pubDate>Mon, 12 Jan 2026 22:42:00 GMT</pubDate>
+      <description>Get reliable PS1 performance on Miyoo Mini with safe RetroArch settings, frameskip choices, audio latency tweaks, and per-game overrides for consistent play.</description>
     </item>
     <item>
-      <title>Auto Channel Assignment: Pitfalls and Practical Fixes</title>
-      <link>https://pulsegeek.com/articles/auto-channel-assignment-pitfalls-and-practical-fixes/</link>
-      <guid isPermaLink="true">https://pulsegeek.com/articles/auto-channel-assignment-pitfalls-and-practical-fixes/</guid>
-      <pubDate>Mon, 05 Jan 2026 22:41:00 GMT</pubDate>
-      <description>Avoid auto channel assignment mistakes with actionable fixes across 2.4, 5, and 6 GHz. Learn when to override, how to tune DFS, and how width and power choices reduce interference without adding hardware.</description>
+      <title>DFS vs Non‑DFS Channels: Pros and Cons in WiFi 8</title>
+      <link>https://pulsegeek.com/articles/dfs-vs-non-dfs-channels-pros-and-cons-in-wifi-8/</link>
+      <guid isPermaLink="true">https://pulsegeek.com/articles/dfs-vs-non-dfs-channels-pros-and-cons-in-wifi-8/</guid>
+      <pubDate>Mon, 12 Jan 2026 22:41:00 GMT</pubDate>
+      <description>Compare DFS and non-DFS channels in WiFi 8 with clear criteria, tradeoffs, and scenario guidance. Learn when radar avoidance helps or hurts, how client behavior shifts, and what to configure safely.</description>
     </item>
     <item>
-      <title>Aruba Central Planning and Assurance for WiFi 8</title>
-      <link>https://pulsegeek.com/articles/aruba-central-planning-and-assurance-for-wifi-8/</link>
-      <guid isPermaLink="true">https://pulsegeek.com/articles/aruba-central-planning-and-assurance-for-wifi-8/</guid>
-      <pubDate>Mon, 05 Jan 2026 22:40:00 GMT</pubDate>
-      <description>Understand Aruba Central planning and assurance for WiFi 8. Learn concepts, decision lenses, and realistic scenarios to size, monitor, and improve capacity without guesswork across mixed clients and demanding environments.</description>
+      <title>Synthetic Client Testing to Verify WiFi 8 SLAs</title>
+      <link>https://pulsegeek.com/articles/synthetic-client-testing-to-verify-wifi-8-slas/</link>
+      <guid isPermaLink="true">https://pulsegeek.com/articles/synthetic-client-testing-to-verify-wifi-8-slas/</guid>
+      <pubDate>Mon, 12 Jan 2026 22:40:00 GMT</pubDate>
+      <description>Learn how synthetic client testing validates WiFi 8 SLAs by measuring latency, throughput, and reliability with realistic traffic profiles plus guardrails for interpretation and tooling.</description>
     </item>
     <item>
-      <title>Convert BIN/CUE to CHD for DuckStation</title>
-      <link>https://pulsegeek.com/articles/convert-bin-cue-to-chd-for-duckstation/</link>
-      <guid isPermaLink="true">https://pulsegeek.com/articles/convert-bin-cue-to-chd-for-duckstation/</guid>
-      <pubDate>Mon, 05 Jan 2026 22:39:00 GMT</pubDate>
-      <description>Learn how to convert BIN and CUE images to CHD for DuckStation using chdman, with planning tips, verified settings, validation steps, and fixes for common errors.</description>
+      <title>Memory Card Setup and Management in DuckStation</title>
+      <link>https://pulsegeek.com/articles/memory-card-setup-and-management-in-duckstation/</link>
+      <guid isPermaLink="true">https://pulsegeek.com/articles/memory-card-setup-and-management-in-duckstation/</guid>
+      <pubDate>Mon, 12 Jan 2026 22:39:00 GMT</pubDate>
+      <description>Set up, organize, back up, and migrate DuckStation memory cards. Compare per-game vs shared cards, prevent corruption, and move saves safely across devices.</description>
     </item>
     <item>
-      <title>Plan Multi‑Link Operation for Wi‑Fi 9 Networks</title>
-      <link>https://pulsegeek.com/articles/plan-multi-link-operation-for-wi-fi-9-networks/</link>
-      <guid isPermaLink="true">https://pulsegeek.com/articles/plan-multi-link-operation-for-wi-fi-9-networks/</guid>
-      <pubDate>Mon, 05 Jan 2026 22:38:00 GMT</pubDate>
-      <description>Learn how to plan Multi‑Link Operation in Wi‑Fi 9: choose bands, map policies, configure profiles, validate throughput and latency, and troubleshoot client behavior.</description>
+      <title>Wi‑Fi 9 QoS: WMM Mapping That Actually Works</title>
+      <link>https://pulsegeek.com/articles/wi-fi-9-qos-wmm-mapping-that-actually-works/</link>
+      <guid isPermaLink="true">https://pulsegeek.com/articles/wi-fi-9-qos-wmm-mapping-that-actually-works/</guid>
+      <pubDate>Mon, 12 Jan 2026 22:38:00 GMT</pubDate>
+      <description>Learn how to configure Wi‑Fi 9 QoS with correct WMM mapping, DSCP to UP translation, and admission control to protect voice, video, and critical apps on modern WLANs.</description>
     </item>
     <item>
-      <title>Best DuckStation Save State Workflows</title>
-      <link>https://pulsegeek.com/articles/best-duckstation-save-state-workflows/</link>
-      <guid isPermaLink="true">https://pulsegeek.com/articles/best-duckstation-save-state-workflows/</guid>
-      <pubDate>Mon, 05 Jan 2026 22:37:00 GMT</pubDate>
-      <description>Learn five proven DuckStation save state workflows with examples, guardrails, and tradeoffs so you can keep progress safe, reduce clutter, and recover sessions quickly.</description>
+      <title>Organize DuckStation Saves by Game ID</title>
+      <link>https://pulsegeek.com/articles/organize-duckstation-saves-by-game-id/</link>
+      <guid isPermaLink="true">https://pulsegeek.com/articles/organize-duckstation-saves-by-game-id/</guid>
+      <pubDate>Mon, 12 Jan 2026 22:37:00 GMT</pubDate>
+      <description>Learn how to organize DuckStation saves by game ID with safe folders, consistent naming, and verification steps. Follow a clean, repeatable workflow with backups and quick troubleshooting.</description>
     </item>
     <item>
-      <title>DuckStation BIOS: Paths, Regions, and Detection Tips</title>
-      <link>https://pulsegeek.com/articles/duckstation-bios-paths-regions-and-detection-tips/</link>
-      <guid isPermaLink="true">https://pulsegeek.com/articles/duckstation-bios-paths-regions-and-detection-tips/</guid>
-      <pubDate>Mon, 05 Jan 2026 22:36:00 GMT</pubDate>
-      <description>Learn how DuckStation locates BIOS files, choose correct regional images, and fix detection issues with practical rules, examples, and verification steps.</description>
+      <title>HLE BIOS vs Real BIOS in DuckStation: What to Use</title>
+      <link>https://pulsegeek.com/articles/hle-bios-vs-real-bios-in-duckstation-what-to-use/</link>
+      <guid isPermaLink="true">https://pulsegeek.com/articles/hle-bios-vs-real-bios-in-duckstation-what-to-use/</guid>
+      <pubDate>Mon, 12 Jan 2026 22:36:00 GMT</pubDate>
+      <description>Compare HLE BIOS and a real PS1 BIOS in DuckStation across accuracy, compatibility, setup effort, performance, and legal risk to choose the right option.</description>
     </item>
     <item>
-      <title>Call of Duty on Steam Deck: Proton Compatibility</title>
-      <link>https://pulsegeek.com/articles/call-of-duty-on-steam-deck-proton-compatibility/</link>
-      <guid isPermaLink="true">https://pulsegeek.com/articles/call-of-duty-on-steam-deck-proton-compatibility/</guid>
-      <pubDate>Mon, 05 Jan 2026 22:35:00 GMT</pubDate>
-      <description>See how different Call of Duty titles behave on Steam Deck under Proton, why anti-cheat complicates support, and practical workarounds for testing, performance, and stability without risking account issues.</description>
+      <title>Microstutter Fixes With DXVK on Steam Deck</title>
+      <link>https://pulsegeek.com/articles/microstutter-fixes-with-dxvk-on-steam-deck/</link>
+      <guid isPermaLink="true">https://pulsegeek.com/articles/microstutter-fixes-with-dxvk-on-steam-deck/</guid>
+      <pubDate>Mon, 12 Jan 2026 22:35:00 GMT</pubDate>
+      <description>Learn how to reduce microstutter on Steam Deck using DXVK. Understand causes, choose the right frame cap strategy, and balance shader cache, v-sync, and power limits for smooth, consistent play.</description>
     </item>
     <item>
-      <title>Change the Default Library Folder in SteamOS</title>
-      <link>https://pulsegeek.com/articles/change-the-default-library-folder-in-steamos/</link>
-      <guid isPermaLink="true">https://pulsegeek.com/articles/change-the-default-library-folder-in-steamos/</guid>
-      <pubDate>Mon, 05 Jan 2026 22:34:00 GMT</pubDate>
-      <description>Learn how to change the default SteamOS library folder in Desktop Mode. Plan storage, prepare drives, run safe commands, validate paths, and fix common errors.</description>
+      <title>Format an SD Card to exFAT for Steam Deck</title>
+      <link>https://pulsegeek.com/articles/format-an-sd-card-to-exfat-for-steam-deck/</link>
+      <guid isPermaLink="true">https://pulsegeek.com/articles/format-an-sd-card-to-exfat-for-steam-deck/</guid>
+      <pubDate>Mon, 12 Jan 2026 22:34:00 GMT</pubDate>
+      <description>Learn how to safely format an SD card to exFAT on Steam Deck. Follow clear Desktop Mode steps, CLI options, verification checks, and fixes for common errors to avoid data loss.</description>
     </item>
     <item>
-      <title>Is Gaming While Charging Bad for Steam Deck Battery?</title>
-      <link>https://pulsegeek.com/articles/is-gaming-while-charging-bad-for-steam-deck-battery/</link>
-      <guid isPermaLink="true">https://pulsegeek.com/articles/is-gaming-while-charging-bad-for-steam-deck-battery/</guid>
-      <pubDate>Mon, 05 Jan 2026 22:33:00 GMT</pubDate>
-      <description>Gaming while charging is generally safe for the Steam Deck if heat stays controlled. Learn when it’s fine, when to pause, and how to log charge rates, temps, and power to protect long‑term battery health.</description>
+      <title>Steam Deck Battery Saver Mode vs Custom Profiles</title>
+      <link>https://pulsegeek.com/articles/steam-deck-battery-saver-mode-vs-custom-profiles/</link>
+      <guid isPermaLink="true">https://pulsegeek.com/articles/steam-deck-battery-saver-mode-vs-custom-profiles/</guid>
+      <pubDate>Mon, 12 Jan 2026 22:33:00 GMT</pubDate>
+      <description>Compare Steam Deck battery saver mode with custom power profiles. See tradeoffs, settings to prioritize, and when each approach delivers longer sessions and steadier performance.</description>
     </item>
     <item>
-      <title>Compare AV1 Support Across GPUs for Streaming</title>
-      <link>https://pulsegeek.com/articles/compare-av1-support-across-gpus-for-streaming/</link>
-      <guid isPermaLink="true">https://pulsegeek.com/articles/compare-av1-support-across-gpus-for-streaming/</guid>
-      <pubDate>Mon, 05 Jan 2026 22:32:00 GMT</pubDate>
-      <description>See how Nvidia RTX 40, AMD RDNA 3, and Intel Arc handle AV1 encoding for game streaming, with guidance on quality, latency, driver maturity, and software compatibility.</description>
+      <title>Secure Remote Access to Your Gaming PC for Streaming</title>
+      <link>https://pulsegeek.com/articles/secure-remote-access-to-your-gaming-pc-for-streaming/</link>
+      <guid isPermaLink="true">https://pulsegeek.com/articles/secure-remote-access-to-your-gaming-pc-for-streaming/</guid>
+      <pubDate>Mon, 12 Jan 2026 22:32:00 GMT</pubDate>
+      <description>Learn how to secure remote access for game streaming with VPNs, relay options, and safe port rules. Compare privacy, latency, and reliability tradeoffs to choose the right path.</description>
     </item>
     <item>
-      <title>Best Bluetooth Transmitters for Steam Deck in 2026</title>
-      <link>https://pulsegeek.com/articles/best-bluetooth-transmitters-for-steam-deck-in-2026/</link>
-      <guid isPermaLink="true">https://pulsegeek.com/articles/best-bluetooth-transmitters-for-steam-deck-in-2026/</guid>
-      <pubDate>Mon, 05 Jan 2026 22:31:00 GMT</pubDate>
-      <description>Find vetted Bluetooth transmitters for Steam Deck with low latency, stable pairing, and codec clarity. Compare aptX LL, Adaptive, and SBC fallback, plus TV mode options and dock-friendly picks.</description>
+      <title>Dock Compatibility with Bluetooth Audio on Steam Deck</title>
+      <link>https://pulsegeek.com/articles/dock-compatibility-with-bluetooth-audio-on-steam-deck/</link>
+      <guid isPermaLink="true">https://pulsegeek.com/articles/dock-compatibility-with-bluetooth-audio-on-steam-deck/</guid>
+      <pubDate>Mon, 12 Jan 2026 22:31:00 GMT</pubDate>
+      <description>Learn how Steam Deck docks interact with Bluetooth audio, why HDMI and USB hubs affect routing, and how to keep latency low in docked play without breaking voice chat or pairing reliability.</description>
     </item>
     <item>
-      <title>DNS Cache Flush on Steam Deck for Network Errors</title>
-      <link>https://pulsegeek.com/articles/dns-cache-flush-on-steam-deck-for-network-errors/</link>
-      <guid isPermaLink="true">https://pulsegeek.com/articles/dns-cache-flush-on-steam-deck-for-network-errors/</guid>
-      <pubDate>Mon, 05 Jan 2026 22:30:00 GMT</pubDate>
-      <description>Fix name resolution issues fast. Learn how to detect your resolver, flush the DNS cache on Steam Deck safely, validate results, and prevent repeat network errors.</description>
+      <title>Steam Deck Download Speed vs Actual Throughput</title>
+      <link>https://pulsegeek.com/articles/steam-deck-download-speed-vs-actual-throughput/</link>
+      <guid isPermaLink="true">https://pulsegeek.com/articles/steam-deck-download-speed-vs-actual-throughput/</guid>
+      <pubDate>Mon, 12 Jan 2026 22:30:00 GMT</pubDate>
+      <description>Learn why Steam Deck download speed often differs from actual throughput, how to measure both correctly, and which bottlenecks matter most for smooth game downloads and streaming.</description>
     </item>
     <item>
-      <title>Charge While Playing: Steam Deck Heat Tips That Help</title>
-      <link>https://pulsegeek.com/articles/charge-while-playing-steam-deck-heat-tips-that-help/</link>
-      <guid isPermaLink="true">https://pulsegeek.com/articles/charge-while-playing-steam-deck-heat-tips-that-help/</guid>
-      <pubDate>Mon, 05 Jan 2026 22:29:00 GMT</pubDate>
-      <description>Learn how to keep your Steam Deck cooler while charging and playing. Plan power limits, tune frame rate, and validate thermals with simple checks and monitoring.</description>
+      <title>Sleep Mode Heat and Battery Drain on Steam Deck</title>
+      <link>https://pulsegeek.com/articles/sleep-mode-heat-and-battery-drain-on-steam-deck/</link>
+      <guid isPermaLink="true">https://pulsegeek.com/articles/sleep-mode-heat-and-battery-drain-on-steam-deck/</guid>
+      <pubDate>Mon, 12 Jan 2026 22:29:00 GMT</pubDate>
+      <description>Learn why Steam Deck gets warm and loses battery in sleep, how suspend works, factors that raise drain, and practical settings to keep heat and loss in check.</description>
     </item>
     <item>
-      <title>Avoid VAC Ban Risks on Steam Deck: A Safe Checklist</title>
-      <link>https://pulsegeek.com/articles/avoid-vac-ban-risks-on-steam-deck-a-safe-checklist/</link>
-      <guid isPermaLink="true">https://pulsegeek.com/articles/avoid-vac-ban-risks-on-steam-deck-a-safe-checklist/</guid>
-      <pubDate>Mon, 05 Jan 2026 22:28:00 GMT</pubDate>
-      <description>Learn how to reduce VAC ban risks on Steam Deck with safe settings, Proton choices, clean files, and verification steps. Follow a careful plan, validate results, and troubleshoot without triggering anti-cheat.</description>
+      <title>Safe Troubleshooting Steps Before Joining Ranked</title>
+      <link>https://pulsegeek.com/articles/safe-troubleshooting-steps-before-joining-ranked/</link>
+      <guid isPermaLink="true">https://pulsegeek.com/articles/safe-troubleshooting-steps-before-joining-ranked/</guid>
+      <pubDate>Mon, 12 Jan 2026 22:28:00 GMT</pubDate>
+      <description>Follow seven safe troubleshooting steps on Steam Deck to prevent anti-cheat conflicts, reduce VAC risk, and stabilize performance before ranked play. Practical examples, tradeoffs, and quick checks keep you compliant.</description>
     </item>
     <item>
-      <title>Apartment MDU Interference: Puncturing Strategies</title>
-      <link>https://pulsegeek.com/articles/apartment-mdu-interference-puncturing-strategies/</link>
-      <guid isPermaLink="true">https://pulsegeek.com/articles/apartment-mdu-interference-puncturing-strategies/</guid>
-      <pubDate>Mon, 05 Jan 2026 22:27:00 GMT</pubDate>
-      <description>Actionable Wi‑Fi 8 guidance for apartment MDUs. Learn how to map interference, design channel masks, balance widths, and apply preamble puncturing with clear tradeoffs, examples, and monitoring tips for dense multi‑dwelling buildings.</description>
+      <title>Legacy Client Compatibility Under Puncturing: Guidelines</title>
+      <link>https://pulsegeek.com/articles/legacy-client-compatibility-under-puncturing-guidelines/</link>
+      <guid isPermaLink="true">https://pulsegeek.com/articles/legacy-client-compatibility-under-puncturing-guidelines/</guid>
+      <pubDate>Mon, 12 Jan 2026 22:27:00 GMT</pubDate>
+      <description>Practical guidelines to keep legacy clients reliable when Wi‑Fi 8 preamble puncturing is enabled, covering SSID design, channel width choices, rate controls, roaming, and policy testing with clear tradeoffs.</description>
     </item>
     <item>
-      <title>Compression Settings for Large Mod Packs: Best Picks</title>
-      <link>https://pulsegeek.com/articles/compression-settings-for-large-mod-packs-best-picks/</link>
-      <guid isPermaLink="true">https://pulsegeek.com/articles/compression-settings-for-large-mod-packs-best-picks/</guid>
-      <pubDate>Mon, 05 Jan 2026 22:26:00 GMT</pubDate>
-      <description>Choose fast, reliable compression for big mod packs with clear presets, safe flags, and validation steps. Compare ZIP, 7z, and Zstandard settings, prevent corruption, and balance speed against size for smoother installs.</description>
+      <title>Mod Readme and Documentation Template Essentials</title>
+      <link>https://pulsegeek.com/articles/mod-readme-and-documentation-template-essentials/</link>
+      <guid isPermaLink="true">https://pulsegeek.com/articles/mod-readme-and-documentation-template-essentials/</guid>
+      <pubDate>Mon, 12 Jan 2026 22:26:00 GMT</pubDate>
+      <description>Build a durable mod readme with clear purpose, reproducible installs, versioning, and support policies. Use a concise template, standard sections, and checks that reduce user errors and maintenance burden.</description>
     </item>
     <item>
-      <title>Accuracy Cores vs Speed Cores: Which to Use</title>
-      <link>https://pulsegeek.com/articles/accuracy-cores-vs-speed-cores-which-to-use/</link>
-      <guid isPermaLink="true">https://pulsegeek.com/articles/accuracy-cores-vs-speed-cores-which-to-use/</guid>
-      <pubDate>Mon, 05 Jan 2026 22:25:00 GMT</pubDate>
-      <description>Compare accuracy cores and speed cores for emulation. Learn tradeoffs in compatibility, latency, performance headroom, and tuning effort to pick the right core for each game.</description>
+      <title>Filesystem Permissions and Portable Saves</title>
+      <link>https://pulsegeek.com/articles/filesystem-permissions-and-portable-saves/</link>
+      <guid isPermaLink="true">https://pulsegeek.com/articles/filesystem-permissions-and-portable-saves/</guid>
+      <pubDate>Mon, 12 Jan 2026 22:25:00 GMT</pubDate>
+      <description>Set up portable saves safely by fixing filesystem permissions, avoiding UAC traps, and validating write paths across Windows, macOS, and Linux with practical checks.</description>
     </item>
     <item>
-      <title>Deferred vs Forward Rendering: Choosing Your Path</title>
-      <link>https://pulsegeek.com/articles/deferred-vs-forward-rendering-choosing-your-path/</link>
-      <guid isPermaLink="true">https://pulsegeek.com/articles/deferred-vs-forward-rendering-choosing-your-path/</guid>
-      <pubDate>Mon, 05 Jan 2026 22:24:00 GMT</pubDate>
-      <description>Compare deferred and forward rendering in game engines using clarity, lighting features, transparency, MSAA, memory use, and platform fit. Learn when each approach wins and how to evaluate tradeoffs.</description>
+      <title>Post-Processing Stack for Games: Effects and Costs</title>
+      <link>https://pulsegeek.com/articles/post-processing-stack-for-games-effects-and-costs/</link>
+      <guid isPermaLink="true">https://pulsegeek.com/articles/post-processing-stack-for-games-effects-and-costs/</guid>
+      <pubDate>Mon, 12 Jan 2026 22:24:00 GMT</pubDate>
+      <description>Learn how game post-processing effects work, what they cost, and how to prioritize bloom, color grading, motion blur, and more without sacrificing frame time.</description>
     </item>
     <item>
-      <title>Cloud Gaming on Ultrawide Monitors: Settings Guide</title>
-      <link>https://pulsegeek.com/articles/cloud-gaming-on-ultrawide-monitors-settings-guide/</link>
-      <guid isPermaLink="true">https://pulsegeek.com/articles/cloud-gaming-on-ultrawide-monitors-settings-guide/</guid>
-      <pubDate>Mon, 05 Jan 2026 22:23:00 GMT</pubDate>
-      <description>Tune cloud gaming on ultrawide monitors with aspect ratio choices, scaling, bitrate, and FPS. Follow step by step setup, validation, and fixes to reduce blur, lag, and black bars.</description>
+      <title>Screen Tearing Fixes with Adaptive Sync in Streaming</title>
+      <link>https://pulsegeek.com/articles/screen-tearing-fixes-with-adaptive-sync-in-streaming/</link>
+      <guid isPermaLink="true">https://pulsegeek.com/articles/screen-tearing-fixes-with-adaptive-sync-in-streaming/</guid>
+      <pubDate>Mon, 12 Jan 2026 22:23:00 GMT</pubDate>
+      <description>Learn how to stop screen tearing in cloud gaming by enabling adaptive sync, setting correct refresh rates, and tuning VSync and frame caps for smooth, low-latency streaming.</description>
     </item>
     <item>
-      <title>Cosmetic Rarity and Perceived Value: What Drives It</title>
-      <link>https://pulsegeek.com/articles/cosmetic-rarity-and-perceived-value-what-drives-it/</link>
-      <guid isPermaLink="true">https://pulsegeek.com/articles/cosmetic-rarity-and-perceived-value-what-drives-it/</guid>
-      <pubDate>Mon, 05 Jan 2026 22:22:00 GMT</pubDate>
-      <description>Learn how cosmetic rarity shapes perceived value using clear definitions, decision lenses, and examples. Understand scarcity, signaling, and fairness tradeoffs to design cosmetics players prize without destabilizing economies.</description>
+      <title>Preventing Loot Inflation Over Time: Practical Steps</title>
+      <link>https://pulsegeek.com/articles/preventing-loot-inflation-over-time-practical-steps/</link>
+      <guid isPermaLink="true">https://pulsegeek.com/articles/preventing-loot-inflation-over-time-practical-steps/</guid>
+      <pubDate>Mon, 12 Jan 2026 22:22:00 GMT</pubDate>
+      <description>Learn how to prevent loot inflation with pacing, sinks, and telemetry. Set targets, model drops, apply pity safely, and validate supply against demand to keep economies balanced.</description>
     </item>
     <item>
-      <title>Version Control for Narrative Scripts and Nodes</title>
-      <link>https://pulsegeek.com/articles/version-control-for-narrative-scripts-and-nodes/</link>
-      <guid isPermaLink="true">https://pulsegeek.com/articles/version-control-for-narrative-scripts-and-nodes/</guid>
-      <pubDate>Mon, 05 Jan 2026 22:21:00 GMT</pubDate>
-      <description>Learn practical version control for narrative scripts and node graphs. Compare storage models, set merge rules, avoid conflicts, and keep writers and engineers aligned across tools and engines.</description>
+      <title>Cutscene Alternatives That Keep Control with Players</title>
+      <link>https://pulsegeek.com/articles/cutscene-alternatives-that-keep-control-with-players/</link>
+      <guid isPermaLink="true">https://pulsegeek.com/articles/cutscene-alternatives-that-keep-control-with-players/</guid>
+      <pubDate>Mon, 12 Jan 2026 22:21:00 GMT</pubDate>
+      <description>Explore seven practical ways to replace cutscenes while preserving control for players, including walk-and-talk, diegetic interfaces, interactive props, and bark systems with cooldowns. Design tension without pausing play.</description>
     </item>
     <item>
-      <title>320 MHz Interference Mitigation Strategies</title>
-      <link>https://pulsegeek.com/articles/320-mhz-interference-mitigation-strategies/</link>
-      <guid isPermaLink="true">https://pulsegeek.com/articles/320-mhz-interference-mitigation-strategies/</guid>
-      <pubDate>Sun, 04 Jan 2026 22:55:00 GMT</pubDate>
-      <description>Reduce noise, collisions, and airtime waste on 6 GHz with clear 320 MHz interference mitigation steps. Plan channels, tune power, apply puncturing, and validate with spectrum data to sustain high throughput.</description>
+      <title>Enterprise Policy for Enabling 320 MHz Channels</title>
+      <link>https://pulsegeek.com/articles/enterprise-policy-for-enabling-320-mhz-channels/</link>
+      <guid isPermaLink="true">https://pulsegeek.com/articles/enterprise-policy-for-enabling-320-mhz-channels/</guid>
+      <pubDate>Sun, 11 Jan 2026 22:55:00 GMT</pubDate>
+      <description>Set a reliable enterprise policy to enable 320 MHz channels in WiFi 8. Align eligibility, radio profiles, power rules, and rollback criteria for predictable performance without harming coverage or stability.</description>
     </item>
     <item>
-      <title>320 MHz in 6 GHz: Pros, Cons, and Real‑World Fit</title>
-      <link>https://pulsegeek.com/articles/320-mhz-in-6-ghz-pros-cons-and-real-world-fit/</link>
-      <guid isPermaLink="true">https://pulsegeek.com/articles/320-mhz-in-6-ghz-pros-cons-and-real-world-fit/</guid>
-      <pubDate>Sun, 04 Jan 2026 22:54:00 GMT</pubDate>
-      <description>Learn when 320 MHz channels in 6 GHz make sense, what they trade off against 160 MHz, and how PSCs, MLO, and AFC shape real Wi‑Fi 8 designs.</description>
+      <title>Choosing 20/40/80/160 MHz: A 6 GHz Width Guide</title>
+      <link>https://pulsegeek.com/articles/choosing-20-40-80-160-mhz-a-6-ghz-width-guide/</link>
+      <guid isPermaLink="true">https://pulsegeek.com/articles/choosing-20-40-80-160-mhz-a-6-ghz-width-guide/</guid>
+      <pubDate>Sun, 11 Jan 2026 22:54:00 GMT</pubDate>
+      <description>Learn when to choose 20, 40, 80, or 160 MHz in 6 GHz. Compare throughput, airtime, interference, and client limits so Wi‑Fi 8 designs balance speed, density, and reliability.</description>
     </item>
     <item>
-      <title>802.11be EHT Explained: Features, Gains, and Tradeoffs</title>
-      <link>https://pulsegeek.com/articles/802-11be-eht-explained-features-gains-and-tradeoffs/</link>
-      <guid isPermaLink="true">https://pulsegeek.com/articles/802-11be-eht-explained-features-gains-and-tradeoffs/</guid>
-      <pubDate>Sun, 04 Jan 2026 22:53:00 GMT</pubDate>
-      <description>Learn what 802.11be EHT changes, how features like MLO and 320 MHz boost throughput, and when tradeoffs appear around latency, range, and spectrum planning.</description>
+      <title>EHT Resource Unit Allocation Guide: Practical Scheduling</title>
+      <link>https://pulsegeek.com/articles/eht-resource-unit-allocation-guide-practical-scheduling/</link>
+      <guid isPermaLink="true">https://pulsegeek.com/articles/eht-resource-unit-allocation-guide-practical-scheduling/</guid>
+      <pubDate>Sun, 11 Jan 2026 22:53:00 GMT</pubDate>
+      <description>Follow a step by step EHT RU allocation guide. Plan policies, configure radios, execute OFDMA scheduling, validate airtime fairness, and troubleshoot edge cases with safe defaults for real networks.</description>
     </item>
     <item>
-      <title>Cisco ISE vs Aruba ClearPass for Wi‑Fi 7 Policies</title>
-      <link>https://pulsegeek.com/articles/cisco-ise-vs-aruba-clearpass-for-wi-fi-7-policies/</link>
-      <guid isPermaLink="true">https://pulsegeek.com/articles/cisco-ise-vs-aruba-clearpass-for-wi-fi-7-policies/</guid>
-      <pubDate>Sun, 04 Jan 2026 22:52:00 GMT</pubDate>
-      <description>Compare Cisco ISE and Aruba ClearPass for Wi‑Fi 7 policies. Learn how they differ on identity, onboarding, segmentation, integrations, and operations to pick the right fit.</description>
+      <title>Microsoft Entra ID with Wi‑Fi 7 EAP‑TLS: Setup Guide</title>
+      <link>https://pulsegeek.com/articles/microsoft-entra-id-with-wi-fi-7-eap-tls-setup-guide/</link>
+      <guid isPermaLink="true">https://pulsegeek.com/articles/microsoft-entra-id-with-wi-fi-7-eap-tls-setup-guide/</guid>
+      <pubDate>Sun, 11 Jan 2026 22:52:00 GMT</pubDate>
+      <description>Configure Microsoft Entra ID with Wi‑Fi 7 using EAP‑TLS. This step‑by‑step guide covers PKI choices, RADIUS setup, certificate profiles, onboarding, validations, and troubleshooting for secure identity‑based access.</description>
     </item>
     <item>
-      <title>BYOD Onboarding Workflow: Secure Wi‑Fi Step Guide</title>
-      <link>https://pulsegeek.com/articles/byod-onboarding-workflow-secure-wi-fi-step-guide/</link>
-      <guid isPermaLink="true">https://pulsegeek.com/articles/byod-onboarding-workflow-secure-wi-fi-step-guide/</guid>
-      <pubDate>Sun, 04 Jan 2026 22:51:00 GMT</pubDate>
-      <description>Follow a practical BYOD onboarding workflow for secure Wi‑Fi. Plan trust, prepare PKI and MDM, execute enrollment, validate access, and troubleshoot common errors with clear checks and remediations.</description>
+      <title>Microsoft Entra ID with WPA3 Enterprise: A Guide</title>
+      <link>https://pulsegeek.com/articles/microsoft-entra-id-with-wpa3-enterprise-a-guide/</link>
+      <guid isPermaLink="true">https://pulsegeek.com/articles/microsoft-entra-id-with-wpa3-enterprise-a-guide/</guid>
+      <pubDate>Sun, 11 Jan 2026 22:51:00 GMT</pubDate>
+      <description>Configure WPA3 Enterprise with Microsoft Entra ID using EAP‑TLS, Intune, and a RADIUS server. Plan trust, prepare PKI, execute onboarding, verify logs, and tune policies.</description>
     </item>
     <item>
-      <title>AFC Requirements for 6 GHz Gaming Routers Explained</title>
-      <link>https://pulsegeek.com/articles/afc-requirements-for-6-ghz-gaming-routers-explained/</link>
-      <guid isPermaLink="true">https://pulsegeek.com/articles/afc-requirements-for-6-ghz-gaming-routers-explained/</guid>
-      <pubDate>Sun, 04 Jan 2026 22:50:00 GMT</pubDate>
-      <description>Learn how AFC governs 6 GHz router power, device eligibility, and outdoor limits so you can game with low latency while staying compliant at home or studio.</description>
+      <title>OFDMA and MU‑MIMO on Wi‑Fi 7 for Gaming Explained</title>
+      <link>https://pulsegeek.com/articles/ofdma-and-mu-mimo-on-wi-fi-7-for-gaming-explained/</link>
+      <guid isPermaLink="true">https://pulsegeek.com/articles/ofdma-and-mu-mimo-on-wi-fi-7-for-gaming-explained/</guid>
+      <pubDate>Sun, 11 Jan 2026 22:50:00 GMT</pubDate>
+      <description>Learn how OFDMA and MU-MIMO on Wi‑Fi 7 shape latency, jitter, and bandwidth for gaming. See when to favor subcarriers, streams, or both to keep inputs responsive.</description>
     </item>
     <item>
-      <title>802.11be Clause Structure Guide: Reading the Amendment</title>
-      <link>https://pulsegeek.com/articles/80211be-clause-structure-guide-reading-the-amendment/</link>
-      <guid isPermaLink="true">https://pulsegeek.com/articles/80211be-clause-structure-guide-reading-the-amendment/</guid>
-      <pubDate>Sun, 04 Jan 2026 22:49:00 GMT</pubDate>
-      <description>Learn a reliable process to read the 802.11be amendment, map clauses to MAC and PHY features, and build traceable notes that accelerate engineering work.</description>
+      <title>Wi‑Fi 7 Feature Matrix by Clause: Engineer’s Index</title>
+      <link>https://pulsegeek.com/articles/wi-fi-7-feature-matrix-by-clause-engineers-index/</link>
+      <guid isPermaLink="true">https://pulsegeek.com/articles/wi-fi-7-feature-matrix-by-clause-engineers-index/</guid>
+      <pubDate>Sun, 11 Jan 2026 22:49:00 GMT</pubDate>
+      <description>Map Wi‑Fi 7 features to their specification homes. This engineer’s index explains where MLO, 320 MHz, 4096‑QAM, HARQ, Multi‑RU, and EHT management live and how clauses interlock for implementation.</description>
     </item>
     <item>
-      <title>Android System WebView Issues on Retroid: Fix Path</title>
-      <link>https://pulsegeek.com/articles/android-system-webview-issues-on-retroid-fix-path/</link>
-      <guid isPermaLink="true">https://pulsegeek.com/articles/android-system-webview-issues-on-retroid-fix-path/</guid>
-      <pubDate>Sun, 04 Jan 2026 22:48:00 GMT</pubDate>
-      <description>Diagnose and resolve Android System WebView problems on Retroid Pocket. Learn symptoms, root causes, and a safe decision path to stabilize apps without guesswork or risky resets.</description>
+      <title>RetroArch Cores vs Standalone Emulators on Retroid</title>
+      <link>https://pulsegeek.com/articles/retroarch-cores-vs-standalone-emulators-on-retroid/</link>
+      <guid isPermaLink="true">https://pulsegeek.com/articles/retroarch-cores-vs-standalone-emulators-on-retroid/</guid>
+      <pubDate>Sun, 11 Jan 2026 22:48:00 GMT</pubDate>
+      <description>Compare RetroArch cores with standalone emulators on Retroid Pocket. See stability, performance, features, and setup tradeoffs with clear scenarios and recommendations.</description>
     </item>
     <item>
-      <title>Artwork Packs vs Live Scraping on Onion OS</title>
-      <link>https://pulsegeek.com/articles/artwork-packs-vs-live-scraping-on-onion-os/</link>
-      <guid isPermaLink="true">https://pulsegeek.com/articles/artwork-packs-vs-live-scraping-on-onion-os/</guid>
-      <pubDate>Sun, 04 Jan 2026 22:47:00 GMT</pubDate>
-      <description>Compare artwork packs and live scraping on Onion OS across speed, accuracy, storage, and maintenance. Learn when each method fits and how to mix them safely.</description>
+      <title>Playlist Generator Tools for Onion OS: Top Picks</title>
+      <link>https://pulsegeek.com/articles/playlist-generator-tools-for-onion-os-top-picks/</link>
+      <guid isPermaLink="true">https://pulsegeek.com/articles/playlist-generator-tools-for-onion-os-top-picks/</guid>
+      <pubDate>Sun, 11 Jan 2026 22:47:00 GMT</pubDate>
+      <description>Compare reliable playlist generator tools for Onion OS. See when to choose GUIs vs scripts, avoid scanning delays, and keep artwork and ROM entries consistent.</description>
     </item>
     <item>
-      <title>Best Cores for PSX on Onion OS: Compatible &amp; Smooth</title>
-      <link>https://pulsegeek.com/articles/best-cores-for-psx-on-onion-os-compatible-and-smooth/</link>
-      <guid isPermaLink="true">https://pulsegeek.com/articles/best-cores-for-psx-on-onion-os-compatible-and-smooth/</guid>
-      <pubDate>Sun, 04 Jan 2026 22:46:00 GMT</pubDate>
-      <description>Discover the best PSX cores on Onion OS with practical tuning tips. Compare PCSX ReARMed, Beetle PSX, and more to balance accuracy, speed, and visuals for smooth handheld play.</description>
+      <title>Onion OS vs Garlic OS: Performance Differences Tested</title>
+      <link>https://pulsegeek.com/articles/onion-os-vs-garlic-os-performance-differences-tested/</link>
+      <guid isPermaLink="true">https://pulsegeek.com/articles/onion-os-vs-garlic-os-performance-differences-tested/</guid>
+      <pubDate>Sun, 11 Jan 2026 22:46:00 GMT</pubDate>
+      <description>See how Onion OS and Garlic OS compare for speed, latency, battery use, and stability across handheld emulation. Learn tradeoffs and when to choose each.</description>
     </item>
     <item>
-      <title>Audio Sync Crackle Fix on Miyoo RetroArch</title>
-      <link>https://pulsegeek.com/articles/audio-sync-crackle-fix-on-miyoo-retroarch/</link>
-      <guid isPermaLink="true">https://pulsegeek.com/articles/audio-sync-crackle-fix-on-miyoo-retroarch/</guid>
-      <pubDate>Sun, 04 Jan 2026 22:45:00 GMT</pubDate>
-      <description>Eliminate audio crackle on Miyoo RetroArch by aligning sync, buffers, and pacing. Follow a safe, stepwise plan with verification and fallback paths that prevent stutter and preserve latency.</description>
+      <title>Reduce Input Latency on Miyoo Without Overclock</title>
+      <link>https://pulsegeek.com/articles/reduce-input-latency-on-miyoo-without-overclock/</link>
+      <guid isPermaLink="true">https://pulsegeek.com/articles/reduce-input-latency-on-miyoo-without-overclock/</guid>
+      <pubDate>Sun, 11 Jan 2026 22:45:00 GMT</pubDate>
+      <description>Practical steps to cut input latency on Miyoo without overclocking. Tune runahead, vsync, audio buffers, and frame delay while avoiding stutter and crackle.</description>
     </item>
     <item>
-      <title>Best RetroArch Video Settings for Miyoo: Tested Picks</title>
-      <link>https://pulsegeek.com/articles/best-retroarch-video-settings-for-miyoo-tested-picks/</link>
-      <guid isPermaLink="true">https://pulsegeek.com/articles/best-retroarch-video-settings-for-miyoo-tested-picks/</guid>
-      <pubDate>Sun, 04 Jan 2026 22:44:00 GMT</pubDate>
-      <description>Dial in RetroArch video on Miyoo with tested settings for sync, scaling, latency, and clarity. Learn safe defaults, where to tweak, and when to trade speed for accuracy.</description>
+      <title>Miyoo Shaders: Performance vs Battery Impact</title>
+      <link>https://pulsegeek.com/articles/miyoo-shaders-performance-vs-battery-impact/</link>
+      <guid isPermaLink="true">https://pulsegeek.com/articles/miyoo-shaders-performance-vs-battery-impact/</guid>
+      <pubDate>Sun, 11 Jan 2026 22:44:00 GMT</pubDate>
+      <description>Learn how common Miyoo shader choices affect frame rate, thermals, and battery life. Get plain rules of thumb, examples, and decision criteria to balance visual quality with runtime on handheld emulators.</description>
     </item>
     <item>
-      <title>Best RetroArch Shaders for Miyoo Mini (Lightweight)</title>
-      <link>https://pulsegeek.com/articles/best-retroarch-shaders-for-miyoo-mini-lightweight/</link>
-      <guid isPermaLink="true">https://pulsegeek.com/articles/best-retroarch-shaders-for-miyoo-mini-lightweight/</guid>
-      <pubDate>Sun, 04 Jan 2026 22:43:00 GMT</pubDate>
-      <description>Discover lightweight RetroArch shaders that look clean on Miyoo Mini without hurting performance. See practical presets, examples, and tuning tips to keep frames smooth.</description>
+      <title>Overlay Opacity and Scaling on Miyoo: Balanced Looks</title>
+      <link>https://pulsegeek.com/articles/overlay-opacity-and-scaling-on-miyoo-balanced-looks/</link>
+      <guid isPermaLink="true">https://pulsegeek.com/articles/overlay-opacity-and-scaling-on-miyoo-balanced-looks/</guid>
+      <pubDate>Sun, 11 Jan 2026 22:43:00 GMT</pubDate>
+      <description>Learn how overlay opacity and scaling affect clarity, input readability, and performance on Miyoo RetroArch. Compare options, view decision frameworks, and pick balanced settings for different cores and screen types.</description>
     </item>
     <item>
-      <title>Fix Audio Latency in RetroArch on Miyoo Mini</title>
-      <link>https://pulsegeek.com/articles/fix-audio-latency-in-retroarch-on-miyoo-mini/</link>
-      <guid isPermaLink="true">https://pulsegeek.com/articles/fix-audio-latency-in-retroarch-on-miyoo-mini/</guid>
-      <pubDate>Sun, 04 Jan 2026 22:42:00 GMT</pubDate>
-      <description>Learn how to fix audio latency on Miyoo Mini in RetroArch with safe settings, validation steps, and practical troubleshooting to eliminate crackle and delay.</description>
+      <title>Prevent Screen Tearing on Miyoo Mini: Settings Guide</title>
+      <link>https://pulsegeek.com/articles/prevent-screen-tearing-on-miyoo-mini-settings-guide/</link>
+      <guid isPermaLink="true">https://pulsegeek.com/articles/prevent-screen-tearing-on-miyoo-mini-settings-guide/</guid>
+      <pubDate>Sun, 11 Jan 2026 22:42:00 GMT</pubDate>
+      <description>Learn how to prevent screen tearing on Miyoo Mini using safe RetroArch settings. Compare VSync, frame delay, audio sync, and scaling choices with tradeoffs and clear recommendations.</description>
     </item>
     <item>
-      <title>Adaptive Power Control and TPC for Dense WiFi 8</title>
-      <link>https://pulsegeek.com/articles/adaptive-power-control-and-tpc-for-dense-wifi-8/</link>
-      <guid isPermaLink="true">https://pulsegeek.com/articles/adaptive-power-control-and-tpc-for-dense-wifi-8/</guid>
-      <pubDate>Sun, 04 Jan 2026 22:41:00 GMT</pubDate>
-      <description>Learn a proven, step by step method to tune adaptive power control and TPC in dense WiFi 8 networks with safe ranges, validation checks, and fixes.</description>
+      <title>DFS Radar Detection Tuning for WiFi 8 Deployments</title>
+      <link>https://pulsegeek.com/articles/dfs-radar-detection-tuning-for-wifi-8-deployments/</link>
+      <guid isPermaLink="true">https://pulsegeek.com/articles/dfs-radar-detection-tuning-for-wifi-8-deployments/</guid>
+      <pubDate>Sun, 11 Jan 2026 22:41:00 GMT</pubDate>
+      <description>Learn how to tune DFS radar detection in WiFi 8 to reduce false positives, protect incumbents, and maintain throughput using practical frameworks and field-tested decision criteria.</description>
     </item>
   </channel>
 </rss>

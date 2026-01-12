@@ -6,404 +6,404 @@
   "description": "Tech news, gaming, and geek culture in one pulse",
   "items": [
     {
-      "id": "https://pulsegeek.com/articles/zk-starks-vs-snarks-security-speed-and-setups/",
-      "url": "https://pulsegeek.com/articles/zk-starks-vs-snarks-security-speed-and-setups/",
-      "title": "ZK-STARKs vs SNARKs: Security, Speed, and Setups",
-      "content_text": "Compare ZK-STARKs and SNARKs across security assumptions, proving speed, verification costs, proof sizes, and trusted setups to choose the best fit for privacy and scaling.",
-      "date_published": "2025-09-17T23:00:00.0000000Z",
-      "date_modified": "2026-01-06T10:09:23.4295252Z"
+      "id": "https://pulsegeek.com/articles/how-to-use-puncturing-to-avoid-6-ghz-incumbents/",
+      "url": "https://pulsegeek.com/articles/how-to-use-puncturing-to-avoid-6-ghz-incumbents/",
+      "title": "How to Use Puncturing to Avoid 6 GHz Incumbents",
+      "content_text": "Learn how to configure 6 GHz channel puncturing, coordinate with AFC, and validate client behavior to avoid incumbents while preserving throughput and coverage.",
+      "date_published": "2026-01-12T22:55:00.0000000Z",
+      "date_modified": "2026-01-12T22:55:00.0000000Z"
     },
     {
-      "id": "https://pulsegeek.com/articles/zk-snarks-explained-proving-more-with-less-data/",
-      "url": "https://pulsegeek.com/articles/zk-snarks-explained-proving-more-with-less-data/",
-      "title": "ZK-SNARKs Explained: Proving More with Less Data",
-      "content_text": "Learn how ZK-SNARKs let you prove statements without revealing inputs, compress many computations into tiny proofs, and verify quickly. See privacy, scalability, and setup tradeoffs explained with clear steps and a toy example.",
-      "date_published": "2025-09-17T23:00:00.0000000Z",
-      "date_modified": "2026-01-06T10:09:23.4293265Z"
+      "id": "https://pulsegeek.com/articles/dfs-in-6-ghz-myths-vs-facts-for-modern-planning/",
+      "url": "https://pulsegeek.com/articles/dfs-in-6-ghz-myths-vs-facts-for-modern-planning/",
+      "title": "DFS in 6 GHz: Myths vs Facts for Modern Planning",
+      "content_text": "Does 6 GHz Wi\u2011Fi require DFS? Learn what is true, what is not, and how AFC, power classes, and PSC behavior change modern channel planning.",
+      "date_published": "2026-01-12T22:54:00.0000000Z",
+      "date_modified": "2026-01-12T22:54:00.0000000Z"
     },
     {
-      "id": "https://pulsegeek.com/articles/zk-rollups-8-designs-compressing-blockchain-traffic/",
-      "url": "https://pulsegeek.com/articles/zk-rollups-8-designs-compressing-blockchain-traffic/",
-      "title": "ZK Rollups: 8 Designs Compressing Blockchain Traffic",
-      "content_text": "Explore eight zk rollup designs that compress on-chain traffic, cut gas, and preserve security. Learn how proofs, data availability, and zkEVM choices shape performance and developer experience.",
-      "date_published": "2025-09-17T23:00:00.0000000Z",
-      "date_modified": "2026-01-06T10:09:23.4291261Z"
+      "id": "https://pulsegeek.com/articles/eht-snr-and-mcs-selection-guide-stable-safe-rates/",
+      "url": "https://pulsegeek.com/articles/eht-snr-and-mcs-selection-guide-stable-safe-rates/",
+      "title": "EHT SNR and MCS Selection Guide: Stable, Safe Rates",
+      "content_text": "Learn how to map SNR to MCS in 802.11be for stable throughput, fewer retries, and safer links. Plan, measure, execute, validate, and troubleshoot rate control with practical thresholds and field-proven checks.",
+      "date_published": "2026-01-12T22:53:00.0000000Z",
+      "date_modified": "2026-01-12T22:53:00.0000000Z"
     },
     {
-      "id": "https://pulsegeek.com/articles/zigbee-street-lighting-control-vs-alternatives-pros-and-cons/",
-      "url": "https://pulsegeek.com/articles/zigbee-street-lighting-control-vs-alternatives-pros-and-cons/",
-      "title": "Zigbee Street Lighting Control vs Alternatives: Pros and Cons",
-      "content_text": "Compare Zigbee street lighting control with LoRaWAN and NB\u2011IoT. See reliability, latency, cost, security, and deployment tradeoffs to choose the right network.",
-      "date_published": "2025-12-06T22:23:00.0000000Z",
-      "date_modified": "2026-01-06T10:09:23.4289002Z"
+      "id": "https://pulsegeek.com/articles/nac-policy-design-for-wi-fi-7-12-rules-that-work/",
+      "url": "https://pulsegeek.com/articles/nac-policy-design-for-wi-fi-7-12-rules-that-work/",
+      "title": "NAC Policy Design for Wi\u2011Fi 7: 12 Rules That Work",
+      "content_text": "Design NAC policies for Wi\u2011Fi 7 with identity first access, EAP choices, dynamic segmentation, guest isolation, and actionable monitoring insights for resilient operations.",
+      "date_published": "2026-01-12T22:52:00.0000000Z",
+      "date_modified": "2026-01-12T22:52:00.0000000Z"
     },
     {
-      "id": "https://pulsegeek.com/articles/zero-shot-vs-few-shot-prompting-accuracy-control-and-cost-compared/",
-      "url": "https://pulsegeek.com/articles/zero-shot-vs-few-shot-prompting-accuracy-control-and-cost-compared/",
-      "title": "Zero-Shot vs Few-Shot Prompting: Accuracy, Control, and Cost Compared",
-      "content_text": "Compare zero-shot vs few-shot prompting by accuracy, control, and cost. See tradeoffs, when to choose each, and practical guidance.",
-      "date_published": "2025-08-29T02:00:00.0000000Z",
-      "date_modified": "2026-01-06T10:09:23.4286733Z"
+      "id": "https://pulsegeek.com/articles/okta-with-eap-ttls-wi-fi-integration-examples/",
+      "url": "https://pulsegeek.com/articles/okta-with-eap-ttls-wi-fi-integration-examples/",
+      "title": "Okta with EAP\u2011TTLS: Wi\u2011Fi Integration Examples",
+      "content_text": "Learn how to integrate Okta with EAP\u2011TTLS for enterprise Wi\u2011Fi. Plan your design, configure FreeRADIUS, map group policies, validate with test clients, and troubleshoot common pitfalls.",
+      "date_published": "2026-01-12T22:51:00.0000000Z",
+      "date_modified": "2026-01-12T22:51:00.0000000Z"
     },
     {
-      "id": "https://pulsegeek.com/articles/zero-knowledge-proofs-privacy-and-proof-without-sharing/",
-      "url": "https://pulsegeek.com/articles/zero-knowledge-proofs-privacy-and-proof-without-sharing/",
-      "title": "Zero-Knowledge Proofs: Privacy and Proof Without Sharing",
-      "content_text": "Learn how zero knowledge proofs deliver privacy and compression by proving facts without revealing data, and see where SNARKs, STARKs, and rollups fit. Practical guidance, choices, and pitfalls for builders.",
-      "date_published": "2025-09-17T23:00:00.0000000Z",
-      "date_modified": "2026-01-06T10:09:23.4284892Z"
+      "id": "https://pulsegeek.com/articles/pick-the-least-congested-wi-fi-7-channel-at-home/",
+      "url": "https://pulsegeek.com/articles/pick-the-least-congested-wi-fi-7-channel-at-home/",
+      "title": "Pick the Least Congested Wi\u2011Fi 7 Channel at Home",
+      "content_text": "Learn how to choose the least congested Wi\u2011Fi 7 channel using real scans, channel width strategy, DFS awareness, and validation steps that lower latency and jitter.",
+      "date_published": "2026-01-12T22:50:00.0000000Z",
+      "date_modified": "2026-01-12T22:50:00.0000000Z"
     },
     {
-      "id": "https://pulsegeek.com/articles/worldbuilding-checklists-for-level-narrative/",
-      "url": "https://pulsegeek.com/articles/worldbuilding-checklists-for-level-narrative/",
-      "title": "Worldbuilding Checklists for Level Narrative",
-      "content_text": "Use practical worldbuilding checklists to shape level narrative with props, layouts, audio, and diegetic cues. Build coherent spaces that tell stories without lore dumps or long cutscenes.",
-      "date_published": "2025-12-22T22:17:00.0000000Z",
-      "date_modified": "2026-01-06T10:09:23.4228700Z"
+      "id": "https://pulsegeek.com/articles/wi-fi-7-mac-layer-enhancements-scheduling-to-harq/",
+      "url": "https://pulsegeek.com/articles/wi-fi-7-mac-layer-enhancements-scheduling-to-harq/",
+      "title": "Wi\u2011Fi 7 MAC Layer Enhancements: Scheduling to HARQ",
+      "content_text": "Explore Wi\u2011Fi 7 MAC layer enhancements from resource scheduling to HARQ. Learn how MLO, MRU, and reliability features shape latency, throughput, and coexistence for real networks.",
+      "date_published": "2026-01-12T22:49:00.0000000Z",
+      "date_modified": "2026-01-12T22:49:00.0000000Z"
     },
     {
-      "id": "https://pulsegeek.com/articles/wireless-street-light-control-systems-topologies-compared/",
-      "url": "https://pulsegeek.com/articles/wireless-street-light-control-systems-topologies-compared/",
-      "title": "Wireless Street Light Control Systems: Topologies Compared",
-      "content_text": "Learn how wireless street light control system topologies differ, when to choose each, and the tradeoffs in latency, resilience, cost, and operations for city\u2011scale lighting.",
-      "date_published": "2025-11-01T14:12:00.0000000Z",
-      "date_modified": "2026-01-06T10:09:23.4226522Z"
+      "id": "https://pulsegeek.com/articles/retroarch-not-launching-on-retroid-pocket-fix-it/",
+      "url": "https://pulsegeek.com/articles/retroarch-not-launching-on-retroid-pocket-fix-it/",
+      "title": "RetroArch Not Launching on Retroid Pocket: Fix It",
+      "content_text": "RetroArch will not open on Retroid Pocket? Follow a calm, stepwise path to diagnose storage, WebView, permissions, and GPU driver issues, then validate fixes safely.",
+      "date_published": "2026-01-12T22:48:00.0000000Z",
+      "date_modified": "2026-01-12T22:48:00.0000000Z"
     },
     {
-      "id": "https://pulsegeek.com/articles/wireless-control-and-monitoring-for-street-lighting-options/",
-      "url": "https://pulsegeek.com/articles/wireless-control-and-monitoring-for-street-lighting-options/",
-      "title": "Wireless Control and Monitoring for Street Lighting: Options",
-      "content_text": "Compare wireless control and monitoring options for street lighting. Learn tradeoffs across range, latency, power, and resilience, and match choices to real deployment constraints.",
-      "date_published": "2025-12-04T22:21:00.0000000Z",
-      "date_modified": "2026-01-06T10:09:23.4224305Z"
+      "id": "https://pulsegeek.com/articles/rebuild-the-thumbnails-cache-on-onion-os-quickly/",
+      "url": "https://pulsegeek.com/articles/rebuild-the-thumbnails-cache-on-onion-os-quickly/",
+      "title": "Rebuild the Thumbnails Cache on Onion OS Quickly",
+      "content_text": "Learn how to safely rebuild the thumbnails cache on Onion OS, clear stale images, verify folder paths, and rescan artwork without breaking playlists or losing metadata.",
+      "date_published": "2026-01-12T22:47:00.0000000Z",
+      "date_modified": "2026-01-12T22:47:00.0000000Z"
     },
     {
-      "id": "https://pulsegeek.com/articles/wifi-street-light-connectivity-where-it-works-best/",
-      "url": "https://pulsegeek.com/articles/wifi-street-light-connectivity-where-it-works-best/",
-      "title": "Wi\u2011Fi Street Light Connectivity: Where It Works Best",
-      "content_text": "Compare Wi\u2011Fi street light connectivity to LoRaWAN, NB\u2011IoT, Zigbee, and 5G. Learn where Wi\u2011Fi excels, when it fails, and how to decide by density, latency, cost, and maintenance.",
-      "date_published": "2025-12-05T22:22:00.0000000Z",
-      "date_modified": "2026-01-06T10:09:23.4221912Z"
+      "id": "https://pulsegeek.com/articles/overlays-and-bezels-setup-for-onion-os-retro-style/",
+      "url": "https://pulsegeek.com/articles/overlays-and-bezels-setup-for-onion-os-retro-style/",
+      "title": "Overlays and Bezels Setup for Onion OS: Retro Style",
+      "content_text": "Learn how to set up overlays and bezels in Onion OS with practical steps, clean paths, and per-game profiles, plus validation tips and troubleshooting for RetroArch.",
+      "date_published": "2026-01-12T22:46:00.0000000Z",
+      "date_modified": "2026-01-12T22:46:00.0000000Z"
     },
     {
-      "id": "https://pulsegeek.com/articles/wi-fi-vs-ethernet-latency-for-cloud-gaming-compared/",
-      "url": "https://pulsegeek.com/articles/wi-fi-vs-ethernet-latency-for-cloud-gaming-compared/",
-      "title": "Wi\u2011Fi vs Ethernet Latency for Cloud Gaming Compared",
-      "content_text": "Compare Wi\u2011Fi and Ethernet for cloud gaming latency. See jitter, packet loss, interference, and QoS impact, with scenarios and clear recommendations for smooth input response.",
-      "date_published": "2025-12-18T22:19:00.0000000Z",
-      "date_modified": "2026-01-06T10:09:23.4128160Z"
+      "id": "https://pulsegeek.com/articles/rewind-and-autosave-performance-impact-on-miyoo/",
+      "url": "https://pulsegeek.com/articles/rewind-and-autosave-performance-impact-on-miyoo/",
+      "title": "Rewind and Autosave: Performance Impact on Miyoo",
+      "content_text": "Learn how rewind and autosave affect Miyoo performance, latency, battery life, and stability. See safe defaults, when to disable features, and settings that keep audio clean and frames smooth.",
+      "date_published": "2026-01-12T22:45:00.0000000Z",
+      "date_modified": "2026-01-12T22:45:00.0000000Z"
     },
     {
-      "id": "https://pulsegeek.com/articles/wi-fi-6-vs-wi-fi-7-for-cloud-gaming-latency-wins/",
-      "url": "https://pulsegeek.com/articles/wi-fi-6-vs-wi-fi-7-for-cloud-gaming-latency-wins/",
-      "title": "Wi\u2011Fi 6 vs Wi\u2011Fi 7 for Cloud Gaming: Latency Wins",
-      "content_text": "Compare Wi\u2011Fi 6 and Wi\u2011Fi 7 for cloud gaming. See latency, jitter, throughput, and interference tradeoffs with practical router settings and upgrade guidance for smoother play.",
-      "date_published": "2026-01-01T22:19:00.0000000Z",
-      "date_modified": "2026-01-06T10:09:23.4000912Z"
+      "id": "https://pulsegeek.com/articles/optimize-emulator-cores-on-miyoo-for-smooth-play/",
+      "url": "https://pulsegeek.com/articles/optimize-emulator-cores-on-miyoo-for-smooth-play/",
+      "title": "Optimize Emulator Cores on Miyoo for Smooth Play",
+      "content_text": "Learn a practical process to optimize Miyoo emulator cores for smooth play. Plan settings, prepare firmware, tune per core, then validate and fix stutter, tearing, and audio hiccups.",
+      "date_published": "2026-01-12T22:44:00.0000000Z",
+      "date_modified": "2026-01-12T22:44:00.0000000Z"
     },
     {
-      "id": "https://pulsegeek.com/articles/why-merkle-proofs-matter-lightweight-trust-at-scale/",
-      "url": "https://pulsegeek.com/articles/why-merkle-proofs-matter-lightweight-trust-at-scale/",
-      "title": "Why Merkle Proofs Matter: Lightweight Trust at Scale",
-      "content_text": "Learn how Merkle proofs deliver compact verification for blocks and state. See how SPV clients, headers, and Patricia tries enable trust-minimized checks at network scale.",
-      "date_published": "2025-09-17T23:00:00.0000000Z",
-      "date_modified": "2026-01-06T10:09:23.3998805Z"
+      "id": "https://pulsegeek.com/articles/per-core-and-per-game-remaps-on-miyoo-explained/",
+      "url": "https://pulsegeek.com/articles/per-core-and-per-game-remaps-on-miyoo-explained/",
+      "title": "Per-Core and Per-Game Remaps on Miyoo Explained",
+      "content_text": "Learn how per-core and per-game remaps work on Miyoo RetroArch, when to prefer each, and how to avoid conflicts while keeping controls consistent and responsive.",
+      "date_published": "2026-01-12T22:43:00.0000000Z",
+      "date_modified": "2026-01-12T22:43:00.0000000Z"
     },
     {
-      "id": "https://pulsegeek.com/articles/what-is-the-mempool-where-transactions-wait-their-turn/",
-      "url": "https://pulsegeek.com/articles/what-is-the-mempool-where-transactions-wait-their-turn/",
-      "title": "What Is the Mempool? Where Transactions Wait Their Turn",
-      "content_text": "Learn how the mempool works, why transactions queue, and how fees, priority, and propagation shape confirmation. See how proofs and light clients verify data efficiently.",
-      "date_published": "2025-09-17T23:00:00.0000000Z",
-      "date_modified": "2026-01-06T10:09:23.3990502Z"
+      "id": "https://pulsegeek.com/articles/ps1-on-miyoo-mini-performance-tips-that-work/",
+      "url": "https://pulsegeek.com/articles/ps1-on-miyoo-mini-performance-tips-that-work/",
+      "title": "PS1 on Miyoo Mini: Performance Tips That Work",
+      "content_text": "Get reliable PS1 performance on Miyoo Mini with safe RetroArch settings, frameskip choices, audio latency tweaks, and per-game overrides for consistent play.",
+      "date_published": "2026-01-12T22:42:00.0000000Z",
+      "date_modified": "2026-01-12T22:42:00.0000000Z"
     },
     {
-      "id": "https://pulsegeek.com/articles/what-is-retrieval-augmented-generation-prompting-context-grounding-and-limits/",
-      "url": "https://pulsegeek.com/articles/what-is-retrieval-augmented-generation-prompting-context-grounding-and-limits/",
-      "title": "What Is Retrieval Augmented Generation Prompting? Context, Grounding, and Limits",
-      "content_text": "Explore retrieval augmented generation prompting, how it grounds answers with context, where it breaks, and how to operationalize it safely.",
-      "date_published": "2025-09-03T18:00:00.0000000Z",
-      "date_modified": "2026-01-06T10:09:23.3984323Z"
+      "id": "https://pulsegeek.com/articles/dfs-vs-non-dfs-channels-pros-and-cons-in-wifi-8/",
+      "url": "https://pulsegeek.com/articles/dfs-vs-non-dfs-channels-pros-and-cons-in-wifi-8/",
+      "title": "DFS vs Non\u2011DFS Channels: Pros and Cons in WiFi 8",
+      "content_text": "Compare DFS and non-DFS channels in WiFi 8 with clear criteria, tradeoffs, and scenario guidance. Learn when radar avoidance helps or hurts, how client behavior shifts, and what to configure safely.",
+      "date_published": "2026-01-12T22:41:00.0000000Z",
+      "date_modified": "2026-01-12T22:41:00.0000000Z"
     },
     {
-      "id": "https://pulsegeek.com/articles/what-is-nlp-for-email-security-a-practical-primer/",
-      "url": "https://pulsegeek.com/articles/what-is-nlp-for-email-security-a-practical-primer/",
-      "title": "What Is NLP for Email Security? A Practical Primer",
-      "content_text": "Learn how NLP improves email security with content and URL analysis, evaluation methods, and practical implementation patterns. Compare fit, limits, and validation tips.",
-      "date_published": "2025-10-25T14:17:00.0000000Z",
-      "date_modified": "2026-01-06T10:09:23.3980820Z"
+      "id": "https://pulsegeek.com/articles/synthetic-client-testing-to-verify-wifi-8-slas/",
+      "url": "https://pulsegeek.com/articles/synthetic-client-testing-to-verify-wifi-8-slas/",
+      "title": "Synthetic Client Testing to Verify WiFi 8 SLAs",
+      "content_text": "Learn how synthetic client testing validates WiFi 8 SLAs by measuring latency, throughput, and reliability with realistic traffic profiles plus guardrails for interpretation and tooling.",
+      "date_published": "2026-01-12T22:40:00.0000000Z",
+      "date_modified": "2026-01-12T22:40:00.0000000Z"
     },
     {
-      "id": "https://pulsegeek.com/articles/what-is-intelligent-street-lighting-a-clear-quick-answer/",
-      "url": "https://pulsegeek.com/articles/what-is-intelligent-street-lighting-a-clear-quick-answer/",
-      "title": "What Is Intelligent Street Lighting? A Clear, Quick Answer",
-      "content_text": "Learn what intelligent street lighting is, how it works from pole to cloud, when it fits, implementation steps, and practical alternatives that support safer, energy efficient streets.",
-      "date_published": "2025-11-18T16:12:00.0000000Z",
-      "date_modified": "2026-01-06T10:09:23.3978562Z"
+      "id": "https://pulsegeek.com/articles/memory-card-setup-and-management-in-duckstation/",
+      "url": "https://pulsegeek.com/articles/memory-card-setup-and-management-in-duckstation/",
+      "title": "Memory Card Setup and Management in DuckStation",
+      "content_text": "Set up, organize, back up, and migrate DuckStation memory cards. Compare per-game vs shared cards, prevent corruption, and move saves safely across devices.",
+      "date_published": "2026-01-12T22:39:00.0000000Z",
+      "date_modified": "2026-01-12T22:39:00.0000000Z"
     },
     {
-      "id": "https://pulsegeek.com/articles/what-is-intelligent-document-processing-for-finance/",
-      "url": "https://pulsegeek.com/articles/what-is-intelligent-document-processing-for-finance/",
-      "title": "What Is Intelligent Document Processing for Finance?",
-      "content_text": "Learn how intelligent document processing streamlines finance workflows by extracting, validating, and routing invoices, receipts, and statements with controls that satisfy audit, risk, and data quality needs.",
-      "date_published": "2025-10-10T04:02:00.0000000Z",
-      "date_modified": "2026-01-06T10:09:23.3976285Z"
+      "id": "https://pulsegeek.com/articles/wi-fi-9-qos-wmm-mapping-that-actually-works/",
+      "url": "https://pulsegeek.com/articles/wi-fi-9-qos-wmm-mapping-that-actually-works/",
+      "title": "Wi\u2011Fi 9 QoS: WMM Mapping That Actually Works",
+      "content_text": "Learn how to configure Wi\u2011Fi 9 QoS with correct WMM mapping, DSCP to UP translation, and admission control to protect voice, video, and critical apps on modern WLANs.",
+      "date_published": "2026-01-12T22:38:00.0000000Z",
+      "date_modified": "2026-01-12T22:38:00.0000000Z"
     },
     {
-      "id": "https://pulsegeek.com/articles/what-is-iec-61850-and-why-it-matters-for-smart-grids/",
-      "url": "https://pulsegeek.com/articles/what-is-iec-61850-and-why-it-matters-for-smart-grids/",
-      "title": "What Is IEC 61850 and Why It Matters for Smart Grids?",
-      "content_text": "Learn what IEC 61850 is, how it enables interoperable substation automation, and why it matters for modern, DER-rich smart grids.",
-      "date_published": "2025-08-24T02:00:00.0000000Z",
-      "date_modified": "2026-01-06T10:09:23.3974135Z"
+      "id": "https://pulsegeek.com/articles/organize-duckstation-saves-by-game-id/",
+      "url": "https://pulsegeek.com/articles/organize-duckstation-saves-by-game-id/",
+      "title": "Organize DuckStation Saves by Game ID",
+      "content_text": "Learn how to organize DuckStation saves by game ID with safe folders, consistent naming, and verification steps. Follow a clean, repeatable workflow with backups and quick troubleshooting.",
+      "date_published": "2026-01-12T22:37:00.0000000Z",
+      "date_modified": "2026-01-12T22:37:00.0000000Z"
     },
     {
-      "id": "https://pulsegeek.com/articles/what-is-good-precision-recall-for-malware-classifiers/",
-      "url": "https://pulsegeek.com/articles/what-is-good-precision-recall-for-malware-classifiers/",
-      "title": "What Is Good Precision\u2013Recall for Malware Classifiers?",
-      "content_text": "Learn what counts as good precision and recall for malware classifiers, how to balance alert cost vs missed threats, and how to validate with threshold sweeps and PR curves.",
-      "date_published": "2025-11-23T22:25:00.0000000Z",
-      "date_modified": "2026-01-06T10:09:23.3972374Z"
+      "id": "https://pulsegeek.com/articles/hle-bios-vs-real-bios-in-duckstation-what-to-use/",
+      "url": "https://pulsegeek.com/articles/hle-bios-vs-real-bios-in-duckstation-what-to-use/",
+      "title": "HLE BIOS vs Real BIOS in DuckStation: What to Use",
+      "content_text": "Compare HLE BIOS and a real PS1 BIOS in DuckStation across accuracy, compatibility, setup effort, performance, and legal risk to choose the right option.",
+      "date_published": "2026-01-12T22:36:00.0000000Z",
+      "date_modified": "2026-01-12T22:36:00.0000000Z"
     },
     {
-      "id": "https://pulsegeek.com/articles/what-is-emulation-systems-legality-and-trade-offs/",
-      "url": "https://pulsegeek.com/articles/what-is-emulation-systems-legality-and-trade-offs/",
-      "title": "What Is Emulation? Systems, Legality, and Trade\u2011offs",
-      "content_text": "Learn what emulation is, how systems are reproduced in software, legality basics, and the major trade-offs between accuracy, speed, and compatibility for practical, responsible use.",
-      "date_published": "2025-12-06T22:22:00.0000000Z",
-      "date_modified": "2026-01-06T10:09:23.3970031Z"
+      "id": "https://pulsegeek.com/articles/microstutter-fixes-with-dxvk-on-steam-deck/",
+      "url": "https://pulsegeek.com/articles/microstutter-fixes-with-dxvk-on-steam-deck/",
+      "title": "Microstutter Fixes With DXVK on Steam Deck",
+      "content_text": "Learn how to reduce microstutter on Steam Deck using DXVK. Understand causes, choose the right frame cap strategy, and balance shader cache, v-sync, and power limits for smooth, consistent play.",
+      "date_published": "2026-01-12T22:35:00.0000000Z",
+      "date_modified": "2026-01-12T22:35:00.0000000Z"
     },
     {
-      "id": "https://pulsegeek.com/articles/what-is-diegetic-audio-in-game-storytelling/",
-      "url": "https://pulsegeek.com/articles/what-is-diegetic-audio-in-game-storytelling/",
-      "title": "What Is Diegetic Audio in Game Storytelling?",
-      "content_text": "Learn what diegetic audio means in games, how it supports story through world-placed sounds, when to use it, implementation tips, and common pitfalls.",
-      "date_published": "2025-12-21T22:17:00.0000000Z",
-      "date_modified": "2026-01-06T10:09:23.3967847Z"
+      "id": "https://pulsegeek.com/articles/format-an-sd-card-to-exfat-for-steam-deck/",
+      "url": "https://pulsegeek.com/articles/format-an-sd-card-to-exfat-for-steam-deck/",
+      "title": "Format an SD Card to exFAT for Steam Deck",
+      "content_text": "Learn how to safely format an SD card to exFAT on Steam Deck. Follow clear Desktop Mode steps, CLI options, verification checks, and fixes for common errors to avoid data loss.",
+      "date_published": "2026-01-12T22:34:00.0000000Z",
+      "date_modified": "2026-01-12T22:34:00.0000000Z"
     },
     {
-      "id": "https://pulsegeek.com/articles/what-is-content-cooking-in-game-development/",
-      "url": "https://pulsegeek.com/articles/what-is-content-cooking-in-game-development/",
-      "title": "What Is Content Cooking in Game Development?",
-      "content_text": "Learn how content cooking transforms raw assets into engine-ready data for faster loads, smaller builds, and stable runtime behavior across platforms in modern game development.",
-      "date_published": "2025-12-04T22:19:00.0000000Z",
-      "date_modified": "2026-01-06T10:09:23.3963749Z"
+      "id": "https://pulsegeek.com/articles/steam-deck-battery-saver-mode-vs-custom-profiles/",
+      "url": "https://pulsegeek.com/articles/steam-deck-battery-saver-mode-vs-custom-profiles/",
+      "title": "Steam Deck Battery Saver Mode vs Custom Profiles",
+      "content_text": "Compare Steam Deck battery saver mode with custom power profiles. See tradeoffs, settings to prioritize, and when each approach delivers longer sessions and steadier performance.",
+      "date_published": "2026-01-12T22:33:00.0000000Z",
+      "date_modified": "2026-01-12T22:33:00.0000000Z"
     },
     {
-      "id": "https://pulsegeek.com/articles/what-is-an-ai-value-chain-in-business-explained/",
-      "url": "https://pulsegeek.com/articles/what-is-an-ai-value-chain-in-business-explained/",
-      "title": "What Is an AI Value Chain in Business? Explained",
-      "content_text": "Learn how an AI value chain structures data, models, tooling, and operations into a coherent system for business outcomes. See stages, handoffs, ROI levers, and governance.",
-      "date_published": "2025-09-17T23:00:00.0000000Z",
-      "date_modified": "2026-01-06T10:09:23.3961558Z"
+      "id": "https://pulsegeek.com/articles/secure-remote-access-to-your-gaming-pc-for-streaming/",
+      "url": "https://pulsegeek.com/articles/secure-remote-access-to-your-gaming-pc-for-streaming/",
+      "title": "Secure Remote Access to Your Gaming PC for Streaming",
+      "content_text": "Learn how to secure remote access for game streaming with VPNs, relay options, and safe port rules. Compare privacy, latency, and reliability tradeoffs to choose the right path.",
+      "date_published": "2026-01-12T22:32:00.0000000Z",
+      "date_modified": "2026-01-12T22:32:00.0000000Z"
     },
     {
-      "id": "https://pulsegeek.com/articles/what-is-an-ai-software-company-today-a-clear-view/",
-      "url": "https://pulsegeek.com/articles/what-is-an-ai-software-company-today-a-clear-view/",
-      "title": "What Is an AI Software Company Today? A Clear View",
-      "content_text": "Learn what defines an AI software company today, from model builders to workflow apps, plus business models, evaluation criteria, and buyer tradeoffs.",
-      "date_published": "2025-09-17T23:00:00.0000000Z",
-      "date_modified": "2026-01-06T10:09:23.3959425Z"
+      "id": "https://pulsegeek.com/articles/dock-compatibility-with-bluetooth-audio-on-steam-deck/",
+      "url": "https://pulsegeek.com/articles/dock-compatibility-with-bluetooth-audio-on-steam-deck/",
+      "title": "Dock Compatibility with Bluetooth Audio on Steam Deck",
+      "content_text": "Learn how Steam Deck docks interact with Bluetooth audio, why HDMI and USB hubs affect routing, and how to keep latency low in docked play without breaking voice chat or pairing reliability.",
+      "date_published": "2026-01-12T22:31:00.0000000Z",
+      "date_modified": "2026-01-12T22:31:00.0000000Z"
     },
     {
-      "id": "https://pulsegeek.com/articles/what-is-an-ai-services-company-models-that-deliver/",
-      "url": "https://pulsegeek.com/articles/what-is-an-ai-services-company-models-that-deliver/",
-      "title": "What Is an AI Services Company? Models That Deliver",
-      "content_text": "Learn what an AI services company does, which engagement models deliver outcomes, pricing and governance tradeoffs, and how to choose a partner confidently.",
-      "date_published": "2025-09-17T23:00:00.0000000Z",
-      "date_modified": "2026-01-06T10:09:23.3957154Z"
+      "id": "https://pulsegeek.com/articles/steam-deck-download-speed-vs-actual-throughput/",
+      "url": "https://pulsegeek.com/articles/steam-deck-download-speed-vs-actual-throughput/",
+      "title": "Steam Deck Download Speed vs Actual Throughput",
+      "content_text": "Learn why Steam Deck download speed often differs from actual throughput, how to measure both correctly, and which bottlenecks matter most for smooth game downloads and streaming.",
+      "date_published": "2026-01-12T22:30:00.0000000Z",
+      "date_modified": "2026-01-12T22:30:00.0000000Z"
     },
     {
-      "id": "https://pulsegeek.com/articles/what-is-ai-in-cybersecurity-a-clear-practical-view/",
-      "url": "https://pulsegeek.com/articles/what-is-ai-in-cybersecurity-a-clear-practical-view/",
-      "title": "What Is AI in Cybersecurity? A Clear, Practical View",
-      "content_text": "Learn how AI supports cybersecurity with detection, triage, and response. See tradeoffs, when to apply models, a small scoring example, and validation tips for SOC operations.",
-      "date_published": "2025-11-09T16:16:00.0000000Z",
-      "date_modified": "2026-01-06T10:09:23.3952731Z"
+      "id": "https://pulsegeek.com/articles/sleep-mode-heat-and-battery-drain-on-steam-deck/",
+      "url": "https://pulsegeek.com/articles/sleep-mode-heat-and-battery-drain-on-steam-deck/",
+      "title": "Sleep Mode Heat and Battery Drain on Steam Deck",
+      "content_text": "Learn why Steam Deck gets warm and loses battery in sleep, how suspend works, factors that raise drain, and practical settings to keep heat and loss in check.",
+      "date_published": "2026-01-12T22:29:00.0000000Z",
+      "date_modified": "2026-01-12T22:29:00.0000000Z"
     },
     {
-      "id": "https://pulsegeek.com/articles/what-is-ai-in-business-intelligence-key-concepts/",
-      "url": "https://pulsegeek.com/articles/what-is-ai-in-business-intelligence-key-concepts/",
-      "title": "What Is AI in Business Intelligence? Key Concepts",
-      "content_text": "Learn what AI in business intelligence means, how it works, and where it fits. Explore architecture patterns, model choices, and dashboard examples that improve reporting and decision speed.",
-      "date_published": "2025-09-17T23:00:00.0000000Z",
-      "date_modified": "2026-01-06T10:09:23.3950529Z"
+      "id": "https://pulsegeek.com/articles/safe-troubleshooting-steps-before-joining-ranked/",
+      "url": "https://pulsegeek.com/articles/safe-troubleshooting-steps-before-joining-ranked/",
+      "title": "Safe Troubleshooting Steps Before Joining Ranked",
+      "content_text": "Follow seven safe troubleshooting steps on Steam Deck to prevent anti-cheat conflicts, reduce VAC risk, and stabilize performance before ranked play. Practical examples, tradeoffs, and quick checks keep you compliant.",
+      "date_published": "2026-01-12T22:28:00.0000000Z",
+      "date_modified": "2026-01-12T22:28:00.0000000Z"
     },
     {
-      "id": "https://pulsegeek.com/articles/what-is-ai-based-malware-classification-explained/",
-      "url": "https://pulsegeek.com/articles/what-is-ai-based-malware-classification-explained/",
-      "title": "What Is AI-Based Malware Classification? Explained",
-      "content_text": "Learn how AI-based malware classification works, what data it uses, when to apply it, and how to implement and validate models safely in production.",
-      "date_published": "2025-12-08T22:18:00.0000000Z",
-      "date_modified": "2026-01-06T10:09:23.3945859Z"
+      "id": "https://pulsegeek.com/articles/legacy-client-compatibility-under-puncturing-guidelines/",
+      "url": "https://pulsegeek.com/articles/legacy-client-compatibility-under-puncturing-guidelines/",
+      "title": "Legacy Client Compatibility Under Puncturing: Guidelines",
+      "content_text": "Practical guidelines to keep legacy clients reliable when Wi\u2011Fi 8 preamble puncturing is enabled, covering SSID design, channel width choices, rate controls, roaming, and policy testing with clear tradeoffs.",
+      "date_published": "2026-01-12T22:27:00.0000000Z",
+      "date_modified": "2026-01-12T22:27:00.0000000Z"
     },
     {
-      "id": "https://pulsegeek.com/articles/what-is-a-reentrancy-attack-in-smart-contracts/",
-      "url": "https://pulsegeek.com/articles/what-is-a-reentrancy-attack-in-smart-contracts/",
-      "title": "What Is a Reentrancy Attack in Smart Contracts?",
-      "content_text": "Learn how reentrancy attacks work in smart contracts, why they break invariants, and how to prevent them with patterns, guards, audits, and tooling.",
-      "date_published": "2025-09-17T23:00:00.0000000Z",
-      "date_modified": "2026-01-06T10:09:23.3939100Z"
+      "id": "https://pulsegeek.com/articles/mod-readme-and-documentation-template-essentials/",
+      "url": "https://pulsegeek.com/articles/mod-readme-and-documentation-template-essentials/",
+      "title": "Mod Readme and Documentation Template Essentials",
+      "content_text": "Build a durable mod readme with clear purpose, reproducible installs, versioning, and support policies. Use a concise template, standard sections, and checks that reduce user errors and maintenance burden.",
+      "date_published": "2026-01-12T22:26:00.0000000Z",
+      "date_modified": "2026-01-12T22:26:00.0000000Z"
     },
     {
-      "id": "https://pulsegeek.com/articles/what-is-a-microgrid-and-how-does-it-interact-with-the-utility-grid/",
-      "url": "https://pulsegeek.com/articles/what-is-a-microgrid-and-how-does-it-interact-with-the-utility-grid/",
-      "title": "What Is a Microgrid and How Does It Interact with the Utility Grid?",
-      "content_text": "Learn what a microgrid is, how it connects and coordinates with the utility grid, and where it adds value for reliability and resilience.",
-      "date_published": "2025-08-21T18:00:00.0000000Z",
-      "date_modified": "2026-01-06T10:09:23.3882780Z"
+      "id": "https://pulsegeek.com/articles/filesystem-permissions-and-portable-saves/",
+      "url": "https://pulsegeek.com/articles/filesystem-permissions-and-portable-saves/",
+      "title": "Filesystem Permissions and Portable Saves",
+      "content_text": "Set up portable saves safely by fixing filesystem permissions, avoiding UAC traps, and validating write paths across Windows, macOS, and Linux with practical checks.",
+      "date_published": "2026-01-12T22:25:00.0000000Z",
+      "date_modified": "2026-01-12T22:25:00.0000000Z"
     },
     {
-      "id": "https://pulsegeek.com/articles/what-is-a-jitter-buffer-in-cloud-gaming-networks/",
-      "url": "https://pulsegeek.com/articles/what-is-a-jitter-buffer-in-cloud-gaming-networks/",
-      "title": "What Is a Jitter Buffer in Cloud Gaming Networks?",
-      "content_text": "Learn how jitter buffers smooth packet timing in cloud gaming, when to adjust them, size tradeoffs, and how to validate settings for lower stutter and lag.",
-      "date_published": "2025-12-31T22:19:00.0000000Z",
-      "date_modified": "2026-01-06T10:09:23.3881063Z"
+      "id": "https://pulsegeek.com/articles/post-processing-stack-for-games-effects-and-costs/",
+      "url": "https://pulsegeek.com/articles/post-processing-stack-for-games-effects-and-costs/",
+      "title": "Post-Processing Stack for Games: Effects and Costs",
+      "content_text": "Learn how game post-processing effects work, what they cost, and how to prioritize bloom, color grading, motion blur, and more without sacrificing frame time.",
+      "date_published": "2026-01-12T22:24:00.0000000Z",
+      "date_modified": "2026-01-12T22:24:00.0000000Z"
     },
     {
-      "id": "https://pulsegeek.com/articles/what-is-a-distributed-ledger-shared-records-at-scale/",
-      "url": "https://pulsegeek.com/articles/what-is-a-distributed-ledger-shared-records-at-scale/",
-      "title": "What Is a Distributed Ledger? Shared Records at Scale",
-      "content_text": "Learn how distributed ledgers maintain shared records at scale. Explore data structures, consensus, and the role of randomness for lotteries, leader election, and protocol fairness.",
-      "date_published": "2025-09-17T23:00:00.0000000Z",
-      "date_modified": "2026-01-06T10:09:23.3872538Z"
+      "id": "https://pulsegeek.com/articles/screen-tearing-fixes-with-adaptive-sync-in-streaming/",
+      "url": "https://pulsegeek.com/articles/screen-tearing-fixes-with-adaptive-sync-in-streaming/",
+      "title": "Screen Tearing Fixes with Adaptive Sync in Streaming",
+      "content_text": "Learn how to stop screen tearing in cloud gaming by enabling adaptive sync, setting correct refresh rates, and tuning VSync and frame caps for smooth, low-latency streaming.",
+      "date_published": "2026-01-12T22:23:00.0000000Z",
+      "date_modified": "2026-01-12T22:23:00.0000000Z"
     },
     {
-      "id": "https://pulsegeek.com/articles/what-is-a-blockexplorer-reading-on-chain-data-clearly/",
-      "url": "https://pulsegeek.com/articles/what-is-a-blockexplorer-reading-on-chain-data-clearly/",
-      "title": "What Is a Blockexplorer? Reading On\u2011Chain Data Clearly",
-      "content_text": "Learn what a blockexplorer does, how to read on-chain data, and how explorers support security work like tracing funds, checking contract risks, and verifying transactions.",
-      "date_published": "2025-09-17T23:00:00.0000000Z",
-      "date_modified": "2026-01-06T10:09:23.3870588Z"
+      "id": "https://pulsegeek.com/articles/preventing-loot-inflation-over-time-practical-steps/",
+      "url": "https://pulsegeek.com/articles/preventing-loot-inflation-over-time-practical-steps/",
+      "title": "Preventing Loot Inflation Over Time: Practical Steps",
+      "content_text": "Learn how to prevent loot inflation with pacing, sinks, and telemetry. Set targets, model drops, apply pity safely, and validate supply against demand to keep economies balanced.",
+      "date_published": "2026-01-12T22:22:00.0000000Z",
+      "date_modified": "2026-01-12T22:22:00.0000000Z"
     },
     {
-      "id": "https://pulsegeek.com/articles/what-is-a-bios-file-for-emulators-purpose-and-use/",
-      "url": "https://pulsegeek.com/articles/what-is-a-bios-file-for-emulators-purpose-and-use/",
-      "title": "What Is a BIOS File for Emulators? Purpose and Use",
-      "content_text": "Learn what a BIOS file does in emulators, why some systems require it, how to load and verify it safely, and common pitfalls to avoid.",
-      "date_published": "2025-12-05T22:21:00.0000000Z",
-      "date_modified": "2026-01-06T10:09:23.3868648Z"
+      "id": "https://pulsegeek.com/articles/cutscene-alternatives-that-keep-control-with-players/",
+      "url": "https://pulsegeek.com/articles/cutscene-alternatives-that-keep-control-with-players/",
+      "title": "Cutscene Alternatives That Keep Control with Players",
+      "content_text": "Explore seven practical ways to replace cutscenes while preserving control for players, including walk-and-talk, diegetic interfaces, interactive props, and bark systems with cooldowns. Design tension without pausing play.",
+      "date_published": "2026-01-12T22:21:00.0000000Z",
+      "date_modified": "2026-01-12T22:21:00.0000000Z"
     },
     {
-      "id": "https://pulsegeek.com/articles/what-is-4-2-0-color-subsampling-in-game-streaming/",
-      "url": "https://pulsegeek.com/articles/what-is-4-2-0-color-subsampling-in-game-streaming/",
-      "title": "What Is 4:2:0 Color Subsampling in Game Streaming?",
-      "content_text": "Learn how 4:2:0 color subsampling works in game streaming, when it helps or hurts quality, and how to tune codecs, bitrate, and settings for low latency.",
-      "date_published": "2025-12-04T22:17:00.0000000Z",
-      "date_modified": "2026-01-06T10:09:23.3866447Z"
+      "id": "https://pulsegeek.com/articles/enterprise-policy-for-enabling-320-mhz-channels/",
+      "url": "https://pulsegeek.com/articles/enterprise-policy-for-enabling-320-mhz-channels/",
+      "title": "Enterprise Policy for Enabling 320 MHz Channels",
+      "content_text": "Set a reliable enterprise policy to enable 320 MHz channels in WiFi 8. Align eligibility, radio profiles, power rules, and rollback criteria for predictable performance without harming coverage or stability.",
+      "date_published": "2026-01-11T22:55:00.0000000Z",
+      "date_modified": "2026-01-11T22:55:00.0000000Z"
     },
     {
-      "id": "https://pulsegeek.com/articles/what-causes-lag-in-game-streaming-root-causes-mapped/",
-      "url": "https://pulsegeek.com/articles/what-causes-lag-in-game-streaming-root-causes-mapped/",
-      "title": "What Causes Lag in Game Streaming? Root Causes Mapped",
-      "content_text": "Lag in game streaming comes from network delay, jitter, encoding time, and display processing. Learn root causes, quick diagnostics, and practical fixes to stabilize responsiveness without sacrificing visual quality.",
-      "date_published": "2025-12-17T22:19:00.0000000Z",
-      "date_modified": "2026-01-06T10:09:23.3839251Z"
+      "id": "https://pulsegeek.com/articles/choosing-20-40-80-160-mhz-a-6-ghz-width-guide/",
+      "url": "https://pulsegeek.com/articles/choosing-20-40-80-160-mhz-a-6-ghz-width-guide/",
+      "title": "Choosing 20/40/80/160 MHz: A 6 GHz Width Guide",
+      "content_text": "Learn when to choose 20, 40, 80, or 160 MHz in 6 GHz. Compare throughput, airtime, interference, and client limits so Wi\u2011Fi 8 designs balance speed, density, and reliability.",
+      "date_published": "2026-01-11T22:54:00.0000000Z",
+      "date_modified": "2026-01-11T22:54:00.0000000Z"
     },
     {
-      "id": "https://pulsegeek.com/articles/warframe-trading-economy-explained-for-newcomers/",
-      "url": "https://pulsegeek.com/articles/warframe-trading-economy-explained-for-newcomers/",
-      "title": "Warframe Trading Economy Explained for Newcomers",
-      "content_text": "Understand how Warframe trading works, from prices and platinum flow to supply, demand, rarity, and market rules. Learn fair value, timing, and safeguards to trade confidently.",
-      "date_published": "2026-01-01T22:18:00.0000000Z",
-      "date_modified": "2026-01-06T10:09:23.3832765Z"
+      "id": "https://pulsegeek.com/articles/eht-resource-unit-allocation-guide-practical-scheduling/",
+      "url": "https://pulsegeek.com/articles/eht-resource-unit-allocation-guide-practical-scheduling/",
+      "title": "EHT Resource Unit Allocation Guide: Practical Scheduling",
+      "content_text": "Follow a step by step EHT RU allocation guide. Plan policies, configure radios, execute OFDMA scheduling, validate airtime fairness, and troubleshoot edge cases with safe defaults for real networks.",
+      "date_published": "2026-01-11T22:53:00.0000000Z",
+      "date_modified": "2026-01-11T22:53:00.0000000Z"
     },
     {
-      "id": "https://pulsegeek.com/articles/walmart-and-ai-programs-progress-and-practical-wins/",
-      "url": "https://pulsegeek.com/articles/walmart-and-ai-programs-progress-and-practical-wins/",
-      "title": "Walmart and AI: Programs, Progress, and Practical Wins",
-      "content_text": "Understand Walmart and AI through clear concepts, decision frameworks, and real scenarios that reveal what works, where, and why in modern retail operations.",
-      "date_published": "2025-12-13T22:16:00.0000000Z",
-      "date_modified": "2026-01-06T10:09:23.3825960Z"
+      "id": "https://pulsegeek.com/articles/microsoft-entra-id-with-wi-fi-7-eap-tls-setup-guide/",
+      "url": "https://pulsegeek.com/articles/microsoft-entra-id-with-wi-fi-7-eap-tls-setup-guide/",
+      "title": "Microsoft Entra ID with Wi\u2011Fi 7 EAP\u2011TLS: Setup Guide",
+      "content_text": "Configure Microsoft Entra ID with Wi\u2011Fi 7 using EAP\u2011TLS. This step\u2011by\u2011step guide covers PKI choices, RADIUS setup, certificate profiles, onboarding, validations, and troubleshooting for secure identity\u2011based access.",
+      "date_published": "2026-01-11T22:52:00.0000000Z",
+      "date_modified": "2026-01-11T22:52:00.0000000Z"
     },
     {
-      "id": "https://pulsegeek.com/articles/vrf-in-blockchains-verifiable-randomness-explained/",
-      "url": "https://pulsegeek.com/articles/vrf-in-blockchains-verifiable-randomness-explained/",
-      "title": "VRF in Blockchains: Verifiable Randomness Explained",
-      "content_text": "Learn how verifiable random functions bring unbiased, tamper-evident randomness to blockchains, powering fair lotteries, secure leader election, and protocol design without trusted coordinators.",
-      "date_published": "2025-09-17T23:00:00.0000000Z",
-      "date_modified": "2026-01-06T10:09:23.3777626Z"
+      "id": "https://pulsegeek.com/articles/microsoft-entra-id-with-wpa3-enterprise-a-guide/",
+      "url": "https://pulsegeek.com/articles/microsoft-entra-id-with-wpa3-enterprise-a-guide/",
+      "title": "Microsoft Entra ID with WPA3 Enterprise: A Guide",
+      "content_text": "Configure WPA3 Enterprise with Microsoft Entra ID using EAP\u2011TLS, Intune, and a RADIUS server. Plan trust, prepare PKI, execute onboarding, verify logs, and tune policies.",
+      "date_published": "2026-01-11T22:51:00.0000000Z",
+      "date_modified": "2026-01-11T22:51:00.0000000Z"
     },
     {
-      "id": "https://pulsegeek.com/articles/visual-motifs-and-symbolism-in-level-storytelling/",
-      "url": "https://pulsegeek.com/articles/visual-motifs-and-symbolism-in-level-storytelling/",
-      "title": "Visual Motifs and Symbolism in Level Storytelling",
-      "content_text": "Learn seven practical ways to build visual motifs and symbolism into levels. Use color, shape, light, wear, flora, and signage to convey story without heavy exposition.",
-      "date_published": "2025-12-20T22:17:00.0000000Z",
-      "date_modified": "2026-01-06T10:09:23.3775561Z"
+      "id": "https://pulsegeek.com/articles/ofdma-and-mu-mimo-on-wi-fi-7-for-gaming-explained/",
+      "url": "https://pulsegeek.com/articles/ofdma-and-mu-mimo-on-wi-fi-7-for-gaming-explained/",
+      "title": "OFDMA and MU\u2011MIMO on Wi\u2011Fi 7 for Gaming Explained",
+      "content_text": "Learn how OFDMA and MU-MIMO on Wi\u2011Fi 7 shape latency, jitter, and bandwidth for gaming. See when to favor subcarriers, streams, or both to keep inputs responsive.",
+      "date_published": "2026-01-11T22:50:00.0000000Z",
+      "date_modified": "2026-01-11T22:50:00.0000000Z"
     },
     {
-      "id": "https://pulsegeek.com/articles/virtual-economy-how-in-game-markets-work-and-evolve/",
-      "url": "https://pulsegeek.com/articles/virtual-economy-how-in-game-markets-work-and-evolve/",
-      "title": "Virtual Economy: How In\u2011Game Markets Work and Evolve",
-      "content_text": "Understand how virtual economy systems function, how in-game markets set prices, and which design levers keep inflation stable while player value grows sustainably.",
-      "date_published": "2025-11-18T22:22:00.0000000Z",
-      "date_modified": "2026-01-06T10:09:23.3771082Z"
+      "id": "https://pulsegeek.com/articles/wi-fi-7-feature-matrix-by-clause-engineers-index/",
+      "url": "https://pulsegeek.com/articles/wi-fi-7-feature-matrix-by-clause-engineers-index/",
+      "title": "Wi\u2011Fi 7 Feature Matrix by Clause: Engineer\u2019s Index",
+      "content_text": "Map Wi\u2011Fi 7 features to their specification homes. This engineer\u2019s index explains where MLO, 320 MHz, 4096\u2011QAM, HARQ, Multi\u2011RU, and EHT management live and how clauses interlock for implementation.",
+      "date_published": "2026-01-11T22:49:00.0000000Z",
+      "date_modified": "2026-01-11T22:49:00.0000000Z"
     },
     {
-      "id": "https://pulsegeek.com/articles/verify-bios-hashes-with-md5-and-sha1/",
-      "url": "https://pulsegeek.com/articles/verify-bios-hashes-with-md5-and-sha1/",
-      "title": "Verify BIOS Hashes with MD5 and SHA1",
-      "content_text": "Learn how to verify BIOS file integrity using MD5 and SHA1 across Windows, macOS, and Linux, with step-by-step commands, validation tips, and safe troubleshooting.",
-      "date_published": "2025-12-04T22:20:00.0000000Z",
-      "date_modified": "2026-01-06T10:09:23.3743709Z"
+      "id": "https://pulsegeek.com/articles/retroarch-cores-vs-standalone-emulators-on-retroid/",
+      "url": "https://pulsegeek.com/articles/retroarch-cores-vs-standalone-emulators-on-retroid/",
+      "title": "RetroArch Cores vs Standalone Emulators on Retroid",
+      "content_text": "Compare RetroArch cores with standalone emulators on Retroid Pocket. See stability, performance, features, and setup tradeoffs with clear scenarios and recommendations.",
+      "date_published": "2026-01-11T22:48:00.0000000Z",
+      "date_modified": "2026-01-11T22:48:00.0000000Z"
     },
     {
-      "id": "https://pulsegeek.com/articles/vendor-invoice-matching-with-ml-reduce-exceptions-fast/",
-      "url": "https://pulsegeek.com/articles/vendor-invoice-matching-with-ml-reduce-exceptions-fast/",
-      "title": "Vendor Invoice Matching with ML: Reduce Exceptions Fast",
-      "content_text": "Learn how to implement machine learning for vendor invoice matching in accounting. Plan data, configure models, validate results, and reduce exceptions with controls and auditability.",
-      "date_published": "2025-10-10T04:02:00.0000000Z",
-      "date_modified": "2026-01-06T10:09:23.3741488Z"
+      "id": "https://pulsegeek.com/articles/playlist-generator-tools-for-onion-os-top-picks/",
+      "url": "https://pulsegeek.com/articles/playlist-generator-tools-for-onion-os-top-picks/",
+      "title": "Playlist Generator Tools for Onion OS: Top Picks",
+      "content_text": "Compare reliable playlist generator tools for Onion OS. See when to choose GUIs vs scripts, avoid scanning delays, and keep artwork and ROM entries consistent.",
+      "date_published": "2026-01-11T22:47:00.0000000Z",
+      "date_modified": "2026-01-11T22:47:00.0000000Z"
     },
     {
-      "id": "https://pulsegeek.com/articles/vehicle-to-grid-integration-standards-overview-ocpp-iso-15118-ieee-2030-5-and-grid-codes/",
-      "url": "https://pulsegeek.com/articles/vehicle-to-grid-integration-standards-overview-ocpp-iso-15118-ieee-2030-5-and-grid-codes/",
-      "title": "Vehicle\u2011to\u2011Grid Integration Standards Overview: OCPP, ISO 15118, IEEE 2030.5, and Grid Codes",
-      "content_text": "Explore V2G standards with practical guidance on OCPP, ISO 15118, IEEE 2030.5, and grid codes for interoperable bidirectional charging.",
-      "date_published": "2025-08-26T02:00:00.0000000Z",
-      "date_modified": "2026-01-06T10:09:23.3739003Z"
+      "id": "https://pulsegeek.com/articles/onion-os-vs-garlic-os-performance-differences-tested/",
+      "url": "https://pulsegeek.com/articles/onion-os-vs-garlic-os-performance-differences-tested/",
+      "title": "Onion OS vs Garlic OS: Performance Differences Tested",
+      "content_text": "See how Onion OS and Garlic OS compare for speed, latency, battery use, and stability across handheld emulation. Learn tradeoffs and when to choose each.",
+      "date_published": "2026-01-11T22:46:00.0000000Z",
+      "date_modified": "2026-01-11T22:46:00.0000000Z"
     },
     {
-      "id": "https://pulsegeek.com/articles/v2g-aggregator-business-models-revenue-stacks-and-regulatory-paths/",
-      "url": "https://pulsegeek.com/articles/v2g-aggregator-business-models-revenue-stacks-and-regulatory-paths/",
-      "title": "V2G Aggregator Business Models: Revenue Stacks and Regulatory Paths",
-      "content_text": "Explore V2G aggregator business models, revenue stacks, and regulatory paths with actionable steps, standards context, and real project lessons.",
-      "date_published": "2025-08-28T18:00:00.0000000Z",
-      "date_modified": "2026-01-06T10:09:23.3685885Z"
+      "id": "https://pulsegeek.com/articles/reduce-input-latency-on-miyoo-without-overclock/",
+      "url": "https://pulsegeek.com/articles/reduce-input-latency-on-miyoo-without-overclock/",
+      "title": "Reduce Input Latency on Miyoo Without Overclock",
+      "content_text": "Practical steps to cut input latency on Miyoo without overclocking. Tune runahead, vsync, audio buffers, and frame delay while avoiding stutter and crackle.",
+      "date_published": "2026-01-11T22:45:00.0000000Z",
+      "date_modified": "2026-01-11T22:45:00.0000000Z"
     },
     {
-      "id": "https://pulsegeek.com/articles/using-zip-and-7z-archives-in-emulators/",
-      "url": "https://pulsegeek.com/articles/using-zip-and-7z-archives-in-emulators/",
-      "title": "Using ZIP and 7z Archives in Emulators",
-      "content_text": "Learn when to use ZIP or 7z with emulators, how compression impacts load times, and the tradeoffs for accuracy, storage, and portability.",
-      "date_published": "2025-12-03T22:19:00.0000000Z",
-      "date_modified": "2026-01-06T10:09:23.3684030Z"
+      "id": "https://pulsegeek.com/articles/miyoo-shaders-performance-vs-battery-impact/",
+      "url": "https://pulsegeek.com/articles/miyoo-shaders-performance-vs-battery-impact/",
+      "title": "Miyoo Shaders: Performance vs Battery Impact",
+      "content_text": "Learn how common Miyoo shader choices affect frame rate, thermals, and battery life. Get plain rules of thumb, examples, and decision criteria to balance visual quality with runtime on handheld emulators.",
+      "date_published": "2026-01-11T22:44:00.0000000Z",
+      "date_modified": "2026-01-11T22:44:00.0000000Z"
     },
     {
-      "id": "https://pulsegeek.com/articles/using-state-machines-for-branching-story-logic/",
-      "url": "https://pulsegeek.com/articles/using-state-machines-for-branching-story-logic/",
-      "title": "Using State Machines for Branching Story Logic",
-      "content_text": "Learn how finite state machines model branching story logic, reduce bugs, and scale consequences across quests. Compare approaches, see examples, and understand tradeoffs for narrative design.",
-      "date_published": "2025-12-06T22:17:00.0000000Z",
-      "date_modified": "2026-01-06T10:09:23.3682156Z"
+      "id": "https://pulsegeek.com/articles/overlay-opacity-and-scaling-on-miyoo-balanced-looks/",
+      "url": "https://pulsegeek.com/articles/overlay-opacity-and-scaling-on-miyoo-balanced-looks/",
+      "title": "Overlay Opacity and Scaling on Miyoo: Balanced Looks",
+      "content_text": "Learn how overlay opacity and scaling affect clarity, input readability, and performance on Miyoo RetroArch. Compare options, view decision frameworks, and pick balanced settings for different cores and screen types.",
+      "date_published": "2026-01-11T22:43:00.0000000Z",
+      "date_modified": "2026-01-11T22:43:00.0000000Z"
     },
     {
-      "id": "https://pulsegeek.com/articles/using-high-refresh-rates-to-reduce-lag/",
-      "url": "https://pulsegeek.com/articles/using-high-refresh-rates-to-reduce-lag/",
-      "title": "Using High Refresh Rates to Reduce Lag",
-      "content_text": "Learn how higher refresh displays cut emulator input latency. Plan settings, configure drivers, tune sync, verify results, and fix stutter without trading accuracy for speed.",
-      "date_published": "2026-01-01T22:21:00.0000000Z",
-      "date_modified": "2026-01-06T10:09:23.3679892Z"
+      "id": "https://pulsegeek.com/articles/prevent-screen-tearing-on-miyoo-mini-settings-guide/",
+      "url": "https://pulsegeek.com/articles/prevent-screen-tearing-on-miyoo-mini-settings-guide/",
+      "title": "Prevent Screen Tearing on Miyoo Mini: Settings Guide",
+      "content_text": "Learn how to prevent screen tearing on Miyoo Mini using safe RetroArch settings. Compare VSync, frame delay, audio sync, and scaling choices with tradeoffs and clear recommendations.",
+      "date_published": "2026-01-11T22:42:00.0000000Z",
+      "date_modified": "2026-01-11T22:42:00.0000000Z"
     },
     {
-      "id": "https://pulsegeek.com/articles/using-ai-for-business-start-small-measure-expand/",
-      "url": "https://pulsegeek.com/articles/using-ai-for-business-start-small-measure-expand/",
-      "title": "Using AI for Business: Start Small, Measure, Expand",
-      "content_text": "Learn how to use AI for business with a stepwise playbook. Pick one use case, set a baseline, pilot safely, measure outcomes, and scale what works.",
-      "date_published": "2025-09-17T23:00:00.0000000Z",
-      "date_modified": "2026-01-06T10:09:23.3673296Z"
+      "id": "https://pulsegeek.com/articles/dfs-radar-detection-tuning-for-wifi-8-deployments/",
+      "url": "https://pulsegeek.com/articles/dfs-radar-detection-tuning-for-wifi-8-deployments/",
+      "title": "DFS Radar Detection Tuning for WiFi 8 Deployments",
+      "content_text": "Learn how to tune DFS radar detection in WiFi 8 to reduce false positives, protect incumbents, and maintain throughput using practical frameworks and field-tested decision criteria.",
+      "date_published": "2026-01-11T22:41:00.0000000Z",
+      "date_modified": "2026-01-11T22:41:00.0000000Z"
     }
   ]
 }
