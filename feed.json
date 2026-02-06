@@ -6,404 +6,404 @@
   "description": "Tech news, gaming, and geek culture in one pulse",
   "items": [
     {
-      "id": "https://pulsegeek.com/articles/mesh-backhaul-with-320-mhz-best-practices/",
-      "url": "https://pulsegeek.com/articles/mesh-backhaul-with-320-mhz-best-practices/",
-      "title": "Mesh Backhaul with 320 MHz: Best Practices",
-      "content_text": "Configure reliable mesh backhaul on 320 MHz with planning, clean spectrum, and validation. Learn channel selection, node placement, firmware settings, and throughput tests with iperf3 and RSSI targets to avoid hidden bottlenecks.",
-      "date_published": "2026-01-24T22:55:00.0000000Z",
-      "date_modified": "2026-01-24T22:55:00.0000000Z"
+      "id": "https://pulsegeek.com/articles/eirp-limits-and-power-planning-for-320-mhz-6-ghz/",
+      "url": "https://pulsegeek.com/articles/eirp-limits-and-power-planning-for-320-mhz-6-ghz/",
+      "title": "EIRP Limits and Power Planning for 320 MHz 6 GHz",
+      "content_text": "Understand EIRP limits and power planning for 320 MHz on 6 GHz. Learn regulatory classes, antenna math, and practical design rules to balance range, MCS, and coexistence.",
+      "date_published": "2026-02-06T22:51:00.0000000Z",
+      "date_modified": "2026-02-06T22:51:00.0000000Z"
     },
     {
-      "id": "https://pulsegeek.com/articles/apple-6-ghz-support-iphone-and-mac-models-listed/",
-      "url": "https://pulsegeek.com/articles/apple-6-ghz-support-iphone-and-mac-models-listed/",
-      "title": "Apple 6 GHz Support: iPhone and Mac Models Listed",
-      "content_text": "See which Apple devices use 6 GHz Wi\u2011Fi, regional prerequisites, WPA3 requirements, and verification tips for iPhone and Mac fleets.",
-      "date_published": "2026-01-24T22:54:00.0000000Z",
-      "date_modified": "2026-01-24T22:54:00.0000000Z"
+      "id": "https://pulsegeek.com/articles/6-ghz-capacity-planning-calculator-step-by-step/",
+      "url": "https://pulsegeek.com/articles/6-ghz-capacity-planning-calculator-step-by-step/",
+      "title": "6 GHz Capacity Planning Calculator: Step\u2011By\u2011Step",
+      "content_text": "Build a reliable 6 GHz Wi\u2011Fi capacity planning calculator. Define demand, map channels, set assumptions, run estimates, validate with tests, then tune.",
+      "date_published": "2026-02-06T22:50:00.0000000Z",
+      "date_modified": "2026-02-06T22:50:00.0000000Z"
     },
     {
-      "id": "https://pulsegeek.com/articles/eht-roaming-behavior-with-multi-link-what-changes/",
-      "url": "https://pulsegeek.com/articles/eht-roaming-behavior-with-multi-link-what-changes/",
-      "title": "EHT Roaming Behavior with Multi\u2011Link: What Changes",
-      "content_text": "Understand how 802.11be multi link alters EHT roaming decisions, steering, and failover. Learn design criteria, policy tradeoffs, and examples that balance performance, stability, and security in enterprise networks.",
-      "date_published": "2026-01-24T22:53:00.0000000Z",
-      "date_modified": "2026-01-24T22:53:00.0000000Z"
+      "id": "https://pulsegeek.com/articles/eht-qos-profiles-and-traffic-engineering-a-how-to/",
+      "url": "https://pulsegeek.com/articles/eht-qos-profiles-and-traffic-engineering-a-how-to/",
+      "title": "EHT QoS Profiles and Traffic Engineering: A How\u2011To",
+      "content_text": "Learn to design EHT QoS profiles, map DSCP to Wi\u2011Fi access categories, shape flows, and validate latency with practical steps and safeguards.",
+      "date_published": "2026-02-06T22:49:00.0000000Z",
+      "date_modified": "2026-02-06T22:49:00.0000000Z"
     },
     {
-      "id": "https://pulsegeek.com/articles/onboarding-policy-for-wi-fi-7-guests-and-contractors/",
-      "url": "https://pulsegeek.com/articles/onboarding-policy-for-wi-fi-7-guests-and-contractors/",
-      "title": "Onboarding Policy for Wi\u2011Fi 7 Guests and Contractors",
-      "content_text": "Create a secure onboarding policy for Wi\u2011Fi 7 guests and contractors using WPA3, identity checks, segmentation, and auditable workflows with quick validation steps.",
-      "date_published": "2026-01-24T22:52:00.0000000Z",
-      "date_modified": "2026-01-24T22:52:00.0000000Z"
+      "id": "https://pulsegeek.com/articles/mlo-attack-surface-in-wi-fi-7-identify-and-reduce/",
+      "url": "https://pulsegeek.com/articles/mlo-attack-surface-in-wi-fi-7-identify-and-reduce/",
+      "title": "MLO Attack Surface in Wi\u2011Fi 7: Identify and Reduce",
+      "content_text": "Learn how Wi\u2011Fi 7 Multi\u2011Link Operation expands the attack surface and what controls reduce risk. Map threats, prioritize monitoring, tune WIPS, and harden policy across home, shared, and enterprise environments.",
+      "date_published": "2026-02-06T22:48:00.0000000Z",
+      "date_modified": "2026-02-06T22:48:00.0000000Z"
     },
     {
-      "id": "https://pulsegeek.com/articles/ssid-strategy-for-security-and-scale-how-to-design/",
-      "url": "https://pulsegeek.com/articles/ssid-strategy-for-security-and-scale-how-to-design/",
-      "title": "SSID Strategy for Security and Scale: How to Design",
-      "content_text": "Design a secure, scalable SSID strategy for enterprise Wi\u2011Fi. Map roles, choose auth, segment traffic, and validate roaming and capacity with WPA3 and modern onboarding patterns.",
-      "date_published": "2026-01-24T22:51:00.0000000Z",
-      "date_modified": "2026-01-24T22:51:00.0000000Z"
+      "id": "https://pulsegeek.com/articles/iot-device-isolation-on-enterprise-wi-fi-checklist/",
+      "url": "https://pulsegeek.com/articles/iot-device-isolation-on-enterprise-wi-fi-checklist/",
+      "title": "IoT Device Isolation on Enterprise Wi\u2011Fi: Checklist",
+      "content_text": "A practical checklist for IoT isolation on enterprise Wi\u2011Fi. Classify devices, choose auth, enforce segmentation, restrict egress, and monitor behavior with tradeoffs and examples.",
+      "date_published": "2026-02-06T22:47:00.0000000Z",
+      "date_modified": "2026-02-06T22:47:00.0000000Z"
     },
     {
-      "id": "https://pulsegeek.com/articles/multi-gig-wan-lan-ports-on-wi-fi-7-gaming-routers/",
-      "url": "https://pulsegeek.com/articles/multi-gig-wan-lan-ports-on-wi-fi-7-gaming-routers/",
-      "title": "Multi\u2011Gig WAN/LAN Ports on Wi\u2011Fi 7 Gaming Routers",
-      "content_text": "Learn how multi\u2011gig WAN and LAN ports impact Wi\u2011Fi 7 gaming. Understand port types, bottlenecks, QoS, and when 2.5G or 10G really improves latency, throughput, and reliability.",
-      "date_published": "2026-01-24T22:50:00.0000000Z",
-      "date_modified": "2026-01-24T22:50:00.0000000Z"
+      "id": "https://pulsegeek.com/articles/do-gaming-vpns-hurt-wi-fi-7-latency-what-to-expect/",
+      "url": "https://pulsegeek.com/articles/do-gaming-vpns-hurt-wi-fi-7-latency-what-to-expect/",
+      "title": "Do Gaming VPNs Hurt Wi\u2011Fi 7 Latency? What to Expect",
+      "content_text": "Learn how gaming VPNs affect Wi\u2011Fi 7 latency. Understand routing paths, encryption overhead, and matchmaking effects, with decision lenses and scenarios to predict real ping changes.",
+      "date_published": "2026-02-06T22:46:00.0000000Z",
+      "date_modified": "2026-02-06T22:46:00.0000000Z"
     },
     {
-      "id": "https://pulsegeek.com/articles/what-is-a-psc-channel-in-wi-fi-7-and-why-it-matters/",
-      "url": "https://pulsegeek.com/articles/what-is-a-psc-channel-in-wi-fi-7-and-why-it-matters/",
-      "title": "What Is a PSC Channel in Wi\u2011Fi 7 and Why It Matters",
-      "content_text": "Learn what a PSC channel is in Wi\u2011Fi 7, how it trims scan time, when strict PSC-only discovery breaks, and how to validate deployments with RNR and beacon settings.",
-      "date_published": "2026-01-24T22:49:00.0000000Z",
-      "date_modified": "2026-01-24T22:49:00.0000000Z"
+      "id": "https://pulsegeek.com/articles/wi-fi-7-certification-requirements-what-labs-expect/",
+      "url": "https://pulsegeek.com/articles/wi-fi-7-certification-requirements-what-labs-expect/",
+      "title": "Wi\u2011Fi 7 Certification Requirements: What Labs Expect",
+      "content_text": "Understand Wi\u2011Fi 7 certification requirements, what labs validate, common submission gaps, and how to prepare evidence, test logs, and OTA results for smoother Wi\u2011Fi Alliance EHT reviews.",
+      "date_published": "2026-02-06T22:45:00.0000000Z",
+      "date_modified": "2026-02-06T22:45:00.0000000Z"
     },
     {
-      "id": "https://pulsegeek.com/articles/drift-correction-settings-on-retroid-pocket-explained/",
-      "url": "https://pulsegeek.com/articles/drift-correction-settings-on-retroid-pocket-explained/",
-      "title": "Drift Correction Settings on Retroid Pocket Explained",
-      "content_text": "Learn what drift correction settings do on Retroid Pocket, when to tune dead zones vs sensitivity, and how to test changes safely without masking hardware faults.",
-      "date_published": "2026-01-24T22:48:00.0000000Z",
-      "date_modified": "2026-01-24T22:48:00.0000000Z"
+      "id": "https://pulsegeek.com/articles/fix-retroid-pocket-boot-loop-stepwise-power-recovery/",
+      "url": "https://pulsegeek.com/articles/fix-retroid-pocket-boot-loop-stepwise-power-recovery/",
+      "title": "Fix Retroid Pocket Boot Loop: Stepwise Power Recovery",
+      "content_text": "Follow a calm, structured workflow to fix a Retroid Pocket boot loop. Plan backups, prepare ADB, use recovery safely, validate stability, and prevent repeat loops with practical checks and settings.",
+      "date_published": "2026-02-06T22:44:00.0000000Z",
+      "date_modified": "2026-02-06T22:44:00.0000000Z"
     },
     {
-      "id": "https://pulsegeek.com/articles/miyoo-mini-wont-turn-on-after-onion-os-do-this/",
-      "url": "https://pulsegeek.com/articles/miyoo-mini-wont-turn-on-after-onion-os-do-this/",
-      "title": "Miyoo Mini Won\u2019t Turn On After Onion OS? Do This",
-      "content_text": "Is your Miyoo Mini not powering up after installing Onion OS? Follow a calm, step by step path to verify power, check the SD card, enter recovery, and restore a clean boot safely.",
-      "date_published": "2026-01-24T22:47:00.0000000Z",
-      "date_modified": "2026-01-24T22:47:00.0000000Z"
+      "id": "https://pulsegeek.com/articles/fix-save-state-corruption-on-onion-os-safely/",
+      "url": "https://pulsegeek.com/articles/fix-save-state-corruption-on-onion-os-safely/",
+      "title": "Fix Save State Corruption on Onion OS Safely",
+      "content_text": "Learn how to fix save state corruption on Onion OS without data loss. Follow a safe backup workflow, integrity checks, and recovery steps that restore stability and prevent repeat issues.",
+      "date_published": "2026-02-06T22:43:00.0000000Z",
+      "date_modified": "2026-02-06T22:43:00.0000000Z"
     },
     {
-      "id": "https://pulsegeek.com/articles/miyoo-mini-with-onion-os-smooth-start-in-minutes/",
-      "url": "https://pulsegeek.com/articles/miyoo-mini-with-onion-os-smooth-start-in-minutes/",
-      "title": "Miyoo Mini with Onion OS: Smooth Start in Minutes",
-      "content_text": "Learn key concepts, decision criteria, and safe practices to ready a Miyoo Mini for Onion OS, from SD prep to first boot checks, with tradeoffs explained.",
-      "date_published": "2026-01-24T22:46:00.0000000Z",
-      "date_modified": "2026-01-24T22:46:00.0000000Z"
+      "id": "https://pulsegeek.com/articles/merge-and-split-archives-for-onion-os-roms-safely/",
+      "url": "https://pulsegeek.com/articles/merge-and-split-archives-for-onion-os-roms-safely/",
+      "title": "Merge and Split Archives for Onion OS ROMs Safely",
+      "content_text": "Learn how to merge and split game archives for Onion OS ROMs safely using 7-Zip and Zip. Follow planning, setup, step-by-step commands, validation, and fixes to avoid corruption.",
+      "date_published": "2026-02-06T22:42:00.0000000Z",
+      "date_modified": "2026-02-06T22:42:00.0000000Z"
     },
     {
-      "id": "https://pulsegeek.com/articles/miyoo-mini-plus-thermal-management-tips/",
-      "url": "https://pulsegeek.com/articles/miyoo-mini-plus-thermal-management-tips/",
-      "title": "Miyoo Mini Plus Thermal Management Tips",
-      "content_text": "Learn safe, practical ways to keep the Miyoo Mini Plus cool. Reduce heat with airflow tweaks, RetroArch settings, and smart charging habits while preserving performance and battery health.",
-      "date_published": "2026-01-24T22:45:00.0000000Z",
-      "date_modified": "2026-01-24T22:45:00.0000000Z"
+      "id": "https://pulsegeek.com/articles/map-fast-forward-on-miyoo-without-stutter/",
+      "url": "https://pulsegeek.com/articles/map-fast-forward-on-miyoo-without-stutter/",
+      "title": "Map Fast Forward on Miyoo Without Stutter",
+      "content_text": "Learn how to map fast forward on Miyoo the right way. Configure RetroArch hotkeys, throttle, and sync settings to speed up safely without audio pops or skipped frames.",
+      "date_published": "2026-02-06T22:41:00.0000000Z",
+      "date_modified": "2026-02-06T22:41:00.0000000Z"
     },
     {
-      "id": "https://pulsegeek.com/articles/miyoo-mini-plus-stuck-on-logo-unfreeze-the-boot/",
-      "url": "https://pulsegeek.com/articles/miyoo-mini-plus-stuck-on-logo-unfreeze-the-boot/",
-      "title": "Miyoo Mini Plus Stuck on Logo: Unfreeze the Boot",
-      "content_text": "Fix a Miyoo Mini Plus that is stuck on the logo. Plan safely, prep tools, run clean steps, validate storage and firmware, then troubleshoot edge cases without risking data or hardware.",
-      "date_published": "2026-01-24T22:44:00.0000000Z",
-      "date_modified": "2026-01-24T22:44:00.0000000Z"
+      "id": "https://pulsegeek.com/articles/miyoo-buttons-not-responding-after-flash-recover-input/",
+      "url": "https://pulsegeek.com/articles/miyoo-buttons-not-responding-after-flash-recover-input/",
+      "title": "Miyoo Buttons Not Responding After Flash: Recover Input",
+      "content_text": "Buttons stopped working on Miyoo after flashing new firmware. Follow this step by step guide to restore inputs, confirm mappings, and prevent conflicts across RetroArch and system hotkeys.",
+      "date_published": "2026-02-06T22:40:00.0000000Z",
+      "date_modified": "2026-02-06T22:40:00.0000000Z"
     },
     {
-      "id": "https://pulsegeek.com/articles/neo-geo-pocket-on-miyoo-core-settings-for-clarity/",
-      "url": "https://pulsegeek.com/articles/neo-geo-pocket-on-miyoo-core-settings-for-clarity/",
-      "title": "Neo Geo Pocket on Miyoo: Core Settings for Clarity",
-      "content_text": "Dial in Neo Geo Pocket emulation on Miyoo with proven core settings, accurate scaling, sharp palettes, and low input lag. Follow a stepwise plan, validate results, and fix common issues quickly without sacrificing stability.",
-      "date_published": "2026-01-24T22:43:00.0000000Z",
-      "date_modified": "2026-01-24T22:43:00.0000000Z"
+      "id": "https://pulsegeek.com/articles/how-to-test-input-lag-on-miyoo-retroarch/",
+      "url": "https://pulsegeek.com/articles/how-to-test-input-lag-on-miyoo-retroarch/",
+      "title": "How to Test Input Lag on Miyoo RetroArch",
+      "content_text": "Learn practical ways to test input lag on Miyoo RetroArch using frame advance, frame counter, audio cues, and runahead validation. Get reliable baselines, avoid common pitfalls, and verify real gains.",
+      "date_published": "2026-02-06T22:39:00.0000000Z",
+      "date_modified": "2026-02-06T22:39:00.0000000Z"
     },
     {
-      "id": "https://pulsegeek.com/articles/onion-os-hotkeys-and-shortcuts-on-miyoo-mini/",
-      "url": "https://pulsegeek.com/articles/onion-os-hotkeys-and-shortcuts-on-miyoo-mini/",
-      "title": "Onion OS Hotkeys and Shortcuts on Miyoo Mini",
-      "content_text": "Master Onion OS hotkeys on Miyoo Mini with practical combos, save-state moves, brightness tweaks, and RetroArch remaps. Learn fast navigation tips, safe limits, and when to customize keys.",
-      "date_published": "2026-01-24T22:42:00.0000000Z",
-      "date_modified": "2026-01-24T22:42:00.0000000Z"
+      "id": "https://pulsegeek.com/articles/miyoo-mini-accessories-setup-essentials-that-help/",
+      "url": "https://pulsegeek.com/articles/miyoo-mini-accessories-setup-essentials-that-help/",
+      "title": "Miyoo Mini Accessories: Setup Essentials That Help",
+      "content_text": "Outfit your Miyoo Mini with setup-ready accessories. See storage, cables, protection, and power picks with examples, tradeoffs, and safe practices for a smooth first session.",
+      "date_published": "2026-02-06T22:38:00.0000000Z",
+      "date_modified": "2026-02-06T22:38:00.0000000Z"
     },
     {
-      "id": "https://pulsegeek.com/articles/coordinate-channels-with-neighbors-without-sharing-gear/",
-      "url": "https://pulsegeek.com/articles/coordinate-channels-with-neighbors-without-sharing-gear/",
-      "title": "Coordinate Channels with Neighbors Without Sharing Gear",
-      "content_text": "Learn a practical, hardware-neutral method to coordinate WiFi 8 channels with nearby networks. Plan, prepare, execute, validate, and troubleshoot without shared controllers using measurements, policies, and respectful communication.",
-      "date_published": "2026-01-24T22:41:00.0000000Z",
-      "date_modified": "2026-01-24T22:41:00.0000000Z"
+      "id": "https://pulsegeek.com/articles/can-usb-3-noise-disrupt-2-4-ghz-wifi/",
+      "url": "https://pulsegeek.com/articles/can-usb-3-noise-disrupt-2-4-ghz-wifi/",
+      "title": "Can USB 3 Noise Disrupt 2.4 GHz WiFi?",
+      "content_text": "Yes. Poorly shielded USB 3 cables and hubs can radiate broadband noise near 2.4 GHz and degrade WiFi. Learn symptoms, when it happens, how to test, and practical fixes.",
+      "date_published": "2026-02-06T22:37:00.0000000Z",
+      "date_modified": "2026-02-06T22:37:00.0000000Z"
     },
     {
-      "id": "https://pulsegeek.com/articles/ofdma-and-mu-mimo-effects-on-wifi-8-capacity/",
-      "url": "https://pulsegeek.com/articles/ofdma-and-mu-mimo-effects-on-wifi-8-capacity/",
-      "title": "OFDMA and MU-MIMO: Effects on WiFi 8 Capacity",
-      "content_text": "Learn how OFDMA and MU-MIMO in WiFi 8 reshape capacity, latency, and airtime efficiency with practical decision lenses, examples, and RF design tradeoffs for real networks.",
-      "date_published": "2026-01-24T22:40:00.0000000Z",
-      "date_modified": "2026-01-24T22:40:00.0000000Z"
+      "id": "https://pulsegeek.com/articles/latency-and-jitter-thresholds-for-wifi-slas-explained/",
+      "url": "https://pulsegeek.com/articles/latency-and-jitter-thresholds-for-wifi-slas-explained/",
+      "title": "Latency and Jitter Thresholds for WiFi SLAs Explained",
+      "content_text": "Learn how to set latency and jitter thresholds for WiFi SLAs, choose measurement points, and balance strictness with stability. See examples by application class and decision tradeoffs that align with capacity planning and QoS.",
+      "date_published": "2026-02-06T22:36:00.0000000Z",
+      "date_modified": "2026-02-06T22:36:00.0000000Z"
     },
     {
-      "id": "https://pulsegeek.com/articles/fix-controller-not-detected-in-duckstation/",
-      "url": "https://pulsegeek.com/articles/fix-controller-not-detected-in-duckstation/",
-      "title": "Fix Controller Not Detected in DuckStation",
-      "content_text": "Step-by-step fixes when DuckStation does not detect your controller. Diagnose input backends, driver issues, Steam Input conflicts, and Bluetooth pairing. Works for Xbox, DualSense, and 8BitDo on desktop and Deck.",
-      "date_published": "2026-01-24T22:39:00.0000000Z",
-      "date_modified": "2026-01-24T22:39:00.0000000Z"
+      "id": "https://pulsegeek.com/articles/duckstation-first-time-setup-wizard-steps/",
+      "url": "https://pulsegeek.com/articles/duckstation-first-time-setup-wizard-steps/",
+      "title": "DuckStation First-Time Setup Wizard: Steps",
+      "content_text": "Follow the DuckStation first-time setup wizard with confidence. Learn key steps for language, user data, BIOS verification, library scanning, and controller presets, plus tradeoffs for accuracy, speed, and portability.",
+      "date_published": "2026-02-06T22:35:00.0000000Z",
+      "date_modified": "2026-02-06T22:35:00.0000000Z"
     },
     {
-      "id": "https://pulsegeek.com/articles/wi-fi-9-licensing-and-subscriptions-explained/",
-      "url": "https://pulsegeek.com/articles/wi-fi-9-licensing-and-subscriptions-explained/",
-      "title": "Wi\u2011Fi 9 Licensing and Subscriptions Explained",
-      "content_text": "Understand Wi\u2011Fi 9 licensing models, from tiered features to device and site subscriptions. Learn decision criteria, vendor tradeoffs, budgeting tips, and migration implications for enterprise WLAN teams.",
-      "date_published": "2026-01-24T22:38:00.0000000Z",
-      "date_modified": "2026-01-24T22:38:00.0000000Z"
+      "id": "https://pulsegeek.com/articles/wi-fi-9-network-benchmarking-a-solid-method/",
+      "url": "https://pulsegeek.com/articles/wi-fi-9-network-benchmarking-a-solid-method/",
+      "title": "Wi\u2011Fi 9 Network Benchmarking: A Solid Method",
+      "content_text": "Learn a practical Wi\u2011Fi 9 network benchmarking methodology that separates RF from stack performance, reduces bias, and maps tests to goals like latency or throughput.",
+      "date_published": "2026-02-06T22:34:00.0000000Z",
+      "date_modified": "2026-02-06T22:34:00.0000000Z"
     },
     {
-      "id": "https://pulsegeek.com/articles/portable-duckstation-saves-keep-progress-on-the-go/",
-      "url": "https://pulsegeek.com/articles/portable-duckstation-saves-keep-progress-on-the-go/",
-      "title": "Portable DuckStation Saves: Keep Progress on the Go",
-      "content_text": "Set up portable DuckStation saves that travel safely between PCs. Learn folders, portable mode, versioning, and backup patterns without conflicts or data loss.",
-      "date_published": "2026-01-24T22:37:00.0000000Z",
-      "date_modified": "2026-01-24T22:37:00.0000000Z"
+      "id": "https://pulsegeek.com/articles/duckstation-plus-memcardrex-a-reliable-workflow/",
+      "url": "https://pulsegeek.com/articles/duckstation-plus-memcardrex-a-reliable-workflow/",
+      "title": "DuckStation \u002B MemcardRex: A Reliable Workflow",
+      "content_text": "Learn how DuckStation and MemcardRex fit together for safe PS1 save handling, conversions, and backups, with practical decision rules and guardrails that prevent corruption and keep migrations reversible.",
+      "date_published": "2026-02-06T22:33:00.0000000Z",
+      "date_modified": "2026-02-06T22:33:00.0000000Z"
     },
     {
-      "id": "https://pulsegeek.com/articles/duckstation-rumble-not-working-dualshock-support-fix/",
-      "url": "https://pulsegeek.com/articles/duckstation-rumble-not-working-dualshock-support-fix/",
-      "title": "DuckStation Rumble Not Working: DualShock Support Fix",
-      "content_text": "Learn how to restore vibration in DuckStation with proper DualShock device types, per-game settings, platform drivers, and quick tests to confirm rumble works.",
-      "date_published": "2026-01-24T22:36:00.0000000Z",
-      "date_modified": "2026-01-24T22:36:00.0000000Z"
+      "id": "https://pulsegeek.com/articles/duckstation-widescreen-hack-avoid-texture-glitches/",
+      "url": "https://pulsegeek.com/articles/duckstation-widescreen-hack-avoid-texture-glitches/",
+      "title": "DuckStation Widescreen Hack: Avoid Texture Glitches",
+      "content_text": "Fix texture glitches caused by the DuckStation widescreen hack. Learn safe settings, per-game choices, verification steps, and fixes for GPU backends and PGXP interactions.",
+      "date_published": "2026-02-06T22:32:00.0000000Z",
+      "date_modified": "2026-02-06T22:32:00.0000000Z"
     },
     {
-      "id": "https://pulsegeek.com/articles/fsr-scaling-on-steam-deck-crisp-gains-fewer-costs/",
-      "url": "https://pulsegeek.com/articles/fsr-scaling-on-steam-deck-crisp-gains-fewer-costs/",
-      "title": "FSR Scaling on Steam Deck: Crisp Gains, Fewer Costs",
-      "content_text": "Follow a practical workflow to enable and tune FSR on Steam Deck, pick sharpness, set frame targets, and verify gains with metrics while avoiding common pitfalls in Proton games.",
-      "date_published": "2026-01-24T22:35:00.0000000Z",
-      "date_modified": "2026-01-24T22:35:00.0000000Z"
+      "id": "https://pulsegeek.com/articles/connect-controllers-for-non-steam-launchers-on-deck/",
+      "url": "https://pulsegeek.com/articles/connect-controllers-for-non-steam-launchers-on-deck/",
+      "title": "Connect Controllers for Non\u2011Steam Launchers on Deck",
+      "content_text": "Learn how to connect and map controllers for non\u2011Steam launchers on Steam Deck. Follow planning, setup, pairing, mapping, and validation steps, with fixes for Bluetooth, Proton input, and launcher quirks.",
+      "date_published": "2026-02-06T22:31:00.0000000Z",
+      "date_modified": "2026-02-06T22:31:00.0000000Z"
     },
     {
-      "id": "https://pulsegeek.com/articles/install-chrome-flatpak-on-steam-deck-easily/",
-      "url": "https://pulsegeek.com/articles/install-chrome-flatpak-on-steam-deck-easily/",
-      "title": "Install Chrome Flatpak on Steam Deck Easily",
-      "content_text": "Learn how to install the Chrome Flatpak on Steam Deck, enable Wayland acceleration, add desktop shortcuts, and verify sync and codecs with practical troubleshooting tips.",
-      "date_published": "2026-01-24T22:34:00.0000000Z",
-      "date_modified": "2026-01-24T22:34:00.0000000Z"
+      "id": "https://pulsegeek.com/articles/pacman-vs-flatpak-on-steam-deck-when-to-use-each/",
+      "url": "https://pulsegeek.com/articles/pacman-vs-flatpak-on-steam-deck-when-to-use-each/",
+      "title": "Pacman vs Flatpak on Steam Deck: When to Use Each",
+      "content_text": "Compare pacman and Flatpak on Steam Deck across security, performance, storage, updates, and integration. Learn when each method fits gaming, desktop tasks, and long term maintenance without surprises.",
+      "date_published": "2026-02-06T22:30:00.0000000Z",
+      "date_modified": "2026-02-06T22:30:00.0000000Z"
     },
     {
-      "id": "https://pulsegeek.com/articles/optimize-steam-deck-audio-volume-to-reduce-battery-use/",
-      "url": "https://pulsegeek.com/articles/optimize-steam-deck-audio-volume-to-reduce-battery-use/",
-      "title": "Optimize Steam Deck Audio Volume to Reduce Battery Use",
-      "content_text": "Learn how to tune Steam Deck audio volume and mixer options to reduce battery drain. Plan tests, adjust levels, trim haptics noise, and validate savings with practical checks.",
-      "date_published": "2026-01-24T22:33:00.0000000Z",
-      "date_modified": "2026-01-24T22:33:00.0000000Z"
+      "id": "https://pulsegeek.com/articles/gan-charger-vs-standard-charger-for-steam-deck-travel/",
+      "url": "https://pulsegeek.com/articles/gan-charger-vs-standard-charger-for-steam-deck-travel/",
+      "title": "GaN Charger vs Standard Charger for Steam Deck Travel",
+      "content_text": "Compare GaN and standard chargers for Steam Deck travel with clear criteria, heat and size tradeoffs, charging speed, cable safety, and airline readiness.",
+      "date_published": "2026-02-06T22:29:00.0000000Z",
+      "date_modified": "2026-02-06T22:29:00.0000000Z"
     },
     {
-      "id": "https://pulsegeek.com/articles/hardware-encoder-settings-nvenc-vce-quick-sync/",
-      "url": "https://pulsegeek.com/articles/hardware-encoder-settings-nvenc-vce-quick-sync/",
-      "title": "Hardware Encoder Settings: NVENC, VCE, Quick Sync",
-      "content_text": "Learn how NVENC, VCE, and Quick Sync settings shape Steam Deck remote play quality, latency, and bitrate. Get practical encoder tuning advice with tradeoffs for Wi\u2011Fi and LAN scenarios.",
-      "date_published": "2026-01-24T22:32:00.0000000Z",
-      "date_modified": "2026-01-24T22:32:00.0000000Z"
+      "id": "https://pulsegeek.com/articles/enable-qos-for-low-latency-game-streaming-on-lan/",
+      "url": "https://pulsegeek.com/articles/enable-qos-for-low-latency-game-streaming-on-lan/",
+      "title": "Enable QoS for Low-Latency Game Streaming on LAN",
+      "content_text": "Step-by-step guide to enable QoS on your router for low-latency LAN game streaming. Plan, configure, verify, and troubleshoot queueing, DSCP, and bandwidth limits for smooth Steam Deck sessions.",
+      "date_published": "2026-02-06T22:28:00.0000000Z",
+      "date_modified": "2026-02-06T22:28:00.0000000Z"
     },
     {
-      "id": "https://pulsegeek.com/articles/fix-steam-deck-bluetooth-audio-delay-in-games/",
-      "url": "https://pulsegeek.com/articles/fix-steam-deck-bluetooth-audio-delay-in-games/",
-      "title": "Fix Steam Deck Bluetooth Audio Delay in Games",
-      "content_text": "Learn why Bluetooth audio lags on Steam Deck and how to cut delay in games with codec choices, device settings, and practical tradeoffs for smooth play.",
-      "date_published": "2026-01-24T22:31:00.0000000Z",
-      "date_modified": "2026-01-24T22:31:00.0000000Z"
+      "id": "https://pulsegeek.com/articles/hdmi-dock-audio-vs-bluetooth-output-on-steam-deck/",
+      "url": "https://pulsegeek.com/articles/hdmi-dock-audio-vs-bluetooth-output-on-steam-deck/",
+      "title": "HDMI Dock Audio vs Bluetooth Output on Steam Deck",
+      "content_text": "Compare HDMI dock audio and Bluetooth output on Steam Deck for latency, mic support, stability, and convenience. Learn when to pick each path for games and chat.",
+      "date_published": "2026-02-06T22:27:00.0000000Z",
+      "date_modified": "2026-02-06T22:27:00.0000000Z"
     },
     {
-      "id": "https://pulsegeek.com/articles/bluetooth-coexistence-with-wi-fi-on-steam-deck/",
-      "url": "https://pulsegeek.com/articles/bluetooth-coexistence-with-wi-fi-on-steam-deck/",
-      "title": "Bluetooth Coexistence with Wi\u2011Fi on Steam Deck",
-      "content_text": "Learn how Bluetooth and Wi\u2011Fi interact on Steam Deck, why 2.4 GHz gets crowded, and practical settings to reduce stutter, lag, and audio dropouts without sacrificing speed.",
-      "date_published": "2026-01-24T22:30:00.0000000Z",
-      "date_modified": "2026-01-24T22:30:00.0000000Z"
+      "id": "https://pulsegeek.com/articles/band-steering-settings-for-handheld-gaming-best-use/",
+      "url": "https://pulsegeek.com/articles/band-steering-settings-for-handheld-gaming-best-use/",
+      "title": "Band Steering Settings for Handheld Gaming: Best Use",
+      "content_text": "Learn when to enable band steering for handheld gaming, how to tune thresholds and 802.11k/v/r, and which widths and channels reduce lag without new hardware.",
+      "date_published": "2026-02-06T22:26:00.0000000Z",
+      "date_modified": "2026-02-06T22:26:00.0000000Z"
     },
     {
-      "id": "https://pulsegeek.com/articles/is-fan-control-safe-on-steam-deck-what-you-should-know/",
-      "url": "https://pulsegeek.com/articles/is-fan-control-safe-on-steam-deck-what-you-should-know/",
-      "title": "Is Fan Control Safe on Steam Deck? What You Should Know",
-      "content_text": "Learn when fan control on Steam Deck is safe, how to avoid risks, and which settings to change for quieter play without overheating.",
-      "date_published": "2026-01-24T22:29:00.0000000Z",
-      "date_modified": "2026-01-24T22:29:00.0000000Z"
+      "id": "https://pulsegeek.com/articles/download-and-import-per-game-profiles-on-steam-deck/",
+      "url": "https://pulsegeek.com/articles/download-and-import-per-game-profiles-on-steam-deck/",
+      "title": "Download and Import Per-Game Profiles on Steam Deck",
+      "content_text": "Learn how to download, adapt, and import per-game profiles on Steam Deck using safe, reversible tweaks for cooler play and steadier frames.",
+      "date_published": "2026-02-06T22:25:00.0000000Z",
+      "date_modified": "2026-02-06T22:25:00.0000000Z"
     },
     {
-      "id": "https://pulsegeek.com/articles/is-online-play-safe-on-steam-deck-with-anti-cheat/",
-      "url": "https://pulsegeek.com/articles/is-online-play-safe-on-steam-deck-with-anti-cheat/",
-      "title": "Is Online Play Safe on Steam Deck with Anti\u2011Cheat?",
-      "content_text": "Learn when online play is safe on Steam Deck with anti\u2011cheat, what risks remain, and practical steps to validate settings before joining multiplayer.",
-      "date_published": "2026-01-24T22:28:00.0000000Z",
-      "date_modified": "2026-01-24T22:28:00.0000000Z"
+      "id": "https://pulsegeek.com/articles/fix-packet-loss-on-steam-deck-diagnostics-to-done/",
+      "url": "https://pulsegeek.com/articles/fix-packet-loss-on-steam-deck-diagnostics-to-done/",
+      "title": "Fix Packet Loss on Steam Deck: Diagnostics to Done",
+      "content_text": "Learn how to diagnose and fix packet loss on Steam Deck with practical tests, router tweaks, DNS choices, and Wi\u2011Fi adjustments, then validate stability so online play and matchmaking stay reliable.",
+      "date_published": "2026-02-06T22:24:00.0000000Z",
+      "date_modified": "2026-02-06T22:24:00.0000000Z"
     },
     {
-      "id": "https://pulsegeek.com/articles/enable-puncturing-on-dfs-channels-safely-key-practices/",
-      "url": "https://pulsegeek.com/articles/enable-puncturing-on-dfs-channels-safely-key-practices/",
-      "title": "Enable Puncturing on DFS Channels Safely: Key Practices",
-      "content_text": "Learn how to enable preamble puncturing on DFS channels safely with practical decision criteria, examples, and controller policy tips to avoid radar conflicts.",
-      "date_published": "2026-01-24T22:27:00.0000000Z",
-      "date_modified": "2026-01-24T22:27:00.0000000Z"
+      "id": "https://pulsegeek.com/articles/latency-and-jitter-tests-with-punctured-channels/",
+      "url": "https://pulsegeek.com/articles/latency-and-jitter-tests-with-punctured-channels/",
+      "title": "Latency and Jitter Tests with Punctured Channels",
+      "content_text": "Learn how to plan, run, and validate latency and jitter tests on Wi\u2011Fi 8 punctured channels with iperf3 and pings, including setups, parameters, verification, and troubleshooting to separate RF issues from host or path effects.",
+      "date_published": "2026-02-06T22:23:00.0000000Z",
+      "date_modified": "2026-02-06T22:23:00.0000000Z"
     },
     {
-      "id": "https://pulsegeek.com/articles/deploying-mods-to-steam-workshop-enabled-games/",
-      "url": "https://pulsegeek.com/articles/deploying-mods-to-steam-workshop-enabled-games/",
-      "title": "Deploying Mods to Steam Workshop\u2011Enabled Games",
-      "content_text": "Learn how to package, configure, and publish mods to Steam Workshop. Follow a safe plan, prepare SteamCMD and VDF files, run reliable uploads, and validate results with rollbacks and version notes.",
-      "date_published": "2026-01-24T22:26:00.0000000Z",
-      "date_modified": "2026-01-24T22:26:00.0000000Z"
+      "id": "https://pulsegeek.com/articles/modding-basics-legalities-and-safety-full-guide/",
+      "url": "https://pulsegeek.com/articles/modding-basics-legalities-and-safety-full-guide/",
+      "title": "Modding Basics, Legalities, and Safety: Full Guide",
+      "content_text": "Learn game modding basics with practical safety steps, legal guardrails, and proven workflows. Build stable setups, avoid bans, and pick trustworthy mods with confidence.",
+      "date_published": "2026-02-06T22:22:00.0000000Z",
+      "date_modified": "2026-02-06T22:22:00.0000000Z"
     },
     {
-      "id": "https://pulsegeek.com/articles/deinterlacing-480i-content-in-emulators/",
-      "url": "https://pulsegeek.com/articles/deinterlacing-480i-content-in-emulators/",
-      "title": "Deinterlacing 480i Content in Emulators",
-      "content_text": "Learn how to deinterlace 480i in emulators with minimal lag and artifacts. Plan your approach, configure settings, verify motion quality, and troubleshoot common issues with practical steps and comparisons.",
-      "date_published": "2026-01-24T22:25:00.0000000Z",
-      "date_modified": "2026-01-24T22:25:00.0000000Z"
+      "id": "https://pulsegeek.com/articles/write-main-quest-arcs-and-milestones-that-land/",
+      "url": "https://pulsegeek.com/articles/write-main-quest-arcs-and-milestones-that-land/",
+      "title": "Write Main Quest Arcs and Milestones That Land",
+      "content_text": "Learn how to design main quest arcs and milestones that align stakes, pacing, and rewards with story progression. Plan structure, prep tools, execute steps, validate outcomes, and fix edge cases.",
+      "date_published": "2026-02-06T22:21:00.0000000Z",
+      "date_modified": "2026-02-06T22:21:00.0000000Z"
     },
     {
-      "id": "https://pulsegeek.com/articles/event-driven-gameplay-systems-patterns-that-scale/",
-      "url": "https://pulsegeek.com/articles/event-driven-gameplay-systems-patterns-that-scale/",
-      "title": "Event-Driven Gameplay Systems: Patterns That Scale",
-      "content_text": "Learn scalable patterns for event-driven gameplay systems. See decoupled triggers, action-based input, buffering for netcode, and telemetry signals with tradeoffs and examples.",
-      "date_published": "2026-01-24T22:24:00.0000000Z",
-      "date_modified": "2026-01-24T22:24:00.0000000Z"
+      "id": "https://pulsegeek.com/articles/dynamic-bandwidth-vs-fixed-320-mhz/",
+      "url": "https://pulsegeek.com/articles/dynamic-bandwidth-vs-fixed-320-mhz/",
+      "title": "Dynamic Bandwidth vs Fixed 320 MHz",
+      "content_text": "Compare dynamic bandwidth operation against fixed 320 MHz in WiFi 8. Learn how to weigh interference, latency, airtime, and QoS to choose settings for real sites.",
+      "date_published": "2026-02-05T22:51:00.0000000Z",
+      "date_modified": "2026-02-05T22:51:00.0000000Z"
     },
     {
-      "id": "https://pulsegeek.com/articles/playstation-plus-cloud-streaming-vs-competitors/",
-      "url": "https://pulsegeek.com/articles/playstation-plus-cloud-streaming-vs-competitors/",
-      "title": "PlayStation Plus Cloud Streaming vs Competitors",
-      "content_text": "Compare PlayStation Plus cloud streaming quality against GeForce NOW and Xbox Cloud Gaming with latency, bitrate, device support, and reliability tradeoffs to guide your choice.",
-      "date_published": "2026-01-24T22:23:00.0000000Z",
-      "date_modified": "2026-01-24T22:23:00.0000000Z"
+      "id": "https://pulsegeek.com/articles/6-ghz-performance-optimization-latency-ru-and-mlo/",
+      "url": "https://pulsegeek.com/articles/6-ghz-performance-optimization-latency-ru-and-mlo/",
+      "title": "6 GHz Performance Optimization: Latency, RU, and MLO",
+      "content_text": "Master 6 GHz performance optimization with practical guidance on latency control, RU scheduling, and MLO. Learn tradeoffs, workflows, and testing methods to validate improvements in real networks.",
+      "date_published": "2026-02-05T22:50:00.0000000Z",
+      "date_modified": "2026-02-05T22:50:00.0000000Z"
     },
     {
-      "id": "https://pulsegeek.com/articles/in-game-economy-basics-from-rewards-to-prices/",
-      "url": "https://pulsegeek.com/articles/in-game-economy-basics-from-rewards-to-prices/",
-      "title": "In\u2011Game Economy Basics: From Rewards to Prices",
-      "content_text": "Learn how in-game economies work, from reward sources and currency sinks to price formation and player behavior. Practical frameworks explain stability, inflation risks, and design tradeoffs for fair progression.",
-      "date_published": "2026-01-24T22:22:00.0000000Z",
-      "date_modified": "2026-01-24T22:22:00.0000000Z"
+      "id": "https://pulsegeek.com/articles/eap-methods-for-6-ghz-and-eht-choose-with-purpose/",
+      "url": "https://pulsegeek.com/articles/eap-methods-for-6-ghz-and-eht-choose-with-purpose/",
+      "title": "EAP Methods for 6 GHz and EHT: Choose with Purpose",
+      "content_text": "Learn which EAP methods fit 6 GHz and EHT. Compare EAP\u2011TLS, TEAP, and TTLS for security, roaming, and device onboarding with tradeoffs and clear guidance.",
+      "date_published": "2026-02-05T22:49:00.0000000Z",
+      "date_modified": "2026-02-05T22:49:00.0000000Z"
     },
     {
-      "id": "https://pulsegeek.com/articles/branching-quests-vs-linear-missions-when-to-use-each/",
-      "url": "https://pulsegeek.com/articles/branching-quests-vs-linear-missions-when-to-use-each/",
-      "title": "Branching Quests vs Linear Missions: When to Use Each",
-      "content_text": "Compare branching quests and linear missions with clear evaluation criteria, examples, and tradeoffs. Learn when to favor agency, pacing, replay value, or production predictability for your game\u2019s narrative.",
-      "date_published": "2026-01-24T22:21:00.0000000Z",
-      "date_modified": "2026-01-24T22:21:00.0000000Z"
+      "id": "https://pulsegeek.com/articles/management-frame-attacks-on-wi-fi-7-whats-new/",
+      "url": "https://pulsegeek.com/articles/management-frame-attacks-on-wi-fi-7-whats-new/",
+      "title": "Management Frame Attacks on Wi\u2011Fi 7: What\u2019s New?",
+      "content_text": "Learn how Wi\u2011Fi 7 changes management frame attacks, what protections matter now, and how to prioritize WIPS settings, policy, and monitoring without breaking user experience.",
+      "date_published": "2026-02-05T22:48:00.0000000Z",
+      "date_modified": "2026-02-05T22:48:00.0000000Z"
     },
     {
-      "id": "https://pulsegeek.com/articles/intel-wi-fi-cards-320-mhz-support-status/",
-      "url": "https://pulsegeek.com/articles/intel-wi-fi-cards-320-mhz-support-status/",
-      "title": "Intel Wi\u2011Fi Cards: 320 MHz Support Status",
-      "content_text": "Learn how Intel Wi\u2011Fi card families approach 320 MHz in 6 GHz, what gates real support, and how to verify capability across hardware, drivers, OS, and access point settings.",
-      "date_published": "2026-01-23T22:55:00.0000000Z",
-      "date_modified": "2026-01-23T22:55:00.0000000Z"
+      "id": "https://pulsegeek.com/articles/guest-network-isolation-wireless-best-practices/",
+      "url": "https://pulsegeek.com/articles/guest-network-isolation-wireless-best-practices/",
+      "title": "Guest Network Isolation: Wireless Best Practices",
+      "content_text": "Design secure guest Wi\u2011Fi with isolation, client containment, dynamic VLANs, and controlled egress. Learn practical configurations, tradeoffs, and monitoring patterns that keep visitor traffic separate without breaking user experience.",
+      "date_published": "2026-02-05T22:47:00.0000000Z",
+      "date_modified": "2026-02-05T22:47:00.0000000Z"
     },
     {
-      "id": "https://pulsegeek.com/articles/6-ghz-wi-fi-chipsets-intel-and-qualcomm-overview/",
-      "url": "https://pulsegeek.com/articles/6-ghz-wi-fi-chipsets-intel-and-qualcomm-overview/",
-      "title": "6 GHz Wi\u2011Fi Chipsets: Intel and Qualcomm Overview",
-      "content_text": "Understand 6 GHz Wi\u2011Fi chipsets from Intel and Qualcomm, including standards, feature support, driver maturity, and selection tradeoffs for stable Wi\u2011Fi 7 and Wi\u2011Fi 8 client performance.",
-      "date_published": "2026-01-23T22:54:00.0000000Z",
-      "date_modified": "2026-01-23T22:54:00.0000000Z"
+      "id": "https://pulsegeek.com/articles/console-qos-on-wi-fi-7-xbox-and-playstation-setup/",
+      "url": "https://pulsegeek.com/articles/console-qos-on-wi-fi-7-xbox-and-playstation-setup/",
+      "title": "Console QoS on Wi\u2011Fi 7: Xbox and PlayStation Setup",
+      "content_text": "Set up console QoS on Wi\u2011Fi 7 to lower ping on Xbox and PlayStation. Learn DSCP to WMM mapping, SQM, channel choices, and measurement tactics for steadier gameplay.",
+      "date_published": "2026-02-05T22:46:00.0000000Z",
+      "date_modified": "2026-02-05T22:46:00.0000000Z"
     },
     {
-      "id": "https://pulsegeek.com/articles/eht-network-design-template-for-campuses/",
-      "url": "https://pulsegeek.com/articles/eht-network-design-template-for-campuses/",
-      "title": "EHT Network Design Template for Campuses",
-      "content_text": "Build a secure, high\u2011capacity EHT campus network with capacity goals, 6 GHz channel plans, AP density patterns, multigig backhaul, PoE budgets, WPA3 controls, and validation.",
-      "date_published": "2026-01-23T22:53:00.0000000Z",
-      "date_modified": "2026-01-23T22:53:00.0000000Z"
+      "id": "https://pulsegeek.com/articles/whats-required-for-wi-fi-7-pre-cert-testing/",
+      "url": "https://pulsegeek.com/articles/whats-required-for-wi-fi-7-pre-cert-testing/",
+      "title": "What\u2019s Required for Wi\u2011Fi 7 Pre\u2011Cert Testing?",
+      "content_text": "Learn the required scope for Wi\u2011Fi 7 pre\u2011cert testing, including EHT features, RF sanity checks, interoperability, and documentation that reduces risk before formal certification.",
+      "date_published": "2026-02-05T22:45:00.0000000Z",
+      "date_modified": "2026-02-05T22:45:00.0000000Z"
     },
     {
-      "id": "https://pulsegeek.com/articles/minimum-ssid-count-for-wi-fi-7-security-reality-check/",
-      "url": "https://pulsegeek.com/articles/minimum-ssid-count-for-wi-fi-7-security-reality-check/",
-      "title": "Minimum SSID Count for Wi\u2011Fi 7 Security: Reality Check",
-      "content_text": "Learn the practical minimum SSID count for Wi\u2011Fi 7 security, why fewer SSIDs improve airtime and manageability, and how to segment safely with VLANs, policies, and identity.",
-      "date_published": "2026-01-23T22:52:00.0000000Z",
-      "date_modified": "2026-01-23T22:52:00.0000000Z"
+      "id": "https://pulsegeek.com/articles/firmware-update-stuck-on-retroid-pocket-clear-path/",
+      "url": "https://pulsegeek.com/articles/firmware-update-stuck-on-retroid-pocket-clear-path/",
+      "title": "Firmware Update Stuck on Retroid Pocket: Clear Path",
+      "content_text": "Fix a stuck Retroid Pocket firmware update with a calm, stepwise plan. Verify power, backup data, use Recovery or Fastboot, then validate. Includes safe commands, small comparison table, and practical troubleshooting.",
+      "date_published": "2026-02-05T22:44:00.0000000Z",
+      "date_modified": "2026-02-05T22:44:00.0000000Z"
     },
     {
-      "id": "https://pulsegeek.com/articles/radsec-configuration-guide-radius-over-tls/",
-      "url": "https://pulsegeek.com/articles/radsec-configuration-guide-radius-over-tls/",
-      "title": "RADSEC Configuration Guide: RADIUS over TLS",
-      "content_text": "Configure RADSEC for secure RADIUS over TLS with certificates, proxies, and firewalls. Follow planning, setup, execution, validation, and troubleshooting steps for resilient enterprise Wi\u2011Fi authentication.",
-      "date_published": "2026-01-23T22:51:00.0000000Z",
-      "date_modified": "2026-01-23T22:51:00.0000000Z"
+      "id": "https://pulsegeek.com/articles/fix-audio-crackle-in-retroarch-on-onion-os/",
+      "url": "https://pulsegeek.com/articles/fix-audio-crackle-in-retroarch-on-onion-os/",
+      "title": "Fix Audio Crackle in RetroArch on Onion OS",
+      "content_text": "Quiet audio crackle on Onion OS by tuning RetroArch drivers, latency, sync, and rates. Follow clear steps to test changes, verify results, and avoid hidden stability tradeoffs.",
+      "date_published": "2026-02-05T22:43:00.0000000Z",
+      "date_modified": "2026-02-05T22:43:00.0000000Z"
     },
     {
-      "id": "https://pulsegeek.com/articles/minimum-pc-specs-to-benefit-from-wi-fi-7-gaming/",
-      "url": "https://pulsegeek.com/articles/minimum-pc-specs-to-benefit-from-wi-fi-7-gaming/",
-      "title": "Minimum PC Specs to Benefit From Wi\u2011Fi 7 Gaming",
-      "content_text": "Learn the minimum PC specifications that actually help you benefit from Wi\u2011Fi 7 gaming, including CPU, RAM, PCIe lanes, and adapter choices. See when upgrades matter and how to validate performance.",
-      "date_published": "2026-01-23T22:50:00.0000000Z",
-      "date_modified": "2026-01-23T22:50:00.0000000Z"
+      "id": "https://pulsegeek.com/articles/manage-box-art-and-themes-in-onion-os-quick-wins/",
+      "url": "https://pulsegeek.com/articles/manage-box-art-and-themes-in-onion-os-quick-wins/",
+      "title": "Manage Box Art and Themes in Onion OS: Quick Wins",
+      "content_text": "Master fast wins for Onion OS visuals. Learn reliable scraping, fix mismatches, optimize thumbnails, install light themes, and structure assets for speed and clarity.",
+      "date_published": "2026-02-05T22:42:00.0000000Z",
+      "date_modified": "2026-02-05T22:42:00.0000000Z"
     },
     {
-      "id": "https://pulsegeek.com/articles/standard-power-vs-lpi-in-6-ghz-deployment-choices/",
-      "url": "https://pulsegeek.com/articles/standard-power-vs-lpi-in-6-ghz-deployment-choices/",
-      "title": "Standard Power vs LPI in 6 GHz: Deployment Choices",
-      "content_text": "Understand when to choose standard power or LPI in 6 GHz. Learn coverage, interference, and AFC tradeoffs for Wi\u2011Fi 7 deployments across venues with practical decision lenses and examples.",
-      "date_published": "2026-01-23T22:49:00.0000000Z",
-      "date_modified": "2026-01-23T22:49:00.0000000Z"
+      "id": "https://pulsegeek.com/articles/integer-scaling-on-miyoo-retroarch-crisp-pixels/",
+      "url": "https://pulsegeek.com/articles/integer-scaling-on-miyoo-retroarch-crisp-pixels/",
+      "title": "Integer Scaling on Miyoo RetroArch: Crisp Pixels",
+      "content_text": "Learn how to enable integer scaling in RetroArch on Miyoo for sharp visuals, correct aspect ratios, and stable performance without blur. Step-by-step setup, validation tips, and fixes for common edge cases.",
+      "date_published": "2026-02-05T22:41:00.0000000Z",
+      "date_modified": "2026-02-05T22:41:00.0000000Z"
     },
     {
-      "id": "https://pulsegeek.com/articles/controller-firmware-update-on-retroid-pocket-steps/",
-      "url": "https://pulsegeek.com/articles/controller-firmware-update-on-retroid-pocket-steps/",
-      "title": "Controller Firmware Update on Retroid Pocket: Steps",
-      "content_text": "Understand controller firmware on Retroid Pocket, when updating makes sense, and how to reduce risk. Learn decision criteria, validation checks, and recovery tips for reliable inputs.",
-      "date_published": "2026-01-23T22:48:00.0000000Z",
-      "date_modified": "2026-01-23T22:48:00.0000000Z"
+      "id": "https://pulsegeek.com/articles/input-polling-rate-on-miyoo-best-settings-ranked/",
+      "url": "https://pulsegeek.com/articles/input-polling-rate-on-miyoo-best-settings-ranked/",
+      "title": "Input Polling Rate on Miyoo: Best Settings Ranked",
+      "content_text": "Discover the best input polling rate settings for Miyoo. Compare 60, 120, and 240 Hz, tune RetroArch polling behavior, and balance latency, accuracy, and battery life with per-core overrides.",
+      "date_published": "2026-02-05T22:40:00.0000000Z",
+      "date_modified": "2026-02-05T22:40:00.0000000Z"
     },
     {
-      "id": "https://pulsegeek.com/articles/miyoo-mini-plus-boot-problems-on-onion-os-fix-guide/",
-      "url": "https://pulsegeek.com/articles/miyoo-mini-plus-boot-problems-on-onion-os-fix-guide/",
-      "title": "Miyoo Mini Plus Boot Problems on Onion OS: Fix Guide",
-      "content_text": "Step through a calm, proven path to fix Miyoo Mini Plus boot issues on Onion OS. Plan, prepare, execute, validate, and optimize with safe checks that protect saves and reduce risk.",
-      "date_published": "2026-01-23T22:47:00.0000000Z",
-      "date_modified": "2026-01-23T22:47:00.0000000Z"
+      "id": "https://pulsegeek.com/articles/hard-gpu-sync-on-miyoo-retroarch-when-to-use-it/",
+      "url": "https://pulsegeek.com/articles/hard-gpu-sync-on-miyoo-retroarch-when-to-use-it/",
+      "title": "Hard GPU Sync on Miyoo RetroArch: When to Use It",
+      "content_text": "Learn what Hard GPU Sync does on Miyoo RetroArch, how it affects latency and performance, and when to enable it for smoother timing without needless slowdown.",
+      "date_published": "2026-02-05T22:39:00.0000000Z",
+      "date_modified": "2026-02-05T22:39:00.0000000Z"
     },
     {
-      "id": "https://pulsegeek.com/articles/install-onion-os-without-a-pc-practical-workarounds/",
-      "url": "https://pulsegeek.com/articles/install-onion-os-without-a-pc-practical-workarounds/",
-      "title": "Install Onion OS Without a PC: Practical Workarounds",
-      "content_text": "Learn safe, practical ways to install Onion OS without a PC using an Android phone, card readers, and integrity checks. Follow step-by-step guidance, risks, and validation tips to avoid SD card corruption.",
-      "date_published": "2026-01-23T22:46:00.0000000Z",
-      "date_modified": "2026-01-23T22:46:00.0000000Z"
+      "id": "https://pulsegeek.com/articles/how-to-set-up-miyoo-mini-from-the-box-safely/",
+      "url": "https://pulsegeek.com/articles/how-to-set-up-miyoo-mini-from-the-box-safely/",
+      "title": "How to Set Up Miyoo Mini from the Box Safely",
+      "content_text": "Learn a safe Miyoo Mini setup from box to first play. Prepare SD, pick firmware, configure power and controls, then verify and troubleshoot common issues.",
+      "date_published": "2026-02-05T22:38:00.0000000Z",
+      "date_modified": "2026-02-05T22:38:00.0000000Z"
     },
     {
-      "id": "https://pulsegeek.com/articles/miyoo-boot-time-optimization-quick-wins/",
-      "url": "https://pulsegeek.com/articles/miyoo-boot-time-optimization-quick-wins/",
-      "title": "Miyoo Boot Time Optimization: Quick Wins",
-      "content_text": "Speed up Miyoo startup with safe, practical tweaks. Trim animations, streamline autostart, improve SD card I/O, and prioritize essentials for faster boots without overclocking or risk.",
-      "date_published": "2026-01-23T22:45:00.0000000Z",
-      "date_modified": "2026-01-23T22:45:00.0000000Z"
+      "id": "https://pulsegeek.com/articles/bluetooth-and-zigbee-coexistence-strategies-for-wifi-8/",
+      "url": "https://pulsegeek.com/articles/bluetooth-and-zigbee-coexistence-strategies-for-wifi-8/",
+      "title": "Bluetooth and Zigbee Coexistence Strategies for WiFi 8",
+      "content_text": "Practical strategies to run Bluetooth, Zigbee, and WiFi 8 together with fewer collisions. Learn channel plans, timing, power tuning, and device placement to reduce interference and sustain throughput.",
+      "date_published": "2026-02-05T22:37:00.0000000Z",
+      "date_modified": "2026-02-05T22:37:00.0000000Z"
     },
     {
-      "id": "https://pulsegeek.com/articles/miyoo-mini-plus-firmware-update-troubleshooting-list/",
-      "url": "https://pulsegeek.com/articles/miyoo-mini-plus-firmware-update-troubleshooting-list/",
-      "title": "Miyoo Mini Plus Firmware Update: Troubleshooting List",
-      "content_text": "A practical list to troubleshoot Miyoo Mini Plus firmware updates. Verify power, SD health, package integrity, safe mode recovery, and rollback paths to stabilize boot and avoid data loss.",
-      "date_published": "2026-01-23T22:44:00.0000000Z",
-      "date_modified": "2026-01-23T22:44:00.0000000Z"
+      "id": "https://pulsegeek.com/articles/how-to-monitor-wifi-8-sla-compliance-end-to-end/",
+      "url": "https://pulsegeek.com/articles/how-to-monitor-wifi-8-sla-compliance-end-to-end/",
+      "title": "How to Monitor WiFi 8 SLA Compliance End-to-End",
+      "content_text": "Learn how to monitor WiFi 8 SLA compliance end to end with practical SLO definitions, tooling setup, validation workflows, and tuning strategies that keep throughput, latency, jitter, and loss within targets.",
+      "date_published": "2026-02-05T22:36:00.0000000Z",
+      "date_modified": "2026-02-05T22:36:00.0000000Z"
     },
     {
-      "id": "https://pulsegeek.com/articles/mame-core-settings-on-miyoo-quick-compatibility-wins/",
-      "url": "https://pulsegeek.com/articles/mame-core-settings-on-miyoo-quick-compatibility-wins/",
-      "title": "MAME Core Settings on Miyoo: Quick Compatibility Wins",
-      "content_text": "Tune MAME on Miyoo for stable speed and compatibility using proven RetroArch options, ROMset hygiene, and smart per-game overrides. Follow clear steps, verify results, and fix common slowdowns without guesswork.",
-      "date_published": "2026-01-23T22:43:00.0000000Z",
-      "date_modified": "2026-01-23T22:43:00.0000000Z"
+      "id": "https://pulsegeek.com/articles/duckstation-command-line-options-explained/",
+      "url": "https://pulsegeek.com/articles/duckstation-command-line-options-explained/",
+      "title": "DuckStation Command-Line Options Explained",
+      "content_text": "Learn what DuckStation command-line options do, when to use them, and how to combine flags safely for testing, portability, and automation across Windows, macOS, and Linux.",
+      "date_published": "2026-02-05T22:35:00.0000000Z",
+      "date_modified": "2026-02-05T22:35:00.0000000Z"
     },
     {
-      "id": "https://pulsegeek.com/articles/miyoo-mini-stock-firmware-vs-onion-os-pick-wisely/",
-      "url": "https://pulsegeek.com/articles/miyoo-mini-stock-firmware-vs-onion-os-pick-wisely/",
-      "title": "Miyoo Mini Stock Firmware vs Onion OS: Pick Wisely",
-      "content_text": "Compare Miyoo Mini stock firmware and Onion OS with clear criteria, a side-by-side table, and scenario-based picks. Learn tradeoffs, upgrade paths, and when to switch.",
-      "date_published": "2026-01-23T22:42:00.0000000Z",
-      "date_modified": "2026-01-23T22:42:00.0000000Z"
+      "id": "https://pulsegeek.com/articles/wi-fi-9-mlo-performance-testing-a-how-to/",
+      "url": "https://pulsegeek.com/articles/wi-fi-9-mlo-performance-testing-a-how-to/",
+      "title": "Wi\u2011Fi 9 MLO Performance Testing: A How\u2011To",
+      "content_text": "Learn a repeatable method to plan, execute, and validate Wi\u2011Fi 9 MLO performance testing with realistic traffic, tooling choices, and troubleshooting tips for throughput and latency goals.",
+      "date_published": "2026-02-05T22:34:00.0000000Z",
+      "date_modified": "2026-02-05T22:34:00.0000000Z"
     },
     {
-      "id": "https://pulsegeek.com/articles/controller-policies-that-reduce-co-channel-interference/",
-      "url": "https://pulsegeek.com/articles/controller-policies-that-reduce-co-channel-interference/",
-      "title": "Controller Policies That Reduce Co\u2011Channel Interference",
-      "content_text": "Learn practical controller policies that cut co-channel interference in WiFi 8. Use airtime fairness, band steering, OBSS_PD, OFDMA, and QoS to stabilize throughput without harming coverage.",
-      "date_published": "2026-01-23T22:41:00.0000000Z",
-      "date_modified": "2026-01-23T22:41:00.0000000Z"
+      "id": "https://pulsegeek.com/articles/convert-raw-saves-to-vmp-vme-for-duckstation/",
+      "url": "https://pulsegeek.com/articles/convert-raw-saves-to-vmp-vme-for-duckstation/",
+      "title": "Convert Raw Saves to VMP/VME for DuckStation",
+      "content_text": "Learn how to convert raw PS1 saves into VMP or VME, preserve data, validate integrity, and avoid region issues when moving saves between DuckStation and PS3 or PSP.",
+      "date_published": "2026-02-05T22:33:00.0000000Z",
+      "date_modified": "2026-02-05T22:33:00.0000000Z"
     }
   ]
 }
