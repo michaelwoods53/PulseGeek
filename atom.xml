@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>PulseGeek</title>
   <id>https://pulsegeek.com/atom.xml</id>
-  <updated>2026-02-06T22:51:00Z</updated>
+  <updated>2026-02-15T22:50:00Z</updated>
   <link href="https://pulsegeek.com/atom.xml" rel="self" type="application/atom+xml" />
   <link href="https://pulsegeek.com" />
   <author>
@@ -10,353 +10,353 @@
   </author>
   <subtitle>Tech news, gaming, and geek culture in one pulse</subtitle>
   <entry>
-    <title>EIRP Limits and Power Planning for 320 MHz 6 GHz</title>
-    <id>https://pulsegeek.com/articles/eirp-limits-and-power-planning-for-320-mhz-6-ghz/</id>
-    <link href="https://pulsegeek.com/articles/eirp-limits-and-power-planning-for-320-mhz-6-ghz/" />
-    <updated>2026-02-06T22:51:00Z</updated>
-    <summary type="html"><![CDATA[Understand EIRP limits and power planning for 320 MHz on 6 GHz. Learn regulatory classes, antenna math, and practical design rules to balance range, MCS, and coexistence.]]></summary>
+    <title>How to Read SNR and RSSI on 320 MHz Links</title>
+    <id>https://pulsegeek.com/articles/how-to-read-snr-and-rssi-on-320-mhz-links/</id>
+    <link href="https://pulsegeek.com/articles/how-to-read-snr-and-rssi-on-320-mhz-links/" />
+    <updated>2026-02-15T22:50:00Z</updated>
+    <summary type="html"><![CDATA[Learn to interpret SNR and RSSI for 320 MHz WiFi 8 links, set practical thresholds, verify measurements across tools, and troubleshoot noise, distance, and client behavior with clear steps and a small parsing example.]]></summary>
   </entry>
   <entry>
-    <title>6 GHz Capacity Planning Calculator: Step‑By‑Step</title>
-    <id>https://pulsegeek.com/articles/6-ghz-capacity-planning-calculator-step-by-step/</id>
-    <link href="https://pulsegeek.com/articles/6-ghz-capacity-planning-calculator-step-by-step/" />
-    <updated>2026-02-06T22:50:00Z</updated>
-    <summary type="html"><![CDATA[Build a reliable 6 GHz Wi‑Fi capacity planning calculator. Define demand, map channels, set assumptions, run estimates, validate with tests, then tune.]]></summary>
+    <title>Packet Capture on 6 GHz: Adapters and Setup Steps</title>
+    <id>https://pulsegeek.com/articles/packet-capture-on-6-ghz-adapters-and-setup-steps/</id>
+    <link href="https://pulsegeek.com/articles/packet-capture-on-6-ghz-adapters-and-setup-steps/" />
+    <updated>2026-02-15T22:49:00Z</updated>
+    <summary type="html"><![CDATA[Learn reliable packet capture on 6 GHz with supported adapters, monitor mode configuration, channel settings, and validation workflows using Wireshark or tcpdump. Includes troubleshooting tips and common failure patterns.]]></summary>
   </entry>
   <entry>
-    <title>EHT QoS Profiles and Traffic Engineering: A How‑To</title>
-    <id>https://pulsegeek.com/articles/eht-qos-profiles-and-traffic-engineering-a-how-to/</id>
-    <link href="https://pulsegeek.com/articles/eht-qos-profiles-and-traffic-engineering-a-how-to/" />
-    <updated>2026-02-06T22:49:00Z</updated>
-    <summary type="html"><![CDATA[Learn to design EHT QoS profiles, map DSCP to Wi‑Fi access categories, shape flows, and validate latency with practical steps and safeguards.]]></summary>
+    <title>6 GHz Spectrum for EHT Deployment: What to Consider</title>
+    <id>https://pulsegeek.com/articles/6-ghz-spectrum-for-eht-deployment-what-to-consider/</id>
+    <link href="https://pulsegeek.com/articles/6-ghz-spectrum-for-eht-deployment-what-to-consider/" />
+    <updated>2026-02-15T22:48:00Z</updated>
+    <summary type="html"><![CDATA[Plan 6 GHz for EHT with clear definitions, selection frameworks, and realistic examples. Learn how AFC, channel width, and density interact to balance throughput, latency, and reliability.]]></summary>
   </entry>
   <entry>
-    <title>MLO Attack Surface in Wi‑Fi 7: Identify and Reduce</title>
-    <id>https://pulsegeek.com/articles/mlo-attack-surface-in-wi-fi-7-identify-and-reduce/</id>
-    <link href="https://pulsegeek.com/articles/mlo-attack-surface-in-wi-fi-7-identify-and-reduce/" />
-    <updated>2026-02-06T22:48:00Z</updated>
-    <summary type="html"><![CDATA[Learn how Wi‑Fi 7 Multi‑Link Operation expands the attack surface and what controls reduce risk. Map threats, prioritize monitoring, tune WIPS, and harden policy across home, shared, and enterprise environments.]]></summary>
+    <title>Wi‑Fi 7 Security Logs &amp; SIEM: Clean Signals Only</title>
+    <id>https://pulsegeek.com/articles/wi-fi-7-security-logs-and-siem-clean-signals-only/</id>
+    <link href="https://pulsegeek.com/articles/wi-fi-7-security-logs-and-siem-clean-signals-only/" />
+    <updated>2026-02-15T22:47:00Z</updated>
+    <summary type="html"><![CDATA[Set up Wi‑Fi 7 security logs for high signal quality, normalize events, and integrate with your SIEM. Learn mappings, transport choices, parsing patterns, validation queries, and safe tuning to reduce noise while preserving evidence.]]></summary>
   </entry>
   <entry>
-    <title>IoT Device Isolation on Enterprise Wi‑Fi: Checklist</title>
-    <id>https://pulsegeek.com/articles/iot-device-isolation-on-enterprise-wi-fi-checklist/</id>
-    <link href="https://pulsegeek.com/articles/iot-device-isolation-on-enterprise-wi-fi-checklist/" />
-    <updated>2026-02-06T22:47:00Z</updated>
-    <summary type="html"><![CDATA[A practical checklist for IoT isolation on enterprise Wi‑Fi. Classify devices, choose auth, enforce segmentation, restrict egress, and monitor behavior with tradeoffs and examples.]]></summary>
+    <title>WIDS/WIPS for Wi‑Fi 8: Detection and Response Map</title>
+    <id>https://pulsegeek.com/articles/wids-wips-for-wi-fi-8-detection-and-response-map/</id>
+    <link href="https://pulsegeek.com/articles/wids-wips-for-wi-fi-8-detection-and-response-map/" />
+    <updated>2026-02-15T22:46:00Z</updated>
+    <summary type="html"><![CDATA[Learn how WIDS and WIPS evolve for Wi‑Fi 8 with detection methods, response playbooks, data flows, and tuning tips to reduce false positives and speed triage.]]></summary>
   </entry>
   <entry>
-    <title>Do Gaming VPNs Hurt Wi‑Fi 7 Latency? What to Expect</title>
-    <id>https://pulsegeek.com/articles/do-gaming-vpns-hurt-wi-fi-7-latency-what-to-expect/</id>
-    <link href="https://pulsegeek.com/articles/do-gaming-vpns-hurt-wi-fi-7-latency-what-to-expect/" />
-    <updated>2026-02-06T22:46:00Z</updated>
-    <summary type="html"><![CDATA[Learn how gaming VPNs affect Wi‑Fi 7 latency. Understand routing paths, encryption overhead, and matchmaking effects, with decision lenses and scenarios to predict real ping changes.]]></summary>
+    <title>Traffic Shaping for Streaming Plus Gaming on Wi‑Fi 7</title>
+    <id>https://pulsegeek.com/articles/traffic-shaping-for-streaming-plus-gaming-on-wi-fi-7/</id>
+    <link href="https://pulsegeek.com/articles/traffic-shaping-for-streaming-plus-gaming-on-wi-fi-7/" />
+    <updated>2026-02-15T22:45:00Z</updated>
+    <summary type="html"><![CDATA[Balance streaming and gaming on Wi‑Fi 7 with QoS, SQM, WMM, MLO, and clean channel planning to reduce ping spikes while keeping video smooth.]]></summary>
   </entry>
   <entry>
-    <title>Wi‑Fi 7 Certification Requirements: What Labs Expect</title>
-    <id>https://pulsegeek.com/articles/wi-fi-7-certification-requirements-what-labs-expect/</id>
-    <link href="https://pulsegeek.com/articles/wi-fi-7-certification-requirements-what-labs-expect/" />
-    <updated>2026-02-06T22:45:00Z</updated>
-    <summary type="html"><![CDATA[Understand Wi‑Fi 7 certification requirements, what labs validate, common submission gaps, and how to prepare evidence, test logs, and OTA results for smoother Wi‑Fi Alliance EHT reviews.]]></summary>
+    <title>Backhaul Channel Planning for Wi‑Fi 7 Mesh Nodes</title>
+    <id>https://pulsegeek.com/articles/backhaul-channel-planning-for-wi-fi-7-mesh-nodes/</id>
+    <link href="https://pulsegeek.com/articles/backhaul-channel-planning-for-wi-fi-7-mesh-nodes/" />
+    <updated>2026-02-15T22:44:00Z</updated>
+    <summary type="html"><![CDATA[Learn how to plan Wi‑Fi 7 mesh backhaul channels, choose bands and widths, avoid interference, and validate links with practical tests and tuning guidance.]]></summary>
   </entry>
   <entry>
-    <title>Fix Retroid Pocket Boot Loop: Stepwise Power Recovery</title>
-    <id>https://pulsegeek.com/articles/fix-retroid-pocket-boot-loop-stepwise-power-recovery/</id>
-    <link href="https://pulsegeek.com/articles/fix-retroid-pocket-boot-loop-stepwise-power-recovery/" />
-    <updated>2026-02-06T22:44:00Z</updated>
-    <summary type="html"><![CDATA[Follow a calm, structured workflow to fix a Retroid Pocket boot loop. Plan backups, prepare ADB, use recovery safely, validate stability, and prevent repeat loops with practical checks and settings.]]></summary>
+    <title>SD Card Not Detected on Boot: Retroid Pocket Fix</title>
+    <id>https://pulsegeek.com/articles/sd-card-not-detected-on-boot-retroid-pocket-fix/</id>
+    <link href="https://pulsegeek.com/articles/sd-card-not-detected-on-boot-retroid-pocket-fix/" />
+    <updated>2026-02-15T22:43:00Z</updated>
+    <summary type="html"><![CDATA[Fix a Retroid Pocket that does not detect the SD card at boot. Follow a safe workflow covering slot checks, format choices, ADB validation, and recovery steps with clear checkpoints.]]></summary>
   </entry>
   <entry>
-    <title>Fix Save State Corruption on Onion OS Safely</title>
-    <id>https://pulsegeek.com/articles/fix-save-state-corruption-on-onion-os-safely/</id>
-    <link href="https://pulsegeek.com/articles/fix-save-state-corruption-on-onion-os-safely/" />
-    <updated>2026-02-06T22:43:00Z</updated>
-    <summary type="html"><![CDATA[Learn how to fix save state corruption on Onion OS without data loss. Follow a safe backup workflow, integrity checks, and recovery steps that restore stability and prevent repeat issues.]]></summary>
+    <title>Thermal Throttling on Onion OS Devices: Avoid It</title>
+    <id>https://pulsegeek.com/articles/thermal-throttling-on-onion-os-devices-avoid-it/</id>
+    <link href="https://pulsegeek.com/articles/thermal-throttling-on-onion-os-devices-avoid-it/" />
+    <updated>2026-02-15T22:42:00Z</updated>
+    <summary type="html"><![CDATA[Understand thermal throttling on Onion OS handhelds and reduce slowdowns with smart monitoring, power profiles, cooling habits, and config hygiene. Learn tradeoffs and safe temperature ranges to keep performance steady.]]></summary>
   </entry>
   <entry>
-    <title>Merge and Split Archives for Onion OS ROMs Safely</title>
-    <id>https://pulsegeek.com/articles/merge-and-split-archives-for-onion-os-roms-safely/</id>
-    <link href="https://pulsegeek.com/articles/merge-and-split-archives-for-onion-os-roms-safely/" />
-    <updated>2026-02-06T22:42:00Z</updated>
-    <summary type="html"><![CDATA[Learn how to merge and split game archives for Onion OS ROMs safely using 7-Zip and Zip. Follow planning, setup, step-by-step commands, validation, and fixes to avoid corruption.]]></summary>
+    <title>SD Card Format for Onion OS: The Definitive Playbook</title>
+    <id>https://pulsegeek.com/articles/sd-card-format-for-onion-os-the-definitive-playbook/</id>
+    <link href="https://pulsegeek.com/articles/sd-card-format-for-onion-os-the-definitive-playbook/" />
+    <updated>2026-02-15T22:41:00Z</updated>
+    <summary type="html"><![CDATA[Learn how to choose the right SD card format for Onion OS, when to use exFAT or FAT32, how to partition safely, and prevent corruption with verified backups and smart workflows.]]></summary>
   </entry>
   <entry>
-    <title>Map Fast Forward on Miyoo Without Stutter</title>
-    <id>https://pulsegeek.com/articles/map-fast-forward-on-miyoo-without-stutter/</id>
-    <link href="https://pulsegeek.com/articles/map-fast-forward-on-miyoo-without-stutter/" />
-    <updated>2026-02-06T22:41:00Z</updated>
-    <summary type="html"><![CDATA[Learn how to map fast forward on Miyoo the right way. Configure RetroArch hotkeys, throttle, and sync settings to speed up safely without audio pops or skipped frames.]]></summary>
+    <title>Which Cores Run Full Speed on Miyoo Mini?</title>
+    <id>https://pulsegeek.com/articles/which-cores-run-full-speed-on-miyoo-mini/</id>
+    <link href="https://pulsegeek.com/articles/which-cores-run-full-speed-on-miyoo-mini/" />
+    <updated>2026-02-15T22:40:00Z</updated>
+    <summary type="html"><![CDATA[Find which RetroArch cores hit full speed on Miyoo Mini, why they do, and how to validate settings without overclocking using overrides, scaling, and latency tuning.]]></summary>
   </entry>
   <entry>
-    <title>Miyoo Buttons Not Responding After Flash: Recover Input</title>
-    <id>https://pulsegeek.com/articles/miyoo-buttons-not-responding-after-flash-recover-input/</id>
-    <link href="https://pulsegeek.com/articles/miyoo-buttons-not-responding-after-flash-recover-input/" />
-    <updated>2026-02-06T22:40:00Z</updated>
-    <summary type="html"><![CDATA[Buttons stopped working on Miyoo after flashing new firmware. Follow this step by step guide to restore inputs, confirm mappings, and prevent conflicts across RetroArch and system hotkeys.]]></summary>
+    <title>Miyoo Random Crashes: How to Diagnose and Stabilize</title>
+    <id>https://pulsegeek.com/articles/miyoo-random-crashes-how-to-diagnose-and-stabilize/</id>
+    <link href="https://pulsegeek.com/articles/miyoo-random-crashes-how-to-diagnose-and-stabilize/" />
+    <updated>2026-02-15T22:39:00Z</updated>
+    <summary type="html"><![CDATA[Learn structured methods to diagnose Miyoo random crashes, isolate root causes, and stabilize sessions with safe power, thermal, Wi‑Fi, and save settings.]]></summary>
   </entry>
   <entry>
-    <title>How to Test Input Lag on Miyoo RetroArch</title>
-    <id>https://pulsegeek.com/articles/how-to-test-input-lag-on-miyoo-retroarch/</id>
-    <link href="https://pulsegeek.com/articles/how-to-test-input-lag-on-miyoo-retroarch/" />
-    <updated>2026-02-06T22:39:00Z</updated>
-    <summary type="html"><![CDATA[Learn practical ways to test input lag on Miyoo RetroArch using frame advance, frame counter, audio cues, and runahead validation. Get reliable baselines, avoid common pitfalls, and verify real gains.]]></summary>
+    <title>Create RetroArch Playlists on Miyoo the Smart Way</title>
+    <id>https://pulsegeek.com/articles/create-retroarch-playlists-on-miyoo-the-smart-way/</id>
+    <link href="https://pulsegeek.com/articles/create-retroarch-playlists-on-miyoo-the-smart-way/" />
+    <updated>2026-02-15T22:38:00Z</updated>
+    <summary type="html"><![CDATA[Learn reliable RetroArch playlist creation on Miyoo. Plan folder paths, scan ROMs, build multi-disc lists, validate cores, and fix mismatches without corrupting saves or settings.]]></summary>
   </entry>
   <entry>
-    <title>Miyoo Mini Accessories: Setup Essentials That Help</title>
-    <id>https://pulsegeek.com/articles/miyoo-mini-accessories-setup-essentials-that-help/</id>
-    <link href="https://pulsegeek.com/articles/miyoo-mini-accessories-setup-essentials-that-help/" />
-    <updated>2026-02-06T22:38:00Z</updated>
-    <summary type="html"><![CDATA[Outfit your Miyoo Mini with setup-ready accessories. See storage, cables, protection, and power picks with examples, tradeoffs, and safe practices for a smooth first session.]]></summary>
+    <title>Miyoo Mini SD Card Setup: Format, Folders, and Tips</title>
+    <id>https://pulsegeek.com/articles/miyoo-mini-sd-card-setup-format-folders-and-tips/</id>
+    <link href="https://pulsegeek.com/articles/miyoo-mini-sd-card-setup-format-folders-and-tips/" />
+    <updated>2026-02-15T22:37:00Z</updated>
+    <summary type="html"><![CDATA[Learn how to set up a Miyoo Mini SD card with safe FAT32 formatting, organized ROM and BIOS folders, checksum verification, and backup habits that reduce errors and protect saves.]]></summary>
   </entry>
   <entry>
-    <title>Can USB 3 Noise Disrupt 2.4 GHz WiFi?</title>
-    <id>https://pulsegeek.com/articles/can-usb-3-noise-disrupt-2-4-ghz-wifi/</id>
-    <link href="https://pulsegeek.com/articles/can-usb-3-noise-disrupt-2-4-ghz-wifi/" />
-    <updated>2026-02-06T22:37:00Z</updated>
-    <summary type="html"><![CDATA[Yes. Poorly shielded USB 3 cables and hubs can radiate broadband noise near 2.4 GHz and degrade WiFi. Learn symptoms, when it happens, how to test, and practical fixes.]]></summary>
+    <title>Shield or Relocate Noisy IoT Devices: A How‑To</title>
+    <id>https://pulsegeek.com/articles/shield-or-relocate-noisy-iot-devices-a-how-to/</id>
+    <link href="https://pulsegeek.com/articles/shield-or-relocate-noisy-iot-devices-a-how-to/" />
+    <updated>2026-02-15T22:36:00Z</updated>
+    <summary type="html"><![CDATA[Learn step by step how to shield or relocate noisy IoT devices to reduce WiFi 8 interference, validate improvements, and tune placement with evidence.]]></summary>
   </entry>
   <entry>
-    <title>Latency and Jitter Thresholds for WiFi SLAs Explained</title>
-    <id>https://pulsegeek.com/articles/latency-and-jitter-thresholds-for-wifi-slas-explained/</id>
-    <link href="https://pulsegeek.com/articles/latency-and-jitter-thresholds-for-wifi-slas-explained/" />
-    <updated>2026-02-06T22:36:00Z</updated>
-    <summary type="html"><![CDATA[Learn how to set latency and jitter thresholds for WiFi SLAs, choose measurement points, and balance strictness with stability. See examples by application class and decision tradeoffs that align with capacity planning and QoS.]]></summary>
+    <title>Capacity Uplift Modeling: WiFi 6/7 to WiFi 8</title>
+    <id>https://pulsegeek.com/articles/capacity-uplift-modeling-wifi-6-7-to-wifi-8/</id>
+    <link href="https://pulsegeek.com/articles/capacity-uplift-modeling-wifi-6-7-to-wifi-8/" />
+    <updated>2026-02-15T22:35:00Z</updated>
+    <summary type="html"><![CDATA[Learn how to model capacity uplift when moving from WiFi 6 or WiFi 7 to WiFi 8 using traffic mix, airtime math, and constraints to guide budgets and timelines.]]></summary>
   </entry>
   <entry>
-    <title>DuckStation First-Time Setup Wizard: Steps</title>
-    <id>https://pulsegeek.com/articles/duckstation-first-time-setup-wizard-steps/</id>
-    <link href="https://pulsegeek.com/articles/duckstation-first-time-setup-wizard-steps/" />
-    <updated>2026-02-06T22:35:00Z</updated>
-    <summary type="html"><![CDATA[Follow the DuckStation first-time setup wizard with confidence. Learn key steps for language, user data, BIOS verification, library scanning, and controller presets, plus tradeoffs for accuracy, speed, and portability.]]></summary>
+    <title>Install DuckStation on Windows 11: Fast Path</title>
+    <id>https://pulsegeek.com/articles/install-duckstation-on-windows-11-fast-path/</id>
+    <link href="https://pulsegeek.com/articles/install-duckstation-on-windows-11-fast-path/" />
+    <updated>2026-02-15T22:34:00Z</updated>
+    <summary type="html"><![CDATA[Follow a safe, step-by-step path to install DuckStation on Windows 11, verify files, set BIOS and folders, and optimize graphics and input settings without risking saves or performance.]]></summary>
   </entry>
   <entry>
-    <title>Wi‑Fi 9 Network Benchmarking: A Solid Method</title>
-    <id>https://pulsegeek.com/articles/wi-fi-9-network-benchmarking-a-solid-method/</id>
-    <link href="https://pulsegeek.com/articles/wi-fi-9-network-benchmarking-a-solid-method/" />
-    <updated>2026-02-06T22:34:00Z</updated>
-    <summary type="html"><![CDATA[Learn a practical Wi‑Fi 9 network benchmarking methodology that separates RF from stack performance, reduces bias, and maps tests to goals like latency or throughput.]]></summary>
+    <title>Cloud‑Managed Wi‑Fi 9 Options Compared</title>
+    <id>https://pulsegeek.com/articles/cloud-managed-wi-fi-9-options-compared/</id>
+    <link href="https://pulsegeek.com/articles/cloud-managed-wi-fi-9-options-compared/" />
+    <updated>2026-02-15T22:33:00Z</updated>
+    <summary type="html"><![CDATA[Compare cloud-managed Wi‑Fi 9 approaches across security, resilience, cost, and visibility. See tradeoffs between pure cloud, hybrid, and gateway designs with scenario-based recommendations for campuses, retail, healthcare, and manufacturing.]]></summary>
   </entry>
   <entry>
-    <title>DuckStation + MemcardRex: A Reliable Workflow</title>
-    <id>https://pulsegeek.com/articles/duckstation-plus-memcardrex-a-reliable-workflow/</id>
-    <link href="https://pulsegeek.com/articles/duckstation-plus-memcardrex-a-reliable-workflow/" />
-    <updated>2026-02-06T22:33:00Z</updated>
-    <summary type="html"><![CDATA[Learn how DuckStation and MemcardRex fit together for safe PS1 save handling, conversions, and backups, with practical decision rules and guardrails that prevent corruption and keep migrations reversible.]]></summary>
+    <title>Transfer DuckStation Saves to a Real PS1</title>
+    <id>https://pulsegeek.com/articles/transfer-duckstation-saves-to-a-real-ps1/</id>
+    <link href="https://pulsegeek.com/articles/transfer-duckstation-saves-to-a-real-ps1/" />
+    <updated>2026-02-15T22:32:00Z</updated>
+    <summary type="html"><![CDATA[Learn safe, repeatable steps to move DuckStation memory card saves onto a physical PS1 card using correct formats, checks, and verification.]]></summary>
   </entry>
   <entry>
-    <title>DuckStation Widescreen Hack: Avoid Texture Glitches</title>
-    <id>https://pulsegeek.com/articles/duckstation-widescreen-hack-avoid-texture-glitches/</id>
-    <link href="https://pulsegeek.com/articles/duckstation-widescreen-hack-avoid-texture-glitches/" />
-    <updated>2026-02-06T22:32:00Z</updated>
-    <summary type="html"><![CDATA[Fix texture glitches caused by the DuckStation widescreen hack. Learn safe settings, per-game choices, verification steps, and fixes for GPU backends and PGXP interactions.]]></summary>
+    <title>DuckStation Settings: Install, Paths, and Safe Tweaks</title>
+    <id>https://pulsegeek.com/articles/duckstation-settings-install-paths-and-safe-tweaks/</id>
+    <link href="https://pulsegeek.com/articles/duckstation-settings-install-paths-and-safe-tweaks/" />
+    <updated>2026-02-15T22:31:00Z</updated>
+    <summary type="html"><![CDATA[Learn DuckStation settings that matter for install type, correct paths, safe tweaks, and reliable logging. Follow practical workflows to keep performance stable and fixes reproducible.]]></summary>
   </entry>
   <entry>
-    <title>Connect Controllers for Non‑Steam Launchers on Deck</title>
-    <id>https://pulsegeek.com/articles/connect-controllers-for-non-steam-launchers-on-deck/</id>
-    <link href="https://pulsegeek.com/articles/connect-controllers-for-non-steam-launchers-on-deck/" />
-    <updated>2026-02-06T22:31:00Z</updated>
-    <summary type="html"><![CDATA[Learn how to connect and map controllers for non‑Steam launchers on Steam Deck. Follow planning, setup, pairing, mapping, and validation steps, with fixes for Bluetooth, Proton input, and launcher quirks.]]></summary>
+    <title>Set Up Battle.net on Steam Deck With Proton</title>
+    <id>https://pulsegeek.com/articles/set-up-battle-net-on-steam-deck-with-proton/</id>
+    <link href="https://pulsegeek.com/articles/set-up-battle-net-on-steam-deck-with-proton/" />
+    <updated>2026-02-15T22:30:00Z</updated>
+    <summary type="html"><![CDATA[Follow a precise Steam Deck walkthrough to install Battle.net under Proton, pick the right prefix, tune versions, validate performance, and fix common launch or login issues with safe, testable steps.]]></summary>
   </entry>
   <entry>
-    <title>Pacman vs Flatpak on Steam Deck: When to Use Each</title>
-    <id>https://pulsegeek.com/articles/pacman-vs-flatpak-on-steam-deck-when-to-use-each/</id>
-    <link href="https://pulsegeek.com/articles/pacman-vs-flatpak-on-steam-deck-when-to-use-each/" />
-    <updated>2026-02-06T22:30:00Z</updated>
-    <summary type="html"><![CDATA[Compare pacman and Flatpak on Steam Deck across security, performance, storage, updates, and integration. Learn when each method fits gaming, desktop tasks, and long term maintenance without surprises.]]></summary>
+    <title>What Are Arch Repos on SteamOS? Clear Answer</title>
+    <id>https://pulsegeek.com/articles/what-are-arch-repos-on-steamos-clear-answer/</id>
+    <link href="https://pulsegeek.com/articles/what-are-arch-repos-on-steamos-clear-answer/" />
+    <updated>2026-02-15T22:29:00Z</updated>
+    <summary type="html"><![CDATA[Learn how SteamOS uses curated Arch repositories, why pacman targets snapshots, when to use them versus Flatpak, and how to verify sources safely.]]></summary>
   </entry>
   <entry>
-    <title>GaN Charger vs Standard Charger for Steam Deck Travel</title>
-    <id>https://pulsegeek.com/articles/gan-charger-vs-standard-charger-for-steam-deck-travel/</id>
-    <link href="https://pulsegeek.com/articles/gan-charger-vs-standard-charger-for-steam-deck-travel/" />
-    <updated>2026-02-06T22:29:00Z</updated>
-    <summary type="html"><![CDATA[Compare GaN and standard chargers for Steam Deck travel with clear criteria, heat and size tradeoffs, charging speed, cable safety, and airline readiness.]]></summary>
+    <title>What Size Power Bank for an All‑Day Steam Deck Session?</title>
+    <id>https://pulsegeek.com/articles/what-size-power-bank-for-an-all-day-steam-deck-session/</id>
+    <link href="https://pulsegeek.com/articles/what-size-power-bank-for-an-all-day-steam-deck-session/" />
+    <updated>2026-02-15T22:28:00Z</updated>
+    <summary type="html"><![CDATA[Find the right power bank size for an all‑day Steam Deck session. Learn watt‑hours, real game draw, PD output, conversion losses, and validation steps.]]></summary>
   </entry>
   <entry>
-    <title>Enable QoS for Low-Latency Game Streaming on LAN</title>
-    <id>https://pulsegeek.com/articles/enable-qos-for-low-latency-game-streaming-on-lan/</id>
-    <link href="https://pulsegeek.com/articles/enable-qos-for-low-latency-game-streaming-on-lan/" />
-    <updated>2026-02-06T22:28:00Z</updated>
-    <summary type="html"><![CDATA[Step-by-step guide to enable QoS on your router for low-latency LAN game streaming. Plan, configure, verify, and troubleshoot queueing, DSCP, and bandwidth limits for smooth Steam Deck sessions.]]></summary>
+    <title>Wi‑Fi 6E Channel Planning for Smooth Streaming</title>
+    <id>https://pulsegeek.com/articles/wi-fi-6e-channel-planning-for-smooth-streaming/</id>
+    <link href="https://pulsegeek.com/articles/wi-fi-6e-channel-planning-for-smooth-streaming/" />
+    <updated>2026-02-15T22:27:00Z</updated>
+    <summary type="html"><![CDATA[Learn step-by-step Wi‑Fi 6E channel planning for smooth Steam Deck streaming. Pick clean 6 GHz channels, set widths, avoid overlap, and validate latency and jitter.]]></summary>
   </entry>
   <entry>
-    <title>HDMI Dock Audio vs Bluetooth Output on Steam Deck</title>
-    <id>https://pulsegeek.com/articles/hdmi-dock-audio-vs-bluetooth-output-on-steam-deck/</id>
-    <link href="https://pulsegeek.com/articles/hdmi-dock-audio-vs-bluetooth-output-on-steam-deck/" />
-    <updated>2026-02-06T22:27:00Z</updated>
-    <summary type="html"><![CDATA[Compare HDMI dock audio and Bluetooth output on Steam Deck for latency, mic support, stability, and convenience. Learn when to pick each path for games and chat.]]></summary>
+    <title>Use a Bluetooth Headset Mic with Steam Games on Deck</title>
+    <id>https://pulsegeek.com/articles/use-a-bluetooth-headset-mic-with-steam-games-on-deck/</id>
+    <link href="https://pulsegeek.com/articles/use-a-bluetooth-headset-mic-with-steam-games-on-deck/" />
+    <updated>2026-02-15T22:26:00Z</updated>
+    <summary type="html"><![CDATA[Learn to use a Bluetooth headset mic with Steam games on Steam Deck. Plan profiles, prepare PipeWire and devices, execute routing, validate inputs, and fix latency or quality issues with clear steps.]]></summary>
   </entry>
   <entry>
-    <title>Band Steering Settings for Handheld Gaming: Best Use</title>
-    <id>https://pulsegeek.com/articles/band-steering-settings-for-handheld-gaming-best-use/</id>
-    <link href="https://pulsegeek.com/articles/band-steering-settings-for-handheld-gaming-best-use/" />
-    <updated>2026-02-06T22:26:00Z</updated>
-    <summary type="html"><![CDATA[Learn when to enable band steering for handheld gaming, how to tune thresholds and 802.11k/v/r, and which widths and channels reduce lag without new hardware.]]></summary>
+    <title>QoS Settings for Steam Deck Gaming: Prioritize Play</title>
+    <id>https://pulsegeek.com/articles/qos-settings-for-steam-deck-gaming-prioritize-play/</id>
+    <link href="https://pulsegeek.com/articles/qos-settings-for-steam-deck-gaming-prioritize-play/" />
+    <updated>2026-02-15T22:25:00Z</updated>
+    <summary type="html"><![CDATA[Learn how to configure QoS for Steam Deck to reduce latency, tame bufferbloat, and keep gameplay stable under household load with clear, vendor-agnostic steps.]]></summary>
   </entry>
   <entry>
-    <title>Download and Import Per-Game Profiles on Steam Deck</title>
-    <id>https://pulsegeek.com/articles/download-and-import-per-game-profiles-on-steam-deck/</id>
-    <link href="https://pulsegeek.com/articles/download-and-import-per-game-profiles-on-steam-deck/" />
-    <updated>2026-02-06T22:25:00Z</updated>
-    <summary type="html"><![CDATA[Learn how to download, adapt, and import per-game profiles on Steam Deck using safe, reversible tweaks for cooler play and steadier frames.]]></summary>
+    <title>Starfield on Steam Deck: Thermal‑Friendly Settings</title>
+    <id>https://pulsegeek.com/articles/starfield-on-steam-deck-thermal-friendly-settings/</id>
+    <link href="https://pulsegeek.com/articles/starfield-on-steam-deck-thermal-friendly-settings/" />
+    <updated>2026-02-15T22:24:00Z</updated>
+    <summary type="html"><![CDATA[Practical Starfield settings for Steam Deck that trade a little fidelity for cooler temperatures, steadier frame pacing, and lower fan noise during long sessions.]]></summary>
   </entry>
   <entry>
-    <title>Fix Packet Loss on Steam Deck: Diagnostics to Done</title>
-    <id>https://pulsegeek.com/articles/fix-packet-loss-on-steam-deck-diagnostics-to-done/</id>
-    <link href="https://pulsegeek.com/articles/fix-packet-loss-on-steam-deck-diagnostics-to-done/" />
-    <updated>2026-02-06T22:24:00Z</updated>
-    <summary type="html"><![CDATA[Learn how to diagnose and fix packet loss on Steam Deck with practical tests, router tweaks, DNS choices, and Wi‑Fi adjustments, then validate stability so online play and matchmaking stay reliable.]]></summary>
+    <title>Voice Chat on Steam Deck: Reliable Setup and Fixes</title>
+    <id>https://pulsegeek.com/articles/voice-chat-on-steam-deck-reliable-setup-and-fixes/</id>
+    <link href="https://pulsegeek.com/articles/voice-chat-on-steam-deck-reliable-setup-and-fixes/" />
+    <updated>2026-02-15T22:23:00Z</updated>
+    <summary type="html"><![CDATA[Set up dependable voice chat on Steam Deck with stepwise configuration, PipeWire tuning, validation tips, and targeted fixes for latency, echo, and device conflicts.]]></summary>
   </entry>
   <entry>
-    <title>Latency and Jitter Tests with Punctured Channels</title>
-    <id>https://pulsegeek.com/articles/latency-and-jitter-tests-with-punctured-channels/</id>
-    <link href="https://pulsegeek.com/articles/latency-and-jitter-tests-with-punctured-channels/" />
-    <updated>2026-02-06T22:23:00Z</updated>
-    <summary type="html"><![CDATA[Learn how to plan, run, and validate latency and jitter tests on Wi‑Fi 8 punctured channels with iperf3 and pings, including setups, parameters, verification, and troubleshooting to separate RF issues from host or path effects.]]></summary>
+    <title>Which Analyzers Detect Punctured Preamble Events?</title>
+    <id>https://pulsegeek.com/articles/which-analyzers-detect-punctured-preamble-events/</id>
+    <link href="https://pulsegeek.com/articles/which-analyzers-detect-punctured-preamble-events/" />
+    <updated>2026-02-15T22:22:00Z</updated>
+    <summary type="html"><![CDATA[Learn which tools reliably detect punctured preamble events in Wi‑Fi 8, when to use spectrum or protocol analyzers, validation workflows, and practical tradeoffs.]]></summary>
   </entry>
   <entry>
-    <title>Modding Basics, Legalities, and Safety: Full Guide</title>
-    <id>https://pulsegeek.com/articles/modding-basics-legalities-and-safety-full-guide/</id>
-    <link href="https://pulsegeek.com/articles/modding-basics-legalities-and-safety-full-guide/" />
-    <updated>2026-02-06T22:22:00Z</updated>
-    <summary type="html"><![CDATA[Learn game modding basics with practical safety steps, legal guardrails, and proven workflows. Build stable setups, avoid bans, and pick trustworthy mods with confidence.]]></summary>
+    <title>Is Game Modding Legal? Rules, Rights, and Boundaries</title>
+    <id>https://pulsegeek.com/articles/is-game-modding-legal-rules-rights-and-boundaries/</id>
+    <link href="https://pulsegeek.com/articles/is-game-modding-legal-rules-rights-and-boundaries/" />
+    <updated>2026-02-15T22:21:00Z</updated>
+    <summary type="html"><![CDATA[Learn when game modding is legal, how EULAs, copyright, and anti-cheat shape limits, and what practices keep your mods compliant and safe.]]></summary>
   </entry>
   <entry>
-    <title>Write Main Quest Arcs and Milestones That Land</title>
-    <id>https://pulsegeek.com/articles/write-main-quest-arcs-and-milestones-that-land/</id>
-    <link href="https://pulsegeek.com/articles/write-main-quest-arcs-and-milestones-that-land/" />
-    <updated>2026-02-06T22:21:00Z</updated>
-    <summary type="html"><![CDATA[Learn how to design main quest arcs and milestones that align stakes, pacing, and rewards with story progression. Plan structure, prep tools, execute steps, validate outcomes, and fix edge cases.]]></summary>
+    <title>Cloud Controllers with AI Ops for 320 MHz</title>
+    <id>https://pulsegeek.com/articles/cloud-controllers-with-ai-ops-for-320-mhz/</id>
+    <link href="https://pulsegeek.com/articles/cloud-controllers-with-ai-ops-for-320-mhz/" />
+    <updated>2026-02-14T22:50:00Z</updated>
+    <summary type="html"><![CDATA[Evaluate cloud controllers that apply AI Ops to 320 MHz links, with baselines, utilization telemetry, alerting, and SNR insights that translate into cleaner airtime and steadier latency.]]></summary>
   </entry>
   <entry>
-    <title>Dynamic Bandwidth vs Fixed 320 MHz</title>
-    <id>https://pulsegeek.com/articles/dynamic-bandwidth-vs-fixed-320-mhz/</id>
-    <link href="https://pulsegeek.com/articles/dynamic-bandwidth-vs-fixed-320-mhz/" />
-    <updated>2026-02-05T22:51:00Z</updated>
-    <summary type="html"><![CDATA[Compare dynamic bandwidth operation against fixed 320 MHz in WiFi 8. Learn how to weigh interference, latency, airtime, and QoS to choose settings for real sites.]]></summary>
+    <title>OFDMA RU Planning in 6 GHz: Allocation That Works</title>
+    <id>https://pulsegeek.com/articles/ofdma-ru-planning-in-6-ghz-allocation-that-works/</id>
+    <link href="https://pulsegeek.com/articles/ofdma-ru-planning-in-6-ghz-allocation-that-works/" />
+    <updated>2026-02-14T22:49:00Z</updated>
+    <summary type="html"><![CDATA[Learn practical OFDMA resource unit planning for 6 GHz WiFi. Compare RU sizes, map to client mixes, and balance throughput, latency, and airtime with repeatable decision lenses.]]></summary>
   </entry>
   <entry>
-    <title>6 GHz Performance Optimization: Latency, RU, and MLO</title>
-    <id>https://pulsegeek.com/articles/6-ghz-performance-optimization-latency-ru-and-mlo/</id>
-    <link href="https://pulsegeek.com/articles/6-ghz-performance-optimization-latency-ru-and-mlo/" />
-    <updated>2026-02-05T22:50:00Z</updated>
-    <summary type="html"><![CDATA[Master 6 GHz performance optimization with practical guidance on latency control, RU scheduling, and MLO. Learn tradeoffs, workflows, and testing methods to validate improvements in real networks.]]></summary>
+    <title>320 MHz Channels Planning Guide for 802.11be EHT</title>
+    <id>https://pulsegeek.com/articles/320-mhz-channels-planning-guide-for-802-11be-eht/</id>
+    <link href="https://pulsegeek.com/articles/320-mhz-channels-planning-guide-for-802-11be-eht/" />
+    <updated>2026-02-14T22:48:00Z</updated>
+    <summary type="html"><![CDATA[Plan, configure, and validate 320 MHz Wi‑Fi 7 channels with 6 GHz rules, puncturing choices, and verification steps that protect throughput while avoiding avoidable interference.]]></summary>
   </entry>
   <entry>
-    <title>EAP Methods for 6 GHz and EHT: Choose with Purpose</title>
-    <id>https://pulsegeek.com/articles/eap-methods-for-6-ghz-and-eht-choose-with-purpose/</id>
-    <link href="https://pulsegeek.com/articles/eap-methods-for-6-ghz-and-eht-choose-with-purpose/" />
-    <updated>2026-02-05T22:49:00Z</updated>
-    <summary type="html"><![CDATA[Learn which EAP methods fit 6 GHz and EHT. Compare EAP‑TLS, TEAP, and TTLS for security, roaming, and device onboarding with tradeoffs and clear guidance.]]></summary>
+    <title>Wi‑Fi 7 Security KPIs: What to Track and Why</title>
+    <id>https://pulsegeek.com/articles/wi-fi-7-security-kpis-what-to-track-and-why/</id>
+    <link href="https://pulsegeek.com/articles/wi-fi-7-security-kpis-what-to-track-and-why/" />
+    <updated>2026-02-14T22:47:00Z</updated>
+    <summary type="html"><![CDATA[Track Wi‑Fi 7 security with KPIs for authentication, WPA3, PMF, rogues, WIDS/WIPS precision, MLO stability, and SIEM log quality to drive measurable improvements.]]></summary>
   </entry>
   <entry>
-    <title>Management Frame Attacks on Wi‑Fi 7: What’s New?</title>
-    <id>https://pulsegeek.com/articles/management-frame-attacks-on-wi-fi-7-whats-new/</id>
-    <link href="https://pulsegeek.com/articles/management-frame-attacks-on-wi-fi-7-whats-new/" />
-    <updated>2026-02-05T22:48:00Z</updated>
-    <summary type="html"><![CDATA[Learn how Wi‑Fi 7 changes management frame attacks, what protections matter now, and how to prioritize WIPS settings, policy, and monitoring without breaking user experience.]]></summary>
+    <title>What Is Dynamic VLAN Assignment in Wi‑Fi?</title>
+    <id>https://pulsegeek.com/articles/what-is-dynamic-vlan-assignment-in-wi-fi/</id>
+    <link href="https://pulsegeek.com/articles/what-is-dynamic-vlan-assignment-in-wi-fi/" />
+    <updated>2026-02-14T22:46:00Z</updated>
+    <summary type="html"><![CDATA[Dynamic VLAN assignment maps user or device identity to a VLAN at Wi‑Fi authentication time to segment traffic, reduce broadcast scope, and simplify operations.]]></summary>
   </entry>
   <entry>
-    <title>Guest Network Isolation: Wireless Best Practices</title>
-    <id>https://pulsegeek.com/articles/guest-network-isolation-wireless-best-practices/</id>
-    <link href="https://pulsegeek.com/articles/guest-network-isolation-wireless-best-practices/" />
-    <updated>2026-02-05T22:47:00Z</updated>
-    <summary type="html"><![CDATA[Design secure guest Wi‑Fi with isolation, client containment, dynamic VLANs, and controlled egress. Learn practical configurations, tradeoffs, and monitoring patterns that keep visitor traffic separate without breaking user experience.]]></summary>
+    <title>Smart Queue Management (SQM) on Wi‑Fi 7 for Gaming</title>
+    <id>https://pulsegeek.com/articles/smart-queue-management-sqm-on-wi-fi-7-for-gaming/</id>
+    <link href="https://pulsegeek.com/articles/smart-queue-management-sqm-on-wi-fi-7-for-gaming/" />
+    <updated>2026-02-14T22:45:00Z</updated>
+    <summary type="html"><![CDATA[Learn how Smart Queue Management reduces latency and jitter on Wi‑Fi 7. Understand shaping vs scheduling, pick target rates, and tune queue disciplines for smoother gaming during heavy home traffic.]]></summary>
   </entry>
   <entry>
-    <title>Console QoS on Wi‑Fi 7: Xbox and PlayStation Setup</title>
-    <id>https://pulsegeek.com/articles/console-qos-on-wi-fi-7-xbox-and-playstation-setup/</id>
-    <link href="https://pulsegeek.com/articles/console-qos-on-wi-fi-7-xbox-and-playstation-setup/" />
-    <updated>2026-02-05T22:46:00Z</updated>
-    <summary type="html"><![CDATA[Set up console QoS on Wi‑Fi 7 to lower ping on Xbox and PlayStation. Learn DSCP to WMM mapping, SQM, channel choices, and measurement tactics for steadier gameplay.]]></summary>
+    <title>Wi‑Fi 7 Network Design: Principles, Planning, Practice</title>
+    <id>https://pulsegeek.com/articles/wi-fi-7-network-design-principles-planning-practice/</id>
+    <link href="https://pulsegeek.com/articles/wi-fi-7-network-design-principles-planning-practice/" />
+    <updated>2026-02-14T22:44:00Z</updated>
+    <summary type="html"><![CDATA[Plan and deploy Wi‑Fi 7 with clear design principles, sizing guidance, QoS and security patterns, and wired backhaul choices. Learn workflows that connect standards to practical rollout steps.]]></summary>
   </entry>
   <entry>
-    <title>What’s Required for Wi‑Fi 7 Pre‑Cert Testing?</title>
-    <id>https://pulsegeek.com/articles/whats-required-for-wi-fi-7-pre-cert-testing/</id>
-    <link href="https://pulsegeek.com/articles/whats-required-for-wi-fi-7-pre-cert-testing/" />
-    <updated>2026-02-05T22:45:00Z</updated>
-    <summary type="html"><![CDATA[Learn the required scope for Wi‑Fi 7 pre‑cert testing, including EHT features, RF sanity checks, interoperability, and documentation that reduces risk before formal certification.]]></summary>
+    <title>Retroid Pocket Stuck on Logo: Clear Unbrick Workflow</title>
+    <id>https://pulsegeek.com/articles/retroid-pocket-stuck-on-logo-clear-unbrick-workflow/</id>
+    <link href="https://pulsegeek.com/articles/retroid-pocket-stuck-on-logo-clear-unbrick-workflow/" />
+    <updated>2026-02-14T22:43:00Z</updated>
+    <summary type="html"><![CDATA[Fix a Retroid Pocket stuck on the boot logo with a structured unbrick path using safe resets, Recovery Mode, ADB or Fastboot, and verification checks.]]></summary>
   </entry>
   <entry>
-    <title>Firmware Update Stuck on Retroid Pocket: Clear Path</title>
-    <id>https://pulsegeek.com/articles/firmware-update-stuck-on-retroid-pocket-clear-path/</id>
-    <link href="https://pulsegeek.com/articles/firmware-update-stuck-on-retroid-pocket-clear-path/" />
-    <updated>2026-02-05T22:44:00Z</updated>
-    <summary type="html"><![CDATA[Fix a stuck Retroid Pocket firmware update with a calm, stepwise plan. Verify power, backup data, use Recovery or Fastboot, then validate. Includes safe commands, small comparison table, and practical troubleshooting.]]></summary>
+    <title>Rollback a RetroArch Core Version on Onion OS</title>
+    <id>https://pulsegeek.com/articles/rollback-a-retroarch-core-version-on-onion-os/</id>
+    <link href="https://pulsegeek.com/articles/rollback-a-retroarch-core-version-on-onion-os/" />
+    <updated>2026-02-14T22:42:00Z</updated>
+    <summary type="html"><![CDATA[Learn safe ways to roll back a RetroArch core on Onion OS. Plan backups, find older core builds, replace files cleanly, validate with logs, and prevent auto updates.]]></summary>
   </entry>
   <entry>
-    <title>Fix Audio Crackle in RetroArch on Onion OS</title>
-    <id>https://pulsegeek.com/articles/fix-audio-crackle-in-retroarch-on-onion-os/</id>
-    <link href="https://pulsegeek.com/articles/fix-audio-crackle-in-retroarch-on-onion-os/" />
-    <updated>2026-02-05T22:43:00Z</updated>
-    <summary type="html"><![CDATA[Quiet audio crackle on Onion OS by tuning RetroArch drivers, latency, sync, and rates. Follow clear steps to test changes, verify results, and avoid hidden stability tradeoffs.]]></summary>
+    <title>Where to Put ROMs in Onion OS: A Clear Walkthrough</title>
+    <id>https://pulsegeek.com/articles/where-to-put-roms-in-onion-os-a-clear-walkthrough/</id>
+    <link href="https://pulsegeek.com/articles/where-to-put-roms-in-onion-os-a-clear-walkthrough/" />
+    <updated>2026-02-14T22:41:00Z</updated>
+    <summary type="html"><![CDATA[Learn exactly where to place ROMs in Onion OS, how to structure folders, and what to verify so games scan cleanly with minimal fixes.]]></summary>
   </entry>
   <entry>
-    <title>Manage Box Art and Themes in Onion OS: Quick Wins</title>
-    <id>https://pulsegeek.com/articles/manage-box-art-and-themes-in-onion-os-quick-wins/</id>
-    <link href="https://pulsegeek.com/articles/manage-box-art-and-themes-in-onion-os-quick-wins/" />
-    <updated>2026-02-05T22:42:00Z</updated>
-    <summary type="html"><![CDATA[Master fast wins for Onion OS visuals. Learn reliable scraping, fix mismatches, optimize thumbnails, install light themes, and structure assets for speed and clarity.]]></summary>
+    <title>Turn Off Hard GPU Sync on Miyoo RetroArch</title>
+    <id>https://pulsegeek.com/articles/turn-off-hard-gpu-sync-on-miyoo-retroarch/</id>
+    <link href="https://pulsegeek.com/articles/turn-off-hard-gpu-sync-on-miyoo-retroarch/" />
+    <updated>2026-02-14T22:40:00Z</updated>
+    <summary type="html"><![CDATA[Learn how to safely disable hard GPU sync in RetroArch on Miyoo, reduce input jitter, and improve frame pacing without overclocking. Step-by-step setup, validation, and troubleshooting included.]]></summary>
   </entry>
   <entry>
-    <title>Integer Scaling on Miyoo RetroArch: Crisp Pixels</title>
-    <id>https://pulsegeek.com/articles/integer-scaling-on-miyoo-retroarch-crisp-pixels/</id>
-    <link href="https://pulsegeek.com/articles/integer-scaling-on-miyoo-retroarch-crisp-pixels/" />
-    <updated>2026-02-05T22:41:00Z</updated>
-    <summary type="html"><![CDATA[Learn how to enable integer scaling in RetroArch on Miyoo for sharp visuals, correct aspect ratios, and stable performance without blur. Step-by-step setup, validation tips, and fixes for common edge cases.]]></summary>
+    <title>Test Input for Dead Zones on Miyoo: Simple Checks</title>
+    <id>https://pulsegeek.com/articles/test-input-for-dead-zones-on-miyoo-simple-checks/</id>
+    <link href="https://pulsegeek.com/articles/test-input-for-dead-zones-on-miyoo-simple-checks/" />
+    <updated>2026-02-14T22:39:00Z</updated>
+    <summary type="html"><![CDATA[Learn how to test Miyoo inputs for dead zones using RetroArch tools, OS diagnostics, and repeatable checks. Validate stick range, d-pad diagonals, and thresholds, then decide when to remap or repair.]]></summary>
   </entry>
   <entry>
-    <title>Input Polling Rate on Miyoo: Best Settings Ranked</title>
-    <id>https://pulsegeek.com/articles/input-polling-rate-on-miyoo-best-settings-ranked/</id>
-    <link href="https://pulsegeek.com/articles/input-polling-rate-on-miyoo-best-settings-ranked/" />
-    <updated>2026-02-05T22:40:00Z</updated>
-    <summary type="html"><![CDATA[Discover the best input polling rate settings for Miyoo. Compare 60, 120, and 240 Hz, tune RetroArch polling behavior, and balance latency, accuracy, and battery life with per-core overrides.]]></summary>
+    <title>Accessing the RetroArch Hotkey Menu on Miyoo</title>
+    <id>https://pulsegeek.com/articles/accessing-the-retroarch-hotkey-menu-on-miyoo/</id>
+    <link href="https://pulsegeek.com/articles/accessing-the-retroarch-hotkey-menu-on-miyoo/" />
+    <updated>2026-02-14T22:38:00Z</updated>
+    <summary type="html"><![CDATA[Learn reliable ways to open and configure the RetroArch hotkey menu on Miyoo handhelds, map shortcuts safely, and avoid conflicts across OnionOS and MinUI.]]></summary>
   </entry>
   <entry>
-    <title>Hard GPU Sync on Miyoo RetroArch: When to Use It</title>
-    <id>https://pulsegeek.com/articles/hard-gpu-sync-on-miyoo-retroarch-when-to-use-it/</id>
-    <link href="https://pulsegeek.com/articles/hard-gpu-sync-on-miyoo-retroarch-when-to-use-it/" />
-    <updated>2026-02-05T22:39:00Z</updated>
-    <summary type="html"><![CDATA[Learn what Hard GPU Sync does on Miyoo RetroArch, how it affects latency and performance, and when to enable it for smoother timing without needless slowdown.]]></summary>
+    <title>Safe Settings for Miyoo Mini: Battery and Screen</title>
+    <id>https://pulsegeek.com/articles/safe-settings-for-miyoo-mini-battery-and-screen/</id>
+    <link href="https://pulsegeek.com/articles/safe-settings-for-miyoo-mini-battery-and-screen/" />
+    <updated>2026-02-14T22:37:00Z</updated>
+    <summary type="html"><![CDATA[Learn safe Miyoo Mini power and display settings that preserve battery health, protect the LCD, and keep gameplay smooth without fuss. Practical ranges, tradeoffs, and scenarios included.]]></summary>
   </entry>
   <entry>
-    <title>How to Set Up Miyoo Mini from the Box Safely</title>
-    <id>https://pulsegeek.com/articles/how-to-set-up-miyoo-mini-from-the-box-safely/</id>
-    <link href="https://pulsegeek.com/articles/how-to-set-up-miyoo-mini-from-the-box-safely/" />
-    <updated>2026-02-05T22:38:00Z</updated>
-    <summary type="html"><![CDATA[Learn a safe Miyoo Mini setup from box to first play. Prepare SD, pick firmware, configure power and controls, then verify and troubleshoot common issues.]]></summary>
+    <title>Separate WiFi 8 and Zigbee Channels in Smart Buildings</title>
+    <id>https://pulsegeek.com/articles/separate-wifi-8-and-zigbee-channels-in-smart-buildings/</id>
+    <link href="https://pulsegeek.com/articles/separate-wifi-8-and-zigbee-channels-in-smart-buildings/" />
+    <updated>2026-02-14T22:36:00Z</updated>
+    <summary type="html"><![CDATA[Learn how to separate WiFi 8 and Zigbee channels in smart buildings, from survey planning to validation and tuning, with troubleshooting for overlap, power, and duty-cycle conflicts.]]></summary>
   </entry>
   <entry>
-    <title>Bluetooth and Zigbee Coexistence Strategies for WiFi 8</title>
-    <id>https://pulsegeek.com/articles/bluetooth-and-zigbee-coexistence-strategies-for-wifi-8/</id>
-    <link href="https://pulsegeek.com/articles/bluetooth-and-zigbee-coexistence-strategies-for-wifi-8/" />
-    <updated>2026-02-05T22:37:00Z</updated>
-    <summary type="html"><![CDATA[Practical strategies to run Bluetooth, Zigbee, and WiFi 8 together with fewer collisions. Learn channel plans, timing, power tuning, and device placement to reduce interference and sustain throughput.]]></summary>
+    <title>Upgrade to WiFi 8: Roadmap and Checklist</title>
+    <id>https://pulsegeek.com/articles/upgrade-to-wifi-8-roadmap-and-checklist/</id>
+    <link href="https://pulsegeek.com/articles/upgrade-to-wifi-8-roadmap-and-checklist/" />
+    <updated>2026-02-14T22:35:00Z</updated>
+    <summary type="html"><![CDATA[Design a practical upgrade to WiFi 8 with a stepwise roadmap, budgets, switching and PoE readiness, licenses, and risk controls. Includes workflows, tradeoffs, and links to deeper planning guides.]]></summary>
   </entry>
   <entry>
-    <title>How to Monitor WiFi 8 SLA Compliance End-to-End</title>
-    <id>https://pulsegeek.com/articles/how-to-monitor-wifi-8-sla-compliance-end-to-end/</id>
-    <link href="https://pulsegeek.com/articles/how-to-monitor-wifi-8-sla-compliance-end-to-end/" />
-    <updated>2026-02-05T22:36:00Z</updated>
-    <summary type="html"><![CDATA[Learn how to monitor WiFi 8 SLA compliance end to end with practical SLO definitions, tooling setup, validation workflows, and tuning strategies that keep throughput, latency, jitter, and loss within targets.]]></summary>
+    <title>Install DuckStation on Mac with Homebrew</title>
+    <id>https://pulsegeek.com/articles/install-duckstation-on-mac-with-homebrew/</id>
+    <link href="https://pulsegeek.com/articles/install-duckstation-on-mac-with-homebrew/" />
+    <updated>2026-02-14T22:34:00Z</updated>
+    <summary type="html"><![CDATA[Learn how to install DuckStation on macOS using Homebrew, verify BIOS paths, map controllers, and update safely. Includes clean uninstall steps and fixes for quarantine and gatekeeper errors.]]></summary>
   </entry>
   <entry>
-    <title>DuckStation Command-Line Options Explained</title>
-    <id>https://pulsegeek.com/articles/duckstation-command-line-options-explained/</id>
-    <link href="https://pulsegeek.com/articles/duckstation-command-line-options-explained/" />
-    <updated>2026-02-05T22:35:00Z</updated>
-    <summary type="html"><![CDATA[Learn what DuckStation command-line options do, when to use them, and how to combine flags safely for testing, portability, and automation across Windows, macOS, and Linux.]]></summary>
+    <title>802.1X EAP‑TLS on Wi‑Fi 9: Deployment Guide</title>
+    <id>https://pulsegeek.com/articles/802-1x-eap-tls-on-wi-fi-9-deployment-guide/</id>
+    <link href="https://pulsegeek.com/articles/802-1x-eap-tls-on-wi-fi-9-deployment-guide/" />
+    <updated>2026-02-14T22:33:00Z</updated>
+    <summary type="html"><![CDATA[Step by step guide to deploy 802.1X EAP‑TLS on Wi‑Fi 9. Plan PKI, prepare RADIUS, configure WLAN profiles, validate with logs and certificates, and harden security with WPA3‑Enterprise and PMF.]]></summary>
   </entry>
   <entry>
-    <title>Wi‑Fi 9 MLO Performance Testing: A How‑To</title>
-    <id>https://pulsegeek.com/articles/wi-fi-9-mlo-performance-testing-a-how-to/</id>
-    <link href="https://pulsegeek.com/articles/wi-fi-9-mlo-performance-testing-a-how-to/" />
-    <updated>2026-02-05T22:34:00Z</updated>
-    <summary type="html"><![CDATA[Learn a repeatable method to plan, execute, and validate Wi‑Fi 9 MLO performance testing with realistic traffic, tooling choices, and troubleshooting tips for throughput and latency goals.]]></summary>
+    <title>Migrate from PCSX ReARMed to DuckStation Smoothly</title>
+    <id>https://pulsegeek.com/articles/migrate-from-pcsx-rearmed-to-duckstation-smoothly/</id>
+    <link href="https://pulsegeek.com/articles/migrate-from-pcsx-rearmed-to-duckstation-smoothly/" />
+    <updated>2026-02-14T22:32:00Z</updated>
+    <summary type="html"><![CDATA[Compare save migration paths from PCSX ReARMed to DuckStation. Learn card formats, folder logic, region pitfalls, and verification steps to ensure reliable PS1 progress carries over without data loss.]]></summary>
   </entry>
   <entry>
-    <title>Convert Raw Saves to VMP/VME for DuckStation</title>
-    <id>https://pulsegeek.com/articles/convert-raw-saves-to-vmp-vme-for-duckstation/</id>
-    <link href="https://pulsegeek.com/articles/convert-raw-saves-to-vmp-vme-for-duckstation/" />
-    <updated>2026-02-05T22:33:00Z</updated>
-    <summary type="html"><![CDATA[Learn how to convert raw PS1 saves into VMP or VME, preserve data, validate integrity, and avoid region issues when moving saves between DuckStation and PS3 or PSP.]]></summary>
+    <title>PGXP Settings: Remove Wobble and Warping in DuckStation</title>
+    <id>https://pulsegeek.com/articles/pgxp-settings-remove-wobble-and-warping-in-duckstation/</id>
+    <link href="https://pulsegeek.com/articles/pgxp-settings-remove-wobble-and-warping-in-duckstation/" />
+    <updated>2026-02-14T22:31:00Z</updated>
+    <summary type="html"><![CDATA[Learn how to configure PGXP in DuckStation to reduce geometry wobble and texture warping, pick safe defaults, validate results, and troubleshoot edge cases without breaking effects or performance.]]></summary>
   </entry>
 </feed>
